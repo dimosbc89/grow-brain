@@ -9,7 +9,7 @@ updated: 2026-10-20
 > Ο hosting provider της GROW. Φιλοξενεί τον managed server cloud.growagency.online (Plesk), όπου τρέχουν sites και email πελατών. Στις 2026-10-20 απειλεί διακοπή για ανεξόφλητο τιμολόγιο.
 
 ## Σε μια ματιά
-- **Υπηρεσίες:** Special Managed Services και Plesk License για τον server cloud.growagency.online, με μηνιαία περίοδο ανανέωσης ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]]). Βλ. [[hosting-domains]].
+- **Υπηρεσίες:** Special Managed Services και Plesk License για τον server cloud.growagency.online, με περίοδο χρέωσης 01–30/09 (💭 πιθανώς μηνιαία) ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]]). Βλ. [[hosting-domains]].
 - **Επαφές:**
   - support@fastpath.gr: Τεχνική Υποστήριξη, Χρήστος Παπαγεωργίου ([[2026-09-28-fastpath-ticket-ssh-academicals]]).
   - billing@fastpath.gr: Λογιστήριο ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]]).
@@ -22,7 +22,7 @@ updated: 2026-10-20
 - Ο Δήμος απάντησε: «Καλησπέρα σας θα ταχτοποιηθεί μέχρι Παρασκευή» ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] **Πληρωμή 507,78 €** (προτιμολόγιο #58712) — Δήμος — έως 2026-10-23 ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]])
+- [ ] **Πληρωμή 507,78 €** (προτιμολόγιο #58712) — Δήμος — **άμεσα** (η Fastpath δεν έδωσε προθεσμία· ο Δήμος υποσχέθηκε έως 2026-10-23) ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]])
 - [ ] Απάντηση στο ticket 004632 (SSH στα mailboxes του academicals.gr) — Fastpath — ανοιχτό από 2026-09-28 ([[2026-09-28-fastpath-ticket-ssh-academicals]]). Αφορά τον [[academicals-foxacademy]]
 
 ## Αποφάσεις

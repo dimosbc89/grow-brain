@@ -54,6 +54,7 @@ updated: YYYY-MM-DD
 
 **Ingest** (νέα πηγή από `inbox/`, Gmail ή Calendar):
 1. Γράψε digest στο `raw/` (ένα αρχείο ανά thread/πηγή, με frontmatter `type, thread_id/gmail link, date_first, date_last, subject, org, participants`). Ό,τι έπεσε στο `inbox/` μεταφέρεται στο `raw/notes/` αφού γίνει digest.
+   Πριν γράψεις, ψάξε αν υπάρχει ήδη digest με το ίδιο `thread_id` (`grep -rl <thread_id> raw/email`). Αν υπάρχει, γράψε νέο αρχείο `…-update-YYYY-MM-DD.md` μόνο με τα νέα μηνύματα — ποτέ δεύτερο πλήρες digest του ίδιου thread.
 2. Ενημέρωσε **όλες** τις σελίδες που αγγίζει: πελάτη, πρόσωπα, ομάδα, απόφαση. Μη ξαναγράφεις σελίδα από την αρχή — πρόσθεσε στο χρονολόγιο, άλλαξε κατάσταση, κλείσε ✓ ό,τι έκλεισε.
 3. Νέο πρόσωπο ή πελάτης → νέα σελίδα + γραμμή στο `index.md`.
 4. Γραμμή στο `log.md`: `YYYY-MM-DD HH:MM — ingest — τι μπήκε — ποιες σελίδες άλλαξαν`.

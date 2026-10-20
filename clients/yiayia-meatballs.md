@@ -16,8 +16,8 @@ updated: 2026-10-20
 - **Domains:** yiayiameatballs.gr· foodhugs.gr = άλλο project της Μαρίας ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-10-20)
-- Το νέο site ολοκληρώθηκε στις 2026-10-17 με micro interactions και είναι σε test responsiveness· ο Δήμος ζήτησε review. Η Μαρία έστειλε λίστα διορθώσεων (19/10)· διορθώσεις μέσω AnyDesk σήμερα ~14:30 ([[2026-10-20-yiayia-website-new-version]])· στο ημερολόγιο «Maria Yiayia call» 2026-10-20 14:30 ([[2026-07-20_2026-11-03]]).
-- Το game τρέχει από 2026-09-17 (στοιχεία στον server, κουπόνι αυτόματα με email, /redeem)· νέο βίντεο game στάλθηκε 17/10 και η Μαρία διάλεξε 8-bit μουσική ([[2026-09-17-yiayia-game-launch]], [[2026-10-20-yiayia-website-new-version]]).
+- Το νέο site ολοκληρώθηκε στις 2026-10-17 με micro interactions και είναι σε test responsiveness· ο Δήμος ζήτησε review. Η Μαρία ζήτησε AnyDesk call γιατί οι διορθώσεις εξηγούνται δύσκολα γραπτώς (19/10)· διορθώσεις μέσω AnyDesk σήμερα ~14:30 ([[2026-10-20-yiayia-website-new-version]])· στο ημερολόγιο «Maria Yiayia call» 2026-10-20 14:30 ([[2026-07-20_2026-11-03]]).
+- Το game τρέχει από 2026-09-17 (στοιχεία στον server, κουπόνι αυτόματα με email, /redeem)· νέο βίντεο game στάλθηκε 17/10 και η Μαρία διάλεξε 8-bit μουσική στις 18/10 ([[2026-09-17-yiayia-game-launch]], [[2026-10-20-yiayia-website-new-version]]).
 - Social: η Βασιλική απάντησε σημείο-σημείο (20/10) για creators, street interviews, editorial (~1.200 emails), post 28ης Οκτωβρίου, TikTok ([[2026-10-20-yiayia-website-new-version]]).
 - Επόμενο γύρισμα: «Υιάγια shooting» 2026-10-23 09:30 ([[2026-07-20_2026-11-03]]).
 
@@ -68,7 +68,8 @@ updated: 2026-10-20
 - 2026-10-23 — «Υιάγια shooting» 09:30 (προγραμματισμένο) ([[2026-07-20_2026-11-03]]).
 - 2026-10-20 — Η Βασιλική απαντά σημείο-σημείο· AnyDesk call 14:30 ([[2026-10-20-yiayia-website-new-version]], [[2026-07-20_2026-11-03]]).
 - 2026-10-19 — Λίστα Μαρίας: διορθώσεις site, «Meatballs on Pasta», street interviews, editorial, post 28/10, TikTok, επόμενος influencer ([[2026-10-20-yiayia-website-new-version]]).
-- 2026-10-17 — Νέο site ολοκληρώθηκε + νέο βίντεο game· η Μαρία ρωτά για foodhugs.gr ([[2026-10-20-yiayia-website-new-version]]).
+- 2026-10-18 — Η Μαρία ρωτά για το foodhugs.gr και διαλέγει 8-bit μουσική για το game ([[2026-10-20-yiayia-website-new-version]]).
+- 2026-10-17 — Νέο site ολοκληρώθηκε (σε test responsiveness, ζητήθηκε review) + νέο βίντεο game ([[2026-10-20-yiayia-website-new-version]]).
 - 2026-10-16 — Η Μαρία στέλνει 9 εικόνες «Yiayia Pastas»· ο Δήμος «on It» ([[2026-10-16-yiayia-pastas-photos]]). Εσωτερικά ζητά πιο σύντομο promo του game ([[2026-10-16-yiayia-meatball-catcher-promo]]).
 - 2026-10-08/09 — Παράδοση εταιρικών email ([[2026-10-09-yiayiameatballs-etairika-emails]]).
 - 2026-10-07 — Η Μαρία προωθεί ξανά το email της στη Βασιλική ([[2026-10-07-yiayia-street-activation-content]]).

@@ -10,7 +10,7 @@ updated: 2026-10-20
 
 ## Σε μια ματιά
 - **Συσκευή:** Apple MacBook Pro 16, M5 Max 18-core / 36GB / 2TB SSD / 32-core GPU, Space Black ([[2026-07-22-metalease-lixi-869-macbook-ed65]]).
-- **Ποιος:** ο Δήμος. Συμβόλαιο METALEASE «GROW AGENCY 2744» ([[2026-08-13-metalease-misthotirio-symvolaio]]).
+- **Ποιος:** ο Δήμος. Συμβόλαιο METALEASE «GROW AGENCY [αρ. πελάτη παραλείφθηκε]» ([[2026-08-13-metalease-misthotirio-symvolaio]]).
 - Βλ. [[symvolaia-leasing]].
 
 ## Τρέχουσα κατάσταση

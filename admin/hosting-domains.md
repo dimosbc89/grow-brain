@@ -9,7 +9,7 @@ updated: 2026-10-20
 > Οι servers της GROW (Plesk στη [[fastpath]]) και οι registrars ([[papaki]]/[[enartia]], [[cretaforce]]) όπου η GROW κρατά τα domains των πελατών. Κάθε ανανέωση domain ξανατιμολογείται στον πελάτη.
 
 ## Σε μια ματιά
-- **Server:** cloud.growagency.online στη [[fastpath]]: Special Managed Services + Plesk License, μηνιαία ανανέωση ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]]). Σε αυτόν τον server ταιριάζει η προτίμηση του Δήμου για Plesk / File Manager ([[rules]]).
+- **Server:** cloud.growagency.online στη [[fastpath]]: Special Managed Services + Plesk License, περίοδος χρέωσης 01–30/09 (💭 πιθανώς μηνιαία) ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]]). Σε αυτόν τον server ταιριάζει η προτίμηση του Δήμου για Plesk / File Manager ([[rules]]).
 - **Registrars:**
   - [[papaki]] ([[enartia]]): στέλνει e-invoices μέσω Entersoft. Εκεί είναι και domains πελατών, π.χ. baristacademy.gr ([[2026-09-10-enartia-papaki-timologia]], [[2026-08-27-baristacademy-domain-expiration]]).
   - [[cretaforce]]: π.χ. pharmacypan.gr και argyroplastics.gr ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]], [[2026-10-14-cretaforce-domain-argyroplastics]]).
@@ -32,7 +32,7 @@ updated: 2026-10-20
 - Το ticket 004632 για SSH στα mailboxes του academicals.gr περιμένει ακόμη απάντηση ([[2026-09-28-fastpath-ticket-ssh-academicals]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] **Εξόφληση Fastpath #58712: 507,78 €**. Αλλιώς διακόπτεται το cloud.growagency.online και ό,τι φιλοξενεί (ποια sites: ασαφές) — Δήμος — έως 2026-10-23 ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]])
+- [ ] **Εξόφληση Fastpath #58712: 507,78 €**. Αλλιώς διακόπτεται το cloud.growagency.online και ό,τι φιλοξενεί (ποια sites: ασαφές) — Δήμος — **άμεσα**: η Fastpath δεν έδωσε προθεσμία, η διακοπή είναι ήδη προγραμματισμένη· ο Δήμος υποσχέθηκε έως 2026-10-23 ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]])
 - [ ] Απάντηση της Fastpath στο ticket 004632: το SSH key δεν έχει πρόσβαση στα mailboxes του academicals.gr (χρειάζεται για backup και διαγραφή παλιών email) — Fastpath — ανοιχτό από 2026-09-28 ([[2026-09-28-fastpath-ticket-ssh-academicals]]). Σχετικά: [[academicals-foxacademy]]
 - [ ] Εκδόθηκε το τιμολόγιο προς [[pharmacypan]] («Τιμολόγιο Πανόπουλος») για την ανανέωση του pharmacypan.gr; — Μαρίνα/Βασιλική — ασαφές (λήξη domain 2026-09-14) ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]])
 - [ ] Τιμολόγιο προς [[nikas-coffee-expert]] για 3 domains (25 € + ΦΠΑ το καθένα) — Μαρίνα — ασαφές αν εκδόθηκε ([[2026-09-10-invoice-nikas-barista-domains]])

@@ -24,7 +24,7 @@ updated: 2026-10-20
   - Megan Sprakes και Christina (admin): το θέμα του μπλοκαρισμένου λογαριασμού.
   - asktheaccountant@theaccountancy.co.uk.
   - Πηγές: [[2026-10-14-check-tap-quote-grow360]], [[2026-10-15-accountancy-partnership-registration-signed]], [[2026-10-16-accountancy-partnership-welcome]], [[2026-10-16-accountancy-partnership-aml-check]], [[2026-10-19-accountancy-partnership-account-blocked]].
-- **Ομάδα GROW:** [[marina-papanastasiou]] (ζήτησε την προσφορά στις 2026-10-12 και παίρνει τα forwards). Ο Δήμος, ως director.
+- **Ομάδα GROW:** [[marina-papanastasiou]] (επιβεβαίωσε στην TAP ότι προχωράμε· η αναλυτική προσφορά ήρθε 2026-10-12· παίρνει τα forwards). Ο Δήμος, ως director.
 
 ## Τρέχουσα κατάσταση
 Στις 2026-10-20:
@@ -49,7 +49,7 @@ updated: 2026-10-20
 - 2026-10-16 — Welcome και ανάθεση στον Jamie. Ζητήθηκε CT authorisation από την HMRC και authentication code από την Companies House. Ζητήθηκαν και τα έγγραφα AML ([[2026-10-16-accountancy-partnership-welcome]], [[2026-10-16-accountancy-partnership-aml-check]]).
 - 2026-10-15 — Υπογράφηκε η φόρμα «Limited Company Registration» ([[2026-10-15-accountancy-partnership-registration-signed]]).
 - 2026-10-14 — Η Μαρίνα έστειλε την προσφορά στον Δήμο για έλεγχο και εκείνος απάντησε «Οκ πάμε» ([[2026-10-14-check-tap-quote-grow360]]).
-- 2026-10-12 — Η Μαρίνα ζήτησε προσφορά ([[2026-10-14-check-tap-quote-grow360]]).
+- 2026-10-12 — Η TAP στέλνει την αναλυτική προσφορά, μετά την επιβεβαίωση της Μαρίνας ([[2026-10-14-check-tap-quote-grow360]]).
 
 ## Οικονομικά
 - **Αρχικό κόστος:** £616,80 με VAT ([[2026-10-14-check-tap-quote-grow360]]):

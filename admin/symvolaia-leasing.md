@@ -44,7 +44,7 @@ updated: 2026-10-20
 - 2026-09-23 — Skroutz/Goodnight: USB-C Docking Station Andowl Q-HU990, 31,90 € → Βασιλική ([[2026-09-23-skroutz-timologio-docking-station]]). Ίδια μέρα: τιμολόγια METALEASE ΤΠΥ-0000006506, ΤΠΥ-0000006507 και ΤΠΥ-0000013452 ([[2026-09-23-metalease-timologia-misthomaton-4160]], [[2026-09-23-metalease-timologio-misthoma-4f0e]]).
 - 2026-09-02 — Τιμολόγιο METALEASE ΤΠΥ-0000005910 ([[2026-09-02-metalease-lease-invoice]]).
 - 2026-08-26 — Τιμολόγιο METALEASE ΤΠΥ-0000005672 ([[2026-08-26-metalease-timologio-12ea]]).
-- 2026-08-13 — Η METALEASE παρέλαβε τη συσκευή και έστειλε το μισθωτήριο «GROW AGENCY 2744». Ο Δήμος το υπέγραψε και επιβεβαίωσε τη διεύθυνση αποστολής την ίδια μέρα ([[2026-08-13-metalease-misthotirio-symvolaio]]).
+- 2026-08-13 — Η METALEASE παρέλαβε τη συσκευή και έστειλε το μισθωτήριο «GROW AGENCY [αρ. πελάτη παραλείφθηκε]». Ο Δήμος το υπέγραψε και επιβεβαίωσε τη διεύθυνση αποστολής την ίδια μέρα ([[2026-08-13-metalease-misthotirio-symvolaio]]).
 - 2026-08-12 — Δύο τιμολόγια METALEASE → Βασιλική ([[2026-08-12-metalease-timologio-198c]], [[2026-08-12-metalease-timologio-e50e]]).
 - 2026-07-30 — Πληρωμή της προσφοράς #14265 (2 εγγυήσεις + 1 μίσθωμα) και παραγγελία ([[2026-08-06-metalease-prosfora-macbook-14265]]). Ίδια μέρα:
   - Ο Δήμος ζήτησε τιμή ανανέωσης του Σ869 για 12 ή 18 μήνες ([[2026-07-30-metalease-lixi-symvolaiou-869-2f2b]]).
