@@ -64,7 +64,7 @@ updated: YYYY-MM-DD
 
 ## Ρουτίνες
 
-- **Πρωινή ενημέρωση — καθημερινές 08:3x (Ώρα Αθήνας).** Διαβάζει νέα email (εισερχόμενα & απεσταλμένα από την τελευταία ενημέρωση) και το Google Calendar του Δήμου + το «GROW Agency Calendar», κάνει ingest, ξαναγράφει το `attention.md`, γράφει `briefs/YYYY-MM-DD.md` και στέλνει στον Δήμο σύντομη σύνοψη. Λεπτομέρειες στο `briefs/README.md`.
+- **Πρωινή ενημέρωση — καθημερινές 08:05 (Ώρα Αθήνας).** Διαβάζει νέα email (εισερχόμενα & απεσταλμένα από την τελευταία ενημέρωση) και το Google Calendar του Δήμου + το «GROW Agency Calendar», κάνει ingest, ξαναγράφει το `attention.md`, γράφει `briefs/YYYY-MM-DD.md` και στέλνει στον Δήμο σύντομη σύνοψη. Λεπτομέρειες στο `briefs/README.md`.
 - Νέες ρουτίνες μόνο με «ναι» του Δήμου.
 
 ## Κανόνες ασφαλείας (απαράβατοι)
@@ -78,3 +78,4 @@ updated: YYYY-MM-DD
 ## Git
 
 Commit μετά από κάθε ingest/brief: `brain: <τι> (<ημερομηνία>)`. Pull πριν γράψεις. Ποτέ force-push.
+Author των commits: `git config user.name "Claude"` και `git config user.email "noreply@anthropic.com"` — το GitHub απορρίπτει push με το προσωπικό email του Δήμου (email privacy).

@@ -24,7 +24,7 @@
 ## ⚠️ Για έλεγχο            (αντιφάσεις, ασάφειες)
 ```
 8. Γραμμή στο `log.md`: `YYYY-MM-DD HH:MM — brief — X threads, Y συναντήσεις — σελίδες που άλλαξαν`.
-9. `git add -A && git commit -m "brain: πρωινή ενημέρωση YYYY-MM-DD" && git push`.
+9. `git config user.name "Claude" && git config user.email "noreply@anthropic.com"`, μετά `git add -A && git commit -m "brain: πρωινή ενημέρωση YYYY-MM-DD" && git push`. Αν το push απορριφθεί επειδή άλλαξε το remote: `git pull --rebase` και ξανά push.
 10. Τελική απάντηση = σύνοψη ως 10 γραμμές (Σήμερα / Υποσχέθηκες / Σε περιμένουν), για ειδοποίηση στο κινητό.
 
 ## Όρια
