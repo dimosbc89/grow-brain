@@ -29,13 +29,20 @@ updated: 2026-10-21
 
 ## Ανοιχτά & επόμενα βήματα
 **Υποσχέσεις του Δήμου**
-- [ ] Creative αλλαγές στο site από τη συνάντηση της 2026-10-13 — Δήμος — εβδομάδα 2026-10-19 ([[2026-10-16-tandem-eshop-bags-epsilon]])
+- [x] Creative αλλαγές στο site από τη συνάντηση της 2026-10-13 — Δήμος — εβδομάδα 2026-10-19 ([[2026-10-16-tandem-eshop-bags-epsilon]])· στο Asana «αλλαγές Tandem» (Δήμος) ✓ 2026-10-20 ([[2026-10-21-asana-snapshot]]) — 💭 Υπόθεση: πρόκειται για τις ίδιες αλλαγές.
+- [ ] «Check plugin & solutions» — Δήμος (ανάθεση από Δέσποινα 2026-08-06) — ⚠️ εκπρόθεσμο από 2026-08-07 ([[2026-10-21-asana-snapshot]])
 - [ ] Υπόλοιπα final amendments: επιλογή γλωσσών, customer service, terms & policy, διαγραφή σημείου στο κείμενο Christian Villa, Gift option, βίντεο Christian Villa, νέες φωτογραφίες drone — Δήμος/GROW — χωρίς ημερομηνία ([[2026-10-17-tandem-website-final-amendments]])
 - [ ] Speed optimization — Δήμος — τελευταίο, αφού παραδοθούν όλες οι αλλαγές ([[2026-10-12-tandem-eshop-final-notes]])
 - [ ] Training στην Tandem για τη διαχείριση του site — Δήμος — ημερομηνία ασαφής ([[2026-10-10-tandem-website-user-guide]])
 - [ ] Ρύθμιση BOX NOW στο WooCommerce — Δήμος — όταν η BIZ στείλει αρχεία και οδηγίες, όχι νωρίτερα ([[2026-10-12-bizcourier-bizlink-fix-boxnow]], [[2026-10-12-bizcourier-woocommerce-admin-boxnow]])
 - [ ] Αποστολή κώδικα ή ανωνυμοποιημένων logs στη BIZ, αν τα ζητήσει — Δήμος — κατ' απαίτηση ([[2026-10-12-bizcourier-bizlink-fix-boxnow]])
-- [ ] Νομικά κείμενα (Terms of Service, Cancellation Policy κ.λπ.) — GROW — μόλις κλείσουν τα νομικά (ανοιχτό στις 2026-10-08) ([[2026-10-08-tandem-review-eshop-developer]])
+- [ ] Νομικά κείμενα (Terms of Service, Cancellation Policy κ.λπ.) — GROW — μόλις κλείσουν τα νομικά (ανοιχτό στις 2026-10-08) ([[2026-10-08-tandem-review-eshop-developer]])· στο Asana «Terms of Service etc.» — [[despina-velissariou]] — ⚠️ εκπρόθεσμο από 2026-10-12· η Δέσποινα έγραψε στον Δήμο 2026-10-01 «στα στέλνω και σε mail» και 2026-10-19 έκανε tag τη [[laurine-erasmus]] ([[2026-10-21-asana-snapshot]])
+
+**Από Asana (στις 2026-10-21)**
+- [ ] «▪️ Tandem e-shop creative» (subtask του «Ε-shop map») — [[vassia-kataki]] — ⚠️ εκπρόθεσμο από 2026-10-19 ([[2026-10-21-asana-snapshot]])
+- [ ] «tandem review» — Vassia — ⚠️ εκπρόθεσμο από 2026-09-07 ([[2026-10-21-asana-snapshot]])
+- [ ] Tote bags — Δέσποινα — ⚠️ εκπρόθεσμο από 2026-09-25 ([[2026-10-21-asana-snapshot]])
+- [ ] Brand Video — Vassia — έως 2026-10-21 ([[2026-10-21-asana-snapshot]])
 - [ ] Ευθυγράμμιση ποσοτήτων e-shop με το απόθεμα της αποθήκης Biz Courier — GROW — από 2026-09-24, κατάσταση ασαφής ([[2026-09-24-tandem-eshop-quantities]])
 
 **Από τον πελάτη και τρίτους**
@@ -61,6 +68,7 @@ updated: 2026-10-21
 - [x] Πρόσβαση του George στο dashboard — Δήμος — 2026-10-14 ([[2026-10-16-tandem-eshop-bags-epsilon]])
 - [x] Έλεγχος sync e-shop ↔ Epsilon — Δήμος — 2026-10-15 ([[2026-10-16-tandem-eshop-bags-epsilon]])
 - [x] Composition, description, ονόματα, typo «it's → its» — Δήμος — 2026-10-17 ([[2026-10-17-tandem-website-final-amendments]])
+- [x] «Mail creation» — Δήμος — ✓ 2026-10-20· «▪️ coming soon» — Vassia — ✓ 2026-10-15· QR sticker — Vassia — ✓ 2026-09-25 ([[2026-10-21-asana-snapshot]])
 
 ## Αποφάσεις
 - [[2026-08-26-tandem-epsilon-smart-advanced]]: Epsilon Smart Advanced + API module, σύνδεση μέσω του bridge της GROW.
@@ -74,6 +82,7 @@ updated: 2026-10-21
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: project «Tandem» (από 2026-04-17· sections Site - e-shop, Brand Identity, Social Media, Performance) με 6 ανοιχτά και 4 ολοκληρωμένα από 2026-07-01. Ο Δήμος έκλεισε «αλλαγές Tandem» και «Mail creation» στις 2026-10-20· ανοιχτά Terms of Service (Δέσποινα), e-shop creative, tote bags, Brand Video, «Check plugin & solutions» (Δήμος, από 2026-08-07). Η Vassia σημείωσε 2026-07-21 ότι έδωσε στον developer ([[george-andritsos]] 💭) όλες τις φωτογραφίες προϊόντων ξεφονταρισμένες ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Price tags (Print Kong, 265 €): η Δέσποινα ρωτά πότε θα είναι έτοιμα, χωρίς απάντηση ([[2026-10-20-tandem-price-tags-print-kong]]).
 - 2026-10-19 — Ο Δήμος στέλνει στη Δέσποινα οδηγό με ~197 ερωτήσεις και 10 hooks για Reels για τη video συνέντευξη με Caroline και George ([[2026-10-19-tandem-interview-questions]]).
 - 2026-10-17 — Διορθώθηκαν composition/description/ονόματα/typo· ο Δήμος εξηγεί γιατί δεν προτείνει γενική μείωση γραμματοσειράς ([[2026-10-17-tandem-website-final-amendments]]).

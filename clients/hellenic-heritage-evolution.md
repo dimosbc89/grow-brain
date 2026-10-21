@@ -37,11 +37,23 @@ updated: 2026-10-21
 - [ ] Ενημέρωση της πρότασης προς Viber με απονομή βραβείου στο gala — [[despina-velissariou]] — από 2026-07-24 ([[2026-07-24-viber-heritage-escape-ideas]])
 - [ ] Απολογισμός του Heritage Escape (18–20/9) — GROW — ασαφές αν έγινε
 
+**Από Asana (στις 2026-10-21)**
+- [ ] «Landing HE 2027» — Δήμος (ανάθεση από Δέσποινα 2026-10-12) — έως 2026-10-26 ([[2026-10-21-asana-snapshot]])
+- [ ] «Αλλαγές στα πακέτα & τη δομή» (subtask του Landing HE 2027) — [[despina-velissariou]] — ⚠️ εκπρόθεσμο από 2026-10-14 ([[2026-10-21-asana-snapshot]])
+- [ ] «Παρουσίαση Heritage Escape 2027» — [[vassia-kataki]] — ⚠️ εκπρόθεσμο από 2026-10-15 ([[2026-10-21-asana-snapshot]])
+- [ ] «Next Steps ΗΗΕ» (+ FU) — Δέσποινα (collaborators Δήμος, Ιωάννα, Βασιλική) — ⚠️ εκπρόθεσμο από 2026-10-14 ([[2026-10-21-asana-snapshot]])
+- [ ] «🟢Site Video» Heritage Escape — [[fotini]] — ⚠️ εκπρόθεσμο από 2026-06-22 ([[2026-10-21-asana-snapshot]])
+- [ ] Τσικλητήρεια: «carousel on off» — [[ioanna-chalkiadaki]] — ⚠️ εκπρόθεσμο από 2026-10-19· «Κάθετο video Tsiklitiria» — Φωτεινή — χωρίς due ([[2026-10-21-asana-snapshot]])
+- [ ] Τσικλητήρεια: subtask «Αφίσα Τσικλητήρεια» (Ιωάννα, due 2026-08-25) ανοιχτό ενώ το parent «▪️ Αφίσα Τσικλητήρεια» είναι ✓ 2026-09-10 — 💭 πιθανώς ξεχασμένο, να κλείσει ([[2026-10-21-asana-snapshot]])
+- [x] Τσικλητήρεια: aftermovie ✓ 2026-10-14· πρόγραμμα & φωτό με ΕΟΤ ✓ 2026-10-15· SOS Ads Tsiklitiria (Δήμος) ✓ 2026-09-23· Upload Sponsors (Δήμος) ✓ 2026-09-10· Τιμολόγια Hellenic Heritage ([[marina-papanastasiou]]) ✓ 2026-09-18 ([[2026-10-21-asana-snapshot]])
+- [x] «HE changes» — Δέσποινα — ✓ 2026-10-12 ([[2026-10-21-asana-snapshot]])
+
 ## Αποφάσεις
 - 2026-07-24: στην πρόταση προς Viber μπαίνει απονομή βραβείου στο gala, «για να πουν και δυο λόγια εκεί» (οδηγία Δήμου) ([[2026-07-24-viber-heritage-escape-ideas]]).
 - Ο πελάτης δεν δέχτηκε την custom πλατφόρμα εγγραφών της GROW και χρησιμοποιεί Reventy ([[2026-08-09-tsikliteria-meta-campaigns-report]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: δύο projects. «Heritage Escape (Golf)»: 11 ανοιχτά, 1 ολοκληρωμένο (HE changes ✓ 2026-10-12)· η δουλειά έχει περάσει στο Heritage Escape 2027 (Landing HE 2027 στον Δήμο έως 2026-10-26, παρουσίαση 2027, αλλαγές πακέτων). «Tsiklitiria»: 6 ανοιχτά, 31 ολοκληρωμένα από 2026-07-01 — banners, πρόσκληση VIP, πρόγραμμα/invitation ΕΟΤ, plaketes, video για οθόνη (Σεπτ.), aftermovie ✓ 2026-10-14, πρόγραμμα & φωτό με ΕΟΤ ✓ 2026-10-15 ([[2026-10-21-asana-snapshot]]). 💭 Υπόθεση: τα Τσικλητήρεια 2026 έγιναν στα τέλη Σεπτεμβρίου (ανακοινώσεις/banners έως 09-23, aftermovie 10-14) — η ακριβής ημερομηνία δεν υπάρχει στην πηγή.
 - 2026-10-20 — Η Δέσποινα στην AFEA: το Heritage Escape μεταφέρθηκε «16-18 Απριλίου 2026» (⚠️ χρονιά ασαφής, 💭 2027) και προτείνει call ([[2026-10-20-afea-heritage-escape]]).
 - 2026-10-15 12:00 — «HHE x Grow» με Δέσποινα, Ιωάννα, info@hhe, nantinekarampatsos@ και elenak… ([[2026-07-20_2026-11-03]]).
 - 2026-10-05 12:00 — «Grow x HHE» με Δέσποινα, dfkarampatsos@, Δήμο, elenakontogoni21@, info@hhe και Ιωάννα ([[2026-07-20_2026-11-03]]).
@@ -84,5 +96,7 @@ updated: 2026-10-21
   - Οι συναντήσεις λέγονται άλλοτε «Follow up HHE» και άλλοτε «Τσικλητήρεια follow up», με τους ίδιους συμμετέχοντες ([[2026-07-20_2026-11-03]]).
   - Το Viber Community Run «στα Tsiklitiria» ήταν μέρος των ιδεών χορηγίας για το Heritage Escape ([[2026-07-24-viber-heritage-escape-ideas]]).
   - Το kfk@karampatsos.com ήταν σε cc στο email για τα Τσικλητήρεια ([[2026-08-09-tsikliteria-meta-campaigns-report]]).
+- Το Asana task «Τιμολόγια Hellenic Heritage» βρίσκεται στο project «Tsiklitiria» και το «Next Steps ΗΗΕ» εμφανίζεται και στα δύο projects (Heritage Escape, Tsiklitiria) ([[2026-10-21-asana-snapshot]]) — ενισχύει (δεν επιβεβαιώνει) την υπόθεση παρακάτω.
+- Τα tasks «Landing HE 2027» / «Παρουσίαση Heritage Escape 2027» ([[2026-10-21-asana-snapshot]]) στηρίζουν ότι το «16-18 Απριλίου» της AFEA αφορά το 2027 (💭).
 - 💭 Υπόθεση: το HHE είναι ο φορέας πίσω από το Heritage Escape και ίσως και από τα Τσικλητήρεια. Η οικογένεια Καραμπάτσου, και το [[karampatsos-law]], συνδέονται με αυτόν. Δεν έχει επιβεβαιωθεί.
 - ⚠️ Αντίφαση: η digest του Costa Navarino το χαρακτηρίζει «Heritage Escape (GROW project)», δηλαδή ως project της GROW ([[2026-07-24-costa-navarino-heritage-escape]]). Οι συναντήσεις όμως γίνονται με το HHE ως πελάτη ([[2026-07-20_2026-11-03]]). Ασαφές αν η GROW είναι συνδιοργανωτής ή agency του HHE. Να ρωτηθεί ο Δήμος.

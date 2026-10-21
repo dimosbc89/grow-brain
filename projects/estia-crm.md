@@ -26,12 +26,16 @@ updated: 2026-10-21
 - [ ] Γυρίσματα βίντεο για το Estia με τον Δήμο στην κάμερα — Δήμος / [[vassiliki-giannopoulou]] — ημερομηνία ασαφής ([[2026-09-12-estia-plano-video-gyrismata]])
 - [ ] Η Βασιλική να στείλει στον Δήμο το αρχείο που της είχε στείλει — [[vassiliki-giannopoulou]] — από 2026-09-12 ([[2026-09-12-estia-plano-video-gyrismata]])
 - [ ] Estia CRM live στο crm.estiagreekhome.online με Sign in with Google — Δήμος — χωρίς ημερομηνία ([[2026-10-20-prohgoumenes-synomilies-claude]])
+- [ ] «crm program»: ερωτήματα P&L / log out / subtasks / λειτουργία, «Περιγραφές στο Elorus», «Daily Tasks» — Δήμος (subtasks), Βασιλική (κύριο task) — due 2026-09-30 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
+- [ ] «estia crm» — Δήμος — χωρίς due (ανάθεση Βασιλικής 2026-10-16) ([[2026-10-21-asana-snapshot]])
 
 ## Αποφάσεις
 - [[2026-09-18-estia-apantisi-protou-inquiry]] — έγκριση απάντησης στο πρώτο inquiry ([[2026-09-18-estia-proto-inquiry-lamia]]).
 - Θα γυριστούν βίντεο για το Estia με τον Δήμο ([[2026-09-12-estia-plano-video-gyrismata]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: task «estia crm» ανατέθηκε στον Δήμο από τη Βασιλική 2026-10-16, χωρίς σχόλια και due. «estia» ✓ από [[vassia-kataki]] 2026-10-01 ([[2026-10-21-asana-snapshot]]).
+- 2026-10-21 — Asana: task «crm program» (Βασιλική, από 2026-08-21, due 2026-09-30 ⚠️ εκπρόθεσμο). 2026-08-24 ο Δήμος προς Βασιλική, Μαρίνα, Δέσποινα: «Περιμένω άμεσες τις παρατηρήσεις σας». 2026-09-04 ο Δήμος άνοιξε subtasks-ερωτήσεις («Το P&L δεν φορτώνει», «Γιατί κάνει μόνο του log out?», «Πώς φαίνονται τα Subtasks», «Δεν καταλαβαίνω μια λειτουργία»)· επίσης «Περιγραφές στο Elorus» (mod 2026-08-28) και «Daily Tasks» (2026-10-12). Όλα ανοιχτά ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Ο Yanis Zisis (Home Watch Athens) δηλώνει ότι κατέθεσε μήνυση στο ΑΤ Αμαρουσίου για χρήση brand/κειμένων στο estiagreekhome.online, κατά του Δήμου και της [[marina-papanastasiou]]· 2026-10-19 ο Δήμος απάντησε ότι δεν αποδέχεται τους ισχυρισμούς και ζήτησε επικοινωνία μέσω δικηγόρου ([[2026-10-20-homewatch-athens-estia-mhnysh]]).
 - 2026-09-23 — Ο Δήμος έστειλε στη Βασιλική το link του Estia social library· εκείνη: «ΣΥΓΚΛΟΝΙΣΤΙΚΟ» ([[2026-09-23-estia-social-library]]).
 - 2026-09-18 — Ο Δήμος ενέκρινε («sterile nai», πιθανώς «στείλε ναι») το draft της Βασιλικής ([[2026-09-18-estia-proto-inquiry-lamia]]).
@@ -44,3 +48,4 @@ updated: 2026-10-21
 ## Σημειώσεις
 - Πρώτη υποψήφια πελάτισσα: θέλει επισκέψεις 1–2 φορές/έτος· αν το διαμέρισμα δεν πουληθεί ως τον Ιούνιο, θα το κρατήσει ([[2026-09-18-estia-proto-inquiry-lamia]]).
 - Οι απαντήσεις προς πελάτες Estia γράφονται στα αγγλικά ([[2026-09-18-estia-proto-inquiry-lamia]]).
+- 💭 Υπόθεση: το Asana task «crm program» είναι το Estia CRM. Οι ερωτήσεις για P&L και Elorus ταιριάζουν και σε εσωτερικό CRM της GROW· ασαφές ([[2026-10-21-asana-snapshot]]).

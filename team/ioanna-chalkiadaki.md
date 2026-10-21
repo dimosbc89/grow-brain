@@ -3,7 +3,7 @@ type: team
 title: "Ιωάννα Χαλκιαδάκη"
 aliases: [Ioanna Chalkiadaki, Ιωάννα, Ioanna, ioanna@growagency.online]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Ιωάννα Χαλκιαδάκη
 > Account Manager της GROW. Τρέχει social και content για πελάτες εστίασης και λιανικής ([[circle-of-dining]], [[greenmart-antemisaris]], [[yiayia-meatballs]]) και είναι στα calls των [[hellenic-heritage-evolution]] και [[tsu-pies]].
@@ -40,6 +40,7 @@ updated: 2026-10-20
 - 2026-09-18: ο Δήμος της πρότεινε να δώσει στη Greenmart κάτι παραπάνω, «λίγη κίνηση με AI» ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: 63 ανοιχτά (31 εκπρόθεσμα, 14 χωρίς due). Κύριος φόρτος: Antemisaris Group (20), Circle of Dining (9), Agape (9), Georgiadis chef (7), Heritage Escape (4), Standard Burgers (4). Στο «Grow» έχει εκπρόθεσμο το subtask «Ιωάννα» του «Posts Εβδομάδας» (due 2026-10-08) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-12 — Της στέλνονται οι ερωτήσεις podcast για «check» ([[2026-10-12-podcast-kyritsis-bakoulis-check]]).
 - 2026-10-07 — Content calendar Circle of Dining. Λίστα δημοσιογράφων ([[2026-10-07-circle-of-dining-content-calendar]], [[2026-10-07-lista-dimosiografon-press]]).
 - 2026-10-02 — «tsougrana.gr x greenmart» ([[2026-07-20_2026-11-03]]).

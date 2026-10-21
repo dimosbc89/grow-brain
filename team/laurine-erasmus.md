@@ -1,9 +1,9 @@
 ---
 type: team
 title: "Laurine (Erasmus)"
-aliases: [Laurine, Laurine Erasmus, laurine.astier1809@gmail.com]
+aliases: [Laurine, Laurine Erasmus, laurine.astier1809@gmail.com, Laurine Astier]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Laurine (Erasmus)
 > Νέο μέλος της GROW μέσω Erasmus, με πρώτη μέρα τη Δευτέρα 2026-10-19. Ρόλος και καθήκοντα ασαφή.
@@ -31,6 +31,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: εμφανίζεται ως «Laurine Astier». 1 ανοιχτό task: «test task» (TSU Pies, created 2026-10-19, due 2026-10-20 ⚠️ εκπρόθεσμο) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-19 — Πρώτη μέρα («Laurine Erasmus first day! 🎉», 10:00) ([[2026-07-20_2026-11-03]]).
 - 2026-09-03 — Call «Grow Agency x Erasmus» 12:15 με τη Δέσποινα και τη marion.labiad@sjc43.fr ([[2026-07-20_2026-11-03]]).
 

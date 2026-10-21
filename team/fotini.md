@@ -3,7 +3,7 @@ type: team
 title: "Φωτεινή (fotini@)"
 aliases: [Fotini, Foteini, Φωτεινή, fotini@growagency.online]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Φωτεινή (fotini@)
 > Μέλος της ομάδας GROW με email fotini@growagency.online. Ο ρόλος της είναι ασαφής· έχει πάρει RAW φωτογραφίες και brief περιπτέρου.
@@ -31,6 +31,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana (ως «Fotini Pournara»): 27 ανοιχτά (22 εκπρόθεσμα, 4 χωρίς due). Κύριος φόρτος: Yiayia (4), Barbaggio (3), Georgiadis chef, Jardin, Chef Tsaparas, Krema (από 2), βίντεο podcast («Podcast2 Edit» due 2026-10-15, «podcast soundtrack» due 2026-09-22), καταστήματα Ιθώμης (Βύρωνας) και Τμώλου. ✓ «banners site» της GROW 2026-10-19, Podcast1 Edit 2026-10-08 ([[2026-10-21-asana-snapshot]]).
 - 2026-10-19 — Παίρνει το brief Argyroplastics ([[2026-10-20-argyroplastics-plastica-2026]]).
 - 2026-09-18 — Παίρνει RAW φωτογραφίες «Photos episode 1 chef» ([[2026-09-18-photos-episode-1-chef]]).
 - 2026-09-08 — Παραλήπτρια του AI Workshop Vol2 Q3 ([[2026-09-08-ai-workshop-vol2-q3]]).
@@ -40,3 +41,4 @@ updated: 2026-10-20
 
 ## Σημειώσεις
 - **Διαθεσιμότητα:** «Fotini off» 2026-07-27 και 2026-08-10· «Foteini off» 2026-08-24 ([[2026-07-20_2026-11-03]]).
+- 💭 Υπόθεση: η Asana χρήστρια «Fotini Pournara» είναι η fotini@ (ταιριάζει η δουλειά στο podcast/«episode 1 chef») ([[2026-10-21-asana-snapshot]]).

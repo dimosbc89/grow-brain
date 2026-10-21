@@ -3,7 +3,7 @@ type: team
 title: "Βάσια Κατάκη"
 aliases: [Vassia Kataki, Βάσια, Vassia, Vassia.K, vassia@growagency.online]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Βάσια Κατάκη
 > Graphic Designer της GROW. Της πηγαίνουν brand manuals, logo briefs, design e-shop/site, βίντεο και κατόψεις περιπτέρων.
@@ -43,6 +43,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: 59 ανοιχτά (41 εκπρόθεσμα, 8 χωρίς due). Κύριος φόρτος: Yiayia (10), Grow (8: Περίπτερο Deturbo due 2026-10-23, Hotel Brain Rebranding, Δημιουργικό social - Grow, Ribas Logo, TEKTO, studio mockups, τζαμαρίες οδοντίατρος, tasks 20.10), Antemisaris (7), Overoll (5), Barbaggio (4). Κλείνει σχεδόν καθημερινά checklist «tasks DD.MM» από 2026-09-07 (τελευταίο ✓ «tasks 19.10» 2026-10-20) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-19 — Παίρνει το brief της Argyroplastics ([[2026-10-20-argyroplastics-plastica-2026]]).
 - 2026-10-16 — Παίρνει το promo του Yiayia για συντόμευση ([[2026-10-16-yiayia-meatball-catcher-promo]]).
 - 2026-10-08 — Κείμενα site Barbaggio. Κλείνει το design του Tandem ([[2026-10-08-barbaggio-keimena-site]], [[2026-10-08-tandem-review-eshop-developer]]).

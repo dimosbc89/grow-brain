@@ -3,7 +3,7 @@ type: team
 title: "Βασιλική Γιαννοπούλου"
 aliases: [Vassiliki Giannopoulou, Βασιλική, Vassiliki, vassiliki@growagency.online]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Βασιλική Γιαννοπούλου
 > Account Director της GROW. Ο Δήμος της στέλνει τα τιμολόγια και τα admin, τρέχει τα accounts [[yiayia-meatballs]] (από τον Σεπτέμβριο 2026) και Estia, και κάνει calls με νέους πελάτες.
@@ -56,6 +56,7 @@ updated: 2026-10-20
 - 2026-07-28: εγκρίθηκε remote εργασία για τις 2026-08-07 από 11:00 ([[2026-07-28-vassiliki-remote-0708]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: 38 ανοιχτά (21 εκπρόθεσμα, 6 χωρίς due). Κύριος φόρτος: Grow (7: crm program, grow websites/ελληνικό, εταιρ. ταυτότητα LASER, Events, Influence), Yiayia (7), Overoll (6), Knack & Snack (5), Nomud (4), συν «εκκρεμότητες πληρωμών». Ανέθεσε στον Δήμο «estia crm» (2026-10-16) και «ενημερώσεις site» (2026-10-19). ⚠️ Αφαιρέθηκε από το Asana workspace 2026-10-19, αλλά σχολιάζει 2026-10-20 («μια χαρά από εμένα», «το θέλω πολύ!») — ⚠️ ασαφές (επαναπροσθήκη ή guest) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Απαντά στη Μαρία (Yiayia) σημείο-σημείο ([[2026-10-20-yiayia-website-new-version]]).
 - 2026-10-19 — Call «P. Nikas X AVEK» ([[2026-07-20_2026-11-03]]).
 - 2026-10-16 — Της στέλνεται το promo του game και οι εικόνες «Yiayia Pastas» ([[2026-10-16-yiayia-meatball-catcher-promo]], [[2026-10-16-yiayia-pastas-photos]]).

@@ -2,7 +2,7 @@
 type: hub
 title: "GROW Agency"
 aliases: [GROW, growagency.online, Grow Agency]
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # GROW Agency
 
@@ -31,5 +31,8 @@ updated: 2026-10-20
 
 ## Διοίκηση
 - [[grow-360-ltd]] (UK εταιρεία) · [[forologika-asfalistika]] · [[symvolaia-leasing]] · [[syndromes-ergaleia]] · [[timologisi]] · [[dypa-programma]]
+
+## Εργαλείο εργασιών
+- Asana (workspace growagency.online): το project «Grow» έχει τα εσωτερικά (site, creative, invoices, backoffice) και το «ΛΟΓΙΣΤΗΡΙΟ» τις πληρωμές και τις τιμολογήσεις ([[timologisi]]). Τα ανοιχτά/εκπρόθεσμα ανά άτομο στις 2026-10-21 είναι στις σελίδες της ομάδας ([[2026-10-21-asana-snapshot]]).
 
 Όλες οι σελίδες: [[index]] · Τι τρέχει τώρα: [[attention]]

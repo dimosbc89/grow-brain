@@ -3,7 +3,7 @@ type: project
 title: "Ελληνικό site GROW (marketingagencygreece.online)"
 aliases: [marketingagencygreece.online, GROW Greek site, ελληνικό site GROW]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Ελληνικό site GROW (marketingagencygreece.online)
 > Το νέο ελληνόφωνο site της [[grow-agency]] για την ελληνική αγορά· το growagency.online μένει αγγλικό για διεθνές B2B.
@@ -19,11 +19,15 @@ updated: 2026-10-20
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Αντικατάσταση demo case studies με πραγματικά — Δήμος / GROW — χωρίς ημερομηνία ([[2026-10-20-prohgoumenes-synomilies-claude]])
+- [ ] «grow websites» → «ελληνικό» — [[vassiliki-giannopoulou]] — due 2026-10-02 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
+- [ ] «αγγλικό»: WEB DESIGN & DEVELOPMENT, BRANDING & CORPORATE IDENTITY, FIX THE BLEED button — [[marina-papanastasiou]] (subtasks χωρίς ανάθεση) — χωρίς due ([[2026-10-21-asana-snapshot]]). 💭 Υπόθεση: «αγγλικό» = growagency.online.
+- [ ] «ενημερώσεις site» — Δήμος (ανάθεση Βασιλικής 2026-10-19) — due 2026-10-20 ⚠️ εκπρόθεσμο· ποιο site αφορά: ασαφές ([[2026-10-21-asana-snapshot]])
 
 ## Αποφάσεις
 - Δύο sites: ελληνικό (marketingagencygreece.online) για Ελλάδα, αγγλικό (growagency.online) για διεθνές B2B ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: task «grow websites» (Βασιλική, due 2026-10-09, ⚠️ εκπρόθεσμο), από 2026-09-24, με subtasks «ελληνικό» (Βασιλική, due 2026-10-02) και «αγγλικό» (Μαρίνα, χωρίς due· από 2026-10-06 subtasks WEB DESIGN & DEVELOPMENT, BRANDING & CORPORATE IDENTITY, FIX THE BLEED button). Ολοκληρώθηκαν: «Site Map | google site» (Μαρίνα, 2026-10-06), «banners site» (Fotini Pournara, 2026-10-19) ([[2026-10-21-asana-snapshot]]).
 - Ασαφής ημερομηνία — ορισμός ρόλου, κοινού, υπηρεσιών και κανόνων περιεχομένου ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Οικονομικά

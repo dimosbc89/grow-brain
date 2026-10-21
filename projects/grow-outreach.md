@@ -31,11 +31,20 @@ updated: 2026-10-21
 - [ ] «flyer new green grow» (3 png προς Βασιλική, 2026-09-17): σκοπός και χρήση ασαφή ([[2026-09-17-flyer-new-green-grow]])
 - [ ] Λίστα δημοσιογράφων «greek_media_press_list.xlsx» (στην ομάδα, 2026-10-07): για ποιον πελάτη/σκοπό, ασαφές ([[2026-10-07-lista-dimosiografon-press]])
 - [ ] Meeting με τη Marilena Rentzou (bytedance.com) — **2026-10-21 16:30**, σκοπός ασαφής ([[2026-07-20_2026-11-03]])
+- [ ] Posts Εβδομάδας (subtasks: Βασιλική, Δέσποινα, Ιωάννα, Μαρίνα) — Μαρίνα — due 2026-10-09 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]]). 💭 Υπόθεση: posts για τα social της GROW.
+- [ ] go-shipping Offer — Δήμος — χωρίς due, υλικό της Μαρίνας από 2026-09-29 ([[2026-10-21-asana-snapshot]])
+- [ ] Check Padel Presentation: ραντεβού για να παρουσιαστεί (όχι αποστολή) — Δήμος — due 2026-09-24 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]]). 💭 Υπόθεση: αφορά το PadelTech (βλ. «Αλλαγές PadelTech» στο [[dimos-founder]]).
+- [ ] Post Promoters — Δήμος (ανάθεση Μαρίνας) — due 2026-09-15 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
+- [ ] Δημιουργικό social - Grow — [[vassia-kataki]] — due 2026-07-03 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
+- [ ] «Events» και «Influence» (από 2024-11-04) — [[vassiliki-giannopoulou]] — χωρίς due· περιεχόμενο ασαφές ([[2026-10-21-asana-snapshot]])
 
 ## Αποφάσεις
 - —
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana, project «Grow» (εσωτερικά της GROW· 47 ανοιχτά, 49 ολοκληρωμένα στο harvest): «Reel Grow» ✓ από Vasia Striga 2026-10-20. Το «Posts Εβδομάδας» (Μαρίνα, due 2026-10-09) και τα subtasks ανά άτομο (Βασιλική, Δέσποινα, Ιωάννα, due 2026-10-08) είναι ανοιχτά και εκπρόθεσμα. Τα «posts εβδομάδας» της προηγούμενης κυκλοφορίας ✓ από Μαρίνα 2026-10-06 ([[2026-10-21-asana-snapshot]]).
+- 2026-10-21 — Asana: «go-shipping Offer» στον Δήμο χωρίς due ([[goshipping]])· η Μαρίνα 2026-09-29: «έφτιαξα αυτό αν θες για βοήθεια», 2026-10-05: «εδώ». «Check Padel Presentation» (Δήμος, due 2026-09-24): Μαρίνα 2026-10-05 «να κλείσουμε ραντεβού να του την παρουσιάσουμε, δεν θέλουμε να τη στείλουμε», Βασιλική 2026-10-20 «μια χαρά από εμένα» ([[2026-10-21-asana-snapshot]]).
+- 2026-10-21 — Asana, ολοκληρωμένα από 2026-09: wedding presentation (Δήμος, 2026-10-07), Tesla Activation (Δέσποινα, 2026-09-28), Offer Argyroplastics (Δήμος, 2026-09-17), Sortist - services (Δέσποινα, 2026-09-09), post of the month (Βασιλική, 2026-09-08) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — The Hospitality Jam: call με Mediterranean College 2026-10-22 12:30· Paralos ρωτά αν υπάρχει χρέωση συμμετοχής (αναπάντητο)· Papoutsanis ζητά παρουσίαση με email ([[2026-10-20-hospitality-jam-mediterranean-college]], [[2026-10-20-hospitality-jam-paralos]], [[2026-10-20-hospitality-jam-papoutsanis]]).
 - 2026-10-21 — Επόμενο: 30-Minute Meeting του Δήμου με τη Marilena Rentzou (ByteDance) ([[2026-07-20_2026-11-03]]).
 - 2026-10-07 — Ο Δήμος μοιράζει στην ομάδα λίστα Ελλήνων δημοσιογράφων/media ([[2026-10-07-lista-dimosiografon-press]]).

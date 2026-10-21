@@ -3,7 +3,7 @@ type: client
 title: "Panagiotis Nikas / CoffeeXpert / Barista Academy"
 aliases: [Panagiotis Nikas, Νίκας, P. Nikas, Coffee Expert, CoffeeXpert, ΚΟΦΙ ΕΞΠΕΡΤ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ, Barista Academy, baristacademy.gr, barista-academy.gr, baristaexpert.gr, coffeexpert.gr, panagiotisnikas.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Panagiotis Nikas / CoffeeXpert / Barista Academy
 > Ο [[panagiotis-nikas]] και οι επιχειρήσεις του (CoffeeXpert, Barista Academy, προσωπικό brand): η GROW τρέχει Meta Ads, κρατά τα sites/domains και λειτουργεί στην πράξη ως το IT/security help desk του — πολλά «copyright» phishing.
@@ -28,7 +28,15 @@ updated: 2026-10-20
 - [ ] Έλεγχος απόκλισης ~25€ στις χρεώσεις FACEBK — Δήμος — υπόσχεση 2026-08-16, απάντηση δεν φαίνεται ([[2026-08-16-coffeexpert-viva-card-meta-charges]])
 - [ ] Έλεγχος ποιο περιεχόμενο «χτυπάει» και licensing μουσικής στα ads (γραφιστικό τμήμα) — Δήμος — υπόσχεση 2026-08-17, ολοκλήρωση δεν φαίνεται ([[2026-08-19-concord-copyright-spam-nikas]])
 
+**Από Asana — του Δήμου (στις 2026-10-21)**
+- [ ] «ενημερώσεις site» — Δήμος (ανάθεση από Βασιλική 2026-10-19) — ⚠️ εκπρόθεσμο από 2026-10-20 ([[2026-10-21-asana-snapshot]])
+- [ ] Ενημέρωση πιστοποιήσεων στο personal site — Δήμος — ⚠️ εκπρόθεσμο από 2026-08-28 ([[2026-10-21-asana-snapshot]])
+- [ ] «δράσεις (gr-eng)» στο personal site (Barista Competition Addis Ababa, Freddo Espresso Workshop – Athens Coffee Festival 2025, KIVU Barista Skills Foundation, Johny Equipment masterclass, Marrakech Coffee & Tea Festival, Greek Cezve/Ibrik Championship 2025, Host Milano 2025) — Δήμος — ⚠️ εκπρόθεσμο από 2026-06-03 ([[2026-10-21-asana-snapshot]])
+
 **GROW**
+- [ ] «ενημερώσεις στο personal site» (parent) — [[vassiliki-giannopoulou]] — ⚠️ εκπρόθεσμο από 2026-09-18 ([[2026-10-21-asana-snapshot]])
+- [ ] «coldbrew vs ice coffee (shorts)» — Βασιλική / [[fotini]] — έως 2026-10-23 (subtask Φωτεινής εκπρόθεσμο από 2026-10-19) ([[2026-10-21-asana-snapshot]])
+- [ ] YouTube videos — Βασιλική — έως 2026-11-18 ([[2026-10-21-asana-snapshot]])
 - [ ] Τιμολόγιο για τα 3 domains (25€ + ΦΠΑ το καθένα) — [[marina-papanastasiou]] — από 2026-09-10, ασαφές αν εκδόθηκε ([[2026-09-10-invoice-nikas-barista-domains]])
 - [ ] Ανανέωση baristacademy.gr μέσω papaki (λήξη 2026-09-11 23:59 UTC) — ποιος: ασαφές· 💭 Υπόθεση: έγινε, αφού το site λειτουργεί τον Οκτώβριο ([[2026-08-27-baristacademy-domain-expiration]], [[2026-10-09-baristacademy-spam-forma-hacking]])
 
@@ -41,6 +49,7 @@ updated: 2026-10-20
 - Όλα τα «copyright/DMCA» και «Microsoft 365» emails χαρακτηρίστηκαν spam/phishing — καμία ενέργεια ([[2026-08-21-ninja-tune-copyright-spam-nikas]], [[2026-08-31-nikas-copyright-phishing-scam]], [[2026-09-01-coffeexpert-m365-phishing-check]], [[2026-09-15-barista-academy-copyright-spam]], [[2026-10-19-panagiotisnikas-copyright-spam]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: project «NIKAS» με 14 ανοιχτά (3 του Δήμου, όλα εκπρόθεσμα: ενημερώσεις site, πιστοποιήσεις, δράσεις gr-eng) και 16 ολοκληρωμένα από 2026-07-01: did you know series ✓ 10-19, IRM video ✓ 10-16, εύρεση νέων επαφών (Δήμος) ✓ 10-15, media kit english & review video ✓ 10-08, coffee expert posts ✓ 10-06, outin nano 2 review & coffee myths ✓ 09-25, Athens Coffee Festival ✓ 09-23, σεμινάριο Σεπτεμβρίου (Δήμος) ✓ 09-21, kenya courses ✓ 09-08 κ.ά. ([[2026-10-21-asana-snapshot]]).
 - 2026-10-19 — Phishing «Jackson Walker LLP» → «spam» ([[2026-10-19-panagiotisnikas-copyright-spam]])· «P. Nikas X AVEK» 12:00 ([[2026-07-20_2026-11-03]]).
 - 2026-10-10 — Λάθος σύνολο σεμιναρίου (500€ αντί 600€)· «σκέφτομαι μήπως έσπασε κάτι από χθες» ([[2026-10-10-seminario-timi-600-500]]).
 - 2026-10-09 — Spam στη φόρμα baristacademy.gr = απόπειρα hacking ([[2026-10-09-baristacademy-spam-forma-hacking]]).

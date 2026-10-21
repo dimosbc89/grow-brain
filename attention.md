@@ -25,7 +25,7 @@ updated: 2026-10-21
 
 ## 5. [[tandem-concept]] — e-shop στην τελική ευθεία
 - **Κατάσταση:** design κλειστό από 08/10· τελικές διορθώσεις της Caroline μερικώς έγιναν (17/10)· BOX NOW περιμένει τη [[biz-courier]]· price tags στην Print Kong χωρίς ημερομηνία ([[2026-10-20-tandem-price-tags-print-kong]]).
-- **Επόμενο βήμα (Δήμος):** creative αλλαγές της συνάντησης 13/10 — υπόσχεση για αυτή την εβδομάδα (Asana «αλλαγές Tandem» due 16/10).
+- **Επόμενο βήμα:** οι creative αλλαγές της 13/10 έκλεισαν ✓ στο Asana 2026-10-20· ανοιχτό «Check plugin & solutions» (Δήμος, από 08/08)· μετά γλώσσες, customer service, Gift option, speed, training ([[2026-10-21-asana-snapshot]]).
 
 ## Στο ραντάρ
 - **Λογαριασμοί:** [[fastpath]] 507,78 € — υπόσχεση έως Παρ. 23/10 ([[hosting-domains]])· [[metalease]] ληξιπρόθεσμα 139,89 € + 219,00 €· [[the-accountancy-partnership]] P-388149 έως 30/10 + onboarding call ([[grow-360-ltd]])· machevuoi.gr λήγει 04/11.

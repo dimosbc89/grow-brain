@@ -39,6 +39,9 @@ updated: 2026-10-21
 - [ ] Primowear: προσφορά για το D16 — GROW — ασαφές αν στάλθηκε ([[2026-09-24-primowear-periptero-ekthesi-d16]])
 - [ ] METLEN: follow-up μετά το meeting της 2026-09-18 — Δήμος — ασαφές ([[2026-07-20_2026-11-03]])
 - [ ] GameStuff: τελική πρόταση με κοστολόγηση / καταγραφή αποτελέσματος — Δήμος — ασαφές ([[2026-09-07-gamestuff-fantasy-festival-booth]])
+- [ ] Περίπτερο Deturbo (σχεδιασμός) — [[vassia-kataki]] — έως 2026-10-23 ([[2026-10-21-asana-snapshot]])
+- [ ] Περίπτερο Agroma — χωρίς ανάθεση — χωρίς due. Πελάτης/έκθεση: ασαφή, δεν υπάρχει άλλη πηγή ([[2026-10-21-asana-snapshot]])
+- [ ] ⚠️ Αντίφαση: ο πίνακας γράφει για τη [[deturbo]] «Περιμένουμε budget από 2026-09-18», όμως στο Asana υπάρχει ενεργό task σχεδιασμού του περιπτέρου με due 2026-10-23. Ήρθε το budget; Ρώτα τον Δήμο ([[2026-10-21-asana-snapshot]])
 
 ## Αποφάσεις
 - [[2026-09-18-deturbo-proypologismos-prota]]: σε RFQ χωρίς budget, ζητάμε πρώτα εύρος προϋπολογισμού.
@@ -46,6 +49,7 @@ updated: 2026-10-21
 - Πρώτα στέλνουμε δημιουργικό πλαίσιο (κάτοψη, φωτορεαλιστικό, activations) και αναλυτική κοστολόγηση μετά το feedback (GameStuff, 2026-09-07) ([[2026-09-07-gamestuff-fantasy-festival-booth]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana (project «Grow»): «Περίπτερο Deturbo» — [[vassia-kataki]] — due 2026-10-23. Η προθεσμία μετατίθεται σχεδόν καθημερινά (τελευταία 2026-10-19 → 2026-10-23), χωρίς σχόλια. «Περίπτερο Agroma»: subtask του «To do in Subtasks» (Δήμος), χωρίς ανάθεση και due, από 2026-07-30. Ολοκληρώθηκαν: «Game Stuff Booth - Fantasy Festival» (Βάσια, 2026-09-11), «Offer Argyroplastics» (Δήμος, 2026-09-17), «Primowear | Syskevasia 2026» (Βάσια, 2026-10-07) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Plastica/[[argyroplastics]]: κατασκευή 8.950 € + ΦΠΑ, οθόνες 500 €, deadline αναρτήσεων Expowork 2026-10-23· Xenia (21–23/11): οθόνη 65'' 400 € / 75'' 450 € ([[2026-10-20-plastica-prosfora-kataskevasti]], [[2026-10-20-enoikiasi-othonon-botsaris]], [[2026-10-20-expowork-argyroplastics-d17]]).
 - 2026-10-20 — Argyroplastics: ερωτήσεις της Μαρίνας και meeting 14:30 ([[2026-10-20-argyroplastics-plastica-2026]], [[2026-07-20_2026-11-03]]).
 - 2026-10-16 — Argyroplastics video call ([[2026-10-20-argyroplastics-plastica-2026]]).
@@ -71,3 +75,4 @@ updated: 2026-10-21
 ## Σημειώσεις
 - Μοτίβο: τα RFQ έρχονται με πολλές απαιτήσεις και χωρίς budget («pali ta idia») ([[2026-09-22-deturbo-defea-2027-periptero]]).
 - Οι μεγάλες εταιρείες (COCO-MAT) δίνουν έτοιμα σχέδια και ζητούν μόνο κατασκευή μέσω Procurement ([[2026-09-07-cocomat-xenia-booth-offer]]).
+- 💭 Υπόθεση: το ✓ «Primowear | Syskevasia 2026» (2026-10-07) σημαίνει ότι η πρόταση/σχέδιο για το D16 της [[primowear]] ολοκληρώθηκε. Αν στάλθηκε, παραμένει ασαφές ([[2026-10-21-asana-snapshot]]).

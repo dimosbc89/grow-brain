@@ -37,7 +37,17 @@ updated: 2026-10-21
 - [ ] Πιο σύντομη εκδοχή του «YIAYIA_Meatball_Catcher_Promo.mp4» με άλλο τέλος — [[vassia-kataki]] / [[vassiliki-giannopoulou]] — χωρίς ημερομηνία ([[2026-10-16-yiayia-meatball-catcher-promo]])
 - [ ] Concept/κατευθύνσεις influencers και συμφωνία προϊόντων — [[vassiliki-giannopoulou]] — χωρίς ημερομηνία ([[2026-10-07-yiayia-street-activation-content]])
 - [ ] Έλεγχος των 2–3 creators που έστειλαν μόνοι τους DM στο Instagram — GROW — χωρίς ημερομηνία ([[2026-10-07-yiayia-street-activation-content]])
-- [ ] Αλλαγές packaging (HOME OF MEATBALLS + QR, νέος κωδικός μπωλ) πριν την εκτύπωση του μεγάλου μπωλ — [[ioanna-chalkiadaki]] — στόχος εκτύπωσης Σεπτ. 2026· κατάσταση ασαφής ([[2026-08-05-yiayia-packaging-cls]], [[2026-08-07-yiayia-follow-up-meeting]])
+- [ ] Αλλαγές packaging (HOME OF MEATBALLS + QR, νέος κωδικός μπωλ) πριν την εκτύπωση του μεγάλου μπωλ — [[ioanna-chalkiadaki]] — στόχος εκτύπωσης Σεπτ. 2026· κατάσταση ασαφής ([[2026-08-05-yiayia-packaging-cls]], [[2026-08-07-yiayia-follow-up-meeting]])· στο Asana «▪️ αλλαγές packaging» ανοιχτό, ανάθεση [[fotini]], ⚠️ εκπρόθεσμο από 2026-09-01, subtasks (χαρτοπετσέτες, χαρτί περιτυλίγματος, τσάντα, σακουλάκι, κυπελλάκι, μπωλ) στη [[vassia-kataki]] χωρίς due ([[2026-10-21-asana-snapshot]])
+**Από Asana (στις 2026-10-21)**
+- [ ] Σημάνσεις καταστήματος έξω (υδρόγειος αυτοκόλλητο, σήμανση έξω velcro) — [[fotini]] — ⚠️ εκπρόθεσμο από 2026-08-26 ([[2026-10-21-asana-snapshot]])
+- [ ] Αυτοκολλητάκι τραπεζιών (+ QR) — [[vassiliki-giannopoulou]] / [[vassia-kataki]] — ⚠️ εκπρόθεσμο από 2026-10-02 ([[2026-10-21-asana-snapshot]])
+- [ ] Review sign — Βασιλική / Vassia — ⚠️ εκπρόθεσμο από 2026-10-14 ([[2026-10-21-asana-snapshot]])
+- [ ] ΔΤ αποστολή — Βασιλική — ⚠️ εκπρόθεσμο από 2026-10-09 ([[2026-10-21-asana-snapshot]])
+- [ ] Colouring πλάνων — Βασιλική / [[marianna-vourna]] — ⚠️ εκπρόθεσμο από 2026-10-20 ([[2026-10-21-asana-snapshot]])
+- [ ] Ελληνική γραμματοσειρά (Yiayia Greek Font, έρευνα από Vassia εκπρόθεσμη από 2026-10-05) — Βασιλική — έως 2026-10-23 / 2026-10-30 ([[2026-10-21-asana-snapshot]])
+- [ ] Content calendar Q4 — Βασιλική — χωρίς due ([[2026-10-21-asana-snapshot]])
+- [ ] «▪️ σχεδιασμός delivery menu» — Vassia — ⚠️ εκπρόθεσμο από 2026-08-10 (βλ. ⚠️ Αντίφαση στις Σημειώσεις) ([[2026-10-21-asana-snapshot]])
+- [ ] Sitemap (subtask του «▪️ redesign website», που είναι ✓) — Ιωάννα — ⚠️ εκπρόθεσμο από 2026-07-13 ([[2026-10-21-asana-snapshot]])
 - [ ] Λίστα microinfluencers για έγκριση + έρευνα για «τη γιαγιά της Πάρου» — [[ioanna-chalkiadaki]] — κατάσταση ασαφής ([[2026-08-07-yiayia-follow-up-meeting]])
 - [ ] Ψηφιακό αρχείο video για τις οθόνες του καταστήματος (μετά τον έλεγχο τιμών μενού) — GROW — κατάσταση ασαφής ([[2026-08-07-yiayia-follow-up-meeting]])
 - [ ] Τι κάνει η Βασιλική με τα 12 εικόνες + 3 βίντεο (hf_20260922_…) που της έστειλε ο Δήμος — ασαφές ([[2026-09-22-yiayia-higgsfield-assets]])
@@ -66,6 +76,7 @@ updated: 2026-10-21
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: project «Yiayia» με 23 ανοιχτά και 28 ολοκληρωμένα από 2026-07-01. Ολοκληρώθηκαν: yiayia game promo ✓ 2026-10-21, pasta carousel ✓ 10-19, influencer new edit ✓ 10-16, «Υιάγια's passport» ✓ 10-16, musttry old-school video ✓ 10-12, δημιουργία mails (Δήμος) ✓ 10-08, «▪️ redesign website» (Vassia) ✓ 10-01, σημάνσεις καταστήματος μέσα ✓ 09-08 κ.ά. Ανοιχτά κυρίως εκτυπωτικά/σημάνσεις, packaging, γραμματοσειρά, ΔΤ, content calendar Q4 ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Εκτυπωτικά: QR stickers 45 € + ΦΠΑ x2, υδρόγειος 185x83 cm (150 € + ΦΠΑ) με μέτρηση 2026-10-23· η Βασιλική περιμένει τελικό οκ για παραγγελία ([[2026-10-20-yiayia-ektypotika]]).
 - 2026-10-23 — «Υιάγια shooting» 09:30 (προγραμματισμένο) ([[2026-07-20_2026-11-03]]).
 - 2026-10-20 — Η Βασιλική απαντά σημείο-σημείο· AnyDesk call 14:30 ([[2026-10-20-yiayia-website-new-version]], [[2026-07-20_2026-11-03]]).
@@ -101,4 +112,6 @@ updated: 2026-10-21
 - Κείμενα: «Υιάγια» χωρίς τελικό -ς· «κάθισε» αντί «κάτσε»· playlist «Yιάγια΄ς song list for cooking or traveling» ([[2026-08-07-yiayia-follow-up-meeting]]).
 - Στο street Q&A προστέθηκε ερώτηση «πώς λέτε τη γιαγιά σας» για να δικαιολογηθεί το «Yiayia» (π.χ. Ελληνοαμερικανίδα) ([[2026-10-07-yiayia-street-activation-content]]).
 - Ο Δήμος της γράφει ζεστά («Φιλικά,» / «Με εκτίμηση,») και πήρε πρωτοβουλία για το γενικό email «hello@» ([[2026-10-09-yiayiameatballs-etairika-emails]]).
+- ⚠️ Αντίφαση: στις 2026-10-20 αποφασίστηκε ότι το μενού διανομής δεν τυπώνεται ([[2026-10-20-yiayia-website-new-version]]), ενώ στο Asana το «▪️ σχεδιασμός delivery menu» είναι ακόμη ανοιχτό (εκπρόθεσμο από 2026-08-10) ([[2026-10-21-asana-snapshot]]) — να κλείσει ή όχι; Ρώτα τον Δήμο.
+- 💭 Υπόθεση: το «yiayia game promo» ✓ 2026-10-21 ([[2026-10-21-asana-snapshot]]) είναι η πιο σύντομη εκδοχή του Meatball Catcher promo — η πηγή δεν το λέει.
 - Ο Δήμος είχε υποσχεθεί το site «πριν φύγει ο μήνας» (Αύγουστος 2026) ([[2026-08-12-yiayia-updated-website-pdf]])· η «νέα έκδοση» ανέβηκε 2026-10-17 ([[2026-10-20-yiayia-website-new-version]]). Αν υπήρξε ενδιάμεση live έκδοση: ασαφές.

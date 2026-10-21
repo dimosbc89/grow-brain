@@ -3,7 +3,7 @@ type: team
 title: "Μαρίνα Παπαναστασίου"
 aliases: [Marina Papanastasiou, Μαρίνα, mpapa, mpapa@growagency.online]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Μαρίνα Παπαναστασίου
 > Managing Director της GROW. Τρέχει τα περίπτερα (lead στην Argyroplastics), τα admin της UK εταιρείας και τα τιμολόγια που της στέλνει ο Δήμος, και είναι σε cc σχεδόν σε κάθε νέο lead.
@@ -60,6 +60,7 @@ updated: 2026-10-20
 - 2026-09-23: εγκρίνει μαζί με τον Δήμο την άδεια της [[despina-velissariou]] για 29–30/10 ([[2026-09-23-adeia-oktovriou-despina]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: 4 ανοιχτά (2 εκπρόθεσμα, 1 χωρίς due): «Posts Εβδομάδας» (due 2026-10-09), «αγγλικό» (grow websites), «Κυριακές και Αργίες στα apps» (due 2026-12-01), 1 στο Overoll. Κυρίως αναθέτει/σχολιάζει. ✓ Site Map | google site και posts εβδομάδας 2026-10-06, Τιμολόγηση βιντεογράφηση Global 2026-10-07, Verification TikTok partners account 2026-10-06, Στοιχεία πρόσληψης Tesla Promoters και Συστατική Επιστολή ΕΚΠΑ 2026-09-28 ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Απαντά στην Argyroplastics με διευκρινιστικές ερωτήσεις («προχωράμε με τη δημιουργία κάτοψης»). Meeting «Tsu X Grow» 12:15 ([[2026-10-20-argyroplastics-plastica-2026]], [[2026-07-20_2026-11-03]]).
 - 2026-10-17 — Ο Δήμος της στέλνει το GoShipping proposal v3 ([[2026-10-17-goshipping-proposal-v3]]).
 - 2026-10-16 — Meeting «Argyroplastics x Grow / Plastica 2026». Λαμβάνει welcome και AML από την TAP ([[2026-07-20_2026-11-03]], [[2026-10-16-accountancy-partnership-welcome]], [[2026-10-16-accountancy-partnership-aml-check]]).

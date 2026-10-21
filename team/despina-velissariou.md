@@ -3,7 +3,7 @@ type: team
 title: "Δέσποινα Βελισσαρίου"
 aliases: [Despina Velissariou, Δέσποινα, Despina, despina@growagency.online]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Δέσποινα Βελισσαρίου
 > Senior Account Manager της GROW. Τρέχει events, χορηγίες ([[hellenic-heritage-evolution]], [[rejuv-collective-solace]]), influencers και το e-shop της [[tandem-concept]]. Είναι και στα meetings των περιπτέρων.
@@ -51,6 +51,7 @@ updated: 2026-10-20
 - 2026-07-24: οδηγία του Δήμου να μπει απονομή βραβείου στο gala στην πρόταση προς Viber ([[2026-07-24-viber-heritage-escape-ideas]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: 10 ανοιχτά (9 εκπρόθεσμα, 1 χωρίς due). Κύριος φόρτος: Heritage Escape, Global Foods, Tandem (από 2), Barbaggio, Tsiklitiria, «Oggi follow up». ✓ Tesla Activation 2026-09-28, Χρεώσεις Hellenic 2026-10-19. Ανέθεσε στον Δήμο «Mail Karampatsos generic», «Upload υλικό Unique/Global», «Mail to find», «Check plugin & solutions» ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Argyroplastics Meeting 14:30 ([[2026-07-20_2026-11-03]]).
 - 2026-10-19 — Νέα εκδοχή βίντεο Interoptics. Ο Δήμος της στέλνει τις ερωτήσεις συνέντευξης για το Tandem ([[2026-10-19-interoptics-etairiko-video-synedria]], [[2026-10-19-tandem-interview-questions]]).
 - 2026-10-15 — «HHE x Grow» ([[2026-07-20_2026-11-03]]).

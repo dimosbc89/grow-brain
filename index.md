@@ -7,7 +7,7 @@ updated: 2026-10-21
 
 > Όλες οι σελίδες του εγκεφάλου. Ξεκίνα από [[attention]] και [[rules]]. Ενημερώνεται σε κάθε ingest.
 
-## Πελάτες (45)
+## Πελάτες (57)
 - [[academicals-foxacademy|Academicals / Fox Academy]] · _ενεργός_ — Δύο brands, Academicals και Fox Academy, με κοινή πλευρά πελάτη (Όμηρος, Αλεξ). Η GROW τρέχει Google Ads και για τα δύο και φιλοξενεί τα websites και…
 - [[alerta|Alerta (alerta-app.net)]] · _σε αναμονή_ — Mobile app για την οποία η GROW σχεδίασε onboarding 5 οθονών και paywall redesign.
 - [[alpha-labels|Alpha Labels]] · _σε αναμονή_ — Εταιρεία της οποίας ο λογαριασμός TikTok είναι δεμένος σε email @growdigital.gr (domain που χρησιμοποιεί η GROW, π.χ. ads@growdigital.gr στο knack-and…
@@ -53,6 +53,18 @@ updated: 2026-10-21
 - [[warehouse|Warehouse (eshop.warehouse.gr)]] · _prospect_ — E-shop για το οποίο η GROW έκανε SEO audit και πρόταση performance marketing (Meta, Google Ads, Klaviyo)· ασαφές αν έκλεισε συνεργασία.
 - [[yiayia-meatballs|Υιάγια (Yiayia Meatballs)]] · _ενεργός_ — Εστιατόριο με κεφτεδάκια («Home of Meatballs») της maria-drouza· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influe…
 - [[yourclima|Yourclima]] · _ενεργός_ — Πελάτης της GROW για εταιρικά email/hosting στο yourclima.com· επαφές ο christos-tsamis και ο manolis-kalomoiris.
+- [[agape|Agape]] · _ενεργός_ — Πελάτης με project στο Asana από 2026-03 (branding, ταμπέλα, business card, airbnb brochure, wine video, ads)· είδος επιχείρησης ασαφές.
+- [[chef-tsaparas|Chef Tsaparas]] · _σε αναμονή_ — Site και «KYKNOS 2026»· όλα τα tasks εκπρόθεσμα.
+- [[enoteca|Enoteca]] · _ενεργός_ — Social/reels, νέο μενού, site map· εκκρεμεί χορηγούμενο με τη Sara (Δήμος).
+- [[equipman|Equipman]] · _σε αναμονή_ — Ένα task χωρίς ανάθεση από 2026-07-28.
+- [[grand-gelato|Grand Gelato]] · _ενεργός_ — Brand παγωτού (grandgelato.gr)· social content (Q&A videos, reels, carousels).
+- [[grandpas|Grandpa's]] · _ενεργός_ — Νέο project από 2026-10-09: reels και redesign λογοτύπου.
+- [[jardin-alldaystories|Jardin All Day Stories]] · _ενεργός_ — Social content, μενού, έντυπα, φανέλες χορηγίας.
+- [[koala|Koala]] · _ενεργός_ — Social, giveaways, Google Ads και promoters (Ιωάννα).
+- [[kreopoleio-tis-agoras|Κρεοπωλείο της Αγοράς]] · _ενεργός_ — Social και μηνιαίο report (Vasia Striga).
+- [[padeltech|PadelTech]] · _σε αναμονή_ — «Αλλαγές» του Δήμου εκκρεμούν από 2025· περιμένουμε φωτογραφίες.
+- [[standard-burgers|Standard Burgers]] · _σε αναμονή_ — Social/ads (Ιωάννα)· χωρίς κίνηση από 2026-08-12.
+- [[twenty-seven-27|Twenty Seven 27]] · _ενεργός_ — Κάρτες για ιατρικά κέντρα, παρουσίαση· «δημιουργία mail» του Δήμου από 2026-10-02.
 
 ## Leads (14)
 - [[avek|AVEK]] · _prospect_ — Οργανισμός με τον οποίο έγινε η συνάντηση «P. Nikas X AVEK» (2026-10-19) με τη GROW — σύνδεση με τον πελάτη nikas-coffee-expert· τι είναι η AVEK: ασαφ…
@@ -200,6 +212,7 @@ updated: 2026-10-21
 - [[2026-07-14-localift-nda|LocaLift: υπογραφή NDA πριν την πρόταση ανάπτυξης app]] — Στις 2026-07-14 η GROW και η maria-misendou υπέγραψαν NDA για το localift· μετά ήρθε η περιγραφή της εφαρμογής και η πρόταση ανάπτυξης της 2026-08-08.
 
 ## Πηγές
+- Asana snapshot: [[2026-10-21-asana-snapshot]] — όλα τα projects (263, 53 ενεργά) και tasks από 2026-06.
 - `raw/email/` — 240 digests από Gmail (απεσταλμένα από 2026-07-20)
 - `raw/calendar/` — Google Calendar
 - `raw/notes/` — σημειώσεις και ό,τι μπαίνει από το `inbox/`

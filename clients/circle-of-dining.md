@@ -30,6 +30,17 @@ updated: 2026-10-21
 - [ ] Ενημέρωση νέων στοιχείων τιμολόγησης στο σύστημα — [[ioanna-chalkiadaki]] (ασαφές) — από 2026-08-26 ([[2026-08-26-hilton-georgiadis-stoixeia-timologisis]])
 - [ ] Αξιολόγηση λίστας καλεσμένων (event ασαφές) — Ιωάννα/Βασιλική — χωρίς ημερομηνία ([[2026-07-30-lista-kalesmenon-georgiadis]])
 - [ ] Πελάτης: πρόσβαση Meta Business thecircleofdining στο dimos@ (όλα τα assets, πλήρη δικαιώματα) και ioanna@· αναγνώριση email για το verification code του Instagram· κωδικοί server/Gmail· LinkedIn· φωτογραφίες + βιογραφικό για media kit — από 2026-07-25/27, κατάσταση ασαφής ([[2026-07-27-georgiadis-prosvaseis-dg]])
+**Από Asana (στις 2026-10-21)** — projects «The circle of dining» και «Georgiadis chef»
+- [ ] Ad account (και στα δύο projects) — [[ioanna-chalkiadaki]] — ⚠️ εκπρόθεσμο από 2026-10-19 ([[2026-10-21-asana-snapshot]])
+- [ ] «αρχισυνταξία για το γύρισμα» — Ιωάννα — ⚠️ εκπρόθεσμο από 2026-10-20 (περιμένει τα σχόλια του Δήμου, βλ. παραπάνω) ([[2026-10-21-asana-snapshot]])
+- [ ] «cod video 2 αλλαγές» — Ιωάννα / [[fotini]] — έως 2026-10-23 (subtask Φωτεινής εκπρόθεσμο από 2026-10-20) ([[2026-10-21-asana-snapshot]])
+- [ ] «meet the circle carousel 1» και «6 αποφάσεις» carousel + pdf — Ιωάννα / [[vassia-kataki]] — έως 2026-10-22 ([[2026-10-21-asana-snapshot]])
+- [ ] «xenia dinner» — Ιωάννα — έως 2026-11-23· presentation ⚠️ εκπρόθεσμο από 2026-10-19· επαφές έως 2026-10-31 ([[2026-10-21-asana-snapshot]])
+- [ ] Georgiadis chef: «Podcast2 Edit» — Φωτεινή — ⚠️ εκπρόθεσμο από 2026-10-15· «podcast soundtrack» — Φωτεινή — ⚠️ από 2026-09-22 ([[2026-10-21-asana-snapshot]])
+- [ ] Georgiadis chef: «καρμπονάρα video» — Ιωάννα / Vassia — ⚠️ εκπρόθεσμο από 2026-10-09/13· «what the chef carousel» — Ιωάννα — ⚠️ από 2026-10-19 ([[2026-10-21-asana-snapshot]])
+- [ ] Georgiadis chef: «αρχισυνταξία Κίκιρας» — Ιωάννα — έως 2026-10-27 ([[2026-10-21-asana-snapshot]])
+- [ ] Georgiadis chef: «vidcast general» (έως 2026-12-31) → έρευνα για ταμπέλα κρεμαστή + προσφορά craftware — Ιωάννα — έως 2026-10-30 ([[2026-10-21-asana-snapshot]])
+- [x] Media kit ✓ 2026-09-24 και αποστολή media kit (Ιωάννα + Δήμος) ✓ 2026-10-17· συλλογή επαφών (Δήμος) ✓ 2026-10-15· landing page ✓ 2026-09-10· cod posting plan ✓ 2026-10-07 ([[2026-10-21-asana-snapshot]])
 - [x] Αποδοχή πρότασης The Circle of Dining (450€ full πακέτο) — πελάτης — 2026-08-11 ([[2026-08-11-offer-circle-of-dining-georgiadis]])
 - [x] Φωτογραφίες, logos, testimonial για το site — πελάτης — έως 2026-10-01 ([[2026-10-01-circle-of-dining-redesign]])
 
@@ -40,6 +51,7 @@ updated: 2026-10-21
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: δύο projects. «The circle of dining» (νέο, δημιουργήθηκε 2026-10-14): 11 ανοιχτά, 7 ολοκληρωμένα (circle presentation ✓ 10-06, cod posting plan ✓ 10-07, cod video 1 αλλαγές & cover ✓ 10-16, cod video 2 cover ✓ 10-20)· ανοιχτά carousels, cod video 2, xenia dinner (έως 2026-11-23). «Georgiadis chef» (από 2026-07-22): 10 ανοιχτά, 30 ολοκληρωμένα — podcast 1 (intro, cover, edit, promo, teasers, Apple/YouTube covers), podcasts Παύλος Κυριάκης & Κυρίτσης/Μπάκουλης, tesla video ✓ 10-13, αρνί video, myway interview ✓ 10-15, ads/tik tok ads/teaser ad (Δήμος ✓ 09-30), media kit ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Asana: η Ιωάννα ζητά από τον Δήμο σχόλια στην αρχισυνταξία του γυρίσματος 22/10 και απόφαση για βιντεογράφο· στο «cod video 2 αλλαγές» περιμένει συγκεκριμένο feedback μετά το «mallon ok» ([[2026-10-20-asana-circle-of-dining-mentions]]).
 - 2026-10-22 — «The Circle of Dining γύρισμα» 13:00 (προγραμματισμένο) ([[2026-07-20_2026-11-03]]).
 - 2026-10-13 — «Georgiadis chef - podcast» 18:30 ([[2026-07-20_2026-11-03]]).
@@ -67,4 +79,6 @@ updated: 2026-10-21
 
 ## Σημειώσεις
 - Ο Δήμος του μιλά στον ενικό, ζεστά: «Καλησπέρα Δημήτρη,» → αριθμημένη λίστα → «Φιλικά,» ([[2026-10-01-circle-of-dining-redesign]]).
+- Asana: «tesla video» ✓ 2026-10-13 και «αρχισυνταξία για Tesla» ✓ 2026-09-28 στο project «Georgiadis chef» — στηρίζει την υπόθεση ότι το «Chef για Tesla» αφορά τον Γεωργιάδη και το [[tesla-glyfada]]· «myway interview» ✓ 2026-10-15 — 💭 Υπόθεση: συνέντευξη στο [[make-your-way]] ([[2026-10-21-asana-snapshot]]).
+- 💭 Υπόθεση: το «cod posting plan» ✓ 2026-10-07 αντιστοιχεί στο content calendar που στάλθηκε την ίδια μέρα ([[2026-10-21-asana-snapshot]]).
 - Testimonial: μήνυμα από ιδιοκτήτη μαγαζιού στα Μάλια ([[2026-10-01-circle-of-dining-redesign]]).

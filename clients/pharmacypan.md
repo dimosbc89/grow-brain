@@ -1,7 +1,7 @@
 ---
 type: client
 title: "Φαρμακείο Πανόπουλος Αχαρνές (pharmacypan.gr)"
-aliases: [PharmacyPan, pharmacypan.gr, Φαρμακείο Πανόπουλος, Πανόπουλος]
+aliases: [PharmacyPan, pharmacypan.gr, Φαρμακείο Πανόπουλος, Πανόπουλος, Pharmacy Panopoulos, ΠΑΝΟΠΟΥΛΟΣ ΑΚΟΥΣΤΙΚΑ]
 status: ενεργός
 updated: 2026-10-21
 ---
@@ -10,6 +10,7 @@ updated: 2026-10-21
 
 ## Σε μια ματιά
 - **Υπηρεσίες:** domain pharmacypan.gr (ανανέωση μέσω [[cretaforce]]) ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]])· email axarnes@pharmacypan.gr ([[2026-08-07-pharmacypan-phishing-spam]])· άρθρα στο pharmacypan.gr με σελίδα «article-review» ([[2026-10-12-pharmacy-article-review-link]])· γύρισμα «Φαρμακείο shooting» 2026-09-09 (💭 Υπόθεση: για αυτό το φαρμακείο) ([[2026-07-20_2026-11-03]]).
+- **Asana:** δύο projects, «Pharmacy Panopoulos» (social posts για προσφορές/brands, site, βιτρίνα) και «ΠΑΝΟΠΟΥΛΟΣ ΑΚΟΥΣΤΙΚΑ» (από 2026-06-04: εταιρική παρουσίαση, σχεδιαστικό, «μηνιαίο fee»). Στις 2026-10-13 ολοκληρώθηκαν «πρόταση συνεργασίας - φαρμακείο & ακουστικά» και «presentation - φαρμακείο & ακουστικά» ([[2026-10-21-asana-snapshot]]).
 - **Επαφές:** [[paris-panopoulos]] (φαρμακοποιός)· george@gandritsos.com στο «PharmacyPan review» της 2026-09-30, ρόλος ασαφής ([[2026-07-20_2026-11-03]]).
 - **Ομάδα GROW:** [[vassiliki-giannopoulou]] (επικοινωνία με πελάτη, review άρθρων)· ο Δήμος· [[marina-papanastasiou]] σε τιμολόγηση domain ([[2026-08-07-pharmacypan-phishing-spam]], [[2026-10-12-pharmacy-article-review-link]], [[2026-09-07-cretaforce-pharmacypan-domain-renewal]]).
 
@@ -20,6 +21,12 @@ updated: 2026-10-21
 ## Ανοιχτά & επόμενα βήματα
 - [ ] 💭 Αλλαγή κωδικού του email που στάλθηκε σε απλό κείμενο στο thread (2026-09-29) — GROW ([[2026-10-20-pharmacypan-auto-emails]])
 **GROW**
+- [ ] «25/10 Παγκόσμια ημέρα κατά του καρκίνου του μαστού» tasks — [[vassia-kataki]] — έως 2026-10-22 ([[2026-10-21-asana-snapshot]])
+- [ ] «FAK Σπιτιού» — [[marianna-vourna]] — έως 2026-09-25 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
+- [ ] Site Pharmacy Pan — [[vassia-kataki]] — έως 2026-07-29 ⚠️ εκπρόθεσμο (task από 2025-01-09) ([[2026-10-21-asana-snapshot]])
+- [ ] Ακουστικά: εταιρική παρουσίαση — [[vassiliki-giannopoulou]] — έως 2026-09-30 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
+- [ ] Ακουστικά: προσαρμογή σχεδιαστικού — [[vassiliki-giannopoulou]] / [[vassia-kataki]] (subtask) — έως 2026-10-12 / 2026-10-19 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
+- [ ] Ακουστικά: «μηνιαίο fee» — χωρίς ανάθεση — χωρίς due, χωρίς κίνηση από 2026-06-05 ([[2026-10-21-asana-snapshot]])
 - [ ] Review των άρθρων του pharmacypan.gr — [[vassiliki-giannopoulou]] — χωρίς ημερομηνία ([[2026-10-12-pharmacy-article-review-link]])
 - [ ] Τιμολόγηση ανανέωσης domain στον πελάτη («Τιμολόγιο Πανόπουλος») — [[vassiliki-giannopoulou]] / [[marina-papanastasiou]] — ασαφές αν έγινε ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]])
 - [ ] Ενημέρωση πελάτη ότι το «Webmail Revalidation» είναι spam — [[vassiliki-giannopoulou]] — ασαφές αν έγινε ([[2026-08-07-pharmacypan-phishing-spam]])
@@ -28,6 +35,7 @@ updated: 2026-10-21
 - 2026-08-07 — Το email «Webmail Revalidation» για το axarnes@pharmacypan.gr είναι phishing/spam· καμία ενέργεια ([[2026-08-07-pharmacypan-phishing-spam]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Asana: στο «Pharmacy Panopoulos» ολοκληρώθηκαν από 2026-09-08 έως 2026-10-16 posts για Eviol, chewy vites, LRP, Apivita (-40%, 1/10–10/10), Vichy, Caudalie (event), «ΠΡΟΣΦΟΡΑ 2ο προϊόν -50%», «Κλήρωση 200 πόντοι», «Μήνας πρόληψης Καρκίνου», «Φάρμακα υψηλού κόστους», «Ψείρες», καθώς και «qr reviews - plexiglass» (2026-09-10), «βιτρίνα Χαλάνδρι» (2026-09-08) και «ανανέωση domain» — Δήμος (2026-09-11). Στις 2026-10-13 ✓ «πρόταση συνεργασίας - φαρμακείο & ακουστικά» (Βασιλική) και «presentation - φαρμακείο & ακουστικά» (Φωτεινή). Στο «ΠΑΝΟΠΟΥΛΟΣ ΑΚΟΥΣΤΙΚΑ» 4 ανοιχτά, 3 εκπρόθεσμα ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Η Βασιλική στέλνει στον George αναθεωρημένα κείμενα για 4 αυτόματα emails ([[2026-10-20-pharmacypan-auto-emails]]).
 - 2026-10-23 — «γύρισμα Πανόπουλος σπίτια» στο ημερολόγιο (σχέση με το φαρμακείο ασαφής) ([[2026-07-20_2026-11-03]]).
 - 2026-10-12 — Ο Δήμος έστειλε στη Βασιλική το link «article-review» [στοιχείο παραλείφθηκε] ([[2026-10-12-pharmacy-article-review-link]]).
@@ -42,4 +50,7 @@ updated: 2026-10-21
 - Αμοιβή για άρθρα/γυρίσματα: ασαφές.
 
 ## Σημειώσεις
+- 💭 Υπόθεση: το «ΠΑΝΟΠΟΥΛΟΣ ΑΚΟΥΣΤΙΚΑ» είναι κατάστημα ακουστικών (βαρηκοΐας) της ίδιας οικογένειας/επιχείρησης· η πηγή δείχνει μόνο ότι η πρόταση συνεργασίας ήταν κοινή «φαρμακείο & ακουστικά» ([[2026-10-21-asana-snapshot]]).
+- 💭 Υπόθεση: η «βιτρίνα Χαλάνδρι» δείχνει δεύτερο σημείο στο Χαλάνδρι — η σελίδα ξέρει μόνο το φαρμακείο στις Αχαρνές· ασαφές ([[2026-10-21-asana-snapshot]]).
+- Η ανανέωση domain σημειώθηκε ✓ στο Asana από τον Δήμο 2026-09-11· αν τιμολογήθηκε στον πελάτη παραμένει ασαφές ([[2026-10-21-asana-snapshot]]).
 - Ο πελάτης ρωτά πρώτα τη Βασιλική για ύποπτα email ([[2026-08-07-pharmacypan-phishing-spam]]).
