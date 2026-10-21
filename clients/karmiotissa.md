@@ -3,7 +3,7 @@ type: client
 title: "Καρμιώτισσα (Karmiotissa, Κύπρος)"
 aliases: [Karmiotissa, Καρμιώτισσα, karmiotissa.com]
 status: κλειστός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Καρμιώτισσα (Karmiotissa)
 > Κυπριακός πελάτης που ήρθε μέσω [[marketing-coach-cy]]. Η GROW είχε το domain karmiotissa.com στο [[papaki]], τα email και τα DNS. Από 2026-10 φεύγει προς Co-Win και admin22 και η GROW κρατά τα email μόνο προσωρινά.
@@ -23,6 +23,7 @@ updated: 2026-10-20
 - **Email:** στις 2026-10-09 όλα λειτουργούσαν εκτός από το director@karmiotissa.com. Τα email μένουν στη φιλοξενία της GROW μέχρι να τα μεταφέρει η admin22 στους servers της, έως το τέλος Οκτωβρίου 2026 ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Στοιχεία πρόσβασης executivesecretary@ στον Andreas με ασφαλή τρόπο (όχι email) — Δήμος — από 2026-10-20 ([[2026-10-20-karmiotissa-aitima-kodikou-email]])
 - [ ] Πρόβλημα στο director@karmiotissa.com: ο Δήμος πρότεινε reset κωδικού — admin22 να απαντήσει — από 2026-10-09 ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]])
 - [ ] Έγκριση και απελευθέρωση του transfer από το Papaki — GROW — ζητήθηκε 2026-10-07, ολοκλήρωση ασαφής ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]])
 - [ ] Μεταφορά των email στους servers της admin22 και μετά τερματισμός της φιλοξενίας στη GROW — admin22 — έως 2026-10-31 ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]])
@@ -38,6 +39,7 @@ updated: 2026-10-20
 - 2026-10-07: το domain πάει στο Cloudflare, όχι σε άλλο λογαριασμό Papaki. Τα email μένουν προσωρινά στη GROW. Βλ. [[2026-10-07-karmiotissa-domain-cloudflare]] ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Ο [[andreas-nikolaou]] (admin22) ζητά τον κωδικό του executivesecretary@karmiotissa.com για τη μεταφορά των emails, μέσω ασφαλούς τρόπου ([[2026-10-20-karmiotissa-aitima-kodikou-email]]).
 - 2026-10-09 — Όλα τα email λειτουργούν εκτός από το director@. Ο Δήμος προτείνει reset κωδικού ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).
 - 2026-10-07 — Ο Δήμος δίνει auth code και αλλάζει nameservers σε Cloudflare: «οκ δεν είχα ενημερωθεί για αυτό. αλλαξαν οι nameservers.» ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).
 - 2026-10-02 — Export των mailboxes και των 27 DNS records ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).

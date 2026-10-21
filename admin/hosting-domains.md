@@ -3,7 +3,7 @@ type: admin
 title: "Hosting, servers & domains"
 aliases: [hosting, servers, domains, cloud.growagency.online, Plesk, Fastpath, Cretaforce, Papaki, Enartia]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Hosting, servers & domains
 > Οι servers της GROW (Plesk στη [[fastpath]]) και οι registrars ([[papaki]]/[[enartia]], [[cretaforce]]) όπου η GROW κρατά τα domains των πελατών. Κάθε ανανέωση domain ξανατιμολογείται στον πελάτη.
@@ -32,6 +32,7 @@ updated: 2026-10-20
 - Το ticket 004632 για SSH στα mailboxes του academicals.gr περιμένει ακόμη απάντηση ([[2026-09-28-fastpath-ticket-ssh-academicals]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Ανανέωση machevuoi.gr ή όχι — Δήμος — **έως 2026-11-04** ([[2026-10-20-machevuoi-gr-lixi-domain]])
 - [ ] **Εξόφληση Fastpath #58712: 507,78 €**. Αλλιώς διακόπτεται το cloud.growagency.online και ό,τι φιλοξενεί (ποια sites: ασαφές) — Δήμος — **άμεσα**: η Fastpath δεν έδωσε προθεσμία, η διακοπή είναι ήδη προγραμματισμένη· ο Δήμος υποσχέθηκε έως 2026-10-23 ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]])
 - [ ] Απάντηση της Fastpath στο ticket 004632: το SSH key δεν έχει πρόσβαση στα mailboxes του academicals.gr (χρειάζεται για backup και διαγραφή παλιών email) — Fastpath — ανοιχτό από 2026-09-28 ([[2026-09-28-fastpath-ticket-ssh-academicals]]). Σχετικά: [[academicals-foxacademy]]
 - [ ] Εκδόθηκε το τιμολόγιο προς [[pharmacypan]] («Τιμολόγιο Πανόπουλος») για την ανανέωση του pharmacypan.gr; — Μαρίνα/Βασιλική — ασαφές (λήξη domain 2026-09-14) ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]])
@@ -44,6 +45,7 @@ updated: 2026-10-20
 - Κάθε ανανέωση domain πελάτη ξανατιμολογείται στον πελάτη (π.χ. «Τιμολόγιο Πανόπουλος», «25 + fpa to kathena») ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]], [[2026-09-10-invoice-nikas-barista-domains]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Το machevuoi.gr (Papaki, GROW AGENCY EE) λήγει 2026-11-04· FASTPATH «αναμένουμε την εξόφληση» ([[2026-10-20-machevuoi-gr-lixi-domain]], [[2026-10-20-fastpath-apantisi-ticket]]).
 - 2026-10-19/20 — Fastpath, ticket 836805: «Διακοπή υπηρεσιών λόγω οφειλών». Ο Δήμος υποσχέθηκε εξόφληση έως 2026-10-23 ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]]).
 - 2026-10-14 — Cretaforce: τους πήρε τηλέφωνο ο ιδιοκτήτης του argyroplastics.gr. Επειδή το domain το διαχειρίζεται η GROW, ζητούν να επικοινωνήσει ο Δήμος. Προωθήθηκε στη Μαρίνα ([[2026-10-14-cretaforce-domain-argyroplastics]]).
 - 2026-10-07 — Δύο e-invoices Enartia/Papaki → Βασιλική ([[2026-10-07-enartia-papaki-timologia]]).

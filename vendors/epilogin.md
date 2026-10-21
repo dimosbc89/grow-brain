@@ -3,7 +3,7 @@ type: vendor
 title: "Epilogin / Epilogi Digital"
 aliases: [Epilogin, Epilogi Digital, epilogin.gr, epilogidigital@gmail.com]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Epilogin / Epilogi Digital
 > Προμηθευτής εκτυπώσεων/menuboards της GROW (επαφή [[iasonas-kolytos]])· χρησιμοποιείται και για κοστολόγηση κατασκευαστικών σε εκθεσιακά περίπτερα.
@@ -24,6 +24,7 @@ updated: 2026-10-20
 - [[2026-09-11-krema-menuboards-antikatastasi]] — αντικατάσταση χωρίς χρέωση στον πελάτη· πρόταση μοιρασιάς κόστους.
 
 ## Χρονολόγιο
+- 2026-10-20 — Ο Ιάσωνας δίνει 8.950 € + ΦΠΑ για το περίπτερο Plastica· η Βάσια ζητά προσφορά A5 φυλλαδίων Nomud ([[2026-10-20-plastica-prosfora-kataskevasti]], [[2026-10-20-nomud-a5-fylladia]]).
 - 2026-09-11 — Email Δήμου για αντικατάσταση menuboards Krema («Εάν δεν θες να το κάνεις τελικά ενημέρωσε με να δω ποιος θα πάει να το κάνει.») ([[2026-09-11-krema-menuboards-epilogin]]).
 - 2026-07 — Ο Δήμος προωθεί σχέδια περιπτέρου COCO-MAT στην Epilogi Digital για κοστολόγηση ([[2026-09-07-cocomat-xenia-booth-offer]]).
 

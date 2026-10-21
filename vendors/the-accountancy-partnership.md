@@ -3,7 +3,7 @@ type: vendor
 title: "The Accountancy Partnership (TAP)"
 aliases: [TAP, The Accountancy Partnership, theaccountancy.co.uk]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # The Accountancy Partnership (TAP)
 > Online λογιστικό γραφείο στο UK. Επιλέχθηκε στις 2026-10-14 ως λογιστής της [[grow-360-ltd]]. Το onboarding είναι σε εξέλιξη αλλά μπλοκαρισμένο από ένα απλήρωτο τιμολόγιο.
@@ -45,6 +45,7 @@ updated: 2026-10-20
 - 2026-10-14 → [[2026-10-14-logistis-uk-the-accountancy-partnership]].
 
 ## Χρονολόγιο
+- 2026-10-20 — Onboarding call: η Ellie δεν βρήκε τον Δήμο στο τηλέφωνο, ζητά ώρα· υπενθύμιση P-388149 (λήξη 2026-10-30) ([[2026-10-20-accountancy-partnership-onboarding]], [[2026-10-20-accountancy-partnership-invoice-p388149]]).
 - 2026-10-19 — Ο λογαριασμός μπλοκαρίστηκε (P-388148). Ο Δήμος ρώτησε πώς πληρώνει και η Megan έστειλε τραπεζικά στοιχεία ([[2026-10-19-accountancy-partnership-account-blocked]]).
 - 2026-10-16 — Welcome και ανάθεση στον Jamie. Ζητήθηκε CT authorisation από την HMRC και authentication code από την Companies House. Ζητήθηκαν και τα έγγραφα AML ([[2026-10-16-accountancy-partnership-welcome]], [[2026-10-16-accountancy-partnership-aml-check]]).
 - 2026-10-15 — Υπογράφηκε η φόρμα «Limited Company Registration» ([[2026-10-15-accountancy-partnership-registration-signed]]).

@@ -3,7 +3,7 @@ type: client
 title: "Υιάγια (Yiayia Meatballs)"
 aliases: [Υιάγια, Yiayia, Yiayia Meatballs, Υιάγια Home of Meatballs, Γιάγια, yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Υιάγια (Yiayia Meatballs)
 > Εστιατόριο με κεφτεδάκια («Home of Meatballs») της [[maria-drouza]]· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influencers, μενού, packaging και γυρίσματα.
@@ -22,6 +22,7 @@ updated: 2026-10-20
 - Επόμενο γύρισμα: «Υιάγια shooting» 2026-10-23 09:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Τελικό οκ και παραγγελία εκτυπωτικών· μέτρηση υδρογείου 2026-10-23 — [[vassiliki-giannopoulou]] ([[2026-10-20-yiayia-ektypotika]])
 **Υποσχέσεις του Δήμου**
 - [ ] Απάντηση στους υπεύθυνους του server για το foodhugs.gr και απλή landing — Δήμος — υπόσχεση 18/10, χωρίς ημερομηνία ([[2026-10-20-yiayia-website-new-version]])
 - [ ] AnyDesk call με τη Μαρία και επιτόπου διορθώσεις site — Δήμος — 2026-10-20 ~14:30 ([[2026-10-20-yiayia-website-new-version]])
@@ -65,6 +66,7 @@ updated: 2026-10-20
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Εκτυπωτικά: QR stickers 45 € + ΦΠΑ x2, υδρόγειος 185x83 cm (150 € + ΦΠΑ) με μέτρηση 2026-10-23· η Βασιλική περιμένει τελικό οκ για παραγγελία ([[2026-10-20-yiayia-ektypotika]]).
 - 2026-10-23 — «Υιάγια shooting» 09:30 (προγραμματισμένο) ([[2026-07-20_2026-11-03]]).
 - 2026-10-20 — Η Βασιλική απαντά σημείο-σημείο· AnyDesk call 14:30 ([[2026-10-20-yiayia-website-new-version]], [[2026-07-20_2026-11-03]]).
 - 2026-10-19 — Λίστα Μαρίας: διορθώσεις site, «Meatballs on Pasta», street interviews, editorial, post 28/10, TikTok, επόμενος influencer ([[2026-10-20-yiayia-website-new-version]]).

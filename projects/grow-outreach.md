@@ -3,7 +3,7 @@ type: project
 title: "GROW outreach & marketing (δικό μας)"
 aliases: [GROW marketing, cold outreach, ActiveCampaign, ΙΕΚ καμπάνια, @grow.agency.online, GROW social]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # GROW outreach & marketing
 > Το marketing της ίδιας της [[grow-agency]]: cold email καμπάνιες μέσω ActiveCampaign (ΙΕΚ/εκπαίδευση, εκθεσιακά περίπτερα), υλικό για τα social και τα flyers της GROW, events και press.
@@ -23,6 +23,8 @@ updated: 2026-10-20
 - Για την καμπάνια ΙΕΚ υπάρχει μόνο το test της 2026-07-30. Πραγματική αποστολή και αποτελέσματα: ασαφή ([[2026-07-30-test-newsletter-iek-eggrafes]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Απάντηση στον Paralos για χρέωση συμμετοχής στο Hospitality Jam — [[ioanna-chalkiadaki]] (💭 Υπόθεση: θέλει γραμμή από τον Δήμο) ([[2026-10-20-hospitality-jam-paralos]])
+- [ ] Παρουσίαση στην Papoutsanis — [[ioanna-chalkiadaki]] ([[2026-10-20-hospitality-jam-papoutsanis]])
 - [ ] Καμπάνια ΙΕΚ: το preheader («Από την σχεδίαση του εκθεσιακού σας περιπτέρου...») έμεινε από την καμπάνια περιπτέρων και πρέπει να διορθωθεί πριν την κανονική αποστολή — Δήμος — ασαφές αν έγινε ([[2026-07-30-test-newsletter-iek-eggrafes]])
 - [ ] Primowear: προσφορά για το D16 — GROW — ζητήθηκε 2026-09-19 ([[2026-09-24-primowear-periptero-ekthesi-d16]])
 - [ ] Startup Revolution AI Summit (Σκόπια, 1–4/10): η Ana ζήτησε αριθμό ατόμων για custom offer (attendees ή branded booth). Απάντηση δεν φαίνεται· το event έχει περάσει ([[2026-09-17-startup-revolution-ai-summit-skopje]])
@@ -34,6 +36,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-10-20 — The Hospitality Jam: call με Mediterranean College 2026-10-22 12:30· Paralos ρωτά αν υπάρχει χρέωση συμμετοχής (αναπάντητο)· Papoutsanis ζητά παρουσίαση με email ([[2026-10-20-hospitality-jam-mediterranean-college]], [[2026-10-20-hospitality-jam-paralos]], [[2026-10-20-hospitality-jam-papoutsanis]]).
 - 2026-10-21 — Επόμενο: 30-Minute Meeting του Δήμου με τη Marilena Rentzou (ByteDance) ([[2026-07-20_2026-11-03]]).
 - 2026-10-07 — Ο Δήμος μοιράζει στην ομάδα λίστα Ελλήνων δημοσιογράφων/media ([[2026-10-07-lista-dimosiografon-press]]).
 - 2026-09-30 — Cold outreach του Δήμου στο κανάλι YouTube TruePathFX, για λογαριασμό της πελάτισσας [[sk-advisors]] (όχι για τη GROW) ([[2026-09-30-truepathfx-taxi-episode-proposal]]).

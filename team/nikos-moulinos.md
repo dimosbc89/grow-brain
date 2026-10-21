@@ -3,7 +3,7 @@ type: team
 title: "Νίκος Μουλινός"
 aliases: [Nikos Moulinos, Μουλινός, Google Ads Specialist, GrowAgency Team, moulinosape1r0n@gmail.com, mrmoulinos@gmail.com]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Νίκος Μουλινός
 > Εξωτερικός συνεργάτης (freelancer) Google Ads της GROW. Τρέχει τους λογαριασμούς Google Ads πελατών και στέλνει μηνιαία reports με υπογραφή «GrowAgency Team».
@@ -36,6 +36,7 @@ updated: 2026-10-20
 - 2026-09-01: τα ads του «Global» μένουν σταματημένα· ο Νίκος εστιάζει στους ενεργούς λογαριασμούς ([[2026-09-01-global-ads-payment-issue]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Η Σοφία επιβεβαιώνει πληρωμή 2 τιμολογίων· ο Νίκος δίνει νέα στοιχεία χρέωσης (Moulinos LLC, λογαριασμός Βελγίου — [στοιχείο παραλείφθηκε]) ([[2026-10-20-moulinos-timologia]]).
 - 2026-10-05 — Προσφορά 650€· η Μαρίνα την προωθεί στον Δήμο ([[2026-10-05-google-ads-freelancer-moulinos]]).
 - 2026-10-01 — Ρωτά για «sakura, hercules». Ο Δήμος: «Πάτα στοπ και στα δύο κλείσε και campaign a» ([[2026-10-05-google-ads-freelancer-moulinos]]).
 - 2026-09-25 — «Μουλινός εδώ» 16:00 στο γραφείο. Την ίδια μέρα ξεκινά το thread με τη λίστα λογαριασμών ([[2026-07-20_2026-11-03]], [[2026-10-05-google-ads-freelancer-moulinos]]).

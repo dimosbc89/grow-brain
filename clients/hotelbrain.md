@@ -3,7 +3,7 @@ type: client
 title: "HotelBrain"
 aliases: [HOTELBRAIN S.A., Hotelbrain, Hotel Brain, hotelbrain.com, hotelbraingroup.com]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # HotelBrain
 > Η HOTELBRAIN S.A. είναι η πλευρά πελάτη για τα hotel websites που φτιάχνει και υποστηρίζει τεχνικά η GROW ([[mr-mrs-white]], [[anayia]], September City Living, GHH) και τώρα για το νέο corporate site της ίδιας της HotelBrain.
@@ -23,6 +23,7 @@ updated: 2026-10-20
 - **Επόμενη συνάντηση:** 2026-10-23, 15:00, Microsoft Teams, «Τεχνικές Προδιαγραφές Ιστοσελίδων». Συμμετέχουν η ομάδα HotelBrain και ο gspyridis@aviamos.com. Ο ρόλος της Aviamos είναι ασαφής ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Επικοινωνία για μεταφορά του Teams 2026-10-23 13:00 (συμπίπτει με [[dominos]]) — Δήμος — **2026-10-21** ([[2026-10-20-hotelbrain-call-meeting-teams]])
 - [ ] Αλλαγή name servers στο papaki για go-live του νέου corporate site, χωρίς να επηρεαστούν τα emails του domain — Δήμος — η Νίκη περιμένει από 2026-10-12 ([[2026-10-12-hotelbrain-corporate-website]])
 - [ ] Επιβεβαίωση του τελικού σεναρίου domains: το νέο site στο hotelbrain.com και το τρέχον στο hotelbrainhotels.com — HotelBrain (το ζήτησε ο Δήμος) — χωρίς ημερομηνία ([[2026-10-12-hotelbrain-corporate-website]])
 - [ ] Αναλυτικό mapping (property name, WordPress record, booking-engine URL, property code) για να επιβεβαιωθεί το scope — Δήμος (υπόσχεση 2026-09-11) — χωρίς ημερομηνία ([[2026-09-14-hotelbrain-webhotelier-api]])
@@ -39,6 +40,7 @@ updated: 2026-10-20
 - Τα emails που είναι συνδεδεμένα στο domain δεν πρέπει να επηρεαστούν από το go-live ([[2026-10-12-hotelbrain-corporate-website]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Teams invite «Τεχνικές Προδιαγραφές Ιστοσελίδων» για 2026-10-23 13:00 (ζήτησε ο κ. Παλαιολόγος)· ο Δήμος απαντά ότι έχει άλλο ραντεβού και θα επικοινωνήσει 2026-10-21 για μεταφορά ([[2026-10-20-hotelbrain-call-meeting-teams]], [[2026-10-20-hotelbrain-texnikes-prodiagrafes-invite]]).
 - 2026-10-23 15:00 — Προγραμματισμένη συνάντηση στο Teams «Τεχνικές Προδιαγραφές Ιστοσελίδων» ([[2026-07-20_2026-11-03]]).
 - 2026-10-12 — Η Νίκη ρωτά αν ο Δήμος είναι διαθέσιμος τώρα για την αλλαγή των NS (πρόσβαση στο papaki είχε δώσει ήδη στις 2026-10-09) ([[2026-10-12-hotelbrain-corporate-website]]).
 - 2026-10-08 — Ο Δήμος γράφει: «οι αλλαγές είναι έτοιμες θα χρειαστούμε να αλλάξουμε name servers» ([[2026-10-12-hotelbrain-corporate-website]]). Την ίδια μέρα, στις 11:00, γίνεται η συνάντηση στα γραφεία της HotelBrain ([[2026-07-20_2026-11-03]]).

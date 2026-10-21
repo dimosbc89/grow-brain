@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -20,6 +20,8 @@ updated: 2026-10-20
 - Επόμενο: «The Circle of Dining γύρισμα» 2026-10-22 13:00 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Feedback/έγκριση «cod video 2» — Δήμος — από 2026-10-20 ([[2026-10-20-asana-circle-of-dining-mentions]])
+- [ ] Σχόλια αρχισυνταξίας + βιντεογράφος ή όχι — Δήμος — **πριν τις 2026-10-22 13:00** ([[2026-10-20-asana-circle-of-dining-mentions]])
 - [ ] Ενσωμάτωση υλικού (φωτογραφίες, logos Hilton/Agusta, testimonial) στο redesign — [[ioanna-chalkiadaki]] / Δήμος («Στείλε μου να τα περάσω») — από 2026-10-01 ([[2026-10-01-circle-of-dining-redesign]])
 - [ ] AI videos αντί για landscape videos (ο πελάτης δεν έχει) — GROW — χωρίς ημερομηνία ([[2026-10-01-circle-of-dining-redesign]])
 - [ ] Γραπτά testimonials πελατών — [[dimitris-georgiadis]] — ασαφές αν έγινε ([[2026-10-01-circle-of-dining-redesign]])
@@ -38,6 +40,7 @@ updated: 2026-10-20
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Asana: η Ιωάννα ζητά από τον Δήμο σχόλια στην αρχισυνταξία του γυρίσματος 22/10 και απόφαση για βιντεογράφο· στο «cod video 2 αλλαγές» περιμένει συγκεκριμένο feedback μετά το «mallon ok» ([[2026-10-20-asana-circle-of-dining-mentions]]).
 - 2026-10-22 — «The Circle of Dining γύρισμα» 13:00 (προγραμματισμένο) ([[2026-07-20_2026-11-03]]).
 - 2026-10-13 — «Georgiadis chef - podcast» 18:30 ([[2026-07-20_2026-11-03]]).
 - 2026-10-07 — Content calendar GR στην Ιωάννα ([[2026-10-07-circle-of-dining-content-calendar]]).

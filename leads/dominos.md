@@ -3,7 +3,7 @@ type: lead
 title: "Domino's"
 aliases: [Dominos, Domino's Pizza, dominos.gr]
 status: prospect
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Domino's
 > Νέο lead: συνάντηση «Grow Agency x Dominos» προγραμματισμένη για 2026-10-23 με όλη την senior ομάδα της GROW.
@@ -23,6 +23,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-10-23 — «Grow Agency x Dominos» 13:00 (Meet)· ο Δήμος έχει ταυτόχρονα το Teams της HotelBrain ([[2026-10-21_2026-10-28]]).
 - 2026-10-23 — «Grow Agency x Dominos» 13:00 (προγραμματισμένο) ([[2026-07-20_2026-11-03]]).
 
 ## Οικονομικά

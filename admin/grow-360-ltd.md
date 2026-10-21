@@ -3,7 +3,7 @@ type: admin
 title: "GROW 360 LTD (UK εταιρεία)"
 aliases: [GROW 360, GROW 360 LTD, UK εταιρεία, UK company, βρετανική εταιρεία]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # GROW 360 LTD
 > Η βρετανική εταιρεία του Δήμου (μοναδικός director/shareholder, κάτοικος Ελλάδας). Τον Οκτώβριο 2026 πέρασε σε νέο λογιστή, την [[the-accountancy-partnership]], και τον Νοέμβριο 2026 έχει τις πρώτες προθεσμίες της στην Companies House.
@@ -25,6 +25,8 @@ updated: 2026-10-20
 - Η YCF θα ανανεώσει αυτόματα τις υπηρεσίες της στις 2026-11-10, αν δεν ακυρωθούν ([[2026-10-13-yourcompanyformations-renewal]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Ώρα για onboarding call με την Ellie — Δήμος / [[marina-papanastasiou]] — από 2026-10-20 ([[2026-10-20-accountancy-partnership-onboarding]])
+- [ ] Πληρωμή P-388149 — Δήμος — **έως 2026-10-30** ([[2026-10-20-accountancy-partnership-invoice-p388149]])
 - [ ] Πληρωμή του τιμολογίου TAP P-388148 (annual holding/registration fee· ποσό μόνο στο PDF, ασαφές) — Δήμος — «as soon as possible», εκκρεμεί από 2026-10-19 ([[2026-10-19-accountancy-partnership-account-blocked]])
 - [ ] Αποστολή εγγράφων AML στην TAP: photo ID και αποδεικτικό διεύθυνσης τελευταίου τριμήνου — Δήμος/Μαρίνα — χωρίς ημερομηνία ([[2026-10-16-accountancy-partnership-aml-check]])
 - [ ] Link για initial consultation από τον Jamie (TAP) — TAP — έως 2026-10-20 (2 εργάσιμες από 2026-10-16· μπλοκαρισμένο μέχρι την πληρωμή) ([[2026-10-16-accountancy-partnership-welcome]])
@@ -45,6 +47,7 @@ updated: 2026-10-20
 - 2026-10-02 — Η Μαρίνα αναλαμβάνει να επιλέξει λογιστή και να ρωτήσει αν ακυρώνονται οι υπηρεσίες YCF ([[2026-10-02-grow360-ycf-renewal-accounting]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Η The Accountancy Partnership ζητά ώρα για onboarding call (forward στη Μαρίνα) και στέλνει υπενθύμιση για το τιμολόγιο P-388149, λήξη 2026-10-30 ([[2026-10-20-accountancy-partnership-onboarding]], [[2026-10-20-accountancy-partnership-invoice-p388149]]).
 - 2026-10-19 — TAP: στάλθηκαν τραπεζικά στοιχεία ([[2026-10-19-accountancy-partnership-account-blocked]]). Ίδια μέρα: δεύτερη υπενθύμιση από τη DMP ([[2026-10-19-dmp-accountants-grow360-quote]]).
 - 2026-10-16 — TAP: η Megan επιβεβαίωσε ότι ο λογαριασμός περιορίστηκε για το απλήρωτο P-388148· ο Δήμος ρώτησε την ίδια μέρα «how we can pay ? can we do it digital or can you provide us with iban» ([[2026-10-19-accountancy-partnership-account-blocked]]).
 - 2026-10-16 — TAP welcome: ανάθεση στον Jamie McColl, αίτημα CT authorisation στην HMRC, αίτημα authentication code από Companies House, onboarding checklist, δωρεάν Pandle Pro ([[2026-10-16-accountancy-partnership-welcome]]). Ζητήθηκαν και τα έγγραφα AML ([[2026-10-16-accountancy-partnership-aml-check]]).

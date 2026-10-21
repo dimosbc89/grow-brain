@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -23,6 +23,7 @@ updated: 2026-10-20
 - Ο Δήμος ζήτησε διαθεσιμότητες για call στις 2026-10-14· ημερομηνία call δεν υπάρχει στο ημερολόγιο ([[2026-10-14-overoll-websites-domains]], [[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Κόστη μπαλονιών/promoters/DJ για το event — [[vassiliki-giannopoulou]] ([[2026-10-20-overoll-turns-6-event]])
 **Υποσχέσεις του Δήμου**
 - [ ] Λίστα εναλλακτικών .com domains (π.χ. overollcroissanterie.com) — Δήμος — χωρίς ημερομηνία (από 2026-10-14) ([[2026-10-14-overoll-websites-domains]])
 - [ ] Online call για δομή και links των sites — Δήμος — μόλις η Overoll δώσει διαθεσιμότητες και κλείσει τις σημειώσεις της ([[2026-10-14-overoll-websites-domains]])
@@ -38,6 +39,7 @@ updated: 2026-10-20
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Overoll Turns 6 (2026-11-01): εγκρίθηκε η κάρτα, στάλθηκαν εκτυπωτικά· promoters 27/29/30-10, giveaway iPhone 18· εβδομαδιαίες κριτικές 12–19/10 από τη Vasia S. Επίσης: η Global Foods επισήμανε ότι το δικό της Google Ads report (2026-09-11) είχε σταλεί και στο marketing@overoll.gr ([[2026-10-20-overoll-turns-6-event]], [[2026-10-20-overoll-kritikes-12-19-10]], [[2026-10-20-globalfoods-google-ads-report-update-2026-10-21]]).
 - 2026-10-14 — Ο Δήμος εξηγεί την κατάσταση των domains· η Overoll ζητά call και φθηνότερες .com εναλλακτικές· ο Δήμος ζητά διαθεσιμότητες ([[2026-10-14-overoll-websites-domains]]).
 - 2026-10-06 — Ο Δήμος παρουσιάζει την κατεύθυνση για τα τρία νέα websites ([[2026-10-14-overoll-websites-domains]]).
 - 2026-10-01 → 2026-10-05 — Ο Δήμος δίνει το Overoll μαζί με άλλους λογαριασμούς Google Ads στον Nikos Moulinos ([[2026-10-05-google-ads-freelancer-moulinos]]).

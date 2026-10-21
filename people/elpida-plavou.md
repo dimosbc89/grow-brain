@@ -3,7 +3,7 @@ type: person
 title: "Elpida Plavou"
 aliases: [Ελπίδα Πλάβου, Ελπίδα, elpida.plavou@globalfoods.gr]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Elpida Plavou
 > Επαφή της [[global-foods]] με ασαφή ρόλο. Λαμβάνει τα Google Ads reports και την πρόταση videography, και είναι σε cc στα event θέματα.
@@ -23,6 +23,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-10-21 — Ζητά πλάνο καμπανιών και στέλνει brief social· 2026-10-20 επισήμανε το report που στάλθηκε και στο Overoll ([[2026-10-21-globalfoods-campaigns]], [[2026-10-20-globalfoods-google-ads-report-update-2026-10-21]]).
 - 2026-10-08 — «Ελπίδα meeting» 12:30 ([[2026-07-20_2026-11-03]])· λαμβάνει το «GROW_Agency_Videography_Proposal.pdf» ([[2026-10-08-globalfoods-videography-proposal]]).
 - 2026-09-11 — Λαμβάνει το Google Ads report Μαρ–Σεπ 2026 ([[2026-09-11-globalfoods-google-ads-report]]).
 - 2026-08-06 — Ζητά το email επιβεβαίωσης της παραγγελίας #39897 (από info@, σε cc το προσωπικό της) ([[2026-08-06-globalfoods-paraggelia-39897]]).

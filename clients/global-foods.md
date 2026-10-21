@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -25,6 +25,10 @@ updated: 2026-10-20
 - Στο ημερολόγιο: «Πρεσβεία Global - Despina» 2026-10-22 16:00 — 💭 Υπόθεση: αφορά τη Global Foods, ασαφές ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Απάντηση στην Ελπίδα για το report που πήγε και στο [[overoll]] + νέο Google Ads report 11/09–11/10 — Δήμος — από 2026-10-20 ([[2026-10-20-globalfoods-google-ads-report-update-2026-10-21]])
+- [ ] Πλάνο καμπανιών (posts, κανάλια, budget, στρατηγική) — Δήμος / [[marina-papanastasiou]] — από 2026-10-21 ([[2026-10-21-globalfoods-campaigns]])
+- [ ] Post SIAL + απάντηση panettone + feedback στο νέο στυλ — [[despina-velissariou]] — άμεσα ([[2026-10-21-globalfoods-social]])
+- [ ] Αναθεώρηση videos Zeo / Detroit + στρατηγική aftermovies — [[despina-velissariou]] — από 2026-10-20 ([[2026-10-20-globalfoods-video-unique-zeo]])
 **Υποσχέσεις του Δήμου**
 - [ ] Αλλαγή email στο account του GIGLIO ATHENS στο app — Δήμος — μόλις η Global Foods επιβεβαιώσει και δώσει το νέο email (από 2026-10-20) ([[2026-10-20-globalfoods-email-pelati-paikopoulos]])
 - [ ] Φυλλάδιο με QR μόλις είναι έτοιμο το QR (ή χωρίς QR) — Δήμος/GROW — κατάσταση ασαφής ([[2026-10-05-globalfoods-fylladio-seminario-detroit]])
@@ -46,6 +50,8 @@ updated: 2026-10-20
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Η Ελπίδα ζητά πλάνο καμπανιών (posts, κανάλια, ποσά, στρατηγική) και στέλνει brief «SOCIAL GLOBAL FOODS» για τον επόμενο μήνα· θέλει άμεσα post για SIAL και απάντηση για panettone ([[2026-10-21-globalfoods-campaigns]], [[2026-10-21-globalfoods-social]]).
+- 2026-10-20 — Η Ελπίδα επισημαίνει ότι το Google Ads report της 2026-09-11 πήγε και στο marketing@overoll.gr και ζητά report 11/09–11/10· σχόλια στα videos Zeo/Detroit (απότομη αρχή/τέλος, logos, «Πού είναι η Unique;») και αίτημα για στρατηγική aftermovies ([[2026-10-20-globalfoods-google-ads-report-update-2026-10-21]], [[2026-10-20-globalfoods-video-unique-zeo]]).
 - 2026-10-20 — Η Εύη προωθεί αίτημα της Στέλλας Κρουσανιωτάκη (πρώην συνεργάτιδα του GIGLIO ATHENS) να σταματήσουν τα emails επιβεβαίωσης· ο Δήμος εξηγεί ότι το email ανήκει στον διαχειριστή που έφτιαξε το account και αποχώρησε, και ρωτά αν και με ποιο email να αλλάξει ([[2026-10-20-globalfoods-email-pelati-paikopoulos]]).
 - 2026-10-08 — «Ελπίδα meeting» 12:30 ([[2026-07-20_2026-11-03]])· ο Δήμος στέλνει στην Elpida το «GROW_Agency_Videography_Proposal.pdf» ([[2026-10-08-globalfoods-videography-proposal]]).
 - 2026-10-06 — Event Pizza Detroit σε ξενοδοχείο, 120 προσκεκλημένοι ([[2026-10-02-globalfoods-live-projector-videographer]])· στο ημερολόγιο «Δέσποινα Global - Divani εκεί» 10:00 — 💭 Υπόθεση: το ξενοδοχείο είναι Divani ([[2026-07-20_2026-11-03]]).

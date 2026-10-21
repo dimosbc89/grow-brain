@@ -3,7 +3,7 @@ type: project
 title: "Estia (estiagreekhome.online) & Estia CRM"
 aliases: [Estia, Estia CRM, estiagreekhome.online, crm.estiagreekhome.online, Estia Greek Home]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Estia (estiagreekhome.online) & Estia CRM
 > Δικό project του Δήμου: η υπηρεσία Estia (estiagreekhome.online — φροντίδα/έλεγχος ακινήτων στην Ελλάδα για ιδιοκτήτες που ζουν στο εξωτερικό, κατά το πρώτο inquiry) και το web app Estia CRM.
@@ -20,6 +20,8 @@ updated: 2026-10-20
 - Πρόοδος του CRM προς live: ασαφές ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Δικηγόρος για την υπόθεση Home Watch Athens + ενημέρωση Μαρίνας — Δήμος — **άμεσα** ([[2026-10-20-homewatch-athens-estia-mhnysh]])
+- [ ] ⚠️ Αντίφαση: 2026-05 «θα αλλάξουμε brand και domain asap» — το estiagreekhome.online είναι ακόμη σε χρήση· ρώτα τον Δήμο ([[2026-10-20-homewatch-athens-estia-mhnysh]])
 - [ ] Αποστολή απάντησης στη Nicolette Ladoulis και call πριν φύγει για ΗΠΑ — [[vassiliki-giannopoulou]] — ημερομηνία αναχώρησης ασαφής ([[2026-09-18-estia-proto-inquiry-lamia]])
 - [ ] Γυρίσματα βίντεο για το Estia με τον Δήμο στην κάμερα — Δήμος / [[vassiliki-giannopoulou]] — ημερομηνία ασαφής ([[2026-09-12-estia-plano-video-gyrismata]])
 - [ ] Η Βασιλική να στείλει στον Δήμο το αρχείο που της είχε στείλει — [[vassiliki-giannopoulou]] — από 2026-09-12 ([[2026-09-12-estia-plano-video-gyrismata]])
@@ -30,6 +32,7 @@ updated: 2026-10-20
 - Θα γυριστούν βίντεο για το Estia με τον Δήμο ([[2026-09-12-estia-plano-video-gyrismata]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Ο Yanis Zisis (Home Watch Athens) δηλώνει ότι κατέθεσε μήνυση στο ΑΤ Αμαρουσίου για χρήση brand/κειμένων στο estiagreekhome.online, κατά του Δήμου και της [[marina-papanastasiou]]· 2026-10-19 ο Δήμος απάντησε ότι δεν αποδέχεται τους ισχυρισμούς και ζήτησε επικοινωνία μέσω δικηγόρου ([[2026-10-20-homewatch-athens-estia-mhnysh]]).
 - 2026-09-23 — Ο Δήμος έστειλε στη Βασιλική το link του Estia social library· εκείνη: «ΣΥΓΚΛΟΝΙΣΤΙΚΟ» ([[2026-09-23-estia-social-library]]).
 - 2026-09-18 — Ο Δήμος ενέκρινε («sterile nai», πιθανώς «στείλε ναι») το draft της Βασιλικής ([[2026-09-18-estia-proto-inquiry-lamia]]).
 - 2026-09-13 — Πρώτο inquiry από τη φόρμα· hello@: «Ήρθε το πρώτο», «Για προχώρα το» ([[2026-09-18-estia-proto-inquiry-lamia]]).

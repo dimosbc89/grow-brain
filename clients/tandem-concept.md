@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -74,6 +74,7 @@ updated: 2026-10-20
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Price tags (Print Kong, 265 €): η Δέσποινα ρωτά πότε θα είναι έτοιμα, χωρίς απάντηση ([[2026-10-20-tandem-price-tags-print-kong]]).
 - 2026-10-19 — Ο Δήμος στέλνει στη Δέσποινα οδηγό με ~197 ερωτήσεις και 10 hooks για Reels για τη video συνέντευξη με Caroline και George ([[2026-10-19-tandem-interview-questions]]).
 - 2026-10-17 — Διορθώθηκαν composition/description/ονόματα/typo· ο Δήμος εξηγεί γιατί δεν προτείνει γενική μείωση γραμματοσειράς ([[2026-10-17-tandem-website-final-amendments]]).
 - 2026-10-16 — Η Caroline στέλνει «Website final amendments» βάσει import template Excel ([[2026-10-17-tandem-website-final-amendments]]).

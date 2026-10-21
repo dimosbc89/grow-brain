@@ -3,7 +3,7 @@ type: project
 title: "Εκθεσιακά περίπτερα (booth design & build)"
 aliases: [εκθεσιακά περίπτερα, περίπτερα, booths, expo design & build, expo booths]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Εκθεσιακά περίπτερα
 > Γραμμή υπηρεσιών της GROW για σχεδιασμό και κατασκευή custom εκθεσιακών περιπτέρων, μαζί με περιφερειακές υπηρεσίες. Εδώ συγκεντρώνονται όλοι οι πελάτες και τα leads περιπτέρων.
@@ -46,6 +46,7 @@ updated: 2026-10-20
 - Πρώτα στέλνουμε δημιουργικό πλαίσιο (κάτοψη, φωτορεαλιστικό, activations) και αναλυτική κοστολόγηση μετά το feedback (GameStuff, 2026-09-07) ([[2026-09-07-gamestuff-fantasy-festival-booth]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Plastica/[[argyroplastics]]: κατασκευή 8.950 € + ΦΠΑ, οθόνες 500 €, deadline αναρτήσεων Expowork 2026-10-23· Xenia (21–23/11): οθόνη 65'' 400 € / 75'' 450 € ([[2026-10-20-plastica-prosfora-kataskevasti]], [[2026-10-20-enoikiasi-othonon-botsaris]], [[2026-10-20-expowork-argyroplastics-d17]]).
 - 2026-10-20 — Argyroplastics: ερωτήσεις της Μαρίνας και meeting 14:30 ([[2026-10-20-argyroplastics-plastica-2026]], [[2026-07-20_2026-11-03]]).
 - 2026-10-16 — Argyroplastics video call ([[2026-10-20-argyroplastics-plastica-2026]]).
 - 2026-10-07 — Argyroplastics: υπογραφή συμφωνητικού ([[2026-10-20-argyroplastics-plastica-2026]]).

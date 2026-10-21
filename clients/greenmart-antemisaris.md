@@ -3,7 +3,7 @@ type: client
 title: "Greenmart / Antemisaris"
 aliases: [Antemisaris, Αντεμισάρης, Greenmart, greenmart.gr, antemisaris.gr]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Greenmart / Antemisaris
 > Η εταιρεία Antemisaris με το e-shop Greenmart (κήπος/φυτά/εργαλεία, π.χ. βολβοί, Stihl)· η GROW κάνει social posts, γυρίσματα, υποστήριξη σε εκθέσεις (XENIA 2026, Olympic Yacht Show) και τοποθέτηση προϊόντων στο Κορωπί.
@@ -32,6 +32,7 @@ updated: 2026-10-20
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Η Ιωάννα ζητά από τον Ζάχο σφραγίδα/υπογραφή στην εντολή ανάθεσης της Καθημερινής (Γαστρονόμος, 20.984 € + ΦΠΑ)· follow-up κατάλογος 2026-10-23 11:00 ([[2026-10-20-antemisaris-kathimerini-entoli]], [[2026-10-21_2026-10-28]]).
 - 2026-10-23 — «Antemisaris follow-up κατάλογος» 11:00 (προγραμματισμένο) ([[2026-07-20_2026-11-03]]).
 - 2026-10-20 — «Antemisaris εκεί» 10:00 ([[2026-07-20_2026-11-03]]).
 - 2026-10-07 — «Antemisaris Xenia εκεί» 14:00 ([[2026-07-20_2026-11-03]]).

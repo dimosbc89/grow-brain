@@ -3,7 +3,7 @@ type: vendor
 title: "EXPOWORK (Metropolitan Expo)"
 aliases: [Expowork, EXPOWORK, expowork.gr]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # EXPOWORK (Metropolitan Expo)
 > Εταιρεία κατασκευής εκθεσιακών περιπτέρων του Metropolitan Expo· έστειλε στην [[greenmart-antemisaris]] πρόταση για περίπτερο στη XENIA 2026, που έφτασε στη GROW ως «FYI».
@@ -23,6 +23,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-10-20 — Αναρτήσεις για D17 (Plastica): προθεσμία έληξε 15/10, ανοχή έως 2026-10-23· απαιτούνται φόρμες και rigging plan ([[2026-10-20-expowork-argyroplastics-d17]]).
 - 2026-07-21 — Πρόταση EXPOWORK προς Antemisaris → «FYI» στη GROW ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 
 ## Οικονομικά

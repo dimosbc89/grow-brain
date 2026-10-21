@@ -3,7 +3,7 @@ type: client
 title: "Hellenic Heritage Evolution (HHE) — Heritage Escape / Τσικλητήρεια"
 aliases: [HHE, ΗΗΕ, Hellenic Heritage Evolution, Heritage Escape, Τσικλητήρεια, Tsiklitiria, hellenicheritageevolution.com, Δ. Καραμπάτσος]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Hellenic Heritage Evolution (HHE): Heritage Escape / Τσικλητήρεια
 > Πελάτης της ομάδας της Δέσποινας με events. Το Heritage Escape ήταν τριήμερο στο Costa Navarino, 18–20/9/2026, και τα Τσικλητήρεια είναι αγώνας με εγγραφές. Η GROW κάνει Meta Ads, αναζήτηση sponsors και συναντήσεις follow-up κάθε 1–2 εβδομάδες. Βασική επαφή είναι ο Δημήτρης Καραμπάτσος.
@@ -42,6 +42,7 @@ updated: 2026-10-20
 - Ο πελάτης δεν δέχτηκε την custom πλατφόρμα εγγραφών της GROW και χρησιμοποιεί Reventy ([[2026-08-09-tsikliteria-meta-campaigns-report]]).
 
 ## Χρονολόγιο
+- 2026-10-20 — Η Δέσποινα στην AFEA: το Heritage Escape μεταφέρθηκε «16-18 Απριλίου 2026» (⚠️ χρονιά ασαφής, 💭 2027) και προτείνει call ([[2026-10-20-afea-heritage-escape]]).
 - 2026-10-15 12:00 — «HHE x Grow» με Δέσποινα, Ιωάννα, info@hhe, nantinekarampatsos@ και elenak… ([[2026-07-20_2026-11-03]]).
 - 2026-10-05 12:00 — «Grow x HHE» με Δέσποινα, dfkarampatsos@, Δήμο, elenakontogoni21@, info@hhe και Ιωάννα ([[2026-07-20_2026-11-03]]).
 - 2026-09-18 — «ΗΗΕ», ολοήμερο ([[2026-07-20_2026-11-03]]).

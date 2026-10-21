@@ -3,7 +3,7 @@ type: person
 title: "Andreas Nikolaou"
 aliases: [Andreas Nikolaou, andreas.nikolaou@admin22.com]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 # Andreas Nikolaou
 > Information Security Officer στην admin22, που είναι το IT της [[karmiotissa]]. Οδηγεί τη μεταφορά του karmiotissa.com από τη GROW στο Cloudflare.
@@ -20,6 +20,7 @@ updated: 2026-10-20
 - [ ] Μεταφορά των email — admin22 — έως 2026-10-31 ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]])
 
 ## Χρονολόγιο
+- 2026-10-20 — Ζητά στοιχεία πρόσβασης για το executivesecretary@karmiotissa.com ([[2026-10-20-karmiotissa-aitima-kodikou-email]]).
 - 2026-10-09 — Όλα τα email λειτουργούν εκτός από το director@ ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).
 - 2026-09-28 — Στέλνει email «URGENT-CRITICAL» για τη μεταφορά του domain ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).
 - 2026-07 — Είναι σε cc στο αίτημα της Co-Win ([[2026-09-16-karmiotissa-pegasus-domain-transfer]]).
