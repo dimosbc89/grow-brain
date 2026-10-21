@@ -13,3 +13,5 @@ title: "Ημερολόγιο ενεργειών"
 2026-10-21 10:29 — ingest — Asana snapshot (263 projects, 53 ενεργά, 338 ανοιχτά / 411 ολοκληρωμένα tasks) σε raw/asana/ — 12 νέες σελίδες πελατών (agape, chef-tsaparas, enoteca, equipman, grand-gelato, grandpas, jardin-alldaystories, koala, kreopoleio-tis-agoras, padeltech, standard-burgers, twenty-seven-27) + ~45 σελίδες ενημερώθηκαν (clients, leads, team, admin, projects)· διόρθωση brief/attention: «αλλαγές Tandem» ✓ 2026-10-20
 2026-10-21 10:32 — ingest — Επιβεβαίωση Δήμου: Ribas Riviera και TSU Pies είναι πελάτες — leads/ → clients/ (ribas-riviera, tsu-pies), index
 2026-10-21 11:05 — job:posts — 5 posts GROW για 2026-10-26 → 2026-10-30 (CSV, xlsx με στήλη έγκρισης, md) στο jobs/posts/2026-10-21.* — τίποτα δεν δημοσιεύτηκε
+2026-10-21 11:08 — ingest — 6 νέα digests (Dominos/Hospitality Jam, TikTok LIVE, Global Foods κριτικές Google + διορθωτικό social, Γεωργιάδης υπόλοιπο, TSU recap) — dominos, grow-outreach, global-foods, circle-of-dining, tsu-pies, grandpas
+2026-10-21 11:08 — job:report — jobs/reports/2026-10-21.md + .pdf (1 σελίδα, δεδομένα 19/10 → 21/10 11:00)· Meta Ads χρειάζεται επανασύνδεση, Google Ads μη συνδεδεμένο

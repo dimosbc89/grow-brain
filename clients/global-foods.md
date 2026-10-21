@@ -25,6 +25,7 @@ updated: 2026-10-21
 - Στο ημερολόγιο: «Πρεσβεία Global - Despina» 2026-10-22 16:00 — 💭 Υπόθεση: αφορά τη Global Foods, ασαφές ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Πρόταση για κριτικές Google (Global/Unique) — Δήμος — από 2026-10-21 ([[2026-10-21-globalfoods-google-kritikes]])
 - [ ] Απάντηση στην Ελπίδα για το report που πήγε και στο [[overoll]] + νέο Google Ads report 11/09–11/10 — Δήμος — από 2026-10-20 ([[2026-10-20-globalfoods-google-ads-report-update-2026-10-21]])
 - [ ] Πλάνο καμπανιών (posts, κανάλια, budget, στρατηγική) — Δήμος / [[marina-papanastasiou]] — από 2026-10-21 ([[2026-10-21-globalfoods-campaigns]])
 - [ ] Post SIAL + απάντηση panettone + feedback στο νέο στυλ — [[despina-velissariou]] — άμεσα ([[2026-10-21-globalfoods-social]])
@@ -59,6 +60,7 @@ updated: 2026-10-21
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Η Ελπίδα ρωτά τον Δήμο πώς να μαζέψουν πολλές καλές κριτικές Google (Global/Unique) για να ανέβει ο μέσος όρος· ξαναστέλνει «διορθωτικό» το brief SOCIAL ([[2026-10-21-globalfoods-google-kritikes]], [[2026-10-21-globalfoods-social-diorthotiki]]).
 - 2026-10-21 — Asana: project «Global Foods» (από 2020-12-03· sections Creative, Operations, Copy, Site) με 7 ανοιχτά και 10 ολοκληρωμένα από 2026-07-01. Ανοιχτά: Ελληνικός Οικονομικός Οδηγός (ICAP), video Detroit Pizza Masterclass, upload υλικού Unique/Global (Δήμος), «Global reminder» (η Δέσποινα περιμένει απάντηση από Δήμο/Μαρίνα από 2026-10-08) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-21 — Η Ελπίδα ζητά πλάνο καμπανιών (posts, κανάλια, ποσά, στρατηγική) και στέλνει brief «SOCIAL GLOBAL FOODS» για τον επόμενο μήνα· θέλει άμεσα post για SIAL και απάντηση για panettone ([[2026-10-21-globalfoods-campaigns]], [[2026-10-21-globalfoods-social]]).
 - 2026-10-20 — Η Ελπίδα επισημαίνει ότι το Google Ads report της 2026-09-11 πήγε και στο marketing@overoll.gr και ζητά report 11/09–11/10· σχόλια στα videos Zeo/Detroit (απότομη αρχή/τέλος, logos, «Πού είναι η Unique;») και αίτημα για στρατηγική aftermovies ([[2026-10-20-globalfoods-google-ads-report-update-2026-10-21]], [[2026-10-20-globalfoods-video-unique-zeo]]).
