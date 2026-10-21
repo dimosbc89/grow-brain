@@ -7,7 +7,7 @@ updated: 2026-10-21
 
 > Όλες οι σελίδες του εγκεφάλου. Ξεκίνα από [[attention]] και [[rules]]. Ενημερώνεται σε κάθε ingest.
 
-## Πελάτες (57)
+## Πελάτες (59)
 - [[academicals-foxacademy|Academicals / Fox Academy]] · _ενεργός_ — Δύο brands, Academicals και Fox Academy, με κοινή πλευρά πελάτη (Όμηρος, Αλεξ). Η GROW τρέχει Google Ads και για τα δύο και φιλοξενεί τα websites και…
 - [[alerta|Alerta (alerta-app.net)]] · _σε αναμονή_ — Mobile app για την οποία η GROW σχεδίασε onboarding 5 οθονών και paywall redesign.
 - [[alpha-labels|Alpha Labels]] · _σε αναμονή_ — Εταιρεία της οποίας ο λογαριασμός TikTok είναι δεμένος σε email @growdigital.gr (domain που χρησιμοποιεί η GROW, π.χ. ads@growdigital.gr στο knack-and…
@@ -65,8 +65,10 @@ updated: 2026-10-21
 - [[padeltech|PadelTech]] · _σε αναμονή_ — «Αλλαγές» του Δήμου εκκρεμούν από 2025· περιμένουμε φωτογραφίες.
 - [[standard-burgers|Standard Burgers]] · _σε αναμονή_ — Social/ads (Ιωάννα)· χωρίς κίνηση από 2026-08-12.
 - [[twenty-seven-27|Twenty Seven 27]] · _ενεργός_ — Κάρτες για ιατρικά κέντρα, παρουσίαση· «δημιουργία mail» του Δήμου από 2026-10-02.
+- [[ribas-riviera|Ribas Riviera / Gazoo Events]] · _ενεργός_ — Πελάτης (επιβεβαίωση 2026-10-21)· δουλειά από το καλοκαίρι· ο Δήμος έστειλε στις 2026-09-29 πρόταση marketing (v16) για τη Ribas Riviera μέσω της Gazoo Events.
+- [[tsu-pies|TSU Greek Pies and Coffee]] · _ενεργός_ — Αλυσίδα ελληνικής πίτας και καφέ με 3 καταστήματα στο Λουξεμβούργο· ήρθε ως lead τον Αύγουστο 2026 και από τον Σεπτέμβριο έχει τακτικές συναντήσεις με…
 
-## Leads (14)
+## Leads (12)
 - [[avek|AVEK]] · _prospect_ — Οργανισμός με τον οποίο έγινε η συνάντηση «P. Nikas X AVEK» (2026-10-19) με τη GROW — σύνδεση με τον πελάτη nikas-coffee-expert· τι είναι η AVEK: ασαφ…
 - [[coco-mat|COCO-MAT]] · _κλειστός_ — Ζήτησε οικονομική προσφορά για τα κατασκευαστικά του περιπτέρου της στη Xenia 2026, με δικά της σχέδια. Στις 2026-09-07 διάλεξε άλλη εταιρεία «για φέτ…
 - [[deturbo|DETURBO]] · _σε αναμονή_ — Εταιρεία turbochargers/CNC στο Πέραμα. Ζήτησε πρόταση σχεδιασμού και κατασκευής περιπτέρου 33 τ.μ. για την DEFEA 2027· η GROW περιμένει να μάθει το bu…
@@ -78,8 +80,6 @@ updated: 2026-10-21
 - [[localift|LocaLift (mobile app)]] · _prospect_ — Project mobile εφαρμογής (iOS & Android) της συμβούλου επιχειρήσεων maria-misendou· η GROW έστειλε πρόταση ανάπτυξης 2026-08-08 κάτω από NDA και περιμ…
 - [[metlen|METLEN Energy & Metals]] · _prospect_ — Μεγάλος όμιλος που απάντησε στην outreach της GROW για περίπτερα· έγινε Teams meeting με την ομάδα της κας Γεράκη στις 2026-09-18 και δεν ξέρουμε τι β…
 - [[primowear|Primowear]] · _prospect_ — Prospect από την cold email καμπάνια για περίπτερα. Ζήτησε προσφορά για περίπτερο στη θέση D16 (Hall 4) σε έκθεση συσκευασίας/εκτύπωσης.
-- [[ribas-riviera|Ribas Riviera / Gazoo Events]] · _prospect_ — Prospect στο οποίο ο Δήμος έστειλε στις 2026-09-29 πρόταση marketing (v16) για τη Ribas Riviera μέσω της Gazoo Events.
-- [[tsu-pies|TSU Greek Pies and Coffee]] · _prospect_ — Αλυσίδα ελληνικής πίτας και καφέ με 3 καταστήματα στο Λουξεμβούργο· ήρθε ως lead τον Αύγουστο 2026 και από τον Σεπτέμβριο έχει τακτικές συναντήσεις με…
 - [[wonderkids|Wonderkids (wearewonderkids.com)]] · _prospect_ — Lead για νέα ιστοσελίδα (web design & development)· ο Δήμος πρότεινε discovery video call στις 2026-09-08 και περιμένει διαθεσιμότητα.
 
 ## Projects & υπηρεσίες (7)
@@ -129,7 +129,7 @@ updated: 2026-10-21
 - [[haris-filandras|Χάρης Φιλάνδρας]] — Πελάτης website της GROW (filandras)· ζητά αλλαγές στα σημεία λιανικής πώλησης και τις υπηρεσίες του site του.
 - [[iasonas-kolytos|Ιάσωνας Κολυτός]] — Η επαφή της GROW στην epilogin (εκτυπώσεις/menuboards) — εκκρεμεί η αντικατάσταση των menuboards της krema-gelato.
 - [[jose-fernando-trujillo-heron|Jose Fernando Trujillo Heron]] — Business Development and Marketing Specialist της biz-courier· έχει τα εμπορικά (τιμοκατάλογος Box Now, πωλήσεις εκτός ΕΕ) για την tandem-concept.
-- [[kostas-giannopoulos|Κώστας Γιαννόπουλος (TSU)]] — CEO & Co-Founder των TSU Pies BV / TSU Pies SARL / Grandpas SARL-s (Λουξεμβούργο) — ο decision maker του lead tsu-pies.
+- [[kostas-giannopoulos|Κώστας Γιαννόπουλος (TSU)]] — CEO & Co-Founder των TSU Pies BV / TSU Pies SARL / Grandpas SARL-s (Λουξεμβούργο) — ο decision maker του πελάτη tsu-pies.
 - [[kostas-tzevelekos|Κώστας Τζεβελέκος]] — Πλευρά πελάτη στην yiayia-meatballs: χειρίζεται packaging/προμηθευτές και είναι σε cc στα περισσότερα threads.
 - [[lena-pothou|Lena Pothou]] — Sales & Partnerships της gamestuff· ζήτησε το περίπτερο για το Fantasy Festival 2026.
 - [[manolis-kalomoiris|Μανώλης Καλομοίρης]] — Επαφή της yourclima (mk@yourclima.com)· το mailbox του γέμισε τον Οκτώβριο 2026.

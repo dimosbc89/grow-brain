@@ -1,5 +1,5 @@
 ---
-type: lead
+type: client
 title: "TSU Greek Pies and Coffee"
 aliases: [TSU, TSU Pies, TSUPIES, TSU Pies BV, TSU Pies SARL, Grandpas SARL-s, tsupies.com]
 status: ενεργός
@@ -31,6 +31,7 @@ updated: 2026-10-21
 - 2026-08: briefing call μέσω Google Meet στις 16:00 ώρα Ελλάδας (15:00 Λουξεμβούργου), invite από τη Βασιλική ([[2026-08-10-tsu-pies-briefing-call]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Ο Δήμος επιβεβαίωσε ότι η TSU είναι πελάτης· η σελίδα μεταφέρθηκε από leads/ σε clients/.
 - 2026-10-21 — Asana: project «TSU Pies» (δημιουργήθηκε 2026-09-29) με 8 ανοιχτά και 8 ολοκληρωμένα: Give Away ✓ 10-18, Generic Post ✓ 10-15, GMB & Greek Coffee Educational posts ✓ 10-09, International Coffee Day after movie ✓ 10-07, «Which Greek pie are you today» reel ✓ 10-06, poster + reel «Dance when you enter» και creative με post-it ✓ 09-30. Ανοιχτά: roll-up catering, reel δρομέα ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Roll-up 84x200 cm: το Mister Copy (Λουξεμβούργο) προτείνει παράδοση 2026-10-27, 225 € TTC ([[2026-10-20-tsu-pies-roll-up]]).
 - 2026-10-20 — «Tsu X Grow» 12:15 (Βίκη, Μαρίνα) ([[2026-07-20_2026-11-03]]).

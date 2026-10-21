@@ -30,5 +30,5 @@ updated: 2026-10-21
 ## Στο ραντάρ
 - **Λογαριασμοί:** [[fastpath]] 507,78 € — υπόσχεση έως Παρ. 23/10 ([[hosting-domains]])· [[metalease]] ληξιπρόθεσμα 139,89 € + 219,00 €· [[the-accountancy-partnership]] P-388149 έως 30/10 + onboarding call ([[grow-360-ltd]])· machevuoi.gr λήγει 04/11.
 - **[[yiayia-meatballs]]:** shooting 23/10 09:30· εκτυπωτικά σε τελικό οκ· foodhugs.gr περιμένει απάντηση Δήμου από 18/10.
-- **Νέα leads / outreach:** [[dominos]] 23/10 13:00 · Mediterranean College 22/10 12:30 ([[grow-outreach]]) · [[deturbo]] υπενθύμιση RFQ χωρίς προσφορά · [[tsu-pies]] roll-up 27/10.
+- **Νέα leads / outreach:** [[dominos]] 23/10 13:00 · Mediterranean College 22/10 12:30 ([[grow-outreach]]) · [[deturbo]] υπενθύμιση RFQ χωρίς προσφορά · roll-up [[tsu-pies]] (πελάτης) 27/10.
 - **Υποσχέσεις που έχουν μείνει πίσω:** [[kolokytha-eshop]] (tag «pre order» — το drop είναι σήμερα) · [[irunmag]] (AdSense, Box Now, Google News) · [[overoll]] (εναλλακτικά .com) · [[nikas-coffee-expert]] (σεμινάριο 500→600 €) · [[circle-of-dining]] (feedback cod video 2, αρχισυνταξία γυρίσματος 22/10).

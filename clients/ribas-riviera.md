@@ -1,8 +1,8 @@
 ---
-type: lead
+type: client
 title: "Ribas Riviera / Gazoo Events"
 aliases: [Ribas Riviera, Ribas Events, Gazoo Events, gazooevents.gr]
-status: prospect
+status: ενεργός
 updated: 2026-10-21
 ---
 # Ribas Riviera / Gazoo Events
@@ -24,6 +24,7 @@ updated: 2026-10-21
 - —
 
 ## Χρονολόγιο
+- 2026-10-21 — Ο Δήμος επιβεβαίωσε ότι η Ribas Riviera είναι πελάτης· η σελίδα μεταφέρθηκε από leads/ σε clients/.
 - 2026-10-21 — Asana: στο project «Ribas Riviera» ✓ «Reset Mail SOS» — Δήμος (2026-09-10), «Ribas πισίνα Vol.2» (2026-09-11) και «closing ribas» (2026-09-14) — [[fotini]]· ανοιχτό «Ribas/Gazoo - Site Map». Στο project «Grow» υπάρχουν ανοιχτά tasks «Ribas Logo» (M/F) με due 2026-07-01 ([[2026-10-21-asana-snapshot]]).
 - 2026-09-29 — Αποστολή πρότασης v16 χωρίς συνοδευτικό κείμενο ([[2026-09-29-ribas-riviera-marketing-proposal]]).
 
@@ -33,4 +34,4 @@ updated: 2026-10-21
 ## Σημειώσεις
 - Η έκδοση v16 δείχνει πολλές εσωτερικές επαναλήψεις της πρότασης ([[2026-09-29-ribas-riviera-marketing-proposal]]).
 - Σχέση Ribas Riviera ↔ Gazoo Events: ασαφές. Το task «Ribas/Gazoo - Site Map» τα βάζει μαζί ([[2026-10-21-asana-snapshot]]).
-- ⚠️ Αντίφαση: η σελίδα το έχει ως prospect που περιμένει απάντηση στην πρόταση της 2026-09-29, αλλά το Asana δείχνει ήδη εκτελεσμένη δουλειά για τη Ribas το καλοκαίρι (content «πισίνα Vol.2», «closing ribas», reset email, logo, site map), πριν από την πρόταση. 💭 Υπόθεση: καλοκαιρινή συνεργασία (π.χ. θερινή σεζόν) που έκλεισε 2026-09-14 και η v16 είναι πρόταση για συνέχεια. Να επιβεβαιώσει ο Δήμος αν είναι πελάτης ή lead ([[2026-10-21-asana-snapshot]]).
+- ✓ Λύθηκε 2026-10-21: ο Δήμος επιβεβαίωσε ότι η Ribas Riviera είναι **πελάτης** (η σελίδα μεταφέρθηκε από leads/ σε clients/). Αρχική σημείωση: η σελίδα το είχε ως prospect που περιμένει απάντηση στην πρόταση της 2026-09-29, αλλά το Asana δείχνει ήδη εκτελεσμένη δουλειά για τη Ribas το καλοκαίρι (content «πισίνα Vol.2», «closing ribas», reset email, logo, site map), πριν από την πρόταση. 💭 Υπόθεση: καλοκαιρινή συνεργασία (π.χ. θερινή σεζόν) που έκλεισε 2026-09-14 και η v16 είναι πρόταση για συνέχεια. Να επιβεβαιώσει ο Δήμος αν είναι πελάτης ή lead ([[2026-10-21-asana-snapshot]]).
