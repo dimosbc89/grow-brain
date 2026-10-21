@@ -15,3 +15,4 @@ title: "Ημερολόγιο ενεργειών"
 2026-10-21 11:05 — job:posts — 5 posts GROW για 2026-10-26 → 2026-10-30 (CSV, xlsx με στήλη έγκρισης, md) στο jobs/posts/2026-10-21.* — τίποτα δεν δημοσιεύτηκε
 2026-10-21 11:08 — ingest — 6 νέα digests (Dominos/Hospitality Jam, TikTok LIVE, Global Foods κριτικές Google + διορθωτικό social, Γεωργιάδης υπόλοιπο, TSU recap) — dominos, grow-outreach, global-foods, circle-of-dining, tsu-pies, grandpas
 2026-10-21 11:08 — job:report — jobs/reports/2026-10-21.md + .pdf (1 σελίδα, δεδομένα 19/10 → 21/10 11:00)· Meta Ads χρειάζεται επανασύνδεση, Google Ads μη συνδεδεμένο
+2026-10-21 11:09 — job:report — test run: τίτλος «εβδομάδα ως τώρα», posts 26–30/10 στα επόμενα βήματα, PDF 1 σελίδα
