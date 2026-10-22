@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -60,6 +60,7 @@ updated: 2026-10-21
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Η Δέσποινα στέλνει φακέλους με υλικό· η Ελπίδα: «Τα video είναι οκ! Τα δουλεύετε!». Η «Πρεσβεία Global» 22/10 μεταφέρθηκε στις 17:30. Mention Μαρίνας στον Δήμο στο task «ΔΤ Detroit» (due 2026-10-21) ([[2026-10-21-globalfoods-fakeloi-yliko]], [[2026-10-21-asana-mentions]], [[2026-10-22_2026-10-29]]).
 - 2026-10-21 — Η Ελπίδα ρωτά τον Δήμο πώς να μαζέψουν πολλές καλές κριτικές Google (Global/Unique) για να ανέβει ο μέσος όρος· ξαναστέλνει «διορθωτικό» το brief SOCIAL ([[2026-10-21-globalfoods-google-kritikes]], [[2026-10-21-globalfoods-social-diorthotiki]]).
 - 2026-10-21 — Asana: project «Global Foods» (από 2020-12-03· sections Creative, Operations, Copy, Site) με 7 ανοιχτά και 10 ολοκληρωμένα από 2026-07-01. Ανοιχτά: Ελληνικός Οικονομικός Οδηγός (ICAP), video Detroit Pizza Masterclass, upload υλικού Unique/Global (Δήμος), «Global reminder» (η Δέσποινα περιμένει απάντηση από Δήμο/Μαρίνα από 2026-10-08) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-21 — Η Ελπίδα ζητά πλάνο καμπανιών (posts, κανάλια, ποσά, στρατηγική) και στέλνει brief «SOCIAL GLOBAL FOODS» για τον επόμενο μήνα· θέλει άμεσα post για SIAL και απάντηση για panettone ([[2026-10-21-globalfoods-campaigns]], [[2026-10-21-globalfoods-social]]).

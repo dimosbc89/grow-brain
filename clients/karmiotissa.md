@@ -3,7 +3,7 @@ type: client
 title: "Καρμιώτισσα (Karmiotissa, Κύπρος)"
 aliases: [Karmiotissa, Καρμιώτισσα, karmiotissa.com]
 status: κλειστός
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Καρμιώτισσα (Karmiotissa)
 > Κυπριακός πελάτης που ήρθε μέσω [[marketing-coach-cy]]. Η GROW είχε το domain karmiotissa.com στο [[papaki]], τα email και τα DNS. Από 2026-10 φεύγει προς Co-Win και admin22 και η GROW κρατά τα email μόνο προσωρινά.
@@ -23,8 +23,10 @@ updated: 2026-10-21
 - **Email:** στις 2026-10-09 όλα λειτουργούσαν εκτός από το director@karmiotissa.com. Τα email μένουν στη φιλοξενία της GROW μέχρι να τα μεταφέρει η admin22 στους servers της, έως το τέλος Οκτωβρίου 2026 ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] football@karmiotissa.com error σύνδεσης + webmail εκτός λειτουργίας — Δήμος — από 2026-10-21 ([[2026-10-21-karmiotissa-login-issue]])
+- [ ] Αλλαγή των κωδικών director@/football@ μετά τη μεταφορά (στάλθηκαν σε απλό email) — admin22 ([[2026-10-21-karmiotissa-login-issue]])
 - [ ] Στοιχεία πρόσβασης executivesecretary@ στον Andreas με ασφαλή τρόπο (όχι email) — Δήμος — από 2026-10-20 ([[2026-10-20-karmiotissa-aitima-kodikou-email]])
-- [ ] Πρόβλημα στο director@karmiotissa.com: ο Δήμος πρότεινε reset κωδικού — admin22 να απαντήσει — από 2026-10-09 ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]])
+- [x] Πρόβλημα στο director@karmiotissa.com — ✓ 2026-10-21 μετά από reset ([[2026-10-21-karmiotissa-login-issue]]) ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]])
 - [ ] Έγκριση και απελευθέρωση του transfer από το Papaki — GROW — ζητήθηκε 2026-10-07, ολοκλήρωση ασαφής ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]])
 - [ ] Μεταφορά των email στους servers της admin22 και μετά τερματισμός της φιλοξενίας στη GROW — admin22 — έως 2026-10-31 ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]])
 - [ ] Πρόσβαση στο Pegasus για σύνδεση του ticketing με το νέο site — GROW — ζητήθηκε 2026-07-27, ασαφές αν δόθηκε ([[2026-09-16-karmiotissa-pegasus-domain-transfer]])
@@ -39,6 +41,7 @@ updated: 2026-10-21
 - 2026-10-07: το domain πάει στο Cloudflare, όχι σε άλλο λογαριασμό Papaki. Τα email μένουν προσωρινά στη GROW. Βλ. [[2026-10-07-karmiotissa-domain-cloudflare]] ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Ο Andreas Nikolaou δεν συνδέεται σε director@ και football@. Ο Δήμος κάνει reset και στέλνει τους νέους κωδικούς με email σε 5 παραλήπτες [στοιχείο παραλείφθηκε]. director@ οκ· football@ ακόμη error και το webmail δεν λειτουργεί ([[2026-10-21-karmiotissa-login-issue]]).
 - 2026-10-20 — Ο [[andreas-nikolaou]] (admin22) ζητά τον κωδικό του executivesecretary@karmiotissa.com για τη μεταφορά των emails, μέσω ασφαλούς τρόπου ([[2026-10-20-karmiotissa-aitima-kodikou-email]]).
 - 2026-10-09 — Όλα τα email λειτουργούν εκτός από το director@. Ο Δήμος προτείνει reset κωδικού ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).
 - 2026-10-07 — Ο Δήμος δίνει auth code και αλλάζει nameservers σε Cloudflare: «οκ δεν είχα ενημερωθεί για αυτό. αλλαξαν οι nameservers.» ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).

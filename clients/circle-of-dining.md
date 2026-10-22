@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -52,6 +52,7 @@ updated: 2026-10-21
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Η Ιωάννα πέρασε τις αλλαγές στην αρχισυνταξία του γυρίσματος και ζητά check από τον Δήμο (Asana). Γύρισμα 2026-10-22 13:00 ([[2026-10-21-asana-mentions]], [[2026-10-22_2026-10-29]]).
 - 2026-10-19 — Ο λογιστής του Γεωργιάδη ζητά καρτέλες για «άμεση πληρωμή»· το λογιστήριο GROW στέλνει τιμολόγιο Οκτωβρίου (μισό ποσό, 2ο μισό του μήνα), καρτέλα ατομικής και 2 εκκρεμή τιμολόγια ([[2026-10-19-georgiadis-ypoloipo-timologia]]).
 - 2026-10-21 — Asana: δύο projects. «The circle of dining» (νέο, δημιουργήθηκε 2026-10-14): 11 ανοιχτά, 7 ολοκληρωμένα (circle presentation ✓ 10-06, cod posting plan ✓ 10-07, cod video 1 αλλαγές & cover ✓ 10-16, cod video 2 cover ✓ 10-20)· ανοιχτά carousels, cod video 2, xenia dinner (έως 2026-11-23). «Georgiadis chef» (από 2026-07-22): 10 ανοιχτά, 30 ολοκληρωμένα — podcast 1 (intro, cover, edit, promo, teasers, Apple/YouTube covers), podcasts Παύλος Κυριάκης & Κυρίτσης/Μπάκουλης, tesla video ✓ 10-13, αρνί video, myway interview ✓ 10-15, ads/tik tok ads/teaser ad (Δήμος ✓ 09-30), media kit ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Asana: η Ιωάννα ζητά από τον Δήμο σχόλια στην αρχισυνταξία του γυρίσματος 22/10 και απόφαση για βιντεογράφο· στο «cod video 2 αλλαγές» περιμένει συγκεκριμένο feedback μετά το «mallon ok» ([[2026-10-20-asana-circle-of-dining-mentions]]).

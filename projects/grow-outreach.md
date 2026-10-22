@@ -3,7 +3,7 @@ type: project
 title: "GROW outreach & marketing (δικό μας)"
 aliases: [GROW marketing, cold outreach, ActiveCampaign, ΙΕΚ καμπάνια, @grow.agency.online, GROW social]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # GROW outreach & marketing
 > Το marketing της ίδιας της [[grow-agency]]: cold email καμπάνιες μέσω ActiveCampaign (ΙΕΚ/εκπαίδευση, εκθεσιακά περίπτερα), υλικό για τα social και τα flyers της GROW, events και press.
@@ -23,6 +23,7 @@ updated: 2026-10-21
 - Για την καμπάνια ΙΕΚ υπάρχει μόνο το test της 2026-07-30. Πραγματική αποστολή και αποτελέσματα: ασαφή ([[2026-07-30-test-newsletter-iek-eggrafes]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Απόφαση για TikTok LIVE Agency μετά τα 3 έγγραφα — Δήμος — από 2026-10-21 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-22]])
 - [ ] Απάντηση στον Paralos για χρέωση συμμετοχής στο Hospitality Jam — [[ioanna-chalkiadaki]] (💭 Υπόθεση: θέλει γραμμή από τον Δήμο) ([[2026-10-20-hospitality-jam-paralos]])
 - [ ] Παρουσίαση στην Papoutsanis — [[ioanna-chalkiadaki]] ([[2026-10-20-hospitality-jam-papoutsanis]])
 - [ ] Καμπάνια ΙΕΚ: το preheader («Από την σχεδίαση του εκθεσιακού σας περιπτέρου...») έμεινε από την καμπάνια περιπτέρων και πρέπει να διορθωθεί πριν την κανονική αποστολή — Δήμος — ασαφές αν έγινε ([[2026-07-30-test-newsletter-iek-eggrafes]])
@@ -30,7 +31,7 @@ updated: 2026-10-21
 - [ ] Startup Revolution AI Summit (Σκόπια, 1–4/10): η Ana ζήτησε αριθμό ατόμων για custom offer (attendees ή branded booth). Απάντηση δεν φαίνεται· το event έχει περάσει ([[2026-09-17-startup-revolution-ai-summit-skopje]])
 - [ ] «flyer new green grow» (3 png προς Βασιλική, 2026-09-17): σκοπός και χρήση ασαφή ([[2026-09-17-flyer-new-green-grow]])
 - [ ] Λίστα δημοσιογράφων «greek_media_press_list.xlsx» (στην ομάδα, 2026-10-07): για ποιον πελάτη/σκοπό, ασαφές ([[2026-10-07-lista-dimosiografon-press]])
-- [ ] Call με τη Marilena Rentzou (TikTok LIVE) — **2026-10-21 16:30** — θέμα: η GROW ως TikTok LIVE Agency ([[2026-10-19-tiktok-live-agency-protasi]])
+- [x] Call με τη Marilena Rentzou (TikTok LIVE) — ✓ 2026-10-21 16:30 — θέμα: η GROW ως TikTok LIVE Agency ([[2026-10-19-tiktok-live-agency-protasi]])
 - [ ] Posts Εβδομάδας (subtasks: Βασιλική, Δέσποινα, Ιωάννα, Μαρίνα) — Μαρίνα — due 2026-10-09 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]]). 💭 Υπόθεση: posts για τα social της GROW.
 - [ ] go-shipping Offer — Δήμος — χωρίς due, υλικό της Μαρίνας από 2026-09-29 ([[2026-10-21-asana-snapshot]])
 - [ ] Check Padel Presentation: ραντεβού για να παρουσιαστεί (όχι αποστολή) — Δήμος — due 2026-09-24 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]]). 💭 Υπόθεση: αφορά το PadelTech (βλ. «Αλλαγές PadelTech» στο [[dimos-founder]]).
@@ -42,6 +43,8 @@ updated: 2026-10-21
 - —
 
 ## Χρονολόγιο
+- 2026-10-21 — Έγινε το call με τη Marilena Rentzou (TikTok LIVE)· έστειλε 3 έγγραφα για τη λειτουργία LIVE Agency ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-22]]).
+- 2026-10-21 — Η [[salesforce]] (Sourcing EMEA) ρωτά αν η GROW είναι ακόμη ενεργή στα events στην Ελλάδα — έχει νέα ανάγκη για local event agency· ο Δήμος απάντησε θετικά ([[2026-10-21-salesforce-sos-konstantopoulou]]).
 - 2026-10-19 — Hospitality Jam: τέταρτη απάντηση από [[dominos]] (Marketing Manager, συνάντηση 2026-10-23 13:00)· σύνολο απαντήσεων εβδομάδας: Domino's, Mediterranean College, Paralos, Papoutsanis ([[2026-10-19-hospitality-jam-dominos]]).
 - 2026-10-19 — TikTok LIVE (Marilena Rentzou, Agency Operations Manager) προτείνει στη GROW να γίνει TikTok LIVE Agency (recruitment/εκπαίδευση creators, commission από το TikTok, χωρίς αρχική επένδυση)· η GROW απάντησε με ενδιαφέρον· call 2026-10-21 16:30 ([[2026-10-19-tiktok-live-agency-protasi]]).
 - 2026-10-21 — Asana, project «Grow» (εσωτερικά της GROW· 47 ανοιχτά, 49 ολοκληρωμένα στο harvest): «Reel Grow» ✓ από Vasia Striga 2026-10-20. Το «Posts Εβδομάδας» (Μαρίνα, due 2026-10-09) και τα subtasks ανά άτομο (Βασιλική, Δέσποινα, Ιωάννα, due 2026-10-08) είναι ανοιχτά και εκπρόθεσμα. Τα «posts εβδομάδας» της προηγούμενης κυκλοφορίας ✓ από Μαρίνα 2026-10-06 ([[2026-10-21-asana-snapshot]]).

@@ -3,7 +3,7 @@ type: client
 title: "Greenmart / Antemisaris"
 aliases: [Antemisaris, Αντεμισάρης, Greenmart, greenmart.gr, antemisaris.gr]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Greenmart / Antemisaris
 > Η εταιρεία Antemisaris με το e-shop Greenmart (κήπος/φυτά/εργαλεία, π.χ. βολβοί, Stihl)· η GROW κάνει social posts, γυρίσματα, υποστήριξη σε εκθέσεις (XENIA 2026, Olympic Yacht Show) και τοποθέτηση προϊόντων στο Κορωπί.
@@ -46,6 +46,7 @@ updated: 2026-10-21
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Η Ιωάννα στέλνει το ανανεωμένο αρχείο του καταλόγου με τις αλλαγές του ραντεβού 20/10 (follow-up 23/10 11:00) και υπενθυμίζει την εντολή Καθημερινής ([[2026-10-21-antemisaris-katalogos-diorthoseis]], [[2026-10-20-antemisaris-kathimerini-entoli-update-2026-10-22]]).
 - 2026-10-21 — Asana: project «Antemisaris Group» με 30 ανοιχτά (τα περισσότερα της [[ioanna-chalkiadaki]], πολλά εκπρόθεσμα) και 19 ολοκληρωμένα από 2026-07-01. Βασικό ανοιχτό: «xenia» (περίπτερο, merch, ηλεκτρολογικά, business cards, flyer map, landing πωλητών, έως 2026-10-26/30)· επίσης catalogue redesign, map φυλλαδίου, σημάνσεις γραφεία/φυτώριο, «katastima BBQ», «ekthesi harmony», εταιρικό video. Ολοκληρώθηκαν videos (6 λάθη ✓ 10-19, product video ✓ 10-13, βολβοί ✓ 10-12, μεταφύτευση, plants vs light, gastronomos), einhell event & ad, yacht φυλλάδιο/newsletter, stihl offers ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Η Ιωάννα ζητά από τον Ζάχο σφραγίδα/υπογραφή στην εντολή ανάθεσης της Καθημερινής (Γαστρονόμος, 20.984 € + ΦΠΑ)· follow-up κατάλογος 2026-10-23 11:00 ([[2026-10-20-antemisaris-kathimerini-entoli]], [[2026-10-21_2026-10-28]]).
 - 2026-10-23 — «Antemisaris follow-up κατάλογος» 11:00 (προγραμματισμένο) ([[2026-07-20_2026-11-03]]).

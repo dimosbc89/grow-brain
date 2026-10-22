@@ -1,7 +1,7 @@
 ---
 type: index
 title: "Κατάλογος"
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Κατάλογος
 
@@ -68,7 +68,7 @@ updated: 2026-10-20
 - [[yiayia-meatballs|Υιάγια (Yiayia Meatballs)]] · _ενεργός_ — Εστιατόριο με κεφτεδάκια («Home of Meatballs») της maria-drouza· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influe…
 - [[yourclima|Yourclima]] · _ενεργός_ — Πελάτης της GROW για εταιρικά email/hosting στο yourclima.com· επαφές ο christos-tsamis και ο manolis-kalomoiris.
 
-## Leads (12)
+## Leads (13)
 - [[avek|AVEK]] · _prospect_ — Οργανισμός με τον οποίο έγινε η συνάντηση «P. Nikas X AVEK» (2026-10-19) με τη GROW — σύνδεση με τον πελάτη nikas-coffee-expert· τι είναι η AVEK: ασαφ…
 - [[coco-mat|COCO-MAT]] · _κλειστός_ — Ζήτησε οικονομική προσφορά για τα κατασκευαστικά του περιπτέρου της στη Xenia 2026, με δικά της σχέδια. Στις 2026-09-07 διάλεξε άλλη εταιρεία «για φέτ…
 - [[deturbo|DETURBO]] · _σε αναμονή_ — Εταιρεία turbochargers/CNC στο Πέραμα. Ζήτησε πρόταση σχεδιασμού και κατασκευής περιπτέρου 33 τ.μ. για την DEFEA 2027· η GROW περιμένει να μάθει το bu…
@@ -81,6 +81,7 @@ updated: 2026-10-20
 - [[metlen|METLEN Energy & Metals]] · _prospect_ — Μεγάλος όμιλος που απάντησε στην outreach της GROW για περίπτερα· έγινε Teams meeting με την ομάδα της κας Γεράκη στις 2026-09-18 και δεν ξέρουμε τι β…
 - [[primowear|Primowear]] · _prospect_ — Prospect από την cold email καμπάνια για περίπτερα. Ζήτησε προσφορά για περίπτερο στη θέση D16 (Hall 4) σε έκθεση συσκευασίας/εκτύπωσης.
 - [[wonderkids|Wonderkids (wearewonderkids.com)]] · _prospect_ — Lead για νέα ιστοσελίδα (web design & development)· ο Δήμος πρότεινε discovery video call στις 2026-09-08 και περιμένει διαθεσιμότητα.
+- [[salesforce|Salesforce (events Ελλάδα)]] · _prospect_ — Παλιός πελάτης events (2023)· στις 2026-10-21 η Sourcing επανήλθε με νέα ανάγκη για local event agency.
 
 ## Projects & υπηρεσίες (7)
 - [[ai-workshops|Εσωτερικά workshops ομάδας (AI & Social)]] — Εκπαιδευτικά workshops που κάνει ο Δήμος στην ομάδα της grow-agency (Social Media 2026, AI). Τα παρουσιαστικά μοιράζονται στο προσωπικό.
@@ -104,7 +105,7 @@ updated: 2026-10-20
 - [[vassia-kataki|Βάσια Κατάκη]] — Graphic Designer της GROW. Της πηγαίνουν brand manuals, logo briefs, design e-shop/site, βίντεο και κατόψεις περιπτέρων.
 - [[vassiliki-giannopoulou|Βασιλική Γιαννοπούλου]] — Account Director της GROW. Ο Δήμος της στέλνει τα τιμολόγια και τα admin, τρέχει τα accounts yiayia-meatballs (από τον Σεπτέμβριο 2026) και Estia, και…
 
-## Πρόσωπα (47)
+## Πρόσωπα (48)
 - [[afroditi-karopoulou|Afroditi Karopoulou]] — Secretary στο Corporate Affairs & Communication General Division της metlen· κανονίζει τα ραντεβού με την ομάδα της κας Γεράκη.
 - [[aliki-theochari|Aliki Theochari]] — Director of Customer Success της biz-courier και κύρια επαφή της GROW για το integration του e-shop της tandem-concept και το BOX NOW.
 - [[andreas-nikolaou|Andreas Nikolaou]] — Information Security Officer στην admin22, που είναι το IT της karmiotissa. Οδηγεί τη μεταφορά του karmiotissa.com από τη GROW στο Cloudflare.
@@ -152,6 +153,7 @@ updated: 2026-10-20
 - [[vaso-theochari|Βάσω Θεοχάρη]] — Marketing της overoll· η επαφή για τα τρία νέα websites και τα domains.
 - [[vivi-mammi|Vivi Mammi]] — Office Operations Manager της deturbo· έστειλε το RFQ για το περίπτερο στην DEFEA 2027.
 - [[yiannis-korbos|Yiannis Korbos]] — Στέλνει στη GROW τα brand manuals των mr-mrs-white και anayia. Ο ρόλος του είναι ασαφής: μπορεί να είναι designer ή στέλεχος του brand.
+- [[antony-bebbington|Antony Bebbington]] · _ενεργός_ — Senior Sourcing Manager EMEA & LATAM Marketing, Meetings & Events της Salesforce.
 
 ## Συνεργάτες & πάροχοι (15)
 - [[biz-courier|BIZ Courier & Logistics]] — Courier και 3PL (αποθήκη/WMS) που έχει επιλέξει η tandem-concept. Η GROW συνδέει το WooCommerce e-shop της Tandem με τη BIZ μέσω API / BIZ LiNK και ετ…

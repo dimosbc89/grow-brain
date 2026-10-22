@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -28,6 +28,7 @@ updated: 2026-10-21
 - Στο ημερολόγιο δεν υπάρχει προγραμματισμένη συνάντηση Tandem μετά τις 2026-10-13 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Εικόνες APPAREL (pptx) στην αρχή + διαγραφή 4 εικόνων — Δήμος — από 2026-10-21 ([[2026-10-21-tandem-pictures-apparel]])
 **Υποσχέσεις του Δήμου**
 - [x] Creative αλλαγές στο site από τη συνάντηση της 2026-10-13 — Δήμος — εβδομάδα 2026-10-19 ([[2026-10-16-tandem-eshop-bags-epsilon]])· στο Asana «αλλαγές Tandem» (Δήμος) ✓ 2026-10-20 ([[2026-10-21-asana-snapshot]]) — 💭 Υπόθεση: πρόκειται για τις ίδιες αλλαγές.
 - [ ] «Check plugin & solutions» — Δήμος (ανάθεση από Δέσποινα 2026-08-06) — ⚠️ εκπρόθεσμο από 2026-08-07 ([[2026-10-21-asana-snapshot]])
@@ -82,6 +83,7 @@ updated: 2026-10-21
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Packing list Christian Villa FW 2026 για τη Biz· ο Δήμος «Done»· η Caroline ενημερώνει μόνη της απόθεμα (Cindy 6677 Nero 6→5)· 3 κούτες 70x50x40 προς την αποθήκη της [[biz-courier]]. Η Caroline ζητά νέες εικόνες στην αρχή της ενότητας APPAREL και διαγραφή 4 εικόνων ([[2026-10-21-tandem-packing-list-biz]], [[2026-10-21-tandem-boxes-delivery-biz]], [[2026-10-21-tandem-pictures-apparel]]).
 - 2026-10-21 — Asana: project «Tandem» (από 2026-04-17· sections Site - e-shop, Brand Identity, Social Media, Performance) με 6 ανοιχτά και 4 ολοκληρωμένα από 2026-07-01. Ο Δήμος έκλεισε «αλλαγές Tandem» και «Mail creation» στις 2026-10-20· ανοιχτά Terms of Service (Δέσποινα), e-shop creative, tote bags, Brand Video, «Check plugin & solutions» (Δήμος, από 2026-08-07). Η Vassia σημείωσε 2026-07-21 ότι έδωσε στον developer ([[george-andritsos]] 💭) όλες τις φωτογραφίες προϊόντων ξεφονταρισμένες ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Price tags (Print Kong, 265 €): η Δέσποινα ρωτά πότε θα είναι έτοιμα, χωρίς απάντηση ([[2026-10-20-tandem-price-tags-print-kong]]).
 - 2026-10-19 — Ο Δήμος στέλνει στη Δέσποινα οδηγό με ~197 ερωτήσεις και 10 hooks για Reels για τη video συνέντευξη με Caroline και George ([[2026-10-19-tandem-interview-questions]]).

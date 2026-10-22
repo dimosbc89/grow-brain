@@ -3,7 +3,7 @@ type: client
 title: "HotelBrain"
 aliases: [HOTELBRAIN S.A., Hotelbrain, Hotel Brain, hotelbrain.com, hotelbraingroup.com]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # HotelBrain
 > Η HOTELBRAIN S.A. είναι η πλευρά πελάτη για τα hotel websites που φτιάχνει και υποστηρίζει τεχνικά η GROW ([[mr-mrs-white]], [[anayia]], September City Living, GHH) και τώρα για το νέο corporate site της ίδιας της HotelBrain.
@@ -40,6 +40,7 @@ updated: 2026-10-21
 - Τα emails που είναι συνδεδεμένα στο domain δεν πρέπει να επηρεαστούν από το go-live ([[2026-10-12-hotelbrain-corporate-website]]).
 
 ## Χρονολόγιο
+- 2026-10-21 — Ο Giannis διορθώνει «καθορισμού». Email του Δήμου για μεταφορά του Teams δεν φαίνεται· στο ημερολόγιο το Teams μένει 23/10 13:00, πάνω στο Dominos ([[2026-10-20-hotelbrain-call-meeting-teams-update-2026-10-22]]).
 - 2026-10-20 — Teams invite «Τεχνικές Προδιαγραφές Ιστοσελίδων» για 2026-10-23 13:00 (ζήτησε ο κ. Παλαιολόγος)· ο Δήμος απαντά ότι έχει άλλο ραντεβού και θα επικοινωνήσει 2026-10-21 για μεταφορά ([[2026-10-20-hotelbrain-call-meeting-teams]], [[2026-10-20-hotelbrain-texnikes-prodiagrafes-invite]]).
 - 2026-10-23 13:00 — Προγραμματισμένη συνάντηση στο Teams «Τεχνικές Προδιαγραφές Ιστοσελίδων» (αρχικά 15:00, άλλαξε στις 2026-10-20) ([[2026-10-21_2026-10-28]]).
 - 2026-10-12 — Η Νίκη ρωτά αν ο Δήμος είναι διαθέσιμος τώρα για την αλλαγή των NS (πρόσβαση στο papaki είχε δώσει ήδη στις 2026-10-09) ([[2026-10-12-hotelbrain-corporate-website]]).

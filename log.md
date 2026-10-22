@@ -20,3 +20,4 @@ title: "Ημερολόγιο ενεργειών"
 2026-10-21 11:36 — job:leads — νέα φίλτρα στο jobs/leads.md (Αττική πρώτα, ένδειξη μεγέθους, ads 24μ.) + στήλες μεγέθους/Ad Library στη λίστα 2026-10-21
 2026-10-21 11:50 — job:leads — έλεγχος + διορθώσεις: 10 openers, στοιχεία 2/3/10· κανόνες opener και «τουλάχιστον μία επαφή» στο jobs/leads.md· brief ύφους στο jobs/README.md
 2026-10-21 11:43 — job:leads — κανόνας: έλεγχος διαφημίσεων (Meta+Google, 24μ.) σε κάθε lead, πάντα
+2026-10-22 08:15 — brief — 22 threads (20 νέα digests), 17 συναντήσεις (22–29/10), Asana — attention, deturbo, salesforce (νέο), antony-bebbington (νέο), argyroplastics, tandem-concept, karmiotissa, nikos-moulinos, nomud, danaos, overoll, global-foods, circle-of-dining, hotelbrain, greenmart-antemisaris, yiayia-meatballs, grow-outreach, hellenic-heritage-evolution, forologika-asfalistika, index
