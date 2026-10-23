@@ -3,7 +3,7 @@ type: person
 title: "Παναγιώτης Νίκας"
 aliases: [Panagiotis Nikas, P. Nikas, Νίκας, info@panagiotisnikas.com, coffeexpert@icloud.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-23
 ---
 # Παναγιώτης Νίκας
 > Ο ιδιοκτήτης πίσω από CoffeeXpert, Barista Academy και το προσωπικό brand panagiotis.nikas.official — πελάτης [[nikas-coffee-expert]].
@@ -24,6 +24,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-10-23 — Πρόταση video content με την AVEK σε draft· συνάντηση με R. Vilanov 2026-10-29 13:00 ([[2026-10-23-avek-nikas-prosfora-check]], [[2026-10-23_2026-10-30]]).
 - 2026-10-19 — Προωθεί phishing «Jackson Walker LLP» ([[2026-10-19-panagiotisnikas-copyright-spam]]).
 - 2026-10-10 — Ρωτά για το σύνολο 500€ του σεμιναρίου ([[2026-10-10-seminario-timi-600-500]]).
 - 2026-09-01 — Ρωτά αν να πληρώσει «Microsoft 365» (η σύζυγός του είχε θέματα με το Office) ([[2026-09-01-coffeexpert-m365-phishing-check]]).

@@ -3,7 +3,7 @@ type: lead
 title: "Salesforce (events Ελλάδα)"
 aliases: [Salesforce, salesforce.com]
 status: prospect
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 # Salesforce (events Ελλάδα)
 > Παλιός πελάτης events (2 μεγάλα events στην Ελλάδα το 2023, τιμολόγηση μέσω «KONSTANTOPOULOU SOFIA»)· στις 2026-10-21 η Salesforce Sourcing επανήλθε με νέα ανάγκη για local event agency.
@@ -24,6 +24,7 @@ updated: 2026-10-22
 ## Αποφάσεις
 
 ## Χρονολόγιο
+- 2026-10-22 — Η Μαρίνα απάντησε στον Antony ότι η GROW θέλει να ξανασυνεργαστεί· αναμένονται λεπτομέρειες ([[2026-10-21-salesforce-legal-entity-update-2026-10-23]]).
 - 2026-10-21 — Ο Antony ρωτά αν είμαστε ακόμη ενεργοί (νέα ανάγκη για local event agency)· ο Δήμος απαντά θετικά και διευκρινίζει την αλλαγή νομικής οντότητας ([[2026-10-21-salesforce-sos-konstantopoulou]], [[2026-10-21-salesforce-legal-entity]]).
 
 ## Οικονομικά

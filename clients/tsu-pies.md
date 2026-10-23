@@ -3,7 +3,7 @@ type: client
 title: "TSU Greek Pies and Coffee"
 aliases: [TSU, TSU Pies, TSUPIES, TSU Pies BV, TSU Pies SARL, Grandpas SARL-s, tsupies.com]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-23
 ---
 # TSU Greek Pies and Coffee
 > Αλυσίδα ελληνικής πίτας και καφέ με 3 καταστήματα στο Λουξεμβούργο· ήρθε ως lead τον Αύγουστο 2026 και από τον Σεπτέμβριο έχει τακτικές συναντήσεις με τη GROW, μαζί και «Kick-off call».
@@ -20,6 +20,7 @@ updated: 2026-10-21
 - 💭 Υπόθεση: το «TSUPIES x Grow Kick-off call» της 2026-09-21 δείχνει ότι η συνεργασία ξεκίνησε και η σελίδα ίσως πρέπει να περάσει στους πελάτες — καμία πρόταση/τιμή/αποδοχή δεν φαίνεται στα email ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Ημερομηνία Halloween (31/10 ή 1/11) και υπηρεσίες — Tsu Pies — από 2026-10-22 ([[2026-10-22-tsu-pies-halloween-paidiki-gonia]])
 - [ ] Έναρξη Meta & Google Ads TSU — GROW — από 2026-10-19 ([[2026-10-19-tsu-pies-recap-ekkremotites]])
 - [ ] Δώρα Spin Wheel (Looxi) — Βίκη + [[marina-papanastasiou]] ([[2026-10-19-tsu-pies-recap-ekkremotites]])
 - [ ] Επιβεβαίωση παράδοσης roll-up 2026-10-27 — [[marina-papanastasiou]] ([[2026-10-20-tsu-pies-roll-up]])· στο Asana «Roll Up banner Catering services» — [[marianna-vourna]] — ⚠️ εκπρόθεσμο από 2026-10-20 ([[2026-10-21-asana-snapshot]])
@@ -33,6 +34,7 @@ updated: 2026-10-21
 - 2026-08: briefing call μέσω Google Meet στις 16:00 ώρα Ελλάδας (15:00 Λουξεμβούργου), invite από τη Βασιλική ([[2026-08-10-tsu-pies-briefing-call]]).
 
 ## Χρονολόγιο
+- 2026-10-22 — Η Vicky έστειλε υλικό από την παιδική γωνιά του Greek Alley και Halloween 2025· η Μαρίνα ρωτά αν το Halloween θα είναι 31/10 ή 1/11 και ζήτησε υλικό ίδια μέρα για posts ΣΚ ([[2026-10-22-tsu-pies-halloween-paidiki-gonia]]).
 - 2026-10-19 — Recap Μαρίνας: Looxi (push χωρίς όριο, push <100 μ., γενέθλια, Spin Wheel), κριτικές TSU, νέο TikTok account, «META & Google ads Tsu & Grandpa's ξεκινούν» ([[2026-10-19-tsu-pies-recap-ekkremotites]]).
 - 2026-10-21 — Ο Δήμος επιβεβαίωσε ότι η TSU είναι πελάτης· η σελίδα μεταφέρθηκε από leads/ σε clients/.
 - 2026-10-21 — Asana: project «TSU Pies» (δημιουργήθηκε 2026-09-29) με 8 ανοιχτά και 8 ολοκληρωμένα: Give Away ✓ 10-18, Generic Post ✓ 10-15, GMB & Greek Coffee Educational posts ✓ 10-09, International Coffee Day after movie ✓ 10-07, «Which Greek pie are you today» reel ✓ 10-06, poster + reel «Dance when you enter» και creative με post-it ✓ 09-30. Ανοιχτά: roll-up catering, reel δρομέα ([[2026-10-21-asana-snapshot]]).

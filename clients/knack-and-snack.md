@@ -3,7 +3,7 @@ type: client
 title: "Knack & Snack"
 aliases: [Knack, Knack and Snack, Knack & Snack, @knackandsnack, knackandsnack@gmail.com]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-23
 ---
 # Knack & Snack
 > Πελάτης εστίασης της GROW για σχεδόν έναν χρόνο (στις 2026-08): Google Ads, social media management και γυρίσματα· από εδώ βγήκε ο κανόνας του Δήμου για τα κείμενα διαφημίσεων.
@@ -20,6 +20,7 @@ updated: 2026-10-21
 - Google Ads: στρατηγική split του PMax σε walk-ins (πρώτα, για τουρίστες) και delivery/pickup ([[2026-10-20-prohgoumenes-synomilies-claude]]). Αν έχει υλοποιηθεί: ασαφές.
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Δημιουργικό stand-up 11/11 → Σαββούλα — [[vassiliki-giannopoulou]] — σύντομα ([[2026-10-22-knack-and-snack-standups-noemvriou]])
 - [ ] Πλάνο ανάπτυξης brand (από τέλη Αυγούστου 2026) — Δήμος — υπόσχεση 2026-08-06, κατάσταση ασαφής ([[2026-08-06-knack-snack-organosi-synergasias]])
 - [ ] Αποδοχή της δομής παραδοτέων και διαθεσιμότητα για συνάντηση — Σπήλιος — από 2026-08-06, απάντηση δεν φαίνεται ([[2026-08-06-knack-snack-organosi-synergasias]])
 - [ ] Split PMax: walk-ins / delivery-pickup, Call/Directions 50/50 — GROW — χωρίς ημερομηνία, κατάσταση ασαφής ([[2026-10-20-prohgoumenes-synomilies-claude]])
@@ -38,6 +39,7 @@ updated: 2026-10-21
 - Προτεινόμενη δομή παραδοτέων (2026-08-06, αναμένει αποδοχή): Meta 3–4 posts/εβδ. + 7 Stories/εβδ.· TikTok 3–4 posts/εβδ.· 1–2 επαγγελματικά γυρίσματα/μήνα με τη Σήλια (14–16 προϊοντικά βίντεο + 20–25 φωτογραφίες ανά γύρισμα)· 1–2 γυρίσματα Reels/TikTok/μήνα από GROW ([[2026-08-06-knack-snack-organosi-synergasias]]).
 
 ## Χρονολόγιο
+- 2026-10-22 — Η Σαββούλα έστειλε το πρόγραμμα stand-ups Νοεμβρίου (4/11 κενό, 11/11 «Unpopular opinion»)· τα δημιουργικά ανεβαίνουν όλα μαζί, αλλά το 11/11 ξεκινά τώρα ([[2026-10-22-knack-and-snack-standups-noemvriou]]).
 - 2026-10-21 — Asana: project «KNACK & SNACK» με 9 ανοιχτά και 18 ολοκληρωμένα από 2026-07-01 — η δουλειά συνεχίζεται κανονικά παρά τη σιωπή στο email. Ολοκληρώθηκαν: stand up 21.10 & 28.10 ✓ 10-13/16, review google ads (Δήμος) ✓ 10-02, κωμικό μενού Α5, stand up στο μπαλκόνι, ταμπέλα για έξω ✓ 09-30, bashment poster ✓ 09-17, campaign strategy, posting plan, workshop presentation, newsletter sitemap, έρευνα micro ✓ 09-10, local SEO, σχεδιασμός merch, παρουσίαση Knack ✓ 09-08. Ανοιχτά: bashment 27.10, creators list, promo campaign, μενουδάκι stand-ups, site ([[2026-10-21-asana-snapshot]]).
 - 2026-10-04 — «Solace party (Knack)» στο ημερολόγιο· 💭 Υπόθεση: σύνδεση με το marketing event της [[rejuv-collective-solace]] στις 4/10 ([[2026-07-20_2026-11-03]], [[2026-09-15-rejuv-solace-sponsorships]]).
 - 2026-09-10 — «Knack εδώ» 14:00 ([[2026-07-20_2026-11-03]]).

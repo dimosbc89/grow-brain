@@ -3,7 +3,7 @@ type: person
 title: "George Andritsos"
 aliases: [Γιώργος Ανδρίτσος, gandritsos.com, george@gandritsos.com]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-23
 ---
 # George Andritsos
 > Εξωτερικός web developer που υλοποιεί το WooCommerce e-shop της [[tandem-concept]] με βάση τα reviews της GROW.
@@ -23,6 +23,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-10-22 — Ολοκλήρωσε τις αλλαγές στα μηνύματα του site [[pharmacypan]] ([[2026-10-20-pharmacypan-auto-emails-update-2026-10-23]]).
 - 2026-10-08 — Τέλος του design review της Tandem ([[2026-10-08-tandem-review-eshop-developer]]).
 - 2026-09-30 — «PharmacyPan review» 09:00 ([[2026-07-20_2026-11-03]]).
 - 2026-08 — Προτείνει plugin για variants στις λίστες, 43€ + ΦΠΑ/έτος ([[2026-10-08-tandem-review-eshop-developer]]).

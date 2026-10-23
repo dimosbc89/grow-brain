@@ -1,35 +1,35 @@
 ---
 type: attention
 title: "Τι απασχολεί τον Δήμο τώρα"
-updated: 2026-10-22
+updated: 2026-10-23
 ---
-# Attention — 2026-10-22
+# Attention — 2026-10-23
 
 > Τα 5 projects που απασχολούν πραγματικά τον Δήμο, από τα email που έστειλε, τα εισερχόμενα και το ημερολόγιο. Το ξαναγράφει η πρωινή ενημέρωση κάθε μέρα.
 
-## 1. [[argyroplastics]] — περίπτερο Plastica 2026 (6–9/11), αύριο λήγει το Expowork
-- **Κατάσταση:** στις 21/10 ο πελάτης έστειλε τελικό 3D (μία TV 75'', πάγκος Δ 4 επίπεδα, διαχωριστικό 400 cm, καλούπι σε δικό του τραπέζι)· η Δέσποινα το έστειλε για τιμή στον Ιάσονα **και** στην Expopiece («SOS»). Η αρχική προσφορά 8.950 € + ΦΠΑ ήταν πριν τις αλλαγές ([[2026-10-20-plastica-prosfora-kataskevasti-update-2026-10-22]], [[2026-10-21-plastica-expopiece-3d]]).
-- **Επόμενο βήμα:** επιλογή κατασκευαστή + έγκριση **άμεσα**· rigging plan / κρεμαστό καπέλο στην [[expowork]] **έως 23/10** ([[marina-papanastasiou]]). Βλ. [[ekthesiaka-periptera]].
+## 1. [[argyroplastics]] — Plastica (6–9/11): έμεινε χωρίς κατασκευαστή
+- **Κατάσταση:** στις 22/10 ο Ιάσονας ([[epilogin]]) **αρνήθηκε** «λόγω χρόνου» — η προσφορά 8.950 € + ΦΠΑ πέφτει. Η [[expopiece]] έχει 3D + κάτοψη από 22/10, τιμή δεν φαίνεται. Καλούπι ~400 kg στο βάθος του περιπτέρου. Print Kong: προσφορά για κρεμαστό plexi ([[2026-10-20-plastica-prosfora-kataskevasti-update-2026-10-23]], [[2026-10-21-plastica-expopiece-3d-update-2026-10-23]]).
+- **Επόμενο βήμα:** τιμή/ανάθεση Expopiece **σήμερα**· rigging plan στην [[expowork]] **σήμερα 23/10** ([[marina-papanastasiou]]). Βλ. [[ekthesiaka-periptera]].
 
-## 2. Νέες ευκαιρίες events/περίπτερα — [[deturbo]] και [[salesforce]]
-- **Κατάσταση:** η DETURBO έδωσε budget **~6.000 €** για το περίπτερο DEFEA 2027 (21/10) — περιμένει πρόταση από 18/09. Η Salesforce Sourcing επανήλθε με νέα ανάγκη για local event agency· ο Δήμος απάντησε θετικά και διευκρίνισε τη νέα νομική οντότητα ([[2026-09-22-deturbo-defea-2027-periptero-update-2026-10-22]], [[2026-10-21-salesforce-legal-entity]]).
-- **Επόμενο βήμα (Δήμος):** πρόταση DETURBO (2 λύσεις, ~6.000 €)· αναμονή λεπτομερειών Salesforce, ετοιμότητα με νέα στοιχεία εταιρείας ([[vassiliki-giannopoulou]]).
+## 2. Νέες πωλήσεις — προτάσεις σε κίνηση
+- **Κατάσταση:** [[mythea-travel]]: πρόταση 5 πυλώνων στάλθηκε 22/10 22:09, ζητήθηκε call. [[1767-beverages]]: call **Δευ 26/10 12:00**. [[avek]]: draft πρότασης video με τον Νίκα (400 € / 4.200 € / 7.200 €) περιμένει έλεγχό σου. [[goshipping]]: η Μαρίνα έστειλε την πρόταση 22/10. [[deturbo]]: θέλει πρόταση ~6.000 € (από 21/10). [[salesforce]]: η Μαρίνα απάντησε, αναμονή λεπτομερειών.
+- **Επόμενο βήμα (Δήμος):** έγκριση AVEK · πρόταση DETURBO · προετοιμασία call 1767.
 
-## 3. [[global-foods]] — Πρεσβεία σήμερα 17:30, η Ελπίδα περιμένει απαντήσεις
-- **Κατάσταση:** η «Πρεσβεία Global» μεταφέρθηκε στις 17:30 (22/10). Τα video προμηθευτών εγκρίθηκαν («τα δουλεύετε»). Ανοιχτά από την Ελπίδα: report 11/09–11/10 (και το report που πήγε λάθος στο Overoll), πλάνο καμπανιών/budget, πώς να μαζέψουν Google κριτικές ([[2026-10-21-globalfoods-fakeloi-yliko]], [[2026-10-21-globalfoods-campaigns]], [[2026-10-21-globalfoods-google-kritikes]]).
-- **Επόμενο βήμα (Δήμος):** απάντηση για report/πλάνο/κριτικές· «ΔΤ Detroit» (mention Μαρίνας, due 21/10).
+## 3. [[danaos]] + [[nikos-moulinos]] — Black Friday
+- **Κατάσταση:** budget Νοεμβρίου 2.500 € από ΔΑΝΑΟΣ· ζήτησες 3.000 € ή μία πλατφόρμα (22/10). Το brief [[nomud]] και assets/πλάνο Δαναού στον Νίκο δεν φαίνονται να στάλθηκαν (υπόσχεση 21/10) ([[2026-10-22-danaos-budget-noemvrios]]).
+- **Επόμενο βήμα (Δήμος):** brief/assets στον Νίκο· απάντηση ΔΑΝΑΟΣ για budget.
 
-## 4. [[hotelbrain]] — Teams 23/10 13:00 ακόμη πάνω στο Dominos
-- **Κατάσταση:** η υπόσχεση για επικοινωνία/μεταφορά (21/10) δεν φαίνεται στο Gmail· το ημερολόγιο δείχνει ακόμη Teams «Τεχνικές Προδιαγραφές» 13:00–14:00 και [[dominos]] 13:00–14:00 ([[2026-10-20-hotelbrain-call-meeting-teams-update-2026-10-22]]). Η Νίκη περιμένει name servers στο [[papaki]] από 12/10.
-- **Επόμενο βήμα (Δήμος):** σήμερα απόφαση/τηλέφωνο για τη σύγκρουση· name servers· mapping [[webhotelier]].
+## 4. [[global-foods]] — η Ελπίδα περιμένει απαντήσεις
+- **Κατάσταση:** feedback φακέλων (Zappala εκτός παντού), 3 posts σε σχόλια, δισέλιδο Οικονομικού Οδηγού για έγκριση. Από σένα ακόμη: report 11/09–11/10, πλάνο καμπανιών/budget, Google κριτικές ([[2026-10-21-globalfoods-fakeloi-yliko-update-2026-10-23]]).
+- **Επόμενο βήμα (Δήμος):** απάντηση για report/πλάνο/κριτικές.
 
-## 5. [[estia-crm]] — Home Watch Athens: δηλωμένη μήνυση
-- **Κατάσταση:** χωρίς νέα από 20/10 (μήνυση στο ΑΤ Αμαρουσίου για το estiagreekhome.online, κατά Δήμου και Μαρίνας) ([[2026-10-20-homewatch-athens-estia-mhnysh]]).
-- **Επόμενο βήμα (Δήμος):** δικηγόρος. ⚠️ Τον Μάιο γράφτηκε «αλλαγή brand/domain asap».
+## 5. [[hotelbrain]] / [[dominos]] — σύγκρουση σήμερα 13:00
+- **Κατάσταση:** στο ημερολόγιο ακόμη Teams «Τεχνικές Προδιαγραφές» (HotelBrain) **και** «Grow Agency x Dominos» στις 13:00–14:00· δεν φαίνεται email μετάθεσης. Η Νίκη περιμένει name servers στο [[papaki]] από 12/10.
+- **Επόμενο βήμα (Δήμος):** ποιο meeting παίρνεις — ενημέρωση του άλλου πριν τις 13:00· name servers.
 
 ## Στο ραντάρ
-- **Υποσχέσεις σε εκκρεμότητα:** brief [[nomud]] στον [[nikos-moulinos]] («μέσα στην ημέρα» 21/10) + assets/πλάνο [[danaos]] · [[karmiotissa]] football@ + webmail · [[tandem-concept]] εικόνες APPAREL · [[kolokytha-eshop]] pre-order tag.
-- **Λογαριασμοί:** [[fastpath]] 507,78 € έως Παρ. 23/10 · [[metalease]] ληξιπρόθεσμα 139,89 € + 219,00 € · [[the-accountancy-partnership]] P-388149 έως 30/10 · ΕΦΚΑ Σεπτεμβρίου (Μαρίνα) · machevuoi.gr λήγει 04/11.
-- **Αύριο 23/10:** 09:30 [[yiayia-meatballs]] shooting · 11:00 [[greenmart-antemisaris]] κατάλογος · 13:00 Dominos/HotelBrain · 14:30 Follow Up HE ([[hellenic-heritage-evolution]]).
-- **Outreach:** TikTok LIVE — 3 έγγραφα μετά το call 21/10, θέλει απόφαση ([[grow-outreach]]) · Papamanoli Partners 26/10 16:00 (ασαφές τι είναι).
-- **Αποφάσεις πελατών:** [[overoll]] χωρίς κουτί Panettone φέτος.
+- **Υποσχέσεις:** [[overoll]] προτάσεις .com domain «σε επόμενο email» · [[grow-360-ltd]] Companies House auth code στην TAP (ASAP, υπενθύμιση 23/10) · [[fastpath]] 507,78 € **σήμερα** · [[karmiotissa]] football@/webmail · [[tandem-concept]] εικόνες APPAREL · [[kolokytha-eshop]] pre-order tag.
+- **Σήμερα:** 09:30 [[yiayia-meatballs]] shooting · 11:00 [[greenmart-antemisaris]] · 12:00 Laurine x Dimos ([[laurine-erasmus]]) · 13:00 Dominos/HotelBrain · 14:30 Follow Up HE ([[hellenic-heritage-evolution]]) · 15:00 γύρισμα Πανόπουλος.
+- **[[estia-crm]]:** μήνυση Home Watch Athens — δικηγόρος, χωρίς νέα από 20/10.
+- **Outreach:** Mediterranean College θέλει ανταλλαγή χωρίς budget — απόφαση για αμοιβή · TikTok LIVE έγγραφα στη Μαρίνα/Vasia S ([[grow-outreach]]).
+- **Λογαριασμοί:** [[metalease]] ληξιπρόθεσμα · [[the-accountancy-partnership]] P-388149 έως 30/10 · Revolut: λογαριασμός περιορισμένος (22/10).

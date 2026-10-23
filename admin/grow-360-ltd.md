@@ -3,7 +3,7 @@ type: admin
 title: "GROW 360 LTD (UK εταιρεία)"
 aliases: [GROW 360, GROW 360 LTD, UK εταιρεία, UK company, βρετανική εταιρεία]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-23
 ---
 # GROW 360 LTD
 > Η βρετανική εταιρεία του Δήμου (μοναδικός director/shareholder, κάτοικος Ελλάδας). Τον Οκτώβριο 2026 πέρασε σε νέο λογιστή, την [[the-accountancy-partnership]], και τον Νοέμβριο 2026 έχει τις πρώτες προθεσμίες της στην Companies House.
@@ -31,7 +31,7 @@ updated: 2026-10-21
 - [ ] Αποστολή εγγράφων AML στην TAP: photo ID και αποδεικτικό διεύθυνσης τελευταίου τριμήνου — Δήμος/Μαρίνα — χωρίς ημερομηνία ([[2026-10-16-accountancy-partnership-aml-check]])
 - [ ] Link για initial consultation από τον Jamie (TAP) — TAP — έως 2026-10-20 (2 εργάσιμες από 2026-10-16· μπλοκαρισμένο μέχρι την πληρωμή) ([[2026-10-16-accountancy-partnership-welcome]])
 - [ ] Ο κωδικός Corporation Tax «CT» της HMRC έρχεται ταχυδρομικά και πρέπει να προωθηθεί στην TAP — Δήμος — ~έως 2026-10-30 (~2 εβδομάδες από 2026-10-16) ([[2026-10-16-accountancy-partnership-welcome]])
-- [ ] Authentication code της Companies House → TAP — Δήμος — χωρίς ημερομηνία ([[2026-10-16-accountancy-partnership-welcome]])
+- [ ] Authentication code της Companies House → TAP (Client Hub) — Δήμος — **υπενθύμιση TAP 2026-10-23, «ASAP»** ([[2026-10-23-accountancy-missing-setup]]) ([[2026-10-16-accountancy-partnership-welcome]])
 - [ ] Ενημέρωση της DMP ότι επιλέχθηκε άλλος λογιστής — Δήμος/Μαρίνα — εκκρεμεί από 2026-10-14 ([[2026-10-19-dmp-accountants-grow360-quote]])
 - [ ] Κλείσιμο των SupportLine (περιμένει απόφαση από 2026-09-15) και Sturgess (ανοιχτό από 2026-09-22) — Δήμος — χωρίς ημερομηνία ([[2026-09-15-grow360-ltd-supportline-quote]], [[2026-09-22-grow360-ltd-sturgess-accounting-quote]])
 - [ ] Απόφαση για ακύρωση της αυτόματης ανανέωσης YCF (339,60, νόμισμα πιθανώς £). Πρώτα ερώτηση στον λογιστή αν μπορεί να ακυρωθεί — Μαρίνα — έως 2026-11-10 ([[2026-10-02-grow360-ycf-renewal-accounting]], [[2026-10-13-yourcompanyformations-renewal]])
@@ -47,6 +47,7 @@ updated: 2026-10-21
 - 2026-10-02 — Η Μαρίνα αναλαμβάνει να επιλέξει λογιστή και να ρωτήσει αν ακυρώνονται οι υπηρεσίες YCF ([[2026-10-02-grow360-ycf-renewal-accounting]]).
 
 ## Χρονολόγιο
+- 2026-10-23 — Η TAP ζήτησε μέσω Client Hub το Companies House auth code — καθυστέρηση = κίνδυνος προστίμων HMRC ([[2026-10-23-accountancy-missing-setup]]).
 - 2026-10-20 — Η The Accountancy Partnership ζητά ώρα για onboarding call (forward στη Μαρίνα) και στέλνει υπενθύμιση για το τιμολόγιο P-388149, λήξη 2026-10-30 ([[2026-10-20-accountancy-partnership-onboarding]], [[2026-10-20-accountancy-partnership-invoice-p388149]]).
 - 2026-10-19 — TAP: στάλθηκαν τραπεζικά στοιχεία ([[2026-10-19-accountancy-partnership-account-blocked]]). Ίδια μέρα: δεύτερη υπενθύμιση από τη DMP ([[2026-10-19-dmp-accountants-grow360-quote]]).
 - 2026-10-16 — TAP: η Megan επιβεβαίωσε ότι ο λογαριασμός περιορίστηκε για το απλήρωτο P-388148· ο Δήμος ρώτησε την ίδια μέρα «how we can pay ? can we do it digital or can you provide us with iban» ([[2026-10-19-accountancy-partnership-account-blocked]]).

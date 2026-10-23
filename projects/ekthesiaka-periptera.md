@@ -3,7 +3,7 @@ type: project
 title: "Εκθεσιακά περίπτερα (booth design & build)"
 aliases: [εκθεσιακά περίπτερα, περίπτερα, booths, expo design & build, expo booths]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-23
 ---
 # Εκθεσιακά περίπτερα
 > Γραμμή υπηρεσιών της GROW για σχεδιασμό και κατασκευή custom εκθεσιακών περιπτέρων, μαζί με περιφερειακές υπηρεσίες. Εδώ συγκεντρώνονται όλοι οι πελάτες και τα leads περιπτέρων.
@@ -49,6 +49,7 @@ updated: 2026-10-21
 - Πρώτα στέλνουμε δημιουργικό πλαίσιο (κάτοψη, φωτορεαλιστικό, activations) και αναλυτική κοστολόγηση μετά το feedback (GameStuff, 2026-09-07) ([[2026-09-07-gamestuff-fantasy-festival-booth]]).
 
 ## Χρονολόγιο
+- 2026-10-22 — Plastica/[[argyroplastics]]: η [[epilogin]] αποσύρθηκε από την κατασκευή· ανοιχτή μόνο η [[expopiece]] ([[2026-10-20-plastica-prosfora-kataskevasti-update-2026-10-23]]).
 - 2026-10-21 — Asana (project «Grow»): «Περίπτερο Deturbo» — [[vassia-kataki]] — due 2026-10-23. Η προθεσμία μετατίθεται σχεδόν καθημερινά (τελευταία 2026-10-19 → 2026-10-23), χωρίς σχόλια. «Περίπτερο Agroma»: subtask του «To do in Subtasks» (Δήμος), χωρίς ανάθεση και due, από 2026-07-30. Ολοκληρώθηκαν: «Game Stuff Booth - Fantasy Festival» (Βάσια, 2026-09-11), «Offer Argyroplastics» (Δήμος, 2026-09-17), «Primowear | Syskevasia 2026» (Βάσια, 2026-10-07) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Plastica/[[argyroplastics]]: κατασκευή 8.950 € + ΦΠΑ, οθόνες 500 €, deadline αναρτήσεων Expowork 2026-10-23· Xenia (21–23/11): οθόνη 65'' 400 € / 75'' 450 € ([[2026-10-20-plastica-prosfora-kataskevasti]], [[2026-10-20-enoikiasi-othonon-botsaris]], [[2026-10-20-expowork-argyroplastics-d17]]).
 - 2026-10-20 — Argyroplastics: ερωτήσεις της Μαρίνας και meeting 14:30 ([[2026-10-20-argyroplastics-plastica-2026]], [[2026-07-20_2026-11-03]]).

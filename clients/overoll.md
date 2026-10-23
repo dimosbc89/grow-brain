@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -23,6 +23,8 @@ updated: 2026-10-22
 - Ο Δήμος ζήτησε διαθεσιμότητες για call στις 2026-10-14· ημερομηνία call δεν υπάρχει στο ημερολόγιο ([[2026-10-14-overoll-websites-domains]], [[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Διεύθυνση στις ΗΠΑ για Google Business & Yelp — Overoll/TS Developments — χωρίς ημερομηνία ([[2026-10-19-overoll-social-handles-domains]])
+- [ ] Feedback για ανακοίνωση γενεθλίων και stickers — Overoll — από 2026-10-22 ([[2026-10-20-overoll-turns-6-event-update-2026-10-23]])
 - [ ] Κόστη μπαλονιών/promoters/DJ για το event — [[vassiliki-giannopoulou]] ([[2026-10-20-overoll-turns-6-event]])
 **Από Asana (στις 2026-10-21)**
 - [ ] «birthday overoll» (Overoll Turns 6) — [[vassiliki-giannopoulou]] — έως 2026-11-01· subtasks: σχεδιασμός sticker & birthday pass ([[marianna-vourna]], ⚠️ εκπρόθεσμα από 2026-10-19/20), influencers, promoters σε κάθε κατάστημα, μπαλόνια (Βασιλική, έως 2026-10-23), giveaway carousel post ([[vassia-kataki]], έως 2026-10-21) ([[2026-10-21-asana-snapshot]])
@@ -34,7 +36,7 @@ updated: 2026-10-22
 - [ ] «linkedin KIKIRAS» — [[marina-papanastasiou]] — ⚠️ εκπρόθεσμο από 2026-09-09 ([[2026-10-21-asana-snapshot]])
 - [x] «overoll usa mail» — Δήμος — ✓ 2026-10-05 ([[2026-10-21-asana-snapshot]])
 **Υποσχέσεις του Δήμου**
-- [ ] Λίστα εναλλακτικών .com domains (π.χ. overollcroissanterie.com) — Δήμος — χωρίς ημερομηνία (από 2026-10-14) ([[2026-10-14-overoll-websites-domains]])
+- [ ] Λίστα εναλλακτικών .com domains (π.χ. overollcroissanterie.com) — Δήμος — χωρίς ημερομηνία (από 2026-10-14· ξαναϋποσχέθηκε «σε επόμενο email» 2026-10-22, [[2026-10-19-overoll-social-handles-domains]]) ([[2026-10-14-overoll-websites-domains]])
 - [ ] Online call για δομή και links των sites — Δήμος — μόλις η Overoll δώσει διαθεσιμότητες και κλείσει τις σημειώσεις της ([[2026-10-14-overoll-websites-domains]])
 
 **Από τον πελάτη**
@@ -48,6 +50,7 @@ updated: 2026-10-22
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-10-22 — Ο Δήμος απάντησε για τα US handles: καλύφθηκαν όλες οι πλατφόρμες «overoll_usa» εκτός Google & Yelp (χρειάζεται διεύθυνση)· προτάσεις για το κύριο .com domain σε επόμενο email. Η Βασιλική έστειλε επιλογές για την ανακοίνωση γενεθλίων και ανανεωμένα stickers (Overoll Turns 6). Asana «δημιουργία usa mail» ✓ ([[2026-10-19-overoll-social-handles-domains]], [[2026-10-20-overoll-turns-6-event-update-2026-10-23]]).
 - 2026-10-21 — Η Overoll δεν θα παράγει κουτί για το Panettone· όπως πέρσι, διάφανη σακούλα τροφίμων. Οι προτάσεις packaging της Βασιλικής (12/10) δεν προχωρούν ([[2026-10-21-overoll-panettone-packaging]]).
 - 2026-10-21 — Asana: project «Overoll» με 20 ανοιχτά και 25 ολοκληρωμένα από 2026-07-01. Κύριο ανοιχτό το «birthday overoll» (έως 2026-11-01) και τα panettone packaging, cruffin caramel carousel, promo νέου μενού. Ολοκληρώθηκαν: apple pecan carousel ✓ 10-15, AI video promo & new menu teaser ✓ 10-12, loyalty κάρτα Κολωνάκι ✓ 10-06, overoll usa mail (Δήμος) ✓ 10-05, menuboards/ταμπελάκια αεροδρομίου ✓ 09-22/28, google ads & Back To School campaign ✓ 09-16, site OVEROLL ✓ 09-10, εβδομαδιαίες κριτικές (Vasia Striga) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Overoll Turns 6 (2026-11-01): εγκρίθηκε η κάρτα, στάλθηκαν εκτυπωτικά· promoters 27/29/30-10, giveaway iPhone 18· εβδομαδιαίες κριτικές 12–19/10 από τη Vasia S. Επίσης: η Global Foods επισήμανε ότι το δικό της Google Ads report (2026-09-11) είχε σταλεί και στο marketing@overoll.gr ([[2026-10-20-overoll-turns-6-event]], [[2026-10-20-overoll-kritikes-12-19-10]], [[2026-10-20-globalfoods-google-ads-report-update-2026-10-21]]).

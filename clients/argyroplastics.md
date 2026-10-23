@@ -3,7 +3,7 @@ type: client
 title: "Argyroplastics"
 aliases: [ArgyrΩplastics, Υιοί Ιωάννη Γαβαλά Ο.Ε., Yioi Ioanni Gavala O.E., argyroplastics.gr, Plastica 2026]
 status: ενεργός
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 # Argyroplastics
 > Εταιρεία πλαστικών (Υιοί Ιωάννη Γαβαλά Ο.Ε.)· η GROW συντηρεί το website argyroplastics.gr και κάνει το εκθεσιακό περίπτερο για την Plastica 2026, με υπογεγραμμένη συμφωνία.
@@ -23,9 +23,11 @@ updated: 2026-10-22
 - Domain: η Cretaforce ζήτησε στις 2026-10-14 να επικοινωνήσει ο Δήμος με τον Τζωρτζόπουλο· ο Δήμος το προώθησε στη Μαρίνα· αν έγινε: ασαφές ([[2026-10-14-cretaforce-domain-argyroplastics]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Αναθεωρημένη τιμή κατασκευής με το νέο 3D — Ιάσονας + Expopiece — από 2026-10-21 ([[2026-10-20-plastica-prosfora-kataskevasti-update-2026-10-22]], [[2026-10-21-plastica-expopiece-3d]])
-- [ ] Κάτοψη — Argyroplastics — «σύντομα» (2026-10-21) ([[2026-10-20-argyroplastics-plastica-2026-update-2026-10-22]])
-- [ ] Έγκριση προσφοράς κατασκευής 8.950 € + ΦΠΑ — GROW / πελάτης — **άμεσα** ([[2026-10-20-plastica-prosfora-kataskevasti]])
+- [ ] **Κατασκευαστής περιπτέρου μετά την άρνηση του Ιάσονα (22/10): τιμή/ανάθεση στην [[expopiece]] ή άλλον** — [[despina-velissariou]] / [[marina-papanastasiou]] / Δήμος — **άμεσα** (έκθεση 6/11) ([[2026-10-20-plastica-prosfora-kataskevasti-update-2026-10-23]])
+- [ ] Προσφορά plexi (κρεμαστό, με σόκορο, πρόταση πάχους) — Print Kong — από 2026-10-22 ([[2026-10-19-plexiglass-argyroplastics-printkong]])
+- [x] ~~Αναθεωρημένη τιμή από Ιάσονα~~ — ο Ιάσονας αρνήθηκε 2026-10-22· μένει η Expopiece — από 2026-10-21 ([[2026-10-20-plastica-prosfora-kataskevasti-update-2026-10-22]], [[2026-10-21-plastica-expopiece-3d]])
+- [x] Κάτοψη — ✓ η Δέσποινα την έστειλε στους κατασκευαστές 2026-10-22 ([[2026-10-20-argyroplastics-plastica-2026-update-2026-10-22]])
+- [x] ~~Έγκριση προσφοράς κατασκευής 8.950 € + ΦΠΑ~~ — άκυρη, η Epilogi αποσύρθηκε 2026-10-22 ([[2026-10-20-plastica-prosfora-kataskevasti]])
 - [ ] Κρεμαστό «καπέλο»: φόρμες + rigging plan στην [[expowork]] — [[marina-papanastasiou]] — **έως 2026-10-23** ([[2026-10-20-expowork-argyroplastics-d17]])
 - [ ] Asana «Argyroplastics περίπτερο» — [[fotini]] — due 2026-10-13 ⚠️ εκπρόθεσμο· subtask «νέα κάτοψη» — [[vassia-kataki]] — due 2026-10-20 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
 - [ ] Plexiglass — [[vassia-kataki]] — due 2026-10-19 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
@@ -56,6 +58,7 @@ updated: 2026-10-22
 - Τα τελικά μηνύματα/γραφικά τοίχων τα δίνει ξεχωριστά ο πελάτης ([[2026-10-20-argyroplastics-plastica-2026]]).
 
 ## Χρονολόγιο
+- 2026-10-22 — **Ο Ιάσονας (Epilogi) αποσύρθηκε** από την κατασκευή «λόγω έλλειψης χρόνου»· η Δέσποινα έστειλε ανανεωμένη κάτοψη στην Expopiece (και, μετά την άρνηση, στον Ιάσονα). Ο Χρήστος Γαβαλάς: καλούπι ~400 kg, δύσκολη πρόσβαση στο βάθος του περιπτέρου. Print Kong: προσφορά για κρεμαστό plexi με σόκορο ([[2026-10-20-plastica-prosfora-kataskevasti-update-2026-10-23]], [[2026-10-21-plastica-expopiece-3d-update-2026-10-23]], [[2026-10-20-argyroplastics-plastica-2026-update-2026-10-23]], [[2026-10-19-plexiglass-argyroplastics-printkong]]).
 - 2026-10-21 — Ο πελάτης στέλνει επικαιροποιημένο 3D: μία TV 75'' πάνω από τη ρεσεψιόν, πάγκος Δ 4 επίπεδα, διαχωριστικό 400 cm, καλούπι πάνω σε υπάρχον τραπέζι 80×80×80. Η Δέσποινα το προωθεί στον Ιάσονα και στην Expopiece («SOS») για τιμή ([[2026-10-20-argyroplastics-plastica-2026-update-2026-10-22]], [[2026-10-20-plastica-prosfora-kataskevasti-update-2026-10-22]], [[2026-10-21-plastica-expopiece-3d]]).
 - 2026-10-21 — Asana: στο task «Argyroplastics περίπτερο» ο Δήμος έγραψε 2026-10-13 «ναι θα βάλουμε [κρεμαστό]… θέλει ανάλυση για κρυφούς φωτισμούς»· η Δέσποινα 2026-10-16: 2 meeting rooms αντί για 3, λεκτικά «Let's talk! / Your project. Our Responsibility.», διθέσιο μικρό stand· 2026-10-20 νέο subtask «νέα κάτοψη». Ανοιχτό και «Plexiglass» ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Προσφορά κατασκευής περιπτέρου από τον Ιάσωνα: 8.950 € + ΦΠΑ (χωρίς τζάμια βιτρινών), 50% προκαταβολή, ζητά έγκριση άμεσα· Expowork: αναρτήσεις έως 2026-10-23 με rigging plan· Botsaris: 2x 65'' οθόνες 500 €· ο Χρήστος Γαβαλάς ζητά διαστάσεις οθονών προηγούμενης έκθεσης ([[2026-10-20-plastica-prosfora-kataskevasti]], [[2026-10-20-expowork-argyroplastics-d17]], [[2026-10-20-enoikiasi-othonon-botsaris]], [[2026-10-20-argyroplastics-plastica-2026-update-2026-10-21]]).

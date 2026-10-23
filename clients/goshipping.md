@@ -3,7 +3,7 @@ type: client
 title: "GoShipping"
 aliases: [Go Shipping, GO Shipping]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-23
 ---
 # GoShipping
 > Νέος πελάτης της GROW· η GROW σχεδίασε web app για την GoShipping και ετοιμάζει πρόταση (v3).
@@ -17,12 +17,14 @@ updated: 2026-10-20
 - Στις 2026-10-17 ο Δήμος έστειλε εσωτερικά στη Μαρίνα το «GROW_GO_Shipping_Proposal_v3» (PDF, χωρίς κείμενο)· ασαφές αν στάλθηκε στον πελάτη ([[2026-10-17-goshipping-proposal-v3]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Έλεγχος/αποστολή πρότασης v3 στον πελάτη — [[marina-papanastasiou]] (💭 Υπόθεση) — χωρίς ημερομηνία ([[2026-10-17-goshipping-proposal-v3]])
+- [ ] Απάντηση στην πρόταση — GoShipping (Georgia) — από 2026-10-22 ([[2026-10-22-goshipping-offer-presentation]])
+- [x] Αποστολή πρότασης στον πελάτη — [[marina-papanastasiou]] — ✓ 2026-10-22 ([[2026-10-22-goshipping-offer-presentation]]) ([[2026-10-17-goshipping-proposal-v3]])
 
 ## Αποφάσεις
 - —
 
 ## Χρονολόγιο
+- 2026-10-22 — Η Μαρίνα έστειλε στη Georgia (info@go-shipping.com) την παρουσίαση με την πρόταση ([[2026-10-22-goshipping-offer-presentation]]).
 - 2026-10-17 — Πρόταση v3 προς Μαρίνα ([[2026-10-17-goshipping-proposal-v3]]).
 - Ασαφής ημερομηνία — Σχεδιασμός web app στο Figma και promo reel ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 

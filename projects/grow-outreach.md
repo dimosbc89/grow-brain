@@ -3,7 +3,7 @@ type: project
 title: "GROW outreach & marketing (δικό μας)"
 aliases: [GROW marketing, cold outreach, ActiveCampaign, ΙΕΚ καμπάνια, @grow.agency.online, GROW social]
 status: ενεργός
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 # GROW outreach & marketing
 > Το marketing της ίδιας της [[grow-agency]]: cold email καμπάνιες μέσω ActiveCampaign (ΙΕΚ/εκπαίδευση, εκθεσιακά περίπτερα), υλικό για τα social και τα flyers της GROW, events και press.
@@ -23,6 +23,7 @@ updated: 2026-10-22
 - Για την καμπάνια ΙΕΚ υπάρχει μόνο το test της 2026-07-30. Πραγματική αποστολή και αποτελέσματα: ασαφή ([[2026-07-30-test-newsletter-iek-eggrafes]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Mediterranean College: πρόταση με ή χωρίς αμοιβή — Δήμος / [[despina-velissariou]] — από 2026-10-22 ([[2026-10-22-mediterranean-college-paketo]])
 - [ ] Απόφαση για TikTok LIVE Agency μετά τα 3 έγγραφα — Δήμος — από 2026-10-21 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-22]])
 - [ ] Απάντηση στον Paralos για χρέωση συμμετοχής στο Hospitality Jam — [[ioanna-chalkiadaki]] (💭 Υπόθεση: θέλει γραμμή από τον Δήμο) ([[2026-10-20-hospitality-jam-paralos]])
 - [ ] Παρουσίαση στην Papoutsanis — [[ioanna-chalkiadaki]] ([[2026-10-20-hospitality-jam-papoutsanis]])
@@ -43,6 +44,7 @@ updated: 2026-10-22
 - —
 
 ## Χρονολόγιο
+- 2026-10-22 — TikTok LIVE: ο Δήμος προώθησε τα 3 έγγραφα σε Μαρίνα και Vasia S. Mediterranean College: πακέτο ανταλλαγής (ομιλία σεφ, υποτροφίες, προβολή, Educational Partner), χωρίς budget από MC — απόφαση Δήμου–Δέσποινας για αμοιβή ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-23]], [[2026-10-22-mediterranean-college-paketo]]). Νέα leads: [[mythea-travel]] (πρόταση 22/10), [[1767-beverages]] (call 26/10).
 - 2026-10-21 — Έγινε το call με τη Marilena Rentzou (TikTok LIVE)· έστειλε 3 έγγραφα για τη λειτουργία LIVE Agency ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-22]]).
 - 2026-10-21 — Η [[salesforce]] (Sourcing EMEA) ρωτά αν η GROW είναι ακόμη ενεργή στα events στην Ελλάδα — έχει νέα ανάγκη για local event agency· ο Δήμος απάντησε θετικά ([[2026-10-21-salesforce-sos-konstantopoulou]]).
 - 2026-10-19 — Hospitality Jam: τέταρτη απάντηση από [[dominos]] (Marketing Manager, συνάντηση 2026-10-23 13:00)· σύνολο απαντήσεων εβδομάδας: Domino's, Mediterranean College, Paralos, Papoutsanis ([[2026-10-19-hospitality-jam-dominos]]).
