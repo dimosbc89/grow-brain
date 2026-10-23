@@ -1,0 +1,23 @@
+---
+type: client
+title: "Divino"
+aliases: [Divino]
+status: ενεργός
+updated: 2026-10-23
+---
+# Divino
+> Πελάτης web της GROW· ο freelancer [[george-andritsos]] κάνει τις διορθώσεις στο site.
+
+## Σε μια ματιά
+- Υπηρεσίες: website (διορθώσεις, νέος διαδραστικός χάρτης αντιπροσώπων) ([[2026-10-13-divino-feedback-site]]).
+- Ομάδα GROW: [[marina-papanastasiou]] · developer [[george-andritsos]].
+
+## Τρέχουσα κατάσταση (στις 2026-10-23)
+- Οι διορθώσεις ολοκληρώθηκαν· εκκρεμούν εικόνες από τη Divino. Συμφωνήθηκε νέος διαδραστικός χάρτης αντιπροσώπων, στα πρότυπα του globalfoods.gr ([[2026-10-13-divino-feedback-site]]).
+
+## Ανοιχτά & επόμενα βήματα
+- [ ] Εικόνες για το site — Divino — ασαφές ([[2026-10-13-divino-feedback-site]])
+- [ ] Χάρτης αντιπροσώπων — George Andritsos — ασαφές ([[2026-10-13-divino-feedback-site]])
+
+## Χρονολόγιο
+- 2026-10-23 — Η Μαρίνα επιβεβαιώνει: αλλάζει μόνο ο χάρτης στους αντιπροσώπους ([[2026-10-13-divino-feedback-site]]).

@@ -3,7 +3,7 @@ type: vendor
 title: "FASTPATH ΙΚΕ"
 aliases: [Fastpath, fastpath.gr, FASTPATH IKE]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-23
 ---
 # FASTPATH ΙΚΕ
 > Ο hosting provider της GROW. Φιλοξενεί τον managed server cloud.growagency.online (Plesk), όπου τρέχουν sites και email πελατών. Στις 2026-10-20 απειλεί διακοπή για ανεξόφλητο τιμολόγιο.
@@ -22,6 +22,7 @@ updated: 2026-10-21
 - Ο Δήμος απάντησε: «Καλησπέρα σας θα ταχτοποιηθεί μέχρι Παρασκευή» ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [x] Πληρωμή 507,78 € — ✓ 2026-10-23 ([[2026-10-23-fastpath-exoflisi-58712]])
 - [ ] **Πληρωμή 507,78 €** (προτιμολόγιο #58712) — Δήμος — **άμεσα** (η Fastpath δεν έδωσε προθεσμία· ο Δήμος υποσχέθηκε έως 2026-10-23) ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]])
 - [ ] Απάντηση στο ticket 004632 (SSH στα mailboxes του academicals.gr) — Fastpath — ανοιχτό από 2026-09-28 ([[2026-09-28-fastpath-ticket-ssh-academicals]]). Αφορά τον [[academicals-foxacademy]]
 
@@ -29,6 +30,7 @@ updated: 2026-10-21
 - —
 
 ## Χρονολόγιο
+- 2026-10-23 — ✓ Εξοφλήθηκε η χρέωση #58712, 507,78 € (managed cloud + Plesk Σεπτεμβρίου)· υπόλοιπο 0 ([[2026-10-23-fastpath-exoflisi-58712]]).
 - 2026-10-20 — Η FASTPATH «αναμένουμε την εξόφληση» ([[2026-10-20-fastpath-apantisi-ticket]]).
 - 2026-10-19/20 — Ticket 836805 «Διακοπή υπηρεσιών λόγω οφειλών». Ο Δήμος δεσμεύτηκε να πληρώσει έως 2026-10-23 ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]]).
 - 2026-09-28 — Ticket 004632, χαμηλή προτεραιότητα. Το SSH key δεν έχει πρόσβαση στα mailboxes του academicals.gr, και η πρόσβαση χρειάζεται για backup και διαγραφή παλιών email ([[2026-09-28-fastpath-ticket-ssh-academicals]]).

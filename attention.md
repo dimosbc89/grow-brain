@@ -23,12 +23,13 @@ updated: 2026-10-23
 - **Κατάσταση:** feedback φακέλων (Zappala εκτός παντού), 3 posts σε σχόλια, δισέλιδο Οικονομικού Οδηγού για έγκριση. Από σένα ακόμη: report 11/09–11/10, πλάνο καμπανιών/budget, Google κριτικές ([[2026-10-21-globalfoods-fakeloi-yliko-update-2026-10-23]]).
 - **Επόμενο βήμα (Δήμος):** απάντηση για report/πλάνο/κριτικές.
 
-## 5. [[hotelbrain]] / [[dominos]] — σύγκρουση σήμερα 13:00
+## 5. [[hotelbrain]] / [[dominos]] — νέο site HotelBrain, Domino's αναβλήθηκε
 - **Κατάσταση:** στο ημερολόγιο ακόμη Teams «Τεχνικές Προδιαγραφές» (HotelBrain) **και** «Grow Agency x Dominos» στις 13:00–14:00· δεν φαίνεται email μετάθεσης. Η Νίκη περιμένει name servers στο [[papaki]] από 12/10.
-- **Επόμενο βήμα (Δήμος):** ποιο meeting παίρνεις — ενημέρωση του άλλου πριν τις 13:00· name servers.
+- **Ενημέρωση 16:00:** η Domino's ανέβαλε (προτάθηκαν 27/10 ή 29/10)· το Teams HotelBrain πήγε 14:00 (declined)· η HotelBrain ζητά **νέο design hotelbrain.com** — call εβδ. 26/10 ([[2026-10-23-hotelbrain-com-new-design]], [[2026-10-19-hospitality-jam-dominos-update-2026-10-23]]).
+- **Επόμενο βήμα (Δήμος):** κοστολόγηση νέου site · name servers.
 
 ## Στο ραντάρ
-- **Υποσχέσεις:** [[overoll]] προτάσεις .com domain «σε επόμενο email» · [[grow-360-ltd]] Companies House auth code στην TAP (ASAP, υπενθύμιση 23/10) · [[fastpath]] 507,78 € **σήμερα** · [[karmiotissa]] football@/webmail · [[tandem-concept]] εικόνες APPAREL · [[kolokytha-eshop]] pre-order tag.
+- **Υποσχέσεις:** [[overoll]] προτάσεις .com domain «σε επόμενο email» · [[grow-360-ltd]] Companies House auth code στην TAP (ASAP, υπενθύμιση 23/10) · [[fastpath]] 507,78 € ✓ πληρώθηκε 23/10 · [[karmiotissa]] football@/webmail · [[tandem-concept]] εικόνες APPAREL · [[kolokytha-eshop]] pre-order tag.
 - **Σήμερα:** 09:30 [[yiayia-meatballs]] shooting · 11:00 [[greenmart-antemisaris]] · 12:00 Laurine x Dimos ([[laurine-erasmus]]) · 13:00 Dominos/HotelBrain · 14:30 Follow Up HE ([[hellenic-heritage-evolution]]) · 15:00 γύρισμα Πανόπουλος.
 - **[[estia-crm]]:** μήνυση Home Watch Athens — δικηγόρος, χωρίς νέα από 20/10.
 - **Outreach:** Mediterranean College θέλει ανταλλαγή χωρίς budget — απόφαση για αμοιβή · TikTok LIVE έγγραφα στη Μαρίνα/Vasia S ([[grow-outreach]]).

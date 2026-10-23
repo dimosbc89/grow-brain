@@ -62,6 +62,7 @@ updated: 2026-10-23
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-10-23 — Η Μαρίνα έστειλε τα ΔΤ για το Detroit· η Global ζητά περισσότερα θέματα (Zeo, Oktoberfest, 70 χρόνια Ιταλικού Σχολείου) — χρειάζονται briefs από τον πελάτη ([[2026-10-09-global-unique-nea-mas]]).
 - 2026-10-22 — Η Ελπίδα έδωσε feedback ανά φάκελο υλικού· **Zappala αφαιρείται παντού (social, site, app)**. 3 posts (SIAL, reel Detroit, carousel Panettone) με σχόλια Ελπίδας/εναλλακτικές Μαρίνας. Η Δέσποινα έστειλε κείμενο + δημιουργικό δισέλιδου για τον «Ελληνικό Οικονομικό Οδηγό 2026». Πρεσβεία: βιντεογράφος 20:15–22:15, 150 € + ΦΠΑ ([[2026-10-21-globalfoods-fakeloi-yliko-update-2026-10-23]], [[2026-10-21-globalfoods-social-diorthotiki-update-2026-10-23]], [[2026-10-14-globalfoods-oikonomikos-odigos]], [[2026-10-14-globalfoods-presveia-videografos]]).
 - 2026-10-21 — Η Δέσποινα στέλνει φακέλους με υλικό· η Ελπίδα: «Τα video είναι οκ! Τα δουλεύετε!». Η «Πρεσβεία Global» 22/10 μεταφέρθηκε στις 17:30. Mention Μαρίνας στον Δήμο στο task «ΔΤ Detroit» (due 2026-10-21) ([[2026-10-21-globalfoods-fakeloi-yliko]], [[2026-10-21-asana-mentions]], [[2026-10-22_2026-10-29]]).
 - 2026-10-21 — Η Ελπίδα ρωτά τον Δήμο πώς να μαζέψουν πολλές καλές κριτικές Google (Global/Unique) για να ανέβει ο μέσος όρος· ξαναστέλνει «διορθωτικό» το brief SOCIAL ([[2026-10-21-globalfoods-google-kritikes]], [[2026-10-21-globalfoods-social-diorthotiki]]).

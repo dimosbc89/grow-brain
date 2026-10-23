@@ -23,6 +23,7 @@ updated: 2026-10-23
 - Ο Δήμος ζήτησε διαθεσιμότητες για call στις 2026-10-14· ημερομηνία call δεν υπάρχει στο ημερολόγιο ([[2026-10-14-overoll-websites-domains]], [[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Νέα δημιουργικά Turns 6 (ροζ, γραμματοσειρά Overoll) — Ιωάννα — έως 2026-10-26 ([[2026-10-20-overoll-turns-6-event-update-2026-10-23b]])
 - [ ] Διεύθυνση στις ΗΠΑ για Google Business & Yelp — Overoll/TS Developments — χωρίς ημερομηνία ([[2026-10-19-overoll-social-handles-domains]])
 - [ ] Feedback για ανακοίνωση γενεθλίων και stickers — Overoll — από 2026-10-22 ([[2026-10-20-overoll-turns-6-event-update-2026-10-23]])
 - [ ] Κόστη μπαλονιών/promoters/DJ για το event — [[vassiliki-giannopoulou]] ([[2026-10-20-overoll-turns-6-event]])
@@ -50,6 +51,9 @@ updated: 2026-10-23
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-10-23 — Η Overoll απέρριψε stickers/ανακοίνωση «Turns 6»: θέλει ροζ φόντο, τη στρογγυλή γραμματοσειρά της, «overoll» σε λευκό· η Ιωάννα υποσχέθηκε νέες προτάσεις έως 2026-10-26 ([[2026-10-20-overoll-turns-6-event-update-2026-10-23b]]).
+- 2026-10-23 — Ενέκρινε τις προτεινόμενες απαντήσεις στις κριτικές 12–19/10 ([[2026-10-20-overoll-kritikes-12-19-10-update-2026-10-23]]).
+- 2026-10-23 — Προσλήψεις 3 promoters για 2026-10-27 10:00–14:00 (Χαλάνδρι, Μαρούσι, Ν. Ερυθραία) — στοιχεία στη [[sk-advisors]] ([[2026-10-23-overoll-proslipseis-promoters]]).
 - 2026-10-22 — Ο Δήμος απάντησε για τα US handles: καλύφθηκαν όλες οι πλατφόρμες «overoll_usa» εκτός Google & Yelp (χρειάζεται διεύθυνση)· προτάσεις για το κύριο .com domain σε επόμενο email. Η Βασιλική έστειλε επιλογές για την ανακοίνωση γενεθλίων και ανανεωμένα stickers (Overoll Turns 6). Asana «δημιουργία usa mail» ✓ ([[2026-10-19-overoll-social-handles-domains]], [[2026-10-20-overoll-turns-6-event-update-2026-10-23]]).
 - 2026-10-21 — Η Overoll δεν θα παράγει κουτί για το Panettone· όπως πέρσι, διάφανη σακούλα τροφίμων. Οι προτάσεις packaging της Βασιλικής (12/10) δεν προχωρούν ([[2026-10-21-overoll-panettone-packaging]]).
 - 2026-10-21 — Asana: project «Overoll» με 20 ανοιχτά και 25 ολοκληρωμένα από 2026-07-01. Κύριο ανοιχτό το «birthday overoll» (έως 2026-11-01) και τα panettone packaging, cruffin caramel carousel, promo νέου μενού. Ολοκληρώθηκαν: apple pecan carousel ✓ 10-15, AI video promo & new menu teaser ✓ 10-12, loyalty κάρτα Κολωνάκι ✓ 10-06, overoll usa mail (Δήμος) ✓ 10-05, menuboards/ταμπελάκια αεροδρομίου ✓ 09-22/28, google ads & Back To School campaign ✓ 09-16, site OVEROLL ✓ 09-10, εβδομαδιαίες κριτικές (Vasia Striga) ([[2026-10-21-asana-snapshot]]).

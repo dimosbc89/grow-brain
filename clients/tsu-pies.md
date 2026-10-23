@@ -34,6 +34,7 @@ updated: 2026-10-23
 - 2026-08: briefing call μέσω Google Meet στις 16:00 ώρα Ελλάδας (15:00 Λουξεμβούργου), invite από τη Βασιλική ([[2026-08-10-tsu-pies-briefing-call]]).
 
 ## Χρονολόγιο
+- 2026-10-23 — Η Μαρίνα ζήτησε από τη Looxi refer-a-friend (δωρεάν καφές ανά εγγραφή) και birthday push (τσουρέκι + καφές) ([[2026-10-23-tsu-pies-looxi-refer-birthday]]).
 - 2026-10-22 — Η Vicky έστειλε υλικό από την παιδική γωνιά του Greek Alley και Halloween 2025· η Μαρίνα ρωτά αν το Halloween θα είναι 31/10 ή 1/11 και ζήτησε υλικό ίδια μέρα για posts ΣΚ ([[2026-10-22-tsu-pies-halloween-paidiki-gonia]]).
 - 2026-10-19 — Recap Μαρίνας: Looxi (push χωρίς όριο, push <100 μ., γενέθλια, Spin Wheel), κριτικές TSU, νέο TikTok account, «META & Google ads Tsu & Grandpa's ξεκινούν» ([[2026-10-19-tsu-pies-recap-ekkremotites]]).
 - 2026-10-21 — Ο Δήμος επιβεβαίωσε ότι η TSU είναι πελάτης· η σελίδα μεταφέρθηκε από leads/ σε clients/.

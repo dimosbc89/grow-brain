@@ -79,6 +79,7 @@ updated: 2026-10-23
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- 2026-10-23 — Τιμολόγιο #1293 για εκτύπωση/τοποθέτηση 2 ταμπελών velcro (ποσό μόνο στο PDF)· έγινε το shooting 09:30 ([[2026-10-23-yiayia-timologio-velcro]]).
 - 2026-10-22 — Ο Δήμος ζήτησε από το theway.gr το auth code του yiayiafoodhugs.gr και λίστα mailboxes (το παλιό site δεν μεταφέρεται). Η Βασιλική έστειλε στη Μαρία τα 2 trial σενάρια του creator «ΤέλοςΠάγγων». Η Βάσια έδωσε εντολή στην Print Kong για 16 αυτοκόλλητα τραπεζιών. Asana «δημιουργία menu landing» ✓ ([[2026-10-22-yiayia-domain-metafora]], [[2026-10-22-yiayia-telospaggon-senaria]], [[2026-10-09-yiayia-aftokollita-printkong]]).
 - 2026-10-21 — Η Βασιλική στέλνει moodboard (Canva) για το shooting 23/10 09:30 ([[2026-10-21-yiayia-shooting-moodboard]]).
 - 2026-10-21 — Asana: project «Yiayia» με 23 ανοιχτά και 28 ολοκληρωμένα από 2026-07-01. Ολοκληρώθηκαν: yiayia game promo ✓ 2026-10-21, pasta carousel ✓ 10-19, influencer new edit ✓ 10-16, «Υιάγια's passport» ✓ 10-16, musttry old-school video ✓ 10-12, δημιουργία mails (Δήμος) ✓ 10-08, «▪️ redesign website» (Vassia) ✓ 10-01, σημάνσεις καταστήματος μέσα ✓ 09-08 κ.ά. Ανοιχτά κυρίως εκτυπωτικά/σημάνσεις, packaging, γραμματοσειρά, ΔΤ, content calendar Q4 ([[2026-10-21-asana-snapshot]]).

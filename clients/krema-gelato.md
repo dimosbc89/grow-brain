@@ -3,7 +3,7 @@ type: client
 title: "Krema Gelato"
 aliases: [ΚΡΕΜΑ GELATO Ε.Ε., Krema, KREMA, gelatokrema@gmail.com]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-23
 ---
 # Krema Gelato
 > Παγωτατζίδικο/εστίαση στην Ηλιούπολη· η GROW του έφτιαξε menuboards (μέσω [[epilogin]]) που χρειάστηκε να αντικατασταθούν, με πρόβλημα στη σχέση με τον πελάτη.
@@ -30,6 +30,7 @@ updated: 2026-10-21
 - [[2026-09-11-krema-menuboards-antikatastasi]] — ο πελάτης δεν πληρώνει την αντικατάσταση· πρόταση επιμερισμού GROW–Epilogin.
 
 ## Χρονολόγιο
+- 2026-10-23 — Η Δέσποινα έστειλε brief σε εξωτερικό editor (Δημήτρης) για το video «Spaliaras» (έως ~1') ([[2026-10-23-krema-edit-spaliaras]]).
 - 2026-10-21 — Asana: ανοιχτά «Banner Krema» (Μαριάννα) και «Spaliaras video» (Φωτεινή), και τα δύο με due 2026-10-21· εκπρόθεσμο το «Flavor stickers» (due 2026-08-25). Ολοκληρώθηκαν «Crew dance» (2026-10-12), «removal» (2026-09-17), «QR review sticker» (2026-09-08) ([[2026-10-21-asana-snapshot]]).
 - 2026-09-11 — Email Δήμου στην Epilogin για αντικατάσταση menuboards («έχω πρόβλημα μαζί τους»)· forward σε Δέσποινα και Βάσια ([[2026-09-11-krema-menuboards-epilogin]]).
 - 2026-07-22 — Ο πελάτης ζητά το τιμολόγιο #1129· ο Δήμος το στέλνει αυθημερόν ([[2026-07-22-krema-gelato-timologio-1129]]).

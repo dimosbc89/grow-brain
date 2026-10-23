@@ -3,7 +3,7 @@ type: client
 title: "HotelBrain"
 aliases: [HOTELBRAIN S.A., Hotelbrain, Hotel Brain, hotelbrain.com, hotelbraingroup.com]
 status: ενεργός
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 # HotelBrain
 > Η HOTELBRAIN S.A. είναι η πλευρά πελάτη για τα hotel websites που φτιάχνει και υποστηρίζει τεχνικά η GROW ([[mr-mrs-white]], [[anayia]], September City Living, GHH) και τώρα για το νέο corporate site της ίδιας της HotelBrain.
@@ -23,6 +23,8 @@ updated: 2026-10-22
 - **Επόμενη συνάντηση:** 2026-10-23, 13:00–14:00 (ήταν 15:00· ⚠️ συμπίπτει με [[dominos]]), Microsoft Teams, «Τεχνικές Προδιαγραφές Ιστοσελίδων». Συμμετέχουν η ομάδα HotelBrain και ο gspyridis@aviamos.com. Ο ρόλος της Aviamos είναι ασαφής ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Προσφορά/κοστολόγηση για το νέο design του hotelbrain.com — Δήμος — πριν το call της εβδομάδας 26/10 ([[2026-10-23-hotelbrain-com-new-design]])
+- [ ] Call 10' Teams για το νέο design — HotelBrain/Δήμος — εβδομάδα 2026-10-26 ([[2026-10-23-hotelbrain-com-new-design]])
 - [ ] Επικοινωνία για μεταφορά του Teams 2026-10-23 13:00 (συμπίπτει με [[dominos]]) — Δήμος — **2026-10-21** ([[2026-10-20-hotelbrain-call-meeting-teams]])
 - [ ] Αλλαγή name servers στο papaki για go-live του νέου corporate site, χωρίς να επηρεαστούν τα emails του domain — Δήμος — η Νίκη περιμένει από 2026-10-12 ([[2026-10-12-hotelbrain-corporate-website]])
 - [ ] Επιβεβαίωση του τελικού σεναρίου domains: το νέο site στο hotelbrain.com και το τρέχον στο hotelbrainhotels.com — HotelBrain (το ζήτησε ο Δήμος) — χωρίς ημερομηνία ([[2026-10-12-hotelbrain-corporate-website]])
@@ -40,6 +42,8 @@ updated: 2026-10-22
 - Τα emails που είναι συνδεδεμένα στο domain δεν πρέπει να επηρεαστούν από το go-live ([[2026-10-12-hotelbrain-corporate-website]]).
 
 ## Χρονολόγιο
+- 2026-10-23 — Η Νίκη ([[niki-daleziou]]) ενημερώνει ότι η διοίκηση αποφάσισε **νέο design για το hotelbrain.com**: ο Δήμος σχεδιάζει σε Figma, υλοποιεί developer (Βασίλης), δεδομένα από [[webhotelier]]· call 10' στο Teams την εβδομάδα 26/10. Τιμή δεν αναφέρεται ([[2026-10-23-hotelbrain-com-new-design]]).
+- 2026-10-23 — Το Teams «Τεχνικές Προδιαγραφές Ιστοσελίδων» μετακινήθηκε 14:00–15:00· ο Δήμος το δήλωσε «declined» στο ημερολόγιο ([[2026-07-20_2026-11-03]]).
 - 2026-10-21 — Ο Giannis διορθώνει «καθορισμού». Email του Δήμου για μεταφορά του Teams δεν φαίνεται· στο ημερολόγιο το Teams μένει 23/10 13:00, πάνω στο Dominos ([[2026-10-20-hotelbrain-call-meeting-teams-update-2026-10-22]]).
 - 2026-10-20 — Teams invite «Τεχνικές Προδιαγραφές Ιστοσελίδων» για 2026-10-23 13:00 (ζήτησε ο κ. Παλαιολόγος)· ο Δήμος απαντά ότι έχει άλλο ραντεβού και θα επικοινωνήσει 2026-10-21 για μεταφορά ([[2026-10-20-hotelbrain-call-meeting-teams]], [[2026-10-20-hotelbrain-texnikes-prodiagrafes-invite]]).
 - 2026-10-23 13:00 — Προγραμματισμένη συνάντηση στο Teams «Τεχνικές Προδιαγραφές Ιστοσελίδων» (αρχικά 15:00, άλλαξε στις 2026-10-20) ([[2026-10-21_2026-10-28]]).

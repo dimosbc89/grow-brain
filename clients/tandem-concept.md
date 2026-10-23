@@ -28,6 +28,8 @@ updated: 2026-10-23
 - Στο ημερολόγιο δεν υπάρχει προγραμματισμένη συνάντηση Tandem μετά τις 2026-10-13 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [x] Εικόνες APPAREL στο site — Δήμος — ✓ 2026-10-23 ([[2026-10-21-tandem-pictures-apparel-update-2026-10-23]])
+- [ ] Είσπραξη τιμολογίου #1295 (1.953,00 €) — Tandem ([[2026-10-23-tandem-timologio-brand-identity]])
 - [ ] Εικόνες APPAREL (pptx) στην αρχή + διαγραφή 4 εικόνων — Δήμος — από 2026-10-21 ([[2026-10-21-tandem-pictures-apparel]])
 **Υποσχέσεις του Δήμου**
 - [x] Creative αλλαγές στο site από τη συνάντηση της 2026-10-13 — Δήμος — εβδομάδα 2026-10-19 ([[2026-10-16-tandem-eshop-bags-epsilon]])· στο Asana «αλλαγές Tandem» (Δήμος) ✓ 2026-10-20 ([[2026-10-21-asana-snapshot]]) — 💭 Υπόθεση: πρόκειται για τις ίδιες αλλαγές.
@@ -83,6 +85,9 @@ updated: 2026-10-23
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-10-23 — Τιμολόγιο #1295 για την τελική πληρωμή Brand Identity, **1.953,00 €** ([[2026-10-23-tandem-timologio-brand-identity]]).
+- 2026-10-23 — Ο Δήμος: οι εικόνες APPAREL ανέβηκαν («Ready!») ([[2026-10-21-tandem-pictures-apparel-update-2026-10-23]]).
+- 2026-10-23 — Q&A γυρίσματος 2026-10-26 15:00: η Caroline θέλει να διαβάζει τις απαντήσεις· ο Δήμος προτείνει φυσικό λόγο και διπλάσιες ερωτήσεις ([[2026-10-23-tandem-qa-script]]).
 - 2026-10-22 — Η Δέσποινα ζήτησε από την Axiom template και προτιμολόγιο για τα 100 bag hangers (προκαταβολή πελάτη) και έστειλε στην Tandem online Q&A για το γύρισμα ([[2026-09-16-axiom-bag-hangers-tandem]], [[2026-10-22-tandem-qa-shooting]]).
 - 2026-10-21 — Packing list Christian Villa FW 2026 για τη Biz· ο Δήμος «Done»· η Caroline ενημερώνει μόνη της απόθεμα (Cindy 6677 Nero 6→5)· 3 κούτες 70x50x40 προς την αποθήκη της [[biz-courier]]. Η Caroline ζητά νέες εικόνες στην αρχή της ενότητας APPAREL και διαγραφή 4 εικόνων ([[2026-10-21-tandem-packing-list-biz]], [[2026-10-21-tandem-boxes-delivery-biz]], [[2026-10-21-tandem-pictures-apparel]]).
 - 2026-10-21 — Asana: project «Tandem» (από 2026-04-17· sections Site - e-shop, Brand Identity, Social Media, Performance) με 6 ανοιχτά και 4 ολοκληρωμένα από 2026-07-01. Ο Δήμος έκλεισε «αλλαγές Tandem» και «Mail creation» στις 2026-10-20· ανοιχτά Terms of Service (Δέσποινα), e-shop creative, tote bags, Brand Video, «Check plugin & solutions» (Δήμος, από 2026-08-07). Η Vassia σημείωσε 2026-07-21 ότι έδωσε στον developer ([[george-andritsos]] 💭) όλες τις φωτογραφίες προϊόντων ξεφονταρισμένες ([[2026-10-21-asana-snapshot]]).
@@ -113,6 +118,7 @@ updated: 2026-10-23
 - 2026-04-27 — Ο George συστήνει τον Δήμο ως e-shop designer στη BIZ Courier ([[2026-09-14-tandem-bizcourier-it-coordination]]).
 
 ## Οικονομικά
+- Τιμολόγιο #1295 (2026-10-23): τελική πληρωμή Brand Identity 1.953,00 € — ανοιχτό ([[2026-10-23-tandem-timologio-brand-identity]]).
 - Αμοιβή της GROW για e-shop/integrations/video: ασαφές (δεν υπάρχει στις πηγές).
 - Epsilon (πληρώνει η Tandem στην Epsilon): τελικό 465€ + ΦΠΑ = 576,60€, πληρώθηκε 2026-08-26· περιλαμβάνει API module 150€ + ΦΠΑ/έτος ([[2026-08-28-tandem-epsilon-smart-offer-api]]). Ανάλυση στο [[2026-08-26-tandem-epsilon-smart-advanced]].
 - Plugin για variants στις λίστες: 43€ + ΦΠΑ/έτος, πρόταση του George Andritsos τον Αύγουστο 2026· δεν φαίνεται να επιλέχθηκε ([[2026-10-08-tandem-review-eshop-developer]]).

@@ -25,6 +25,7 @@ updated: 2026-10-22
 - [[exodikastikos|Exodikastikos.info]] · _σε αναμονή_ — Πελάτης της GROW για SEO: η GROW έκανε SEO audit, 90ήμερο πλάνο και μετάβαση του site από WordPress σε Astro.
 - [[filandras|Χάρης Φιλάνδρας (site)]] · _ενεργός_ — Πελάτης website της GROW· ο haris-filandras ζητά αλλαγές στο site του (σημεία λιανικής πώλησης, υπηρεσίες). Ποια επιχείρηση/ποιο domain: ασαφές.
 - [[global-foods|Global Foods]] · _ενεργός_ — Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει ap…
+- [[divino|Divino]] · _ενεργός_ — Πελάτης web· διορθώσεις site και νέος χάρτης αντιπροσώπων από τον George Andritsos.
 - [[goshipping|GoShipping]] · _ενεργός_ — Νέος πελάτης της GROW· η GROW σχεδίασε web app για την GoShipping και ετοιμάζει πρόταση (v3).
 - [[grand-gelato|Grand Gelato]] · _ενεργός_ — Brand παγωτού (grandgelato.gr) για το οποίο η GROW κάνει social content: Q&A videos με την ομάδα, reels και carousels. Υπάρχει project στο Asana από 2…
 - [[grandpas|Grandpa's]] · _ενεργός_ — Νέος πελάτης στο Asana (project από 2026-10-09): reels και redesign λογοτύπου.

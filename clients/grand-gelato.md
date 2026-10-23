@@ -3,7 +3,7 @@ type: client
 title: "Grand Gelato"
 aliases: [Grand Gelato, GRAND GELATO, grandgelato.gr, info@grandgelato.gr]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-23
 ---
 # Grand Gelato
 > Brand παγωτού (grandgelato.gr) για το οποίο η GROW κάνει social content: Q&A videos με την ομάδα, reels και carousels. Υπάρχει project στο Asana από 2025-05-28.
@@ -29,6 +29,7 @@ updated: 2026-10-21
 - —
 
 ## Χρονολόγιο
+- 2026-10-23 — Υπενθύμιση για το τιμολόγιο #1272 (2026-10-01), **1.751,60 €** ανεξόφλητο ([[2026-10-01-grand-gelato-ypenthymisi-timologiou]]).
 - 2026-10-21 — Asana: project «Grand Gelato» (δημιουργήθηκε 2025-05-28) με 10 ανοιχτά και 11 ολοκληρωμένα από 2026-07-01 ([[2026-10-21-asana-snapshot]]).
 - 2026-10-16 — «ΕΓΚΡΙΣΗ GRAND GELATO» ✓ (Vasia Striga) ([[2026-10-21-asana-snapshot]]).
 - 2026-09-18 — «pick an emoji» ✓ ([[2026-10-21-asana-snapshot]]).
@@ -40,6 +41,7 @@ updated: 2026-10-21
 - 2025-05-28 — Δημιουργείται το project στο Asana ([[2026-10-21-asana-snapshot]]).
 
 ## Οικονομικά
+- Τιμολόγιο #1272 (2026-10-01): 1.751,60 € — ανεξόφλητο, υπενθύμιση 2026-10-23 ([[2026-10-01-grand-gelato-ypenthymisi-timologiou]]).
 - Ασαφές (καμία προσφορά ή τιμή στις πηγές).
 
 ## Σημειώσεις

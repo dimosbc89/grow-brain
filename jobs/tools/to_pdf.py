@@ -25,7 +25,7 @@ html = f"<!doctype html><html lang='el'><head><meta charset='utf-8'><style>{css}
 tmp = tempfile.mkdtemp()
 hp = os.path.join(tmp, "doc.html"); open(hp, "w", encoding="utf-8").write(html)
 
-candidates = glob.glob("/opt/pw-browsers/chromium-*/chrome-linux/chrome") + [shutil.which(x) or "" for x in ("chromium", "chromium-browser", "google-chrome")]
+candidates = glob.glob("/opt/pw-browsers/chromium-*/chrome-linux*/chrome") + ["/opt/pw-browsers/chromium"] + [shutil.which(x) or "" for x in ("chromium", "chromium-browser", "google-chrome")]
 chrome = next((c for c in candidates if c and os.path.exists(c)), None)
 if chrome:
     subprocess.run([chrome, "--headless=new", "--no-sandbox", "--disable-gpu", "--no-pdf-header-footer",

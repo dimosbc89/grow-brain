@@ -24,6 +24,7 @@ updated: 2026-10-23
 - —
 
 ## Χρονολόγιο
+- 2026-10-23 — Στο Asana ο Δήμος ολοκλήρωσε το task «go-shipping Offer»· η πρόταση είχε σταλεί από τη Μαρίνα στις 2026-10-22 ([[2026-10-23-weekly-report-data]]).
 - 2026-10-22 — Η Μαρίνα έστειλε στη Georgia (info@go-shipping.com) την παρουσίαση με την πρόταση ([[2026-10-22-goshipping-offer-presentation]]).
 - 2026-10-17 — Πρόταση v3 προς Μαρίνα ([[2026-10-17-goshipping-proposal-v3]]).
 - Ασαφής ημερομηνία — Σχεδιασμός web app στο Figma και promo reel ([[2026-10-20-prohgoumenes-synomilies-claude]]).
