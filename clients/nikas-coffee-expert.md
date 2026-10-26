@@ -3,7 +3,7 @@ type: client
 title: "Panagiotis Nikas / CoffeeXpert / Barista Academy"
 aliases: [Panagiotis Nikas, Νίκας, P. Nikas, Coffee Expert, CoffeeXpert, ΚΟΦΙ ΕΞΠΕΡΤ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ, Barista Academy, baristacademy.gr, barista-academy.gr, baristaexpert.gr, coffeexpert.gr, panagiotisnikas.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 # Panagiotis Nikas / CoffeeXpert / Barista Academy
 > Ο [[panagiotis-nikas]] και οι επιχειρήσεις του (CoffeeXpert, Barista Academy, προσωπικό brand): η GROW τρέχει Meta Ads, κρατά τα sites/domains και λειτουργεί στην πράξη ως το IT/security help desk του — πολλά «copyright» phishing.
@@ -49,6 +49,8 @@ updated: 2026-10-23
 - Όλα τα «copyright/DMCA» και «Microsoft 365» emails χαρακτηρίστηκαν spam/phishing — καμία ενέργεια ([[2026-08-21-ninja-tune-copyright-spam-nikas]], [[2026-08-31-nikas-copyright-phishing-scam]], [[2026-09-01-coffeexpert-m365-phishing-check]], [[2026-09-15-barista-academy-copyright-spam]], [[2026-10-19-panagiotisnikas-copyright-spam]]).
 
 ## Χρονολόγιο
+- 2026-10-25 — Προειδοποίηση λήξης domain lucaffe.gr (FORTH) προς info@coffeexpert.gr και Δήμο ([[2026-10-24-admin-eidopoiiseis]]).
+- 2026-10-24 — Η Βασιλική στέλνει στον Νίκα την προσφορά για την [[avek]] για έγκριση ([[2026-10-24-avek-oikonomiki-prosfora-nikas]]).
 - 2026-10-23 — Draft πρότασης AVEK × Νίκας για έλεγχο από τον Δήμο ([[avek]], [[2026-10-23-avek-nikas-prosfora-check]]). Νέα συνάντηση «P. Nikas X R. Vilanov» 2026-10-29 13:00 (Βασιλική) ([[2026-10-23_2026-10-30]]).
 - 2026-10-22 — Asana «ενημερώσεις site» (NIKAS) ✓ από Δήμο.
 - 2026-10-21 — Asana: project «NIKAS» με 14 ανοιχτά (3 του Δήμου, όλα εκπρόθεσμα: ενημερώσεις site, πιστοποιήσεις, δράσεις gr-eng) και 16 ολοκληρωμένα από 2026-07-01: did you know series ✓ 10-19, IRM video ✓ 10-16, εύρεση νέων επαφών (Δήμος) ✓ 10-15, media kit english & review video ✓ 10-08, coffee expert posts ✓ 10-06, outin nano 2 review & coffee myths ✓ 09-25, Athens Coffee Festival ✓ 09-23, σεμινάριο Σεπτεμβρίου (Δήμος) ✓ 09-21, kenya courses ✓ 09-08 κ.ά. ([[2026-10-21-asana-snapshot]]).

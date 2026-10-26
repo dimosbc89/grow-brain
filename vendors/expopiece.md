@@ -3,7 +3,7 @@ type: vendor
 title: "Expopiece"
 aliases: [Expopiece, expopiece.gr]
 status: ενεργός
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 # Expopiece
 > Κατασκευαστής περιπτέρων με τον οποίο η GROW κοστολογεί κατασκευαστικά για τα εκθεσιακά της projects ([[ekthesiaka-periptera]]).
@@ -24,6 +24,7 @@ updated: 2026-10-23
 - —
 
 ## Χρονολόγιο
+- 2026-10-23 — Η Δέσποινα στέλνει κατόψεις/σχέδιο περιπτέρου XENIA 2026 για τον [[greenmart-antemisaris]] ([[2026-10-23-antemisaris-xenia-expopiece]]).
 - 2026-10-22 — Η Δέσποινα έστειλε ανανεωμένη κάτοψη του περιπτέρου [[argyroplastics]] και περιμένει τηλέφωνο από τον Νίκο· μετά την άρνηση του Ιάσονα είναι ο μόνος υποψήφιος κατασκευαστής στο Gmail ([[2026-10-21-plastica-expopiece-3d-update-2026-10-23]]).
 - 2026-07-16 → 2026-07-31 — Παίρνουν τα σχέδια της [[coco-mat]] για τη Xenia 2026 (millwork PDFs, renders, DWG) για κοστολόγηση, μαζί με την Epilogi Digital ([[epilogin]]). Η προσφορά της GROW στάλθηκε 2026-07-31 και απορρίφθηκε 2026-09-07 ([[2026-09-07-cocomat-xenia-booth-offer]]).
 

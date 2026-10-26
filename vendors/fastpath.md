@@ -3,7 +3,7 @@ type: vendor
 title: "FASTPATH ΙΚΕ"
 aliases: [Fastpath, fastpath.gr, FASTPATH IKE]
 status: ενεργός
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 # FASTPATH ΙΚΕ
 > Ο hosting provider της GROW. Φιλοξενεί τον managed server cloud.growagency.online (Plesk), όπου τρέχουν sites και email πελατών. Στις 2026-10-20 απειλεί διακοπή για ανεξόφλητο τιμολόγιο.
@@ -30,6 +30,7 @@ updated: 2026-10-23
 - —
 
 ## Χρονολόγιο
+- 2026-10-24/25 — Παραστατικό χρεωστικό 34726 → Βασιλική· ticket #814665 «ssh Globalfoods.gr» έκλεισε ([[2026-10-24-admin-eidopoiiseis]]).
 - 2026-10-23 — ✓ Εξοφλήθηκε η χρέωση #58712, 507,78 € (managed cloud + Plesk Σεπτεμβρίου)· υπόλοιπο 0 ([[2026-10-23-fastpath-exoflisi-58712]]).
 - 2026-10-20 — Η FASTPATH «αναμένουμε την εξόφληση» ([[2026-10-20-fastpath-apantisi-ticket]]).
 - 2026-10-19/20 — Ticket 836805 «Διακοπή υπηρεσιών λόγω οφειλών». Ο Δήμος δεσμεύτηκε να πληρώσει έως 2026-10-23 ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]]).

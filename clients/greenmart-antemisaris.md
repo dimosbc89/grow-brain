@@ -3,7 +3,7 @@ type: client
 title: "Greenmart / Antemisaris"
 aliases: [Antemisaris, Αντεμισάρης, Greenmart, greenmart.gr, antemisaris.gr]
 status: ενεργός
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 # Greenmart / Antemisaris
 > Η εταιρεία Antemisaris με το e-shop Greenmart (κήπος/φυτά/εργαλεία, π.χ. βολβοί, Stihl)· η GROW κάνει social posts, γυρίσματα, υποστήριξη σε εκθέσεις (XENIA 2026, Olympic Yacht Show) και τοποθέτηση προϊόντων στο Κορωπί.
@@ -26,7 +26,9 @@ updated: 2026-10-23
 - [ ] Αρχείο προϊόντων με highlights για τα επόμενα posts — Greenmart — αναμένεται από 2026-09-15 ([[2026-09-18-greenmart-posts-volvoi-stihl]])
 - [ ] Follow-up καταλόγου — [[ioanna-chalkiadaki]] + [[vangelis-zachos]] — 2026-10-23 11:00 ([[2026-07-20_2026-11-03]])
 - [ ] Task για την τοποθέτηση προϊόντων Κορωπί («2026 Selection - FINAL Range Grow.xlsx» + logo Harmony) — [[ioanna-chalkiadaki]] — ο Δήμος ρώτησε 2026-08-13 αν μπήκε task· απάντηση δεν φαίνεται ([[2026-08-13-antemisaris-koropi-range-harmony]])
-- [ ] Αξιολόγηση πρότασης [[expowork]] για περίπτερο XENIA 2026 — Ιωάννα/Δέσποινα — ρόλος GROW ασαφής ([[2026-07-21-antemisaris-expowork-xenia-2026]])
+- [x] Ρόλος GROW στο XENIA 2026: σχεδιασμός περιπτέρου (✓ 2026-10-23, [[2026-10-23-antemisaris-xenia-periptero-protaseis]])
+- [ ] Σχόλια/επιλογή μίας από 3 προσεγγίσεις περιπτέρου — Antemisaris — από 2026-10-23 ([[2026-10-23-antemisaris-xenia-periptero-protaseis]])
+- [ ] Τιμή κατασκευής από [[expopiece]] — Δέσποινα — από 2026-10-23 ([[2026-10-23-antemisaris-xenia-expopiece]])
 - [ ] Ιδέα Δήμου: «λίγη κίνηση με AI» στα δημιουργικά — ασαφές αν προχώρησε ([[2026-09-18-greenmart-posts-volvoi-stihl]])
 - [x] Carousel φθινοπωρινών βολβών — εγκρίθηκε 2026-09-18 ([[2026-09-18-greenmart-posts-volvoi-stihl]])
 
@@ -48,6 +50,8 @@ updated: 2026-10-23
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-10-26 — «Antemisaris follow-up κατάλογος» 14:00–15:00 (Ιωάννα + Ζάχος, GROW Agency Calendar).
+- 2026-10-23 — Η Ιωάννα στέλνει 3 σχεδιαστικές προσεγγίσεις περιπτέρου XENIA 2026· η Δέσποινα στέλνει κατόψεις/σχέδιο στην [[expopiece]] για κατασκευή ([[2026-10-23-antemisaris-xenia-periptero-protaseis]], [[2026-10-23-antemisaris-xenia-expopiece]]).
 - 2026-10-23 — ✓ Η Ιωάννα έστειλε στην Καθημερινή την **υπογεγραμμένη εντολή ανάθεσης** για το Φεστιβάλ Γαστρονόμος «Η Μεγάλη Γιορτή» (20.984 € + ΦΠΑ) ([[2026-10-20-antemisaris-kathimerini-entoli-update-2026-10-23]]).
 - 2026-10-23 — Το «Antemisaris follow-up κατάλογος» μετακινήθηκε στις 2026-10-26 14:00 (Ιωάννα, Ζάχος) ([[2026-07-20_2026-11-03]]).
 - 2026-10-21 — Η Ιωάννα στέλνει το ανανεωμένο αρχείο του καταλόγου με τις αλλαγές του ραντεβού 20/10 (follow-up 23/10 11:00) και υπενθυμίζει την εντολή Καθημερινής ([[2026-10-21-antemisaris-katalogos-diorthoseis]], [[2026-10-20-antemisaris-kathimerini-entoli-update-2026-10-22]]).

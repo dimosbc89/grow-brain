@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -85,6 +85,8 @@ updated: 2026-10-23
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-10-26 — «Tandem shooting εκεί» 15:00–16:00 (Q&A) (GROW Agency Calendar).
+- 2026-10-23 — Ο Δήμος ζήτησε πιο φυσικό, περιγραφικό Q&A με «homy feeling»· η Caroline έστειλε final version ([[2026-10-23-tandem-qa-script-update-2026-10-26]]).
 - 2026-10-23 — Τιμολόγιο #1295 για την τελική πληρωμή Brand Identity, **1.953,00 €** ([[2026-10-23-tandem-timologio-brand-identity]]).
 - 2026-10-23 — Ο Δήμος: οι εικόνες APPAREL ανέβηκαν («Ready!») ([[2026-10-21-tandem-pictures-apparel-update-2026-10-23]]).
 - 2026-10-23 — Q&A γυρίσματος 2026-10-26 15:00: η Caroline θέλει να διαβάζει τις απαντήσεις· ο Δήμος προτείνει φυσικό λόγο και διπλάσιες ερωτήσεις ([[2026-10-23-tandem-qa-script]]).

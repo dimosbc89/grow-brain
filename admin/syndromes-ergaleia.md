@@ -3,7 +3,7 @@ type: admin
 title: "Συνδρομές & εργαλεία λογισμικού"
 aliases: [subscriptions, SaaS, εργαλεία, Anthropic, Claude, Apify, Asana, HubSpot, DataForSEO, Scrape Creators, Google Workspace, ActiveCampaign]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-26
 ---
 # Συνδρομές & εργαλεία λογισμικού
 > Τα SaaS που πληρώνει η GROW (AI, scraping, SEO data, project management, CRM, email). Οι αποδείξεις και τα τιμολόγια πάνε στη Βασιλική ή στη Δέσποινα για το λογιστήριο.
@@ -31,6 +31,7 @@ updated: 2026-10-21
 - Στις 2026-10-05 ήταν κλεισμένο demo για το «Revly Automated Review Growth System» της Axel Services, προωθημένο στη Μαρίνα. Αποτέλεσμα ασαφές ([[2026-09-30-revly-axel-services-appointment]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] **Asana: πληρωμή 134,90 απορρίφθηκε** (2026-10-24) — ενημέρωση στοιχείων χρέωσης — Δήμος/Βασιλική ([[2026-10-24-admin-eidopoiiseis]])
 - [ ] Αξιολόγηση του Revly μετά το demo της 2026-10-05: προχωράμε ή όχι; — Μαρίνα/Δήμος — ασαφές ([[2026-09-30-revly-axel-services-appointment]])
 - [ ] Πληρώθηκαν τα Apify #202608042698 (69,95 USD) και #202610060620 (67,81 USD); Ήταν απλήρωτα όταν στάλθηκαν — Βασιλική — ασαφές ([[2026-08-04-apify-invoice-202608042698]], [[2026-10-06-apify-invoice-202610060620]])
 - [ ] Είχε διορθωθεί το preheader του test newsletter για ΙΕΚ (είχε μείνει από την καμπάνια εκθέσεων) πριν την κανονική αποστολή; — Δήμος — ασαφές ([[2026-07-30-test-newsletter-iek-eggrafes]]). Σχετικά: [[grow-outreach]]
@@ -41,6 +42,7 @@ updated: 2026-10-21
 - —
 
 ## Χρονολόγιο
+- 2026-10-24 — Asana: «Your Asana payment was declined» (134,90) ([[2026-10-24-admin-eidopoiiseis]]).
 - 2026-10-19 — Asana: αφαίρεση χρηστών από το workspace growagency.online (Vassiliki Giannopoulou, Sofia Konstantopoulou, Evgenia Chasoula, vlassisemm@gmail.com, depy127@gmail.com). Δημιουργήθηκαν projects «… previously assigned tasks» και 5 αυτόματα tasks «Consider delegating …» στον Δήμο. Στο workspace υπάρχουν 263 μη αρχειοθετημένα projects· πολλά έχουν bulk αλλαγή 2026-02-25 (migration) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-19 — Apify: πληρώθηκε το #202610192707, 54,35 USD → Βασιλική ([[2026-10-19-apify-invoice-payment]]).
 - 2026-10-16 — Anthropic: prepaid extra usage, Individual plan, 76,50 € → Δέσποινα, «print» ([[2026-10-16-anthropic-receipt-extra-usage]]).
