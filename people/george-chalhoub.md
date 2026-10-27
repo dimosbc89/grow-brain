@@ -3,7 +3,7 @@ type: person
 title: "George Chalhoub"
 aliases: [George, Γιώργος Chalhoub, chalhoub.g@gmail.com, george@tandemconcept.gr]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-27
 ---
 # George Chalhoub
 > Συνιδιοκτήτης της [[tandem-concept]], μαζί με τη σύντροφό του [[caroline-hafouri]]. Χειρίζεται Epsilon, BIZ Courier, πληρωμές και τις σημειώσεις για το e-shop.
@@ -14,11 +14,17 @@ updated: 2026-10-20
 - **Με ποιους δουλεύει:** [[biz-courier]] ([[aliki-theochari]], [[jose-fernando-trujillo-heron]]), [[epsilon-net]] ([[apostolos-androulis]]), λογιστής [[dimitrios-karamoulas]].
 - **Ομάδα GROW:** κυρίως ο Δήμος.
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-10-27)
+- 2026-10-26: έστειλε αποδεικτικά πληρωμής για τα τιμολόγια #1285 και #1295 και ζήτησε να φύγει το «TANDEM BOUTIQUE» από τα μελλοντικά τιμολόγια ([[2026-10-15-tandem-timologio-1285-pliromi]], [[2026-10-23-tandem-timologio-brand-identity-update-2026-10-27]]).
+- 2026-10-26: ανέφερε χαλασμένα ελληνικά links brands (διορθώθηκαν) και ρώτησε για 3PL/Box Now· περιμένει ενημέρωση από τον Δήμο όταν το Box Now δουλέψει. Ο Δήμος περιμένει από αυτόν διευκρίνιση τι χρειάζεται για το 3PL/stock ([[2026-10-26-tandem-inquiry-links-3pl]]).
+
+*Από 2026-10-20:*
 - Πήρε πρόσβαση στο dashboard του e-shop στις 2026-10-14 ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 - Στις 2026-10-12 έστειλε σημειώσεις για το κλείσιμο του e-shop (σελίδα Christian Villa, βίντεο, φωτογραφίες, ταχύτητα) ([[2026-10-12-tandem-eshop-final-notes]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Διευκρίνιση τι χρειάζεται για το 3PL/stock — George — ο Δήμος ρώτησε 2026-10-26 ([[2026-10-26-tandem-inquiry-links-3pl]])
+- [ ] Ενημέρωση του George για Box Now — Δήμος — μετά τη ρύθμιση ([[2026-10-26-tandem-inquiry-links-3pl]])
 - [ ] Ραντεβού σύνδεσης POS με την Epsilon, όταν τελειώσει το εσωτερικό του καταστήματος — George — χωρίς ημερομηνία ([[2026-09-07-epsilon-smart-advanced-mydata-provider]])
 - [ ] SKU management με το τεχνικό τμήμα της Epsilon — George — χωρίς ημερομηνία ([[2026-09-07-epsilon-smart-advanced-mydata-provider]])
 
@@ -26,6 +32,8 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-10-26 — «Inquiry» για ελληνικά links και 3PL/Box Now· αποδεικτικά πληρωμής #1285 και #1295, VIES check ([[2026-10-26-tandem-inquiry-links-3pl]], [[2026-10-15-tandem-timologio-1285-pliromi]], [[2026-10-23-tandem-timologio-brand-identity-update-2026-10-27]]).
+- 2026-10-14 — Ζητά διόρθωση εταιρικών στοιχείων στο τιμολόγιο βάσει ΓΕΜΗ [στοιχείο παραλείφθηκε] ([[2026-10-15-tandem-timologio-1285-pliromi]]).
 - 2026-10-12 — Σημειώσεις για να ολοκληρωθεί το e-shop ([[2026-10-12-tandem-eshop-final-notes]]).
 - 2026-09-07 — Ολοκληρώνει την αποδοχή παρόχου A.1112 στο myDATA ([[2026-09-07-epsilon-smart-advanced-mydata-provider]]).
 - 2026-08-31 → 2026-09-01 — Προωθεί τις οδηγίες και τον κωδικό ενεργοποίησης της Epsilon· στέλνει στοιχεία σύνδεσης με email [διαπιστευτήρια παραλείφθηκαν] ([[2026-08-31-tandem-epsilon-digital-provider-setup]], [[2026-09-01-tandem-epsilon-activation-code]]).

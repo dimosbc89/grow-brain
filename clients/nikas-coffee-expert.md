@@ -3,7 +3,7 @@ type: client
 title: "Panagiotis Nikas / CoffeeXpert / Barista Academy"
 aliases: [Panagiotis Nikas, Νίκας, P. Nikas, Coffee Expert, CoffeeXpert, ΚΟΦΙ ΕΞΠΕΡΤ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ, Barista Academy, baristacademy.gr, barista-academy.gr, baristaexpert.gr, coffeexpert.gr, panagiotisnikas.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 # Panagiotis Nikas / CoffeeXpert / Barista Academy
 > Ο [[panagiotis-nikas]] και οι επιχειρήσεις του (CoffeeXpert, Barista Academy, προσωπικό brand): η GROW τρέχει Meta Ads, κρατά τα sites/domains και λειτουργεί στην πράξη ως το IT/security help desk του — πολλά «copyright» phishing.
@@ -24,7 +24,7 @@ updated: 2026-10-26
 ## Ανοιχτά & επόμενα βήματα
 **Υποσχέσεις του Δήμου**
 - [ ] Διόρθωση/εξήγηση συνόλου σεμιναρίου (500€ αντί 600€) — Δήμος/GROW — υπόσχεση έως 2026-10-11, **εκπρόθεσμο αν δεν έγινε** ([[2026-10-10-seminario-timi-600-500]])
-- [ ] Κλείσιμο κενών ασφαλείας στη φόρμα/site baristacademy.gr και επιβεβαίωση ότι σταμάτησαν τα spam — Δήμος — σε εξέλιξη από 2026-10-09 ([[2026-10-09-baristacademy-spam-forma-hacking]])
+- [ ] Κλείσιμο κενών ασφαλείας στη φόρμα/site baristacademy.gr και επιβεβαίωση ότι σταμάτησαν τα spam — Δήμος — σε εξέλιξη από 2026-10-09· νέο Wordfence alert 2026-10-27 (update «Super Forms» 6.3.322 → 6.3.323 + 4 παλιά issues) ([[2026-10-09-baristacademy-spam-forma-hacking]], [[2026-10-26-admin-eidopoiiseis]])
 - [ ] Έλεγχος απόκλισης ~25€ στις χρεώσεις FACEBK — Δήμος — υπόσχεση 2026-08-16, απάντηση δεν φαίνεται ([[2026-08-16-coffeexpert-viva-card-meta-charges]])
 - [ ] Έλεγχος ποιο περιεχόμενο «χτυπάει» και licensing μουσικής στα ads (γραφιστικό τμήμα) — Δήμος — υπόσχεση 2026-08-17, ολοκλήρωση δεν φαίνεται ([[2026-08-19-concord-copyright-spam-nikas]])
 
@@ -49,6 +49,7 @@ updated: 2026-10-26
 - Όλα τα «copyright/DMCA» και «Microsoft 365» emails χαρακτηρίστηκαν spam/phishing — καμία ενέργεια ([[2026-08-21-ninja-tune-copyright-spam-nikas]], [[2026-08-31-nikas-copyright-phishing-scam]], [[2026-09-01-coffeexpert-m365-phishing-check]], [[2026-09-15-barista-academy-copyright-spam]], [[2026-10-19-panagiotisnikas-copyright-spam]]).
 
 ## Χρονολόγιο
+- 2026-10-27 — baristacademy.gr: Wordfence medium alert (Super Forms update)· Easy Appointments: η connection «Barista Academy ONLINE SEMINAR | Panagiotis Nikas» είναι ληγμένη από 2022-12-31 ([[2026-10-26-admin-eidopoiiseis]]).
 - 2026-10-25 — Προειδοποίηση λήξης domain lucaffe.gr (FORTH) προς info@coffeexpert.gr και Δήμο ([[2026-10-24-admin-eidopoiiseis]]).
 - 2026-10-24 — Η Βασιλική στέλνει στον Νίκα την προσφορά για την [[avek]] για έγκριση ([[2026-10-24-avek-oikonomiki-prosfora-nikas]]).
 - 2026-10-23 — Draft πρότασης AVEK × Νίκας για έλεγχο από τον Δήμο ([[avek]], [[2026-10-23-avek-nikas-prosfora-check]]). Νέα συνάντηση «P. Nikas X R. Vilanov» 2026-10-29 13:00 (Βασιλική) ([[2026-10-23_2026-10-30]]).

@@ -3,7 +3,7 @@ type: team
 title: "Δέσποινα Βελισσαρίου"
 aliases: [Despina Velissariou, Δέσποινα, Despina, despina@growagency.online]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-27
 ---
 # Δέσποινα Βελισσαρίου
 > Senior Account Manager της GROW. Τρέχει events, χορηγίες ([[hellenic-heritage-evolution]], [[rejuv-collective-solace]]), influencers και το e-shop της [[tandem-concept]]. Είναι και στα meetings των περιπτέρων.
@@ -33,11 +33,18 @@ updated: 2026-10-21
 - Άλλα calls στο ημερολόγιο: «CKBG x Grow Projects» 2026-07-27, «John Miaris x Grow Agency» 2026-08-05, «Grow Agency x Erasmus» 2026-09-03 (με τη [[laurine-erasmus]]), «Δέσποινα κέντρο» 2026-09-14, «Έκθεση αυτοκινήτου- Δέσποινα» 2026-10-09 ([[2026-07-20_2026-11-03]]).
 - **Admin:** της στέλνονται για εκτύπωση τιμολόγια [[metalease]] και αποδείξεις Anthropic/DataForSEO ([[2026-07-22-metalease-timologio-c3c6]], [[2026-10-16-metalease-timologio-dc62]], [[2026-10-16-anthropic-receipt-extra-usage]], [[2026-07-24-dataforseo-receipt]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-10-27)
+- Στις 2026-10-26: [[global-foods]] — posts 28ης Οκτωβρίου εγκρίθηκαν· δεσμεύτηκε για reel ZEO έως 2026-10-27 και 2 εταιρικά βίντεο έως 2026-10-30. XENIA/[[greenmart-antemisaris]] — απάντησε στις ερωτήσεις της [[expopiece]], χρωστά επίσημη κάτοψη + kW video wall. Plastica/[[argyroplastics]] — κλείδωσε 1 οθόνη 75'' (450 €) από Botsaris ([[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]], [[2026-10-20-enoikiasi-othonon-botsaris-update-2026-10-27]]).
+
+**Παλαιότερα (στις 2026-10-20)**
 - Στην [[interoptics]] περιμένει σχόλια για την εκδοχή της 2026-10-19 ([[2026-10-19-interoptics-etairiko-video-synedria]]).
 - Meeting με την Argyroplastics σήμερα 14:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Reel ZEO για [[global-foods]] — Δέσποινα — **έως 2026-10-27** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]])
+- [ ] 2 εταιρικά βίντεο (Detroit Pizza – Global, ZEO Bakers – Unique) — Δέσποινα — **έως 2026-10-30** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]])
+- [ ] Επίσημη κάτοψη + kW video wall XENIA προς [[expopiece]] — Δέσποινα (με [[ioanna-chalkiadaki]]) — υπόσχεση 2026-10-26 ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]])
+- [ ] Παραγγελία οθόνης 75'' Plastica από Botsaris (450 €) — Δέσποινα — από 2026-10-26 ([[2026-10-20-enoikiasi-othonon-botsaris-update-2026-10-27]])
 - [ ] Σχόλια/έγκριση της Interoptics για την εκδοχή της 2026-10-19· να ξεκαθαρίσει ποια γραμματοσειρά κρατήθηκε (A.Bold ή B.Changed) — Δέσποινα ([[2026-10-19-interoptics-etairiko-video-synedria]])
 - [ ] Live excel χορηγών προς τη Rejuv — Δέσποινα — υπόσχεση έως ~2026-09-18, **εκπρόθεσμο αν δεν στάλθηκε**. Οι απαντήσεις χορηγών χρειάζονται μέσα στον Οκτώβριο ([[2026-09-15-rejuv-solace-sponsorships]])
 - [ ] Συνέντευξη/γύρισμα με τους ιδρυτές του Tandem — ημερομηνία και ποιος την τρέχει: ασαφές ([[2026-10-19-tandem-interview-questions]])
@@ -51,6 +58,7 @@ updated: 2026-10-21
 - 2026-07-24: οδηγία του Δήμου να μπει απονομή βραβείου στο gala στην πρόταση προς Viber ([[2026-07-24-viber-heritage-escape-ideas]]).
 
 ## Χρονολόγιο
+- 2026-10-26 — Posts 28ης Οκτωβρίου Global/Unique προς έγκριση· χρονοδιάγραμμα βίντεο Global Foods· απαντήσεις στην Expopiece για XENIA (διχρωμία, σκαμπό, φωτισμός)· 1 × 75'' για Plastica από Botsaris 450 € ([[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]], [[2026-10-20-enoikiasi-othonon-botsaris-update-2026-10-27]]).
 - 2026-10-21 — Asana: 10 ανοιχτά (9 εκπρόθεσμα, 1 χωρίς due). Κύριος φόρτος: Heritage Escape, Global Foods, Tandem (από 2), Barbaggio, Tsiklitiria, «Oggi follow up». ✓ Tesla Activation 2026-09-28, Χρεώσεις Hellenic 2026-10-19. Ανέθεσε στον Δήμο «Mail Karampatsos generic», «Upload υλικό Unique/Global», «Mail to find», «Check plugin & solutions» ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Argyroplastics Meeting 14:30 ([[2026-07-20_2026-11-03]]).
 - 2026-10-19 — Νέα εκδοχή βίντεο Interoptics. Ο Δήμος της στέλνει τις ερωτήσεις συνέντευξης για το Tandem ([[2026-10-19-interoptics-etairiko-video-synedria]], [[2026-10-19-tandem-interview-questions]]).

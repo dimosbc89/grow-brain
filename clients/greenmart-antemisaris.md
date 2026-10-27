@@ -3,23 +3,28 @@ type: client
 title: "Greenmart / Antemisaris"
 aliases: [Antemisaris, Αντεμισάρης, Greenmart, greenmart.gr, antemisaris.gr]
 status: ενεργός
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 # Greenmart / Antemisaris
 > Η εταιρεία Antemisaris με το e-shop Greenmart (κήπος/φυτά/εργαλεία, π.χ. βολβοί, Stihl)· η GROW κάνει social posts, γυρίσματα, υποστήριξη σε εκθέσεις (XENIA 2026, Olympic Yacht Show) και τοποθέτηση προϊόντων στο Κορωπί.
 
 ## Σε μια ματιά
 - **Υπηρεσίες:** social media posts/creatives (carousel, εικόνες) ([[2026-09-18-greenmart-posts-volvoi-stihl]])· γυρίσματα ([[2026-07-20_2026-11-03]])· τοποθέτηση/επιλογή προϊόντων Κορωπί με logo Harmony ([[2026-08-13-antemisaris-koropi-range-harmony]])· εκθέσεις: XENIA 2026 (πρόταση περιπτέρου [[expowork]]) ([[2026-07-21-antemisaris-expowork-xenia-2026]]) → βλ. [[ekthesiaka-periptera]]· κατάλογος ([[2026-07-20_2026-11-03]]).
-- **Επαφές:** [[vangelis-zachos]] (zachosv@antemisaris.gr — κύρια επαφή)· Κυζερίδης Παναγιώτης (kizeridisp@antemisaris.gr, Τμήμα E-shop)· Lefteris Antemisaris (lefteris@antemisaris.gr)· tantemisaris@gmail.com (ρόλος ασαφής) ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
+- **Επαφές:** Forum S.A. (διοργανωτής XENIA): Αριστέα Καλιαντζή, ka@forumsa.gr ([[2026-10-26-antemisaris-xenia-katopsi-forum]])· Thodoris Antemisaris (thodoris@antemisaris.gr) ([[2026-10-26-antemisaris-xenia-katopsi-forum]])· [[vangelis-zachos]] (zachosv@antemisaris.gr — κύρια επαφή)· Κυζερίδης Παναγιώτης (kizeridisp@antemisaris.gr, Τμήμα E-shop)· Lefteris Antemisaris (lefteris@antemisaris.gr)· tantemisaris@gmail.com (ρόλος ασαφής) ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 - **Ομάδα GROW:** [[ioanna-chalkiadaki]] (day-to-day)· [[vassiliki-giannopoulou]] (cc)· [[despina-velissariou]] (XENIA forward)· ο Δήμος ([[2026-09-18-greenmart-posts-volvoi-stihl]], [[2026-07-21-antemisaris-expowork-xenia-2026]]).
-- **Τρίτοι:** [[expowork]] (περίπτερο XENIA)· tsougrana.gr (συνάντηση συνεργασίας 2026-10-02)· Kathimerini (συνάντηση 2026-09-23) ([[2026-07-20_2026-11-03]]).
+- **Τρίτοι:** [[expopiece]] (κατασκευή XENIA)· Audio-tech (LED wall XENIA, [[2026-10-16-audiotech-led-xenia]])· [[expowork]] (αρχική πρόταση περιπτέρου XENIA)· tsougrana.gr (συνάντηση συνεργασίας 2026-10-02)· Kathimerini (συνάντηση 2026-09-23) ([[2026-07-20_2026-11-03]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-10-27)
+- **XENIA 2026 (2026-11-21 → 23), στις 2026-10-27:** στις 2026-10-26 ο Αντεμισάρης δέχτηκε από τη Forum (διοργανωτής) νέο περίπτερο από ακύρωση, **νησίδα 8,5 × 11 = 93,5 τ.μ., Hall 2 A23-B25/A26-B27**· περιμένουν επόμενα βήματα από τη Forum. Η GROW επιβεβαίωσε στην Audio-tech **LED video wall σε όλη την πλάτη**· η [[expopiece]] έστειλε ερωτήσεις για κοστολόγηση και η Δέσποινα απάντησε (διχρωμία, μόνο σκαμπό, φωτισμός με τράσες)· εκκρεμούν επίσημη κάτοψη και kW του video wall προς Expopiece, και η τιμή κατασκευής ([[2026-10-26-antemisaris-xenia-katopsi-forum]], [[2026-10-16-audiotech-led-xenia]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]]).
+- Η Qorect προσέγγισε τον πελάτη με app Leads Manager για τη Xenia (240 € + ΦΠΑ)· η Ιωάννα το έστειλε στον Δήμο για ιδέες για το δικό μας εργαλείο ([[2026-10-26-xenia-leads-manager-qorect]]).
+
+**Παλαιότερα (στις 2026-10-20)**
 - Σήμερα «Antemisaris εκεί» 10:00· στις 2026-10-23 11:00 «Antemisaris follow-up κατάλογος» με Ιωάννα και Ζάχο ([[2026-07-20_2026-11-03]]).
 - 2026-10-07 «Antemisaris Xenia εκεί» ([[2026-07-20_2026-11-03]]). Ρόλος GROW στο περίπτερο XENIA 2026: ασαφής ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 - Social: εγκρίθηκε το carousel για τους φθινοπωρινούς βολβούς (2026-09-18)· τα posts Stihl χρειάζονταν διορθώσεις ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Meta: «product browsing» μπαίνει αυτόματα στα sales ads από 2026-10-28 — opt-out ή όχι — Δήμος — έως 2026-10-27 ([[2026-10-26-admin-eidopoiiseis]])
 - [x] Υπογραφή εντολής Καθημερινής 20.984 € + ΦΠΑ — ✓ 2026-10-23 ([[2026-10-20-antemisaris-kathimerini-entoli-update-2026-10-23]])
 - [ ] Follow-up κατάλογος — Ιωάννα — 2026-10-26 14:00 ([[2026-07-20_2026-11-03]])
 - [x] Διορθώσεις posts Stihl (ποσοστά, «έως», χρώματα, θέση) — [[ioanna-chalkiadaki]] — ζητήθηκε 2026-09-18 ([[2026-09-18-greenmart-posts-volvoi-stihl]])· στο Asana «stihl offers» ✓ 2026-09-21 ([[2026-10-21-asana-snapshot]]) — 💭 Υπόθεση: πρόκειται για τα ίδια posts.
@@ -28,7 +33,13 @@ updated: 2026-10-26
 - [ ] Task για την τοποθέτηση προϊόντων Κορωπί («2026 Selection - FINAL Range Grow.xlsx» + logo Harmony) — [[ioanna-chalkiadaki]] — ο Δήμος ρώτησε 2026-08-13 αν μπήκε task· απάντηση δεν φαίνεται ([[2026-08-13-antemisaris-koropi-range-harmony]])
 - [x] Ρόλος GROW στο XENIA 2026: σχεδιασμός περιπτέρου (✓ 2026-10-23, [[2026-10-23-antemisaris-xenia-periptero-protaseis]])
 - [ ] Σχόλια/επιλογή μίας από 3 προσεγγίσεις περιπτέρου — Antemisaris — από 2026-10-23 ([[2026-10-23-antemisaris-xenia-periptero-protaseis]])
-- [ ] Τιμή κατασκευής από [[expopiece]] — Δέσποινα — από 2026-10-23 ([[2026-10-23-antemisaris-xenia-expopiece]])
+- [ ] Τιμή κατασκευής από [[expopiece]] — Expopiece (Νίκος Λάττας) — μετά την επίσημη κάτοψη και τα kW (από 2026-10-23) ([[2026-10-23-antemisaris-xenia-expopiece]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]])
+- [ ] Επίσημη κάτοψη του νέου περιπτέρου (93,5 τ.μ., Hall 2) προς Expopiece — [[despina-velissariou]] / [[ioanna-chalkiadaki]] — υπόσχεση «σήμερα» 2026-10-26 ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]], [[2026-10-26-antemisaris-xenia-katopsi-forum]])
+- [ ] kW και ηλεκτρολογικές γραμμές του video wall (Audio-tech) προς Expopiece — Δέσποινα/Ιωάννα — από 2026-10-26 ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]])
+- [ ] Πρόταση υλικού για τις καμπύλες/κυκλικές κατασκευές (όχι μελαμίνη) — Expopiece — από 2026-10-26 ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]])
+- [ ] Επόμενα βήματα από Audio-tech για το LED wall (Option 1, όλη η πλάτη) — Audio-tech — από 2026-10-26 ([[2026-10-16-audiotech-led-xenia]])
+- [ ] Επόμενα βήματα από τη Forum για το νέο περίπτερο — Forum S.A. — από 2026-10-26 ([[2026-10-26-antemisaris-xenia-katopsi-forum]])
+- [ ] Features της Qorect (Leads Manager) για το εργαλείο leads της GROW — Δήμος — FYI από 2026-10-26 ([[2026-10-26-xenia-leads-manager-qorect]])
 - [ ] Ιδέα Δήμου: «λίγη κίνηση με AI» στα δημιουργικά — ασαφές αν προχώρησε ([[2026-09-18-greenmart-posts-volvoi-stihl]])
 - [x] Carousel φθινοπωρινών βολβών — εγκρίθηκε 2026-09-18 ([[2026-09-18-greenmart-posts-volvoi-stihl]])
 
@@ -47,9 +58,13 @@ updated: 2026-10-26
 - [x] Einhell event ad — Δήμος — ✓ 2026-10-15· greenmart product video ✓ 2026-10-13· catalogue offer ✓ 2026-09-15· φυλλάδιο & newsletter yacht ✓ 2026-09-29/30 ([[2026-10-21-asana-snapshot]])
 
 ## Αποφάσεις
+- 2026-10-26: ο πελάτης προχωρά με το περίπτερο-νησίδα 93,5 τ.μ. (Hall 2) που προέκυψε από ακύρωση ([[2026-10-26-antemisaris-xenia-katopsi-forum]]).
+- 2026-10-26: LED video wall σε όλη την πλάτη (Audio-tech, Option 1)· στο περίπτερο μόνο σκαμπό (τα φέρνουμε εμείς), μελαμίνη σε διχρωμία, φωτισμός δέντρων όπως πέρσι + τράσες ([[2026-10-16-audiotech-led-xenia]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]]).
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-10-26 — XENIA: η Forum προτείνει νησίδα 93,5 τ.μ. (Hall 2 A23-B25/A26-B27) από ακύρωση· ο Ζάχος επιβεβαιώνει 13:57 και το προωθεί στην Ιωάννα/Δήμο. Η Ιωάννα επιβεβαιώνει στην Audio-tech το video wall σε όλη την πλάτη (13:03). Η Expopiece ζητά επίσημη κάτοψη, kW, διευκρινίσεις· η Δέσποινα απαντά 14:30. Η Ιωάννα στέλνει στον Δήμο την προσφορά Qorect Leads Manager ([[2026-10-26-antemisaris-xenia-katopsi-forum]], [[2026-10-16-audiotech-led-xenia]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]], [[2026-10-26-xenia-leads-manager-qorect]]).
+- 2026-10-19 — Η Audio-tech στέλνει προσφορά για LED στη Xenia (PDF· ζήτηση της Βάσιας 2026-10-16: όλη η πλάτη 4 × 8,5 m ή 2 × 4 × 2,3 m, με τεχνικό) ([[2026-10-16-audiotech-led-xenia]]).
 - 2026-10-26 — «Antemisaris follow-up κατάλογος» 14:00–15:00 (Ιωάννα + Ζάχος, GROW Agency Calendar).
 - 2026-10-23 — Η Ιωάννα στέλνει 3 σχεδιαστικές προσεγγίσεις περιπτέρου XENIA 2026· η Δέσποινα στέλνει κατόψεις/σχέδιο στην [[expopiece]] για κατασκευή ([[2026-10-23-antemisaris-xenia-periptero-protaseis]], [[2026-10-23-antemisaris-xenia-expopiece]]).
 - 2026-10-23 — ✓ Η Ιωάννα έστειλε στην Καθημερινή την **υπογεγραμμένη εντολή ανάθεσης** για το Φεστιβάλ Γαστρονόμος «Η Μεγάλη Γιορτή» (20.984 € + ΦΠΑ) ([[2026-10-20-antemisaris-kathimerini-entoli-update-2026-10-23]]).
@@ -74,6 +89,7 @@ updated: 2026-10-26
 
 ## Οικονομικά
 - Τιμές περιπτέρου XENIA μόνο στο PDF της Expowork· fee GROW: ασαφές ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
+- LED wall Audio-tech: τιμή μόνο στο PDF, ασαφές ([[2026-10-16-audiotech-led-xenia]]). Qorect Leads Manager (ανταγωνιστική προσφορά στον πελάτη): 240 € + ΦΠΑ ([[2026-10-26-xenia-leads-manager-qorect]]).
 
 ## Σημειώσεις
 - Ο Δήμος παρακολουθεί εσωτερικά με σύντομες ερωτήσεις («έχει μπει task αυτό ;») ([[2026-08-13-antemisaris-koropi-range-harmony]]).

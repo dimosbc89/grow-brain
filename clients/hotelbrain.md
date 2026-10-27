@@ -3,7 +3,7 @@ type: client
 title: "HotelBrain"
 aliases: [HOTELBRAIN S.A., Hotelbrain, Hotel Brain, hotelbrain.com, hotelbraingroup.com]
 status: ενεργός
-updated: 2026-10-23
+updated: 2026-10-27
 ---
 # HotelBrain
 > Η HOTELBRAIN S.A. είναι η πλευρά πελάτη για τα hotel websites που φτιάχνει και υποστηρίζει τεχνικά η GROW ([[mr-mrs-white]], [[anayia]], September City Living, GHH) και τώρα για το νέο corporate site της ίδιας της HotelBrain.
@@ -16,17 +16,25 @@ updated: 2026-10-23
 - **Ομάδα GROW:** ο Δήμος (τεχνικό και εμπορικό σκέλος) και η [[marina-papanastasiou]], που πήρε forward το invite της 2026-10-02 ([[2026-10-02-hotelbrain-meeting-invite]]).
 - **Vendor:** [[webhotelier]], η πηγή των δεδομένων των ξενοδοχείων και το booking engine ([[2026-09-14-hotelbrain-webhotelier-api]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-10-27)
+- **Νέο design hotelbrain.com:** call σήμερα **2026-10-27 11:45** με Νίκη, τον developer Βασίλη Φριγανιώτη και τον κ. Λεωνίδα (αρχικά 12:00· μετακινήθηκε για τον κ. Λεωνίδα). Ο Δήμος επιβεβαίωσε 2026-10-26 22:49. Πλατφόρμα: ασαφές (💭 Teams) ([[2026-10-23-hotelbrain-com-new-design-update-2026-10-27]]).
+- **Corporate site go-live:** η Νίκη ζήτησε 2026-10-26 07:46 να βγει live «σήμερα» το νέο **hotelbraingroup.com** και έστειλε με απλό email τα στοιχεία του papaki [διαπιστευτήρια παραλείφθηκαν] (θα δώσει εκείνη τον 2FA κωδικό). Ο Δήμος ρώτησε 11:07 αν υπάρχει email ή άλλη υπηρεσία συνδεδεμένη στο domain· απάντηση δεν υπάρχει. Το go-live δεν φαίνεται να έγινε ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-27]]).
+- ⚠️ Αντίφαση domains: 2026-09-18 η Νίκη έγραψε ότι το νέο corporate site «κουμπώνει» στο hotelbrain.com (και το τρέχον hotelbrain.com πάει στο hotelbrainhotels.com)· 2026-10-23 ζητά ξεχωριστό νέο design για το hotelbrain.com (με data WebHotelier)· 2026-10-26 ζητά go-live του corporate στο hotelbraingroup.com. Να επιβεβαιωθεί με τον Δήμο ποιο site πάει σε ποιο domain ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-27]], [[2026-10-23-hotelbrain-com-new-design]]).
+
+*Από 2026-10-20:*
 - **Corporate site:** το demo είναι έτοιμο με όλες τις αλλαγές από 2026-10-08. Για το go-live πρέπει να αλλάξουν οι name servers στο [[papaki]]. Η Νίκη έδωσε πρόσβαση και στις 2026-10-12 ρώτησε αν ο Δήμος είναι διαθέσιμος να γίνει τώρα η αλλαγή. Στο thread δεν υπάρχει απάντηση ([[2026-10-12-hotelbrain-corporate-website]]).
 - **WebHotelier API:** η WebHotelier μπορεί να εκδώσει ένα Multi-Property API account. Πρώτα θέλει από τη GROW τη λίστα με τα property codes του GHH και επιβεβαίωση. Περιμένει από 2026-09-14 ([[2026-09-14-hotelbrain-webhotelier-api]]).
 - Στις 2026-10-08, 11:00, έγινε συνάντηση στα γραφεία της HotelBrain με Roula, Dimitris Giannis, Panos και Niki ([[2026-07-20_2026-11-03]], [[2026-10-01-hotelbrain-offices-meeting]]). Το θέμα της είναι ασαφές.
 - **Επόμενη συνάντηση:** 2026-10-23, 13:00–14:00 (ήταν 15:00· ⚠️ συμπίπτει με [[dominos]]), Microsoft Teams, «Τεχνικές Προδιαγραφές Ιστοσελίδων». Συμμετέχουν η ομάδα HotelBrain και ο gspyridis@aviamos.com. Ο ρόλος της Aviamos είναι ασαφής ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Προσφορά/κοστολόγηση για το νέο design του hotelbrain.com — Δήμος — πριν το call της εβδομάδας 26/10 ([[2026-10-23-hotelbrain-com-new-design]])
-- [ ] Call 10' Teams για το νέο design — HotelBrain/Δήμος — εβδομάδα 2026-10-26 ([[2026-10-23-hotelbrain-com-new-design]])
-- [ ] Επικοινωνία για μεταφορά του Teams 2026-10-23 13:00 (συμπίπτει με [[dominos]]) — Δήμος — **2026-10-21** ([[2026-10-20-hotelbrain-call-meeting-teams]])
-- [ ] Αλλαγή name servers στο papaki για go-live του νέου corporate site, χωρίς να επηρεαστούν τα emails του domain — Δήμος — η Νίκη περιμένει από 2026-10-12 ([[2026-10-12-hotelbrain-corporate-website]])
+- [ ] Call για το νέο design hotelbrain.com — Δήμος, Νίκη, Βασίλης, κ. Λεωνίδας — **2026-10-27 11:45** ([[2026-10-23-hotelbrain-com-new-design-update-2026-10-27]])
+- [ ] Προσφορά/κοστολόγηση για το νέο design του hotelbrain.com — Δήμος — δεν έχει σταλεί ([[2026-10-23-hotelbrain-com-new-design]])
+- [ ] Ενημέρωση του adamigos@marinet.gr (το email επιβεβαίωσης του Δήμου έκανε bounce) — Δήμος/Νίκη — 2026-10-27 ([[2026-10-23-hotelbrain-com-new-design-update-2026-10-27]])
+- [ ] Επικοινωνία για μεταφορά του Teams 2026-10-23 13:00 (συμπίπτει με [[dominos]]) — Δήμος — **2026-10-21** ([[2026-10-20-hotelbrain-call-meeting-teams]]) — κατάσταση ασαφής (στο ημερολόγιο μετακινήθηκε 14:00 και ο Δήμος δήλωσε declined)
+- [ ] Αλλαγή name servers στο papaki για go-live του νέου corporate site (hotelbraingroup.com), χωρίς να επηρεαστούν τα emails του domain — Δήμος — η Νίκη περιμένει από 2026-10-12, το ζήτησε ξανά για 2026-10-26 ([[2026-10-12-hotelbrain-corporate-website]], [[2026-10-12-hotelbrain-corporate-website-update-2026-10-27]])
+- [ ] Απάντηση αν υπάρχουν email/άλλες υπηρεσίες στο domain — Νίκη — ο Δήμος ρώτησε 2026-10-26 11:07 ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-27]])
+- [ ] Αλλαγή κωδικού papaki μετά το go-live (στάλθηκε με απλό email 2026-10-26) — HotelBrain — μετά το go-live ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-27]])
 - [ ] Επιβεβαίωση του τελικού σεναρίου domains: το νέο site στο hotelbrain.com και το τρέχον στο hotelbrainhotels.com — HotelBrain (το ζήτησε ο Δήμος) — χωρίς ημερομηνία ([[2026-10-12-hotelbrain-corporate-website]])
 - [ ] Αναλυτικό mapping (property name, WordPress record, booking-engine URL, property code) για να επιβεβαιωθεί το scope — Δήμος (υπόσχεση 2026-09-11) — χωρίς ημερομηνία ([[2026-09-14-hotelbrain-webhotelier-api]])
 - [ ] Λίστα property codes GHH και επιβεβαίωση ενός Multi-Property API account για και τα 90 καταλύματα, προς WebHotelier — GROW — ζητήθηκε 2026-09-14 ([[2026-09-14-hotelbrain-webhotelier-api]])
@@ -42,6 +50,8 @@ updated: 2026-10-23
 - Τα emails που είναι συνδεδεμένα στο domain δεν πρέπει να επηρεαστούν από το go-live ([[2026-10-12-hotelbrain-corporate-website]]).
 
 ## Χρονολόγιο
+- 2026-10-26 — Νέο design hotelbrain.com: ο Δήμος ζητά διαθεσιμότητες (11:45)· η Νίκη προτείνει Τρίτη 12:00 και μετά 11:45 για τον κ. Λεωνίδα· ο Βασίλης ΟΚ· ο Δήμος επιβεβαιώνει 22:49· bounce προς adamigos@marinet.gr ([[2026-10-23-hotelbrain-com-new-design-update-2026-10-27]]).
+- 2026-10-26 — Η Νίκη ζητά go-live του hotelbraingroup.com «σήμερα» και στέλνει κωδικούς papaki [διαπιστευτήρια παραλείφθηκαν]· ο Δήμος ρωτά για συνδεδεμένα email ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-27]]).
 - 2026-10-23 — Η Νίκη ([[niki-daleziou]]) ενημερώνει ότι η διοίκηση αποφάσισε **νέο design για το hotelbrain.com**: ο Δήμος σχεδιάζει σε Figma, υλοποιεί developer (Βασίλης), δεδομένα από [[webhotelier]]· call 10' στο Teams την εβδομάδα 26/10. Τιμή δεν αναφέρεται ([[2026-10-23-hotelbrain-com-new-design]]).
 - 2026-10-23 — Το Teams «Τεχνικές Προδιαγραφές Ιστοσελίδων» μετακινήθηκε 14:00–15:00· ο Δήμος το δήλωσε «declined» στο ημερολόγιο ([[2026-07-20_2026-11-03]]).
 - 2026-10-21 — Ο Giannis διορθώνει «καθορισμού». Email του Δήμου για μεταφορά του Teams δεν φαίνεται· στο ημερολόγιο το Teams μένει 23/10 13:00, πάνω στο Dominos ([[2026-10-20-hotelbrain-call-meeting-teams-update-2026-10-22]]).
@@ -80,5 +90,5 @@ updated: 2026-10-23
   ([[2026-10-12-hotelbrain-corporate-website]])
 - 💭 Υπόθεση: το αίτημα αναφέρει το hotelbraingroup.com, ενώ το go-live γίνεται στο hotelbrain.com. Γι' αυτό χρειάζεται η επιβεβαίωση των domains πριν την αλλαγή NS ([[2026-10-12-hotelbrain-corporate-website]]).
 - **Πώς δουλεύει το τρέχον hotelbrain.com:** daily sync από τη WebHotelier για hero image, welcome description, room types, amenities, check-in policy και gallery. Τα εστιατόρια, το spa και τα all-inclusive πακέτα περνιούνται χειροκίνητα στο back office ([[2026-09-02-hotelbrain-webhotelier-data-sync]]).
-- ⚠️ Ασφάλεια: η πελάτισσα έστειλε κωδικό σε απλό email ([[2026-10-12-hotelbrain-corporate-website]]).
+- ⚠️ Ασφάλεια: η πελάτισσα έστειλε κωδικό σε απλό email ([[2026-10-12-hotelbrain-corporate-website]]) και ξανά 2026-10-26 (papaki) ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-27]]).
 - **Ύφος:** ο Δήμος μιλά στη Νίκη σύντομα και στον ενικό, π.χ. «Καλησπέρα ναι είμαι οκ επιβεβαίωσε μου ώρα μόνο.» ([[2026-10-01-hotelbrain-offices-meeting]]).

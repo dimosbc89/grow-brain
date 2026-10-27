@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-10-23
+updated: 2026-10-27
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -18,14 +18,25 @@ updated: 2026-10-23
 - **Επαφές:** [[vaso-theochari]] (Marketing, marketing@overoll.gr) ([[2026-10-14-overoll-websites-domains]])· Kikiras_john@yahoo.gr σε cc, ρόλος ασαφής ([[2026-10-14-overoll-websites-domains]], [[2026-07-23-overoll-akinito-xanthi]]).
 - **Ομάδα GROW:** ο Δήμος (sites, domains)· [[vassiliki-giannopoulou]] και [[marina-papanastasiou]] σε cc ([[2026-10-14-overoll-websites-domains]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-10-27)
+- **Turns 6 (2026-11-01):** η Overoll διάλεξε 2026-10-26 την πρόταση 2 για το sticker με αλλαγές («6» αντί «six», μικρότερο λεκτικό, «Birthday Cake Croissant» από πάνω, χρώματα από την τρούφα)· η Ιωάννα έστειλε τις ανανεωμένες 17:06 — αναμένεται τελική έγκριση ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]]). Σήμερα 2026-10-27 ξεκινούν οι promoters (Χαλάνδρι, Μαρούσι, Ν. Ερυθραία) ([[2026-10-20-overoll-turns-6-event]], [[2026-10-23-overoll-proslipseis-promoters]]).
+- **Websites:** ο Δήμος ξαναζήτησε call 2026-10-26 11:49· καμία απάντηση ([[2026-10-14-overoll-websites-domains-update-2026-10-27]]).
+- **Τιμολόγιο Οκτωβρίου** (στάλθηκε 2026-10-01): υπενθύμιση λογιστηρίου 2026-10-26, πληρωμή δεν φαίνεται ([[2026-10-01-overoll-timologio-kartela]]).
+- **Podcast Γιάννη Κίκιρα:** ο Δήμος έστειλε στην Ιωάννα τις ερωτήσεις της συνέντευξης για κοινή ανάγνωση 2026-10-27 ([[2026-10-26-kikiras-questions]]).
+
+*Από 2026-10-20:*
 - Η Overoll ενθουσιάστηκε με το Global site και θα στείλει feedback για τα τρία sites. Ζήτησε call για να της εξηγηθεί η δομή/τα links και φθηνότερες εναλλακτικές .com ([[2026-10-14-overoll-websites-domains]]).
 - Ο Δήμος ζήτησε διαθεσιμότητες για call στις 2026-10-14· ημερομηνία call δεν υπάρχει στο ημερολόγιο ([[2026-10-14-overoll-websites-domains]], [[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Νέα δημιουργικά Turns 6 (ροζ, γραμματοσειρά Overoll) — Ιωάννα — έως 2026-10-26 ([[2026-10-20-overoll-turns-6-event-update-2026-10-23b]])
+- [x] Νέα δημιουργικά Turns 6 (ροζ, γραμματοσειρά Overoll) — Ιωάννα — ✓ 2026-10-26 12:15 ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]])
+- [ ] Τελική έγκριση sticker (πρόταση 2 αναθεωρημένη, στάλθηκε 2026-10-26 17:06) — Overoll — πριν 2026-11-01 ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]])
+- [ ] Εκτυπωτικά sticker μετά την έγκριση — Ιωάννα/GROW (💭) — πριν 2026-11-01 ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]])
+- [ ] Πληρωμή τιμολογίου (στάλθηκε 2026-10-01 με καρτέλα πελάτη) — Overoll λογιστήριο — υπενθύμιση 2026-10-26 ([[2026-10-01-overoll-timologio-kartela]])
+- [ ] Έγκριση προτεινόμενων απαντήσεων στις κριτικές 19–25/10 — Overoll — από 2026-10-26 ([[2026-10-26-overoll-kritikes-19-25-10]])
+- [ ] Κοινή ανάγνωση/αλλαγές στις ερωτήσεις podcast Γιάννη Κίκιρα — Δήμος + [[ioanna-chalkiadaki]] — **2026-10-27** ([[2026-10-26-kikiras-questions]])
 - [ ] Διεύθυνση στις ΗΠΑ για Google Business & Yelp — Overoll/TS Developments — χωρίς ημερομηνία ([[2026-10-19-overoll-social-handles-domains]])
-- [ ] Feedback για ανακοίνωση γενεθλίων και stickers — Overoll — από 2026-10-22 ([[2026-10-20-overoll-turns-6-event-update-2026-10-23]])
+- [x] Feedback για stickers — Overoll — ✓ 2026-10-26 (πρόταση 2 με αλλαγές)· για την ανακοίνωση γενεθλίων: ασαφές ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]])
 - [ ] Κόστη μπαλονιών/promoters/DJ για το event — [[vassiliki-giannopoulou]] ([[2026-10-20-overoll-turns-6-event]])
 **Από Asana (στις 2026-10-21)**
 - [ ] «birthday overoll» (Overoll Turns 6) — [[vassiliki-giannopoulou]] — έως 2026-11-01· subtasks: σχεδιασμός sticker & birthday pass ([[marianna-vourna]], ⚠️ εκπρόθεσμα από 2026-10-19/20), influencers, promoters σε κάθε κατάστημα, μπαλόνια (Βασιλική, έως 2026-10-23), giveaway carousel post ([[vassia-kataki]], έως 2026-10-21) ([[2026-10-21-asana-snapshot]])
@@ -38,11 +49,11 @@ updated: 2026-10-23
 - [x] «overoll usa mail» — Δήμος — ✓ 2026-10-05 ([[2026-10-21-asana-snapshot]])
 **Υποσχέσεις του Δήμου**
 - [ ] Λίστα εναλλακτικών .com domains (π.χ. overollcroissanterie.com) — Δήμος — χωρίς ημερομηνία (από 2026-10-14· ξαναϋποσχέθηκε «σε επόμενο email» 2026-10-22, [[2026-10-19-overoll-social-handles-domains]]) ([[2026-10-14-overoll-websites-domains]])
-- [ ] Online call για δομή και links των sites — Δήμος — μόλις η Overoll δώσει διαθεσιμότητες και κλείσει τις σημειώσεις της ([[2026-10-14-overoll-websites-domains]])
+- [ ] Online call για δομή και links των sites — Δήμος — μόλις η Overoll δώσει διαθεσιμότητες· ο Δήμος το ξαναπρότεινε 2026-10-26 ([[2026-10-14-overoll-websites-domains]], [[2026-10-14-overoll-websites-domains-update-2026-10-27]])
 
 **Από τον πελάτη**
 - [ ] Feedback για τα 3 sites και πληροφορίες χονδρικής (προϊοντική γκάμα, κοινό, διαδικασία συνεργασίας, διανομή) — Overoll — χωρίς ημερομηνία ([[2026-10-14-overoll-websites-domains]])
-- [ ] Διαθεσιμότητες για call — Overoll — από 2026-10-14 ([[2026-10-14-overoll-websites-domains]])
+- [ ] Διαθεσιμότητες για call — Overoll — από 2026-10-14, υπενθύμιση Δήμου 2026-10-26 ([[2026-10-14-overoll-websites-domains]], [[2026-10-14-overoll-websites-domains-update-2026-10-27]])
 - [ ] Αξιολόγηση ακινήτου στην Ξάνθη (πρόταση Μαραμή) και επικοινωνία μαζί του αν υπάρξει ενδιαφέρον — Overoll — χωρίς ημερομηνία ([[2026-07-23-overoll-akinito-xanthi]])
 
 ## Αποφάσεις
@@ -51,6 +62,8 @@ updated: 2026-10-23
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-10-26 21:18 — η Μαρίνα στέλνει στη Βάσω 3 PDF πίνακες (Σταματοπούλου, Ζάκα, Γιαννοπούλου) για τους promoters «Overoll Turns 6» της 27/10 10:00–14:00 ([[2026-10-26-overoll-pinakes-promoters-27-10]]).
+- 2026-10-26 — Turns 6: η Ιωάννα στέλνει νέα stickers 12:15· η Βάσω κλείνει στην πρόταση 2 με αλλαγές 14:06· ανανεωμένες 17:06 ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]]). Ο Δήμος ζητά call για τα websites 11:49 ([[2026-10-14-overoll-websites-domains-update-2026-10-27]]). Υπενθύμιση λογιστηρίου για το τιμολόγιο της 2026-10-01 ([[2026-10-01-overoll-timologio-kartela]]). Κριτικές 19–25/10 από τη Vasia S. ([[2026-10-26-overoll-kritikes-19-25-10]]). Ο Δήμος στέλνει στην Ιωάννα το «Podcast_Giannis_Kikiras_Interview.docx» ([[2026-10-26-kikiras-questions]]).
 - 2026-10-23 — Η Overoll απέρριψε stickers/ανακοίνωση «Turns 6»: θέλει ροζ φόντο, τη στρογγυλή γραμματοσειρά της, «overoll» σε λευκό· η Ιωάννα υποσχέθηκε νέες προτάσεις έως 2026-10-26 ([[2026-10-20-overoll-turns-6-event-update-2026-10-23b]]).
 - 2026-10-23 — Ενέκρινε τις προτεινόμενες απαντήσεις στις κριτικές 12–19/10 ([[2026-10-20-overoll-kritikes-12-19-10-update-2026-10-23]]).
 - 2026-10-23 — Προσλήψεις 3 promoters για 2026-10-27 10:00–14:00 (Χαλάνδρι, Μαρούσι, Ν. Ερυθραία) — στοιχεία στη [[sk-advisors]] ([[2026-10-23-overoll-proslipseis-promoters]]).
@@ -58,6 +71,7 @@ updated: 2026-10-23
 - 2026-10-21 — Η Overoll δεν θα παράγει κουτί για το Panettone· όπως πέρσι, διάφανη σακούλα τροφίμων. Οι προτάσεις packaging της Βασιλικής (12/10) δεν προχωρούν ([[2026-10-21-overoll-panettone-packaging]]).
 - 2026-10-21 — Asana: project «Overoll» με 20 ανοιχτά και 25 ολοκληρωμένα από 2026-07-01. Κύριο ανοιχτό το «birthday overoll» (έως 2026-11-01) και τα panettone packaging, cruffin caramel carousel, promo νέου μενού. Ολοκληρώθηκαν: apple pecan carousel ✓ 10-15, AI video promo & new menu teaser ✓ 10-12, loyalty κάρτα Κολωνάκι ✓ 10-06, overoll usa mail (Δήμος) ✓ 10-05, menuboards/ταμπελάκια αεροδρομίου ✓ 09-22/28, google ads & Back To School campaign ✓ 09-16, site OVEROLL ✓ 09-10, εβδομαδιαίες κριτικές (Vasia Striga) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Overoll Turns 6 (2026-11-01): εγκρίθηκε η κάρτα, στάλθηκαν εκτυπωτικά· promoters 27/29/30-10, giveaway iPhone 18· εβδομαδιαίες κριτικές 12–19/10 από τη Vasia S. Επίσης: η Global Foods επισήμανε ότι το δικό της Google Ads report (2026-09-11) είχε σταλεί και στο marketing@overoll.gr ([[2026-10-20-overoll-turns-6-event]], [[2026-10-20-overoll-kritikes-12-19-10]], [[2026-10-20-globalfoods-google-ads-report-update-2026-10-21]]).
+- 2026-10-01 — Το λογιστήριο της GROW στέλνει τιμολόγιο συνεργασίας και καρτέλα πελάτη στο accounting@overoll.gr ([[2026-10-01-overoll-timologio-kartela]]).
 - 2026-10-14 — Ο Δήμος εξηγεί την κατάσταση των domains· η Overoll ζητά call και φθηνότερες .com εναλλακτικές· ο Δήμος ζητά διαθεσιμότητες ([[2026-10-14-overoll-websites-domains]]).
 - 2026-10-06 — Ο Δήμος παρουσιάζει την κατεύθυνση για τα τρία νέα websites ([[2026-10-14-overoll-websites-domains]]).
 - 2026-10-01 → 2026-10-05 — Ο Δήμος δίνει το Overoll μαζί με άλλους λογαριασμούς Google Ads στον Nikos Moulinos ([[2026-10-05-google-ads-freelancer-moulinos]]).
@@ -70,10 +84,12 @@ updated: 2026-10-23
 - overoll.com: 4.500 € (premium domain) ([[2026-10-14-overoll-websites-domains]]).
 - overoll.us και overoll.shop: αγορά από τη GROW, κόστος ασαφές ([[2026-10-14-overoll-websites-domains]]).
 - Αμοιβές GROW για sites/γυρίσματα/Ads: ασαφές.
+- Τιμολόγιο 2026-10-01 (αριθμός/ποσό ασαφή): απλήρωτο στις 2026-10-26 (υπενθύμιση) ([[2026-10-01-overoll-timologio-kartela]]).
 - Ακίνητο Ξάνθης (όχι δουλειά της GROW): μίσθωμα 1.000€/μήνα απευθείας από ιδιοκτήτη, με ευελιξία rent-free period για την κατασκευή ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Σημειώσεις
 - Στις παρουσιάσεις ο Δήμος γράφει μακροσκελή, δομημένα κείμενα με αρίθμηση· στα follow-up σύντομα («Καλημέρα οπότε θέλετε πείτε μου διαθεσιμότητες.») ([[2026-10-14-overoll-websites-domains]]).
 - Ακίνητο Ξάνθης: ισόγειο 90, πατάρι 30, υπόγειο 30, πρασιά 30 τ.μ., εξαερισμός, χωρίς κοινόχρηστα ([[2026-07-23-overoll-akinito-xanthi]]).
+- 💭 Υπόθεση: ο Γιάννης Κίκιρας (Kikiras_john@yahoo.gr) είναι πρόσωπο της Overoll που θα δώσει συνέντευξη σε podcast — βλ. «Podcast_Giannis_Kikiras_Interview.docx» ([[2026-10-26-kikiras-questions]]).
 - 💭 Υπόθεση: το Asana task «linkedin KIKIRAS» στο project Overoll ([[2026-10-21-asana-snapshot]]) δείχνει ότι ο Κίκιρας (Kikiras_john@yahoo.gr) συνδέεται με την Overoll· ρόλος ασαφής.
 - 💭 Υπόθεση: υπάρχει σχέση με τη [[global-foods]], αφού το marketing της Overoll λαμβάνει τα Google Ads reports της Global Foods — ασαφές ([[2026-09-11-globalfoods-google-ads-report]]).

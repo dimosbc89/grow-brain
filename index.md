@@ -158,12 +158,14 @@ updated: 2026-10-22
 - [[yiannis-korbos|Yiannis Korbos]] — Στέλνει στη GROW τα brand manuals των mr-mrs-white και anayia. Ο ρόλος του είναι ασαφής: μπορεί να είναι designer ή στέλεχος του brand.
 - [[antony-bebbington|Antony Bebbington]] · _ενεργός_ — Senior Sourcing Manager EMEA & LATAM Marketing, Meetings & Events της Salesforce.
 
-## Συνεργάτες & πάροχοι (15)
+## Συνεργάτες & πάροχοι (17)
 - [[biz-courier|BIZ Courier & Logistics]] — Courier και 3PL (αποθήκη/WMS) που έχει επιλέξει η tandem-concept. Η GROW συνδέει το WooCommerce e-shop της Tandem με τη BIZ μέσω API / BIZ LiNK και ετ…
 - [[cretaforce|CretaForce]] — Registrar και πάροχος domains/hosting. Εκεί η GROW κρατά domains πελατών, όπως το pharmacypan.gr και το argyroplastics.gr.
 - [[enartia|ENARTIA]] — Η εταιρεία πίσω από το papaki. Τιμολογεί τη GROW AGENCY Ε.Ε. με ηλεκτρονικά παραστατικά μέσω Entersoft (PDF + peppol XML) για domains/hosting.
 - [[epilogin|Epilogin / Epilogi Digital]] — Προμηθευτής εκτυπώσεων/menuboards της GROW (επαφή iasonas-kolytos)· χρησιμοποιείται και για κοστολόγηση κατασκευαστικών σε εκθεσιακά περίπτερα.
 - [[epsilon-net|Epsilon Net]] — Πάροχος ERP/τιμολόγησης (Epsilon Smart Advanced) και παρόχου ηλεκτρονικής τιμολόγησης (Epsilon Digital, myDATA) της tandem-concept. Η GROW συνδέει το…
+- [[audio-tech|Audio-tech]] — LED οθόνες / video wall για περίπτερα (XENIA 2026).
+- [[forum-sa|Forum SA]] — Διοργανωτής XENIA· θέση περιπτέρου Αντεμισάρη.
 - [[expopiece|Expopiece]] — Κατασκευαστής περιπτέρων με τον οποίο η GROW κοστολογεί κατασκευαστικά για τα εκθεσιακά της projects (ekthesiaka-periptera).
 - [[expowork|EXPOWORK (Metropolitan Expo)]] — Εταιρεία κατασκευής εκθεσιακών περιπτέρων του Metropolitan Expo· έστειλε στην greenmart-antemisaris πρόταση για περίπτερο στη XENIA 2026, που έφτασε σ…
 - [[fastpath|FASTPATH ΙΚΕ]] — Ο hosting provider της GROW. Φιλοξενεί τον managed server cloud.growagency.online (Plesk), όπου τρέχουν sites και email πελατών. Στις 2026-10-20 απειλ…

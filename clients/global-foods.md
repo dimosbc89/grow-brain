@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -18,7 +18,8 @@ updated: 2026-10-26
 - **Επαφές:** [[elpida-plavou]] (ρόλος ασαφής· παραλήπτρια report και πρότασης videography) ([[2026-10-08-globalfoods-videography-proposal]])· [[evi-psycha]] (Marketing, marketing@globalfoods.gr) ([[2026-10-02-globalfoods-live-projector-videographer]])· commercial@globalfoods.gr σε cc ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 - **Ομάδα GROW:** ο Δήμος (app, Ads report, προτάσεις)· [[marina-papanastasiou]] (συντονισμός event)· [[despina-velissariou]] (event, φυλλάδιο, βιντεογράφος) ([[2026-10-02-globalfoods-live-projector-videographer]], [[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-26)
+## Τρέχουσα κατάσταση (στις 2026-10-27)
+- **Στις 2026-10-27:** στις 2026-10-26 εγκρίθηκαν τα posts 28ης Οκτωβρίου (Unique όπως είναι, Global με νέο βίντεο «χωρίς το κρασί»)· η Δέσποινα δεσμεύτηκε για το reel ZEO έως 2026-10-27 και τα 2 πρώτα εταιρικά βίντεο έως 2026-10-30· η Ελπίδα «επείγεται για ΖΕΩ κ Unique» και η Μαρίνα έβαλε τη ΖΕΩ σε προτεραιότητα. Στάλθηκε το τιμολόγιο #1296 (βιντεογράφηση Ιταλικής Πρεσβείας) ([[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]], [[2026-10-26-globalfoods-timologio-presveia]]).
 - **Στις 2026-10-26:** η [[elpida-plavou]] έστειλε 2026-10-24 μαζικά «kind reminders» σε ~10 threads. Ο Δήμος απάντησε σε δύο: report Google Ads 10/09–11/10 και στρατηγική Google Reviews (12 εβδομάδες, ζητά call 30') ([[2026-10-20-globalfoods-google-ads-report-update-2026-10-26]], [[2026-10-21-globalfoods-google-kritikes-update-2026-10-26]]). Ανοιχτά από τον Δήμο: πλάνο καμπανιών/στρατηγική, αίτημα Global App από 2024-09-23, Carozzi, λίστα εκκρεμοτήτων Εύης. Η Ελπίδα θέλει 3 posts/εβδομάδα για Global και Unique. Videography: απάντηση αρχές Νοεμβρίου.
 - Ο Δήμος περιμένει από τη Global Foods επιβεβαίωση και νέο email για να αλλάξει το email του account του πελάτη GIGLIO ATHENS στο app ([[2026-10-20-globalfoods-email-pelati-paikopoulos]]).
 - Η πρόταση videography (2026-10-08) και το Google Ads report (2026-09-11) δεν έχουν απάντηση στις πηγές ([[2026-10-08-globalfoods-videography-proposal]], [[2026-09-11-globalfoods-google-ads-report]]).
@@ -26,13 +27,20 @@ updated: 2026-10-26
 - Στο ημερολόγιο: «Πρεσβεία Global - Despina» 2026-10-22 16:00 — 💭 Υπόθεση: αφορά τη Global Foods, ασαφές ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-10-27**
+- [ ] Post + story 28ης Οκτωβρίου: βίντεο Global χωρίς το κρασί, δημοσίευση 2026-10-28 — [[marina-papanastasiou]] / [[despina-velissariou]] — έως 2026-10-28 ([[2026-10-26-globalfoods-28i-oktovriou-posts]])
+- [ ] Reel ZEO (social) με τις διορθώσεις — Δέσποινα — **έως 2026-10-27** (υπόσχεση 2026-10-26, η Ελπίδα «επείγεται») ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]])
+- [ ] 2 οριζόντια εταιρικά βίντεο: Masterclass Detroit Pizza – Global και ZEO Bakers – Unique — Δέσποινα — **έως 2026-10-30** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]])
+- [ ] Επόμενα βίντεο Detroit Pizza – Unique και Ιταλική Πρεσβεία – Global (+ reels) — Δέσποινα — ενημέρωση από την εβδομάδα 2026-11-02 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]])
+- [ ] Εξόφληση τιμολογίου #1296 (βιντεογράφηση Πρεσβείας) — Global Foods — από 2026-10-26 ([[2026-10-26-globalfoods-timologio-presveia]])
+
 **Νέα στις 2026-10-26**
 - [ ] Πλάνο καμπανιών + στρατηγική (υποσχέθηκε «σου απαντάω και στα υπόλοιπα» 2026-10-24) — Δήμος — reminder 2026-10-24 ([[2026-10-21-globalfoods-campaigns-update-2026-10-26]])
 - [ ] Αίτημα Global App της 2024-09-23 (πεδία παραγγελιών, it-support.gr) — Δήμος/developer — εκκρεμεί ~13 μήνες, reminder 2026-10-24 ([[2024-07-11-globalfoods-global-app-pedia]])
 - [ ] Carozzi: περιεχόμενο για τυριά/κρασιά (υφή, γεύση) που ζήτησε ο κ. Θανάσης — Δήμος — από 2026-10-08 ([[2026-10-08-globalfoods-carozzi]])
 - [ ] Λίστα εκκρεμοτήτων Εύης (site, συνταγές, apps, October fest) — GROW — από 2026-10-08, reminder 2026-10-24 ([[2026-10-08-globalfoods-ekkremotites]])
 - [ ] 3 posts/εβδομάδα Global Foods και Unique Goods + επόμενες προτάσεις — [[despina-velissariou]] — «άμεσα» (2026-10-24) ([[2026-10-21-globalfoods-social-diorthotiki-update-2026-10-26]], [[2026-10-24-unique-goods-social]])
-- [ ] Διορθώσεις videos Zeo/Detroit — Δέσποινα — reminder 2026-10-24 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-26]])
+- [x] Απάντηση στο reminder για τα videos Zeo/Detroit — Δέσποινα — ✓ 2026-10-26 με χρονοδιάγραμμα (βλ. παραπάνω) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]]) — reminder 2026-10-24 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-26]])
 - [ ] Call 30' για Google Reviews — η Ελπίδα προτείνει ώρα· από Global Foods 6 σημεία (Softone export, πρόσβαση GBP) ([[2026-10-21-globalfoods-google-kritikes-update-2026-10-26]])
 - [ ] Rummo σάλτσες: φυλλάδιο + video — υλικό από Rummo (Global Foods) ([[2026-10-08-globalfoods-rummo-saltses]])
 
@@ -73,6 +81,7 @@ updated: 2026-10-26
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-10-26 — Η Δέσποινα στέλνει posts 28ης Οκτωβρίου· η Ελπίδα εγκρίνει Unique, για Global ζητά να μην ξεκινά με prosciutto cotto· η Μαρίνα στέλνει νέο βίντεο, η Ελπίδα: «Χωρίς το κρασί και είμαστε μια χαρά». Η Δέσποινα δίνει χρονοδιάγραμμα βίντεο (reel ZEO έως 2026-10-27, Detroit–Global & ZEO Bakers–Unique έως τέλος εβδομάδας, μετά Detroit–Unique & Πρεσβεία–Global)· η Ελπίδα «Επείγομαι για ΖΕΩ κ Unique», η Μαρίνα: ΖΕΩ σε προτεραιότητα. Το accounting στέλνει τιμολόγιο #1296 + καρτέλα πελάτη στη διοίκηση ([[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]], [[2026-10-26-globalfoods-timologio-presveia]]).
 - 2026-10-24 — Η Ελπίδα στέλνει reminders σε ~10 threads (report, κριτικές, καμπάνιες, social, videos, Carozzi, εκκρεμότητες, Global App, Rummo). Ο Δήμος στέλνει report 10/09–11/10 και στρατηγική Google Reviews. Videography: απάντηση αρχές Νοεμβρίου ([[2026-10-20-globalfoods-google-ads-report-update-2026-10-26]], [[2026-10-21-globalfoods-google-kritikes-update-2026-10-26]], [[2026-10-08-globalfoods-videography-proposal-update-2026-10-26]], [[2024-07-11-globalfoods-global-app-pedia]]).
 - 2026-10-23 — Δισέλιδο Οικονομικού Οδηγού: η Ελπίδα άλλαξε κείμενο· η Δέσποινα δουλεύει εικόνες/εναλλακτικές ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-26]]).
 - 2026-10-23 — Η Μαρίνα έστειλε τα ΔΤ για το Detroit· η Global ζητά περισσότερα θέματα (Zeo, Oktoberfest, 70 χρόνια Ιταλικού Σχολείου) — χρειάζονται briefs από τον πελάτη ([[2026-10-09-global-unique-nea-mas]]).
@@ -93,6 +102,7 @@ updated: 2026-10-26
 ## Οικονομικά
 - Βιντεογράφος event 2026-10-06: προσφορά GROW 4 ώρες 350€ + ΦΠΑ / 6 ώρες 450€ + ΦΠΑ· αντιπρόταση Global Foods 4 ώρες 300€ + ΦΠΑ ([[2026-10-02-globalfoods-live-projector-videographer]]).
 - Πρόταση videography 2026-10-08: ποσά μόνο στο PDF, ασαφές ([[2026-10-08-globalfoods-videography-proposal]]).
+- Τιμολόγιο #1296 (2026-10-26): βιντεογράφηση Ιταλικής Πρεσβείας· ποσό μόνο στο PDF (προσφορά βιντεογράφου 150 € + ΦΠΑ) ([[2026-10-26-globalfoods-timologio-presveia]], [[2026-10-14-globalfoods-presveia-videografos]]).
 - Αμοιβές για app/Ads: ασαφές.
 
 ## Σημειώσεις

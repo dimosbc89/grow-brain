@@ -3,37 +3,45 @@ type: vendor
 title: "BIZ Courier & Logistics"
 aliases: [BIZ Courier, Biz, ebiz, BIZ Courier & Logistics S.A., bizcourier.eu, BIZ LiNK]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-27
 ---
 # BIZ Courier & Logistics
 > Courier και 3PL (αποθήκη/WMS) που έχει επιλέξει η [[tandem-concept]]. Η GROW συνδέει το WooCommerce e-shop της Tandem με τη BIZ μέσω API / BIZ LiNK και ετοιμάζει το BOX NOW.
 
 ## Σε μια ματιά
 - **Ρόλος:** αποθήκη και αποστολές του e-shop tandemconcept.gr. Το e-shop εξυπηρετείται από την αποθήκη Biz Courier ([[2026-09-24-tandem-eshop-quantities]])· warehouse «BIZ GR Koropi» (προς επιβεβαίωση) ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]]).
-- **Τεχνικά:** API / Web Service (SOAP neworder), plugin BIZ LiNK για WooCommerce (σήμερα 1.1.28· αναβάθμιση σε 1.3.2+ και BIZ LiNK FF 1.3.0+ για BOX NOW), BIZ LiNK Onboarding Questionnaire ([[2026-09-14-tandem-bizcourier-it-coordination]], [[2026-10-12-bizcourier-bizlink-fix-boxnow]], [[2026-10-12-bizcourier-woocommerce-admin-boxnow]]).
-- **Επαφές:** [[aliki-theochari]] (Director of Customer Success· κύρια επαφή για integration και BOX NOW)· [[jose-fernando-trujillo-heron]] (Business Development and Marketing Specialist· εμπορικά, τιμοκατάλογος Box Now)· itsupport@ (τεχνική ομάδα)· customersupport@, georgia@, i.gorobets@ ([[2026-09-14-tandem-bizcourier-it-coordination]], [[2026-10-12-bizcourier-bizlink-fix-boxnow]], [[2026-08-26-online-appointment-bizcourier-tandem]]).
+- **Τεχνικά:** API / Web Service (SOAP neworder), plugin BIZ LiNK για WooCommerce (1.1.28 → αναβαθμίστηκε σε **1.3.2** στις 2026-10-26· BIZ LiNK FF 1.3.0: ασαφές)· BOX NOW με service code **167** ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]), BIZ LiNK Onboarding Questionnaire ([[2026-09-14-tandem-bizcourier-it-coordination]], [[2026-10-12-bizcourier-bizlink-fix-boxnow]], [[2026-10-12-bizcourier-woocommerce-admin-boxnow]]).
+- **Επαφές:** [[aliki-theochari]] (Director of Customer Success· κύρια επαφή για integration και BOX NOW)· [[jose-fernando-trujillo-heron]] (Business Development and Marketing Specialist· εμπορικά, τιμοκατάλογος Box Now)· itsupport@ (BIZ IT Helpdesk· Markos Lesko, Application Support Rep, m.lesko@bizcourier.eu)· customersupport@, georgia@, i.gorobets@ ([[2026-09-14-tandem-bizcourier-it-coordination]], [[2026-10-12-bizcourier-bizlink-fix-boxnow]], [[2026-08-26-online-appointment-bizcourier-tandem]]).
 - **Ομάδα GROW:** ο Δήμος.
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-10-27)
+- Στις 2026-10-26, μετά από υπενθύμιση του Δήμου, η BIZ IT απάντησε ότι η νέα έκδοση έχει ήδη τη διόρθωση για το Add Supply, αναβάθμισε (με έγκριση του Δήμου) το BIZ LiNK σε 1.3.2 και το booking λειτουργεί. Επιβεβαίωσε ότι το BOX NOW («Biz FF Last Mile Locker (BOX NOW) GR») είναι εμπορικά ενεργό στον λογαριασμό της Tandem με είδος εργασίας 167· ο Δήμος πρέπει να προσθέσει Sender Profile (ίδιο sender CRM + 167) και να ακολουθήσει τον οδηγό της BIZ. Αντικαταβολή μόνο μέσω «Pay on the Go» της BOX NOW. Η αλληλογραφία πέρασε στο customer support ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
+
+*Από 2026-10-20:*
 - Στις 2026-10-12 η GROW έφτιαξε compatibility layer για το Add Supply (κενά bookings χωρίς προϊόντα) και έστειλε 6 τεχνικές ερωτήσεις πριν την αναβάθμιση για BOX NOW. Η Aliki έβαλε στο thread την τεχνική ομάδα· απάντηση δεν φαίνεται ([[2026-10-12-bizcourier-bizlink-fix-boxnow]]).
 - Ο Δήμος ζήτησε ενεργοποίηση του BOX NOW και τα αρχεία, αφού πήρε τον οδηγό Scribe (2026-10-12) ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Απαντήσεις στις 6 ερωτήσεις: θα υπάρχει η διόρθωση στη νέα έκδοση; neworder; απενεργοποίηση του layer; αλλαγές σε payload/SOAP; διατήρηση ρυθμίσεων/mapping; θέλουν patch; — BIZ itsupport@ — από 2026-10-12 ([[2026-10-12-bizcourier-bizlink-fix-boxnow]])
-- [ ] Ενεργοποίηση «Biz FF Last Mile Locker (BOX NOW) GR», Service Code, plugins BIZ LiNK 1.3.2+ / FF 1.3.0+, επιβεβαίωση warehouse, συμβατότητα WooCommerce & PHP 8.3 — BIZ — από 2026-10-12 ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]])
-- [ ] Ρύθμιση BOX NOW — Δήμος — μετά τις οδηγίες της BIZ ([[2026-10-12-bizcourier-bizlink-fix-boxnow]])
+- [x] Απάντηση στις ερωτήσεις αναβάθμισης: η νέα έκδοση περιέχει τη διόρθωση, δεν χρειάζεται ειδική προσαρμογή — BIZ itsupport@ — ✓ 2026-10-26 (οι ερωτήσεις για neworder, payload/SOAP, mapping δεν απαντήθηκαν ρητά) ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]])
+- [x] Αναβάθμιση BIZ LiNK σε 1.3.2 — BIZ — ✓ 2026-10-26 ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]])
+- [x] Ενεργοποίηση «Biz FF Last Mile Locker (BOX NOW) GR» και Service Code 167 — BIZ — ✓ 2026-10-26 ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]])
+- [ ] Έλεγχος μετά την αναβάθμιση (booking/Add Supply) — Δήμος — υπόσχεση 2026-10-26 ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]])
+- [ ] Ρύθμιση BOX NOW: Sender Profile (ίδιο sender CRM + 167) και βήματα του οδηγού BIZ — Δήμος — οδηγίες από 2026-10-26 ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]])
+- [ ] BIZ LiNK FF 1.3.0, warehouse «BIZ GR Koropi», συμβατότητα WooCommerce & PHP 8.3, τύχη του compatibility layer της GROW — ασαφές ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]], [[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]])
 - [ ] Αν υπογράφηκε ο τιμοκατάλογος Box Now — ασαφές ([[2026-09-07-biz-courier-boxnow-codes]])
 - [ ] Αλλαγή του admin κωδικού που στάλθηκε με απλό email στις 2026-09-18 — GROW — χωρίς ημερομηνία ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]])
 - [x] Onboarding Questionnaire — Δήμος — 2026-09-14 ([[2026-09-14-tandem-bizcourier-it-coordination]])
 - [x] Admin λογαριασμός WooCommerce για τη BIZ — Δήμος — 2026-09-18 ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]])
 
 ## Αποφάσεις
+- 2026-10-26: αναβάθμιση σε BIZ LiNK 1.3.2 (έγκριση Δήμου)· BOX NOW με service code 167 και το ίδιο sender CRM· αντικαταβολή μόνο «Pay on the Go» ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
 - [[2026-10-12-bizlink-compatibility-layer]]: compatibility layer της GROW χωρίς αλλαγή στον κώδικα του BIZ LiNK· κανένα BOX NOW πριν τις οδηγίες· κανένα credential ή δεδομένο πελάτη με email.
 - Η διασύνδεση γίνεται μέσω API / BIZ LiNK για WooCommerce ([[2026-09-14-tandem-bizcourier-it-coordination]]).
 - Το Box Now μπαίνει στα sender profiles του WooCommerce μόνο αφού ολοκληρωθεί το integration (θέση BIZ, 2026-09-07) ([[2026-09-07-biz-courier-boxnow-codes]]).
 - Τα χαμένα δέματα αποζημιώνονται με βάση το τιμολόγιο αγοράς του προϊόντος (θέση BIZ) ([[2026-08-26-online-appointment-bizcourier-tandem]]).
 
 ## Χρονολόγιο
+- 2026-10-26 — 13:24 υπενθύμιση του Δήμου· 18:20 BIZ IT: η νέα έκδοση έχει τη διόρθωση· 18:24 ο Δήμος εγκρίνει την αναβάθμιση· 19:47 αναβάθμιση σε 1.3.2, το booking λειτουργεί· 20:27 ο Δήμος ρωτά για BOX NOW (υπηρεσία, service code 166/167, sender CRM, αντικαταβολή)· 20:37 BIZ: ενεργό με 167, οδηγός, «Pay on the Go» ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
 - 2026-10-12 — Fix στο Add Supply και ερωτήσεις για BOX NOW ([[2026-10-12-bizcourier-bizlink-fix-boxnow]])· οδηγός Scribe για BOX NOW Locker Delivery ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]]).
 - 2026-09-18 — Η BIZ ζητά admin στο WordPress/WooCommerce· η πρόσκληση δεν δουλεύει και ο Δήμος στέλνει password reset και στοιχεία σύνδεσης [διαπιστευτήρια παραλείφθηκαν] ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]]).
 - 2026-09-14 — Το store είναι έτοιμο· το questionnaire έγραφε Shopify, ο Δήμος πήρε το σωστό link για WooCommerce και απάντησε «Finished» ([[2026-09-14-tandem-bizcourier-it-coordination]]).
@@ -51,5 +59,5 @@ updated: 2026-10-20
 
 ## Σημειώσεις
 - Τα τεχνικά emails του Δήμου προς τη BIZ είναι τυπικά και πλήρως δομημένα, με επικεφαλίδες και λίστες ([[2026-10-12-bizcourier-bizlink-fix-boxnow]]).
-- Η BIZ αργεί: οι κωδικοί Box Now εκκρεμούν από τον Ιούνιο ([[2026-09-07-biz-courier-boxnow-codes]]).
+- Η BIZ αργεί: οι κωδικοί Box Now εκκρεμούσαν από τον Ιούνιο ([[2026-09-07-biz-courier-boxnow-codes]])· οι ερωτήσεις της 2026-10-12 απαντήθηκαν μόνο μετά από υπενθύμιση (2026-10-26), αλλά τότε η IT απάντησε μέσα σε λίγες ώρες ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
 - Από παλαιότερες συνομιλίες: emails για BIZ Courier WMS/API ([[2026-10-20-prohgoumenes-synomilies-claude]]).

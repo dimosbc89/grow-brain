@@ -3,7 +3,7 @@ type: team
 title: "Ιωάννα Χαλκιαδάκη"
 aliases: [Ioanna Chalkiadaki, Ιωάννα, Ioanna, ioanna@growagency.online]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-27
 ---
 # Ιωάννα Χαλκιαδάκη
 > Account Manager της GROW. Τρέχει social και content για πελάτες εστίασης και λιανικής ([[circle-of-dining]], [[greenmart-antemisaris]], [[yiayia-meatballs]]) και είναι στα calls των [[hellenic-heritage-evolution]] και [[tsu-pies]].
@@ -21,13 +21,21 @@ updated: 2026-10-21
 - [[hellenic-heritage-evolution]] — calls Viber x Grow (2026-07-22, 2026-07-24) και follow-ups HHE / Τσικλητήρεια (2026-07-22, 2026-08-06, 2026-08-25, 2026-09-01, 2026-09-15, 2026-10-15) ([[2026-07-20_2026-11-03]]).
 - [[tsu-pies]] — «TSUPIES x Grow Agency» 2026-09-17 και kick-off 2026-09-21 ([[2026-07-20_2026-11-03]]).
 - [[dominos]] — meeting 2026-10-23 13:00 ([[2026-07-20_2026-11-03]]).
+- [[overoll]] — Overoll Turns 6: νέα stickers 2026-10-26 (εντός προθεσμίας) και ανανεωμένα μετά το feedback ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]]). Ερωτήσεις podcast για τον Γιάννη Κίκιρα ([[2026-10-26-kikiras-questions]]).
 - Podcast — ερωτήσεις «Podcast_Kyritsis_Bakoulis_Questions.docx» για έλεγχο. Πελάτης/πλαίσιο ασαφές ([[2026-10-12-podcast-kyritsis-bakoulis-check]]).
 - Παραλήπτρια της λίστας δημοσιογράφων και του «AI Workshop Vol2 Q3» ([[2026-10-07-lista-dimosiografon-press]], [[2026-09-08-ai-workshop-vol2-q3]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-10-27)
+- Overoll Turns 6: παρέδωσε νέα stickers 2026-10-26 12:15 και αναθεωρημένη πρόταση 2 στις 17:06· αναμένει τελική έγκριση ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]]).
+- Σήμερα 2026-10-27: κοινή ανάγνωση με τον Δήμο των ερωτήσεων «Podcast_Giannis_Kikiras_Interview.docx» για αλλαγές ([[2026-10-26-kikiras-questions]]).
+
+*Από 2026-10-20:*
 - Ανοιχτά: διορθώσεις Stihl για Greenmart, υλικό redesign για Circle of Dining, έλεγχος ερωτήσεων podcast ([[2026-09-18-greenmart-posts-volvoi-stihl]], [[2026-10-01-circle-of-dining-redesign]], [[2026-10-12-podcast-kyritsis-bakoulis-check]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [x] Νέες προτάσεις stickers Overoll Turns 6 — Ιωάννα — ✓ 2026-10-26 ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]])
+- [ ] Εκτυπωτικά sticker μετά την τελική έγκριση της Overoll — Ιωάννα (💭) — πριν 2026-11-01 ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]])
+- [ ] Ανάγνωση ερωτήσεων podcast Κίκιρα με τον Δήμο — Ιωάννα + Δήμος — **2026-10-27** ([[2026-10-26-kikiras-questions]])
 - [ ] Έλεγχος «Podcast_Kyritsis_Bakoulis_Questions.docx» — Ιωάννα — από 2026-10-12 ([[2026-10-12-podcast-kyritsis-bakoulis-check]])
 - [ ] Ενσωμάτωση υλικού στο redesign του Circle of Dining — Ιωάννα/Δήμος — από 2026-10-01 ([[2026-10-01-circle-of-dining-redesign]])
 - [ ] Τι κάνει με το content calendar του Circle of Dining — ασαφές ([[2026-10-07-circle-of-dining-content-calendar]])
@@ -40,6 +48,7 @@ updated: 2026-10-21
 - 2026-09-18: ο Δήμος της πρότεινε να δώσει στη Greenmart κάτι παραπάνω, «λίγη κίνηση με AI» ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-10-26 — Στέλνει στην Overoll νέα stickers (12:15) και, μετά την επιλογή της πρότασης 2, ανανεωμένες προτάσεις (17:06). Ο Δήμος της στέλνει «Podcast_Giannis_Kikiras_Interview.docx» για ανάγνωση μαζί 2026-10-27 ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]], [[2026-10-26-kikiras-questions]]).
 - 2026-10-21 — Asana: 63 ανοιχτά (31 εκπρόθεσμα, 14 χωρίς due). Κύριος φόρτος: Antemisaris Group (20), Circle of Dining (9), Agape (9), Georgiadis chef (7), Heritage Escape (4), Standard Burgers (4). Στο «Grow» έχει εκπρόθεσμο το subtask «Ιωάννα» του «Posts Εβδομάδας» (due 2026-10-08) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-12 — Της στέλνονται οι ερωτήσεις podcast για «check» ([[2026-10-12-podcast-kyritsis-bakoulis-check]]).
 - 2026-10-07 — Content calendar Circle of Dining. Λίστα δημοσιογράφων ([[2026-10-07-circle-of-dining-content-calendar]], [[2026-10-07-lista-dimosiografon-press]]).

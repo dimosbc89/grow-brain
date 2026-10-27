@@ -3,7 +3,7 @@ type: team
 title: "Μαρίνα Παπαναστασίου"
 aliases: [Marina Papanastasiou, Μαρίνα, mpapa, mpapa@growagency.online]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-27
 ---
 # Μαρίνα Παπαναστασίου
 > Managing Director της GROW. Τρέχει τα περίπτερα (lead στην Argyroplastics), τα admin της UK εταιρείας και τα τιμολόγια που της στέλνει ο Δήμος, και είναι σε cc σχεδόν σε κάθε νέο lead.
@@ -35,14 +35,21 @@ updated: 2026-10-21
   - [[dypa-programma]]: ανάρτηση Ιουλίου και επιμήκυνση, μαζί με τη Βασιλική ([[2026-08-10-dypa-anartisi-iouliou]], [[2026-08-18-dypa-programma-30plus-epimikynsi]]).
   - [[sk-advisors]] ως λογιστές της GROW: ΦΠΑ, ΓΕΜΗ, pass διοδίων ([[2026-07-30-sk-advisors-fpa-v-trimino]], [[2026-08-26-gemi-payments-sk-advisors]], [[2026-08-27-sk-advisors-toll-pass-documents]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-10-27)
+- Στις 2026-10-26: η [[argyroplastics]] αποδέχθηκε την προσφορά κατασκευαστικών Plastica (v4) και η Μαρίνα έστειλε προκαταβολή #1297· χρωστά ανάγκες ρεύματος και προχωρά παραγγελίες από την έκθεση. [[tsu-pies]]/[[grandpas]]: Halloween reel + poster εγκρίθηκαν, Looxi επιλογή Β αποφασίστηκε, call λογοτύπου Πέμπτη/Παρασκευή. [[global-foods]]: νέο βίντεο 28ης Οκτωβρίου, ΖΕΩ σε προτεραιότητα ([[2026-10-26-plastica-offer-kataskevastika]], [[2026-10-26-tsu-pies-halloween-looxi-logo]], [[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]]).
+
+**Παλαιότερα (στις 2026-10-20)**
 - Στην [[argyroplastics]] προχωρά τη δημιουργία κάτοψης και περιμένει απαντήσεις του πελάτη. Είχε και τηλεφωνική επικοινωνία με τον Γιώργο στις 2026-10-20 ([[2026-10-20-argyroplastics-plastica-2026]]).
 - Η UK εταιρεία κάνει onboarding με την The Accountancy Partnership: φόρμα υπογράφηκε 2026-10-15, welcome και AML ήρθαν 2026-10-16 ([[2026-10-15-accountancy-partnership-registration-signed]], [[2026-10-16-accountancy-partnership-welcome]], [[2026-10-16-accountancy-partnership-aml-check]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Plastica: ανάγκες ρεύματος προς Argyroplastics + παραγγελίες έκθεσης + επιβεβαίωση κατασκευαστή — Μαρίνα — άμεσα (έκθεση 2026-11-06) ([[2026-10-26-plastica-offer-kataskevastika]])
+- [ ] Απάντηση στη Looxi (επιλογή Β, κείμενο birthday push) — Μαρίνα — από 2026-10-26 ([[2026-10-23-tsu-pies-looxi-refer-birthday-update-2026-10-27]])
+- [ ] Επιβεβαίωση ώρας call λογοτύπου Grandpa's — Μαρίνα — Πέμπτη 2026-10-29 / Παρασκευή 2026-10-30 ([[2026-10-26-tsu-pies-halloween-looxi-logo]])
+- [ ] Βίντεο Global 28ης Οκτωβρίου χωρίς το κρασί, δημοσίευση 2026-10-28 — Μαρίνα / Δέσποινα ([[2026-10-26-globalfoods-28i-oktovriou-posts]])
 - [ ] Τελικό email στον «Πέτρο» για τον πιλότο γραφιστικών ωρών — Μαρίνα — από 2026-09-10 ([[2026-09-10-petros-graphic-hours-pilot]], βλ. [[2026-09-10-petros-pilotos-grafistikes-ores]])
 - [ ] Απάντηση στην προσφορά του [[nikos-moulinos]] — Δήμος/Μαρίνα — από 2026-10-05 ([[2026-10-05-google-ads-freelancer-moulinos]])
-- [ ] Πρόταση στην Argyroplastics με ενημερωμένη κάτοψη, όψεις, υλικά, φωτισμό και κοστολόγηση — Μαρίνα — μετά τις απαντήσεις του πελάτη (από 2026-10-20) ([[2026-10-20-argyroplastics-plastica-2026]])
+- [x] Πρόταση στην Argyroplastics με κοστολόγηση κατασκευαστικών — Μαρίνα — ✓ στάλθηκε και εγκρίθηκε 2026-10-26 ([[2026-10-26-plastica-offer-kataskevastika]]) (από 2026-10-20, [[2026-10-20-argyroplastics-plastica-2026]])
 - [ ] Ρώτα τον νέο UK λογιστή αν ακυρώνονται οι υπηρεσίες YCF, πριν την αυτόματη ανανέωση της **2026-11-10** — Μαρίνα ([[2026-10-02-grow360-ycf-renewal-accounting]], [[2026-10-13-yourcompanyformations-renewal]])
 - [ ] Έγγραφα AML προς την TAP (ταυτότητα και αποδεικτικό διεύθυνσης) — Δήμος/Μαρίνα — χωρίς ημερομηνία ([[2026-10-16-accountancy-partnership-aml-check]])
 - [ ] Confirmation Statement GROW 360 LTD — προθεσμία **2026-11-23** — forward στο mpapa@ 2026-10-07. Η προσφορά της TAP το περιλαμβάνει ([[2026-10-07-grow360-confirmation-statement-uk]], [[2026-10-14-check-tap-quote-grow360]])
@@ -60,6 +67,7 @@ updated: 2026-10-21
 - 2026-09-23: εγκρίνει μαζί με τον Δήμο την άδεια της [[despina-velissariou]] για 29–30/10 ([[2026-09-23-adeia-oktovriou-despina]]).
 
 ## Χρονολόγιο
+- 2026-10-26 — Plastica: προσφορά κατασκευαστικών → αποδοχή 13:31 → τιμολόγιο προκαταβολής #1297. TSU/Grandpa's: Halloween reel, poster (preview και σωστό αρχείο 16:04), Looxi επιλογή Β, call λογοτύπου. Global: νέο βίντεο 28ης, ΖΕΩ σε προτεραιότητα ([[2026-10-26-plastica-offer-kataskevastika]], [[2026-10-26-tsu-pies-halloween-looxi-logo]], [[2026-10-26-grandpas-halloween-poster]], [[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]]).
 - 2026-10-21 — Asana: 4 ανοιχτά (2 εκπρόθεσμα, 1 χωρίς due): «Posts Εβδομάδας» (due 2026-10-09), «αγγλικό» (grow websites), «Κυριακές και Αργίες στα apps» (due 2026-12-01), 1 στο Overoll. Κυρίως αναθέτει/σχολιάζει. ✓ Site Map | google site και posts εβδομάδας 2026-10-06, Τιμολόγηση βιντεογράφηση Global 2026-10-07, Verification TikTok partners account 2026-10-06, Στοιχεία πρόσληψης Tesla Promoters και Συστατική Επιστολή ΕΚΠΑ 2026-09-28 ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Απαντά στην Argyroplastics με διευκρινιστικές ερωτήσεις («προχωράμε με τη δημιουργία κάτοψης»). Meeting «Tsu X Grow» 12:15 ([[2026-10-20-argyroplastics-plastica-2026]], [[2026-07-20_2026-11-03]]).
 - 2026-10-17 — Ο Δήμος της στέλνει το GoShipping proposal v3 ([[2026-10-17-goshipping-proposal-v3]]).

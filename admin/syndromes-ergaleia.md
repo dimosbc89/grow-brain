@@ -3,7 +3,7 @@ type: admin
 title: "Συνδρομές & εργαλεία λογισμικού"
 aliases: [subscriptions, SaaS, εργαλεία, Anthropic, Claude, Apify, Asana, HubSpot, DataForSEO, Scrape Creators, Google Workspace, ActiveCampaign]
 status: ενεργός
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 # Συνδρομές & εργαλεία λογισμικού
 > Τα SaaS που πληρώνει η GROW (AI, scraping, SEO data, project management, CRM, email). Οι αποδείξεις και τα τιμολόγια πάνε στη Βασιλική ή στη Δέσποινα για το λογιστήριο.
@@ -31,6 +31,8 @@ updated: 2026-10-26
 - Στις 2026-10-05 ήταν κλεισμένο demo για το «Revly Automated Review Growth System» της Axel Services, προωθημένο στη Μαρίνα. Αποτέλεσμα ασαφές ([[2026-09-30-revly-axel-services-appointment]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] **Meta / Facebook Ads: πληρωμή απορρίφθηκε για το ad account του [[grandpas]]** (2026-10-26 22:25) — ενημέρωση τρόπου πληρωμής + εξόφληση οφειλής, αλλιώς σταματούν τα ads· ποσό ασαφές — Δήμος ([[2026-10-26-admin-eidopoiiseis]])
+- [ ] Meta: από **2026-10-28** μπαίνει «product browsing» στα sales ads του business Antemisaris ([[greenmart-antemisaris]]) — opt-out ή όχι πριν τις 2026-10-28 — Δήμος ([[2026-10-26-admin-eidopoiiseis]])
 - [ ] **Asana: πληρωμή 134,90 απορρίφθηκε** (2026-10-24) — ενημέρωση στοιχείων χρέωσης — Δήμος/Βασιλική ([[2026-10-24-admin-eidopoiiseis]])
 - [ ] Αξιολόγηση του Revly μετά το demo της 2026-10-05: προχωράμε ή όχι; — Μαρίνα/Δήμος — ασαφές ([[2026-09-30-revly-axel-services-appointment]])
 - [ ] Πληρώθηκαν τα Apify #202608042698 (69,95 USD) και #202610060620 (67,81 USD); Ήταν απλήρωτα όταν στάλθηκαν — Βασιλική — ασαφές ([[2026-08-04-apify-invoice-202608042698]], [[2026-10-06-apify-invoice-202610060620]])
@@ -42,6 +44,7 @@ updated: 2026-10-26
 - —
 
 ## Χρονολόγιο
+- 2026-10-26/27 — Meta: payment declined στο ad account Grandpa's· ειδοποίηση product browsing από 2026-10-28 (Antemisaris). 3CX: υπενθύμιση ανανέωσης πριν τις 2026-11-05 (βλ. [[symvolaia-leasing]]). Revolut: ενημερωτικό αναδιοργάνωσης της Revolut Bank UAB (2–5/12, αφορά μόνο γαλλικούς λογαριασμούς, καμία ενέργεια) ([[2026-10-26-admin-eidopoiiseis]]).
 - 2026-10-24 — Asana: «Your Asana payment was declined» (134,90) ([[2026-10-24-admin-eidopoiiseis]]).
 - 2026-10-19 — Asana: αφαίρεση χρηστών από το workspace growagency.online (Vassiliki Giannopoulou, Sofia Konstantopoulou, Evgenia Chasoula, vlassisemm@gmail.com, depy127@gmail.com). Δημιουργήθηκαν projects «… previously assigned tasks» και 5 αυτόματα tasks «Consider delegating …» στον Δήμο. Στο workspace υπάρχουν 263 μη αρχειοθετημένα projects· πολλά έχουν bulk αλλαγή 2026-02-25 (migration) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-19 — Apify: πληρώθηκε το #202610192707, 54,35 USD → Βασιλική ([[2026-10-19-apify-invoice-payment]]).

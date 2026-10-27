@@ -3,7 +3,7 @@ type: client
 title: "Academicals / Fox Academy"
 aliases: [Academicals, Fox Academy, FoxAcademy, academicals.gr]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-27
 ---
 # Academicals / Fox Academy
 > Δύο brands, Academicals και Fox Academy, με κοινή πλευρά πελάτη (Όμηρος, Αλεξ). Η GROW τρέχει Google Ads και για τα δύο και φιλοξενεί τα websites και τα email τους, που έχουν ξεπεράσει κατά πολύ το πακέτο.
@@ -42,11 +42,13 @@ updated: 2026-10-20
 - [ ] Πρόσβαση SSH στα mailboxes του academicals.gr — [[fastpath]] — ticket από 2026-09-28 ([[2026-09-28-fastpath-ticket-ssh-academicals]])
 - [ ] Παρακολούθηση της νέας καμπάνιας — [[nikos-moulinos]] — από 2026-09-02 ([[2026-09-01-global-ads-payment-issue]])
 - [ ] Reports Ιουνίου 2026 και μετά — GROW — ασαφές αν στάλθηκαν
+- [ ] foxacademy.gr: update plugin «Really Simple Security» 9.6.0 → 9.8.4 (ευπάθεια High 8.8/10) + 18 παλιά Wordfence issues — Δήμος — από 2026-10-27 ([[2026-10-26-admin-eidopoiiseis]])
 
 ## Αποφάσεις
 - 2026-09-01: η GROW δεν επεκτείνει storage στους servers της (περίπου 100 €/μήνα επιπλέον) και συστήνει Microsoft ως οικονομικότερη λύση για 2 accounts. Βλ. [[2026-09-01-academicals-email-storage]] ([[2026-09-01-academicals-foxacademy-email-storage]]).
 
 ## Χρονολόγιο
+- 2026-10-27 — Wordfence foxacademy.gr: critical problem, «Really Simple Security» χρειάζεται update (security fixes, 8.8/10)· 18 υπάρχοντα issues βρέθηκαν ξανά ([[2026-10-26-admin-eidopoiiseis]]).
 - 2026-09-28 — Ticket 004632 στη Fastpath για SSH στα mailboxes του academicals.gr ([[2026-09-28-fastpath-ticket-ssh-academicals]]).
 - 2026-09-25 — Ο Δήμος στέλνει στον Nikos τη λίστα λογαριασμών Google Ads, όπου είναι και τα academicals και Fox academy ([[2026-10-05-google-ads-freelancer-moulinos]]).
 - 2026-09-01 — Email του Δήμου στους Όμηρο και Αλεξ για τη χρήση χώρου, με 4 επιλογές ([[2026-09-01-academicals-foxacademy-email-storage]]). Την ίδια μέρα, νέα καμπάνια από τον Nikos ([[2026-09-01-global-ads-payment-issue]]).

@@ -3,7 +3,7 @@ type: project
 title: "GROW outreach & marketing (δικό μας)"
 aliases: [GROW marketing, cold outreach, ActiveCampaign, ΙΕΚ καμπάνια, @grow.agency.online, GROW social]
 status: ενεργός
-updated: 2026-10-23
+updated: 2026-10-27
 ---
 # GROW outreach & marketing
 > Το marketing της ίδιας της [[grow-agency]]: cold email καμπάνιες μέσω ActiveCampaign (ΙΕΚ/εκπαίδευση, εκθεσιακά περίπτερα), υλικό για τα social και τα flyers της GROW, events και press.
@@ -19,13 +19,14 @@ updated: 2026-10-23
 - **Ομάδα:** ο Δήμος (καμπάνιες, κείμενα). Forwards των απαντήσεων πάνε στη [[marina-papanastasiou]] και τη [[vassiliki-giannopoulou]] ([[2026-09-24-primowear-periptero-ekthesi-d16]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-10-20)
+- Στις 2026-10-27: η TikTok (Marilena Rentzou) έστειλε follow-up 2026-10-26 και περιμένει απάντηση του Δήμου. Hospitality Jam: η Ιωάννα ξαναέγραψε στον Paralos (χωρίς απάντηση)· η Βακαλό αρνήθηκε για φέτος ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-27]], [[2026-10-20-hospitality-jam-paralos-update-2026-10-27]], [[2026-10-26-hospitality-jam-vakalo]]).
 - Η καμπάνια περιπτέρων έφερε 2 απαντήσεις. Το μόνο κλεισμένο περίπτερο στις πηγές ([[argyroplastics]]) δεν προέρχεται από την καμπάνια ([[ekthesiaka-periptera]], [[2026-10-20-argyroplastics-plastica-2026]]).
 - Για την καμπάνια ΙΕΚ υπάρχει μόνο το test της 2026-07-30. Πραγματική αποστολή και αποτελέσματα: ασαφή ([[2026-07-30-test-newsletter-iek-eggrafes]]).
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Mediterranean College: πρόταση με ή χωρίς αμοιβή — Δήμος / [[despina-velissariou]] — από 2026-10-22 ([[2026-10-22-mediterranean-college-paketo]])
-- [ ] Απόφαση για TikTok LIVE Agency μετά τα 3 έγγραφα — Δήμος — από 2026-10-21 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-22]])
-- [ ] Απάντηση στον Paralos για χρέωση συμμετοχής στο Hospitality Jam — [[ioanna-chalkiadaki]] (💭 Υπόθεση: θέλει γραμμή από τον Δήμο) ([[2026-10-20-hospitality-jam-paralos]])
+- [ ] Απόφαση/απάντηση για TikTok LIVE Agency μετά τα 3 έγγραφα — Δήμος — από 2026-10-21· η TikTok ρώτησε ξανά 2026-10-26 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-22]], [[2026-10-19-tiktok-live-agency-protasi-update-2026-10-27]])
+- [ ] Απάντηση στον Paralos για χρέωση συμμετοχής στο Hospitality Jam — [[ioanna-chalkiadaki]] (💭 Υπόθεση: θέλει γραμμή από τον Δήμο)· follow-up για call 2026-10-26, ακόμη αναπάντητο ([[2026-10-20-hospitality-jam-paralos]], [[2026-10-20-hospitality-jam-paralos-update-2026-10-27]])
 - [ ] Παρουσίαση στην Papoutsanis — [[ioanna-chalkiadaki]] ([[2026-10-20-hospitality-jam-papoutsanis]])
 - [ ] Καμπάνια ΙΕΚ: το preheader («Από την σχεδίαση του εκθεσιακού σας περιπτέρου...») έμεινε από την καμπάνια περιπτέρων και πρέπει να διορθωθεί πριν την κανονική αποστολή — Δήμος — ασαφές αν έγινε ([[2026-07-30-test-newsletter-iek-eggrafes]])
 - [ ] Primowear: προσφορά για το D16 — GROW — ζητήθηκε 2026-09-19 ([[2026-09-24-primowear-periptero-ekthesi-d16]])
@@ -44,6 +45,7 @@ updated: 2026-10-23
 - —
 
 ## Χρονολόγιο
+- 2026-10-26 — TikTok LIVE: η Marilena Rentzou ρωτά αν ο Δήμος εξέτασε την πρόταση ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-27]]). Hospitality Jam: η Ιωάννα κάνει follow-up στον Paralos για call ([[2026-10-20-hospitality-jam-paralos-update-2026-10-27]])· η Βακαλό Art & Design (Γ. Γεωργούλας) απάντησε 2026-10-22 «όχι τώρα, έκλεισε η διαφημιστική περίοδος» — η Ιωάννα έστειλε την εταιρική παρουσίαση για το μέλλον ([[2026-10-26-hospitality-jam-vakalo]]).
 - 2026-10-22 — TikTok LIVE: ο Δήμος προώθησε τα 3 έγγραφα σε Μαρίνα και Vasia S. Mediterranean College: πακέτο ανταλλαγής (ομιλία σεφ, υποτροφίες, προβολή, Educational Partner), χωρίς budget από MC — απόφαση Δήμου–Δέσποινας για αμοιβή ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-23]], [[2026-10-22-mediterranean-college-paketo]]). Νέα leads: [[mythea-travel]] (πρόταση 22/10), [[1767-beverages]] (call 26/10).
 - 2026-10-21 — Έγινε το call με τη Marilena Rentzou (TikTok LIVE)· έστειλε 3 έγγραφα για τη λειτουργία LIVE Agency ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-22]]).
 - 2026-10-21 — Η [[salesforce]] (Sourcing EMEA) ρωτά αν η GROW είναι ακόμη ενεργή στα events στην Ελλάδα — έχει νέα ανάγκη για local event agency· ο Δήμος απάντησε θετικά ([[2026-10-21-salesforce-sos-konstantopoulou]]).

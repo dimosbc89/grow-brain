@@ -3,7 +3,7 @@ type: vendor
 title: "ENARTIA"
 aliases: [Enartia, ENARTIA, Entersoft e-invoicing]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-27
 ---
 # ENARTIA
 > Η εταιρεία πίσω από το [[papaki]]. Τιμολογεί τη GROW AGENCY Ε.Ε. με ηλεκτρονικά παραστατικά μέσω Entersoft (PDF + peppol XML) για domains/hosting.
@@ -24,6 +24,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-10-26 — Νέο e-invoice μέσω Entersoft (PDF + peppol XML) προς dimos@· ποσό ασαφές ([[2026-10-26-admin-eidopoiiseis]]).
 - 2026-10-07 — Δύο e-invoices → Βασιλική ([[2026-10-07-enartia-papaki-timologia]]).
 - 2026-09-10 — Ένα e-invoice ([[2026-09-10-enartia-invoice-notification]]) και άλλα τρία την ίδια μέρα ([[2026-09-10-enartia-papaki-timologia]]) → Βασιλική.
 
