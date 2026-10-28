@@ -3,7 +3,7 @@ type: client
 title: "Hellenic Heritage Evolution (HHE) — Heritage Escape / Τσικλητήρεια"
 aliases: [HHE, ΗΗΕ, Hellenic Heritage Evolution, Heritage Escape, Τσικλητήρεια, Tsiklitiria, hellenicheritageevolution.com, Δ. Καραμπάτσος]
 status: ενεργός
-updated: 2026-10-22
+updated: 2026-10-28
 ---
 # Hellenic Heritage Evolution (HHE): Heritage Escape / Τσικλητήρεια
 > Πελάτης της ομάδας της Δέσποινας με events. Το Heritage Escape ήταν τριήμερο στο Costa Navarino, 18–20/9/2026, και τα Τσικλητήρεια είναι αγώνας με εγγραφές. Η GROW κάνει Meta Ads, αναζήτηση sponsors και συναντήσεις follow-up κάθε 1–2 εβδομάδες. Βασική επαφή είναι ο Δημήτρης Καραμπάτσος.
@@ -23,12 +23,16 @@ updated: 2026-10-22
 - **Ομάδα GROW:** [[despina-velissariou]] (lead), [[ioanna-chalkiadaki]], ο Δήμος ([[2026-07-20_2026-11-03]]).
 - **Σχετικά:** [[karampatsos-law]], με ασαφή σχέση. Βλ. Σημειώσεις.
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-10-28)
+- **Στις 2026-10-28:** επόμενη συνάντηση «**ΗΗΕ x Grow**» την **Τρίτη 2026-11-03 11:00–12:00** (Google Meet, GROW Agency Calendar)· η Δέσποινα την αποδέχθηκε 2026-10-27 ([[2026-10-27-hhe-meeting-2026-11-03-accepted]]).
+
+**Παλαιότερα (στις 2026-10-20)**
 - Οι τακτικές συναντήσεις συνεχίζονται. Οι τελευταίες ήταν «Grow x HHE» στις 2026-10-05 και «HHE x Grow» στις 2026-10-15. Στο ημερολόγιο έως 2026-11-03 δεν υπάρχει επόμενη ([[2026-07-20_2026-11-03]]).
 - **Heritage Escape:** το event ήταν προγραμματισμένο για 18–20/9/2026 ([[2026-07-24-costa-navarino-heritage-escape]]). Στο ημερολόγιο η 2026-09-18 είναι ολοήμερη με τίτλο «ΗΗΕ» ([[2026-07-20_2026-11-03]]). Αποτελέσματα και χορηγοί που έκλεισαν: ασαφές.
 - **Τσικλητήρεια:** στις 2026-08-09 η δαπάνη Meta για το 2026 ήταν 332,04 €. Η πρόταση της GROW ήταν τουλάχιστον 700 € έως το event ([[2026-08-09-tsikliteria-meta-campaigns-report]]). Η ημερομηνία του event και η απόφαση του πελάτη: ασαφές.
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Meeting «ΗΗΕ x Grow» — Δέσποινα (+ Δήμος) — **2026-11-03 11:00** ([[2026-10-27-hhe-meeting-2026-11-03-accepted]])
 - [ ] Εβδομαδιαίο report πωλήσεων και εγγραφών για το optimization — πελάτης (Δημήτρης) — από 2026-08-09 ([[2026-08-09-tsikliteria-meta-campaigns-report]])
 - [ ] Απόφαση για budget τουλάχιστον 700 € σε social ads έως το event και για αξιοποίηση της χορηγίας Viber — πελάτης — από 2026-08-09 ([[2026-08-09-tsikliteria-meta-campaigns-report]])
 - [ ] Συνέχιση optimization με βάση το εβδομαδιαίο report — Δήμος / [[despina-velissariou]] — εφόσον έρθει το report ([[2026-08-09-tsikliteria-meta-campaigns-report]])
@@ -53,6 +57,7 @@ updated: 2026-10-22
 - Ο πελάτης δεν δέχτηκε την custom πλατφόρμα εγγραφών της GROW και χρησιμοποιεί Reventy ([[2026-08-09-tsikliteria-meta-campaigns-report]]).
 
 ## Χρονολόγιο
+- 2026-10-27 — Η Δέσποινα αποδέχεται το «ΗΗΕ x Grow» της 2026-11-03 11:00 ([[2026-10-27-hhe-meeting-2026-11-03-accepted]]).
 - 2026-10-21 — Νέο ραντεβού «Follow Up HE» 2026-10-23 14:30 (Meet) με Δέσποινα, Ιωάννα, info@hellenicheritageevolution.com και Karampatsos ([[2026-10-22_2026-10-29]]).
 - 2026-10-21 — Asana: δύο projects. «Heritage Escape (Golf)»: 11 ανοιχτά, 1 ολοκληρωμένο (HE changes ✓ 2026-10-12)· η δουλειά έχει περάσει στο Heritage Escape 2027 (Landing HE 2027 στον Δήμο έως 2026-10-26, παρουσίαση 2027, αλλαγές πακέτων). «Tsiklitiria»: 6 ανοιχτά, 31 ολοκληρωμένα από 2026-07-01 — banners, πρόσκληση VIP, πρόγραμμα/invitation ΕΟΤ, plaketes, video για οθόνη (Σεπτ.), aftermovie ✓ 2026-10-14, πρόγραμμα & φωτό με ΕΟΤ ✓ 2026-10-15 ([[2026-10-21-asana-snapshot]]). 💭 Υπόθεση: τα Τσικλητήρεια 2026 έγιναν στα τέλη Σεπτεμβρίου (ανακοινώσεις/banners έως 09-23, aftermovie 10-14) — η ακριβής ημερομηνία δεν υπάρχει στην πηγή.
 - 2026-10-20 — Η Δέσποινα στην AFEA: το Heritage Escape μεταφέρθηκε «16-18 Απριλίου 2026» (⚠️ χρονιά ασαφής, 💭 2027) και προτείνει call ([[2026-10-20-afea-heritage-escape]]).

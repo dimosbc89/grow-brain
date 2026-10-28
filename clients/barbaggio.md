@@ -3,20 +3,25 @@ type: client
 title: "Barbaggio"
 aliases: [Barbagio, Barbaggio site 2026]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-28
 ---
 # Barbaggio
 > Πελάτης για τον οποίο η GROW ετοιμάζει νέο site το 2026 (κείμενα έτοιμα από 2026-10-08).
 
 ## Σε μια ματιά
 - **Υπηρεσίες:** νέο website 2026 — κείμενα «Barbaggio — Κείμενα site 2026.docx» ([[2026-10-08-barbaggio-keimena-site]]).
-- **Επαφές:** ασαφές.
+- **Επαφές:** ασαφές· σε cc στις παραγγελίες το Somebread1993@gmail.com (ρόλος ασαφής). Προμηθευτής εκτυπώσεων/συσκευασίας: geokou25@hotmail.com (όνομα ασαφές) ([[2026-10-27-barbaggio-aftokollita]], [[2026-10-27-barbaggio-koutia-anaptygma]]).
 - **Ομάδα GROW:** ο Δήμος· [[vassia-kataki]] (έλαβε τα κείμενα)· [[despina-velissariou]] (επίσκεψη 2026-10-09) ([[2026-10-08-barbaggio-keimena-site]], [[2026-07-20_2026-11-03]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-10-28)
+- **Στις 2026-10-28:** στις 2026-10-27 η [[despina-velissariou]] ζήτησε από προμηθευτή (geokou25@hotmail.com) το **ανάπτυγμα για τα συμφωνημένα μεγέθη κουτιών**, ώστε να στείλει αρχείο εκτύπωσης, και παρήγγειλε ξανά **αυτοκόλλητα 7 cm και 10 cm, 2.500 τμχ το καθένα** (ίδιο αρχείο με την προηγούμενη παραγγελία)· απαντήσεις δεν φαίνονται ([[2026-10-27-barbaggio-koutia-anaptygma]], [[2026-10-27-barbaggio-aftokollita]]).
+
+**Παλαιότερα (στις 2026-10-20)**
 - Κείμενα site στάλθηκαν εσωτερικά στη Βάσια 2026-10-08· τι ακολουθεί (design;) ασαφές ([[2026-10-08-barbaggio-keimena-site]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Ανάπτυγμα κουτιών (συμφωνημένα μεγέθη) — προμηθευτής geokou25@ — από 2026-10-27 → αρχείο εκτύπωσης — Δέσποινα ([[2026-10-27-barbaggio-koutia-anaptygma]])
+- [ ] Ημερομηνία παράδοσης αυτοκόλλητων 7 cm + 10 cm (2 × 2.500) — προμηθευτής — από 2026-10-27 ([[2026-10-27-barbaggio-aftokollita]])
 - [ ] Επόμενο βήμα με τα κείμενα του site — [[vassia-kataki]] — ασαφές ([[2026-10-08-barbaggio-keimena-site]])· στο Asana: «barbaggio site design» — Vassia — ⚠️ εκπρόθεσμο από 2026-10-19 ([[2026-10-21-asana-snapshot]])
 
 **Από Asana (στις 2026-10-21)**
@@ -31,6 +36,7 @@ updated: 2026-10-21
 - —
 
 ## Χρονολόγιο
+- 2026-10-27 — Αίτημα αναπτύγματος κουτιών και παραγγελία αυτοκόλλητων 7/10 cm (2.500 το καθένα), cc Δήμος, Μαρίνα, Somebread1993@gmail.com ([[2026-10-27-barbaggio-koutia-anaptygma]], [[2026-10-27-barbaggio-aftokollita]]).
 - 2026-10-21 — Asana: project «Barbaggio» (δημιουργήθηκε 2025-10-07· sections Creatives, Branding, Website, Extras, Performance) με 10 ανοιχτά, όλα εκπρόθεσμα ή χωρίς due, και κανένα ολοκληρωμένο στο harvest. Τρέχουν: site (sitemap, design, «Site Barbaggio all» στον Δήμο), σχεδιαστικά για τα καταστήματα Ιθώμης (Βύρωνας) και Τμώλου, menu/price tags, van magnet sticker, review QR, Α5 legal prints ([[2026-10-21-asana-snapshot]]).
 - 2026-10-09 — «Δέσποινα Barbaggio εκεί» 10:30 ([[2026-07-20_2026-11-03]]).
 - 2026-10-08 — Κείμενα site 2026 στη Βάσια ([[2026-10-08-barbaggio-keimena-site]]).

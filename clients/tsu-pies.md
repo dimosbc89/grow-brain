@@ -3,7 +3,7 @@ type: client
 title: "TSU Greek Pies and Coffee"
 aliases: [TSU, TSU Pies, TSUPIES, TSU Pies BV, TSU Pies SARL, Grandpas SARL-s, tsupies.com]
 status: ενεργός
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 # TSU Greek Pies and Coffee
 > Αλυσίδα ελληνικής πίτας και καφέ με 3 καταστήματα στο Λουξεμβούργο· ήρθε ως lead τον Αύγουστο 2026 και από τον Σεπτέμβριο έχει τακτικές συναντήσεις με τη GROW, μαζί και «Kick-off call».
@@ -14,7 +14,8 @@ updated: 2026-10-27
 - **Ομάδα GROW:** ο Δήμος· [[vassiliki-giannopoulou]] (αρχικός συντονισμός)· [[ioanna-chalkiadaki]] και [[marina-papanastasiou]] (από Σεπτέμβριο) ([[2026-08-10-tsu-pies-briefing-call]], [[2026-07-20_2026-11-03]]).
 - **Υπηρεσίες:** ασαφές — ο Δήμος πρότεινε briefing για «στόχους και επόμενο στάδιο ανάπτυξης» ([[2026-08-10-tsu-pies-briefing-call]]). Από το Asana: social content (posts, reels, giveaway), Google Business Profile, έντυπα (poster, roll-up) ([[2026-10-21-asana-snapshot]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-27)
+## Τρέχουσα κατάσταση (στις 2026-10-28)
+- **Στις 2026-10-28:** στις 2026-10-27 η Βίκη σύστησε με email τη GROW (Μαρίνα, Δήμο) στους [[rahma-addeh]] και [[yousef-ghiami]], partners/ιδιοκτήτες του καταστήματος στο **Leiden** (Ολλανδία), που ετοιμάζουν **δεύτερο κατάστημα στο Amstelveen**· η GROW θα στηρίζει το marketing τους «από εδώ και πέρα». Καμία απάντηση στο thread ακόμα. Ποιο brand (TSU ή Grandpa's) έχει το Leiden και εμπορικοί όροι: ασαφές ([[2026-10-27-tsu-pies-intro-leiden-amstelveen]]).
 - **Στις 2026-10-27:** στις 2026-10-26 η Βίκη ενέκρινε το Halloween reel (ανεβαίνει σε 3 accounts με collab) και πήρε το A3 poster «Grandpa's Halloween» για εκτύπωση. Looxi: αποφασίστηκε refer a friend με **8 σφραγίδες** στον referrer, πίστωση με την **πρώτη αγορά** του φίλου (επιλογή Β)· μένει η απάντηση στον Βασίλη και το κείμενο του birthday push. Το accounting ζήτησε εξόφληση των Invoice_2 και Invoice_3· η Βίκη: «Δεν έχω ξεχάσει το τιμολόγιο σας», αποδεικτικό μόλις πληρώσουν. Ο Κώστας είναι στην Ολλανδία έως 2026-10-28· call για λογότυπο Grandpa's Πέμπτη 2026-10-29 ή Παρασκευή 2026-10-30 ([[2026-10-26-tsu-pies-halloween-looxi-logo]], [[2026-10-26-grandpas-halloween-poster]], [[2026-10-23-tsu-pies-looxi-refer-birthday-update-2026-10-27]], [[2026-10-26-tsu-pies-timologia-accounting]]).
 
 **Παλαιότερα (στις 2026-10-20)**
@@ -23,6 +24,8 @@ updated: 2026-10-27
 - 💭 Υπόθεση: το «TSUPIES x Grow Kick-off call» της 2026-09-21 δείχνει ότι η συνεργασία ξεκίνησε και η σελίδα ίσως πρέπει να περάσει στους πελάτες — καμία πρόταση/τιμή/αποδοχή δεν φαίνεται στα email ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Πρώτη επαφή/call με Rahma & Yousef (Leiden / Amstelveen): ιδέες και προτεραιότητες — Μαρίνα/Δήμος — από 2026-10-27 ([[2026-10-27-tsu-pies-intro-leiden-amstelveen]])
+- [ ] Να ξεκαθαριστεί εύρος/τιμή για τη δουλειά Leiden/Amstelveen (ξεχωριστή συμφωνία ή μέρος της TSU) — Δήμος — χωρίς ημερομηνία ([[2026-10-27-tsu-pies-intro-leiden-amstelveen]])
 - [ ] Απάντηση στον Βασίλη (Looxi): επιλογή Β + 8 σφραγίδες, και κείμενο birthday push — [[marina-papanastasiou]] (με τη Βίκη για το κείμενο) — από 2026-10-26 ([[2026-10-23-tsu-pies-looxi-refer-birthday-update-2026-10-27]], [[2026-10-26-tsu-pies-halloween-looxi-logo]])
 - [ ] Εξόφληση Invoice_2 και Invoice_3 + αποδεικτικό — TSU (Κώστας/Βίκη) — ζητήθηκε 2026-10-26 ([[2026-10-26-tsu-pies-timologia-accounting]])
 - [ ] Call για λογότυπο Grandpa's, packaging, εκκρεμότητες — Μαρίνα με Κώστα/Βίκη (και Δήμο;) — Πέμπτη 2026-10-29 ή Παρασκευή 2026-10-30, ώρα ανεπιβεβαίωτη ([[2026-10-26-tsu-pies-halloween-looxi-logo]])
@@ -43,6 +46,7 @@ updated: 2026-10-27
 - 2026-08: briefing call μέσω Google Meet στις 16:00 ώρα Ελλάδας (15:00 Λουξεμβούργου), invite από τη Βασιλική ([[2026-08-10-tsu-pies-briefing-call]]).
 
 ## Χρονολόγιο
+- 2026-10-27 — Η Βίκη συστήνει τη GROW στους Rahma Addeh και Yousef Ghiami (κατάστημα Leiden, νέο στο Amstelveen) ([[2026-10-27-tsu-pies-intro-leiden-amstelveen]]).
 - 2026-10-26 — 09:00 ο Βασίλης (Looxi) εξηγεί refer a friend (8 σφραγίδες, επιλογή Α/Β) και birthday push. 12:32 το accounting ζητά εξόφληση Invoice_2/3. 13:57 η Μαρίνα στέλνει Halloween reel και προτείνει επιλογή Β· 14:46 η Βίκη εγκρίνει, ζητά poster, «με τον Βασίλη προχωράμε», call λογοτύπου Πέμπτη/Παρασκευή (ο Κώστας στην Ολλανδία έως Τετάρτη), αποδεικτικό πληρωμής σύντομα. 14:50 poster preview, 16:04 σωστό A3 για εκτύπωση ([[2026-10-23-tsu-pies-looxi-refer-birthday-update-2026-10-27]], [[2026-10-26-tsu-pies-timologia-accounting]], [[2026-10-26-tsu-pies-halloween-looxi-logo]], [[2026-10-26-grandpas-halloween-poster]]).
 - 2026-10-23 — Η Μαρίνα ζήτησε από τη Looxi refer-a-friend (δωρεάν καφές ανά εγγραφή) και birthday push (τσουρέκι + καφές) ([[2026-10-23-tsu-pies-looxi-refer-birthday]]).
 - 2026-10-22 — Η Vicky έστειλε υλικό από την παιδική γωνιά του Greek Alley και Halloween 2025· η Μαρίνα ρωτά αν το Halloween θα είναι 31/10 ή 1/11 και ζήτησε υλικό ίδια μέρα για posts ΣΚ ([[2026-10-22-tsu-pies-halloween-paidiki-gonia]]).

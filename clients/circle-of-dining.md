@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-10-22
+updated: 2026-10-28
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -14,12 +14,16 @@ updated: 2026-10-22
 - **Ομάδα GROW:** [[ioanna-chalkiadaki]] (day-to-day, υλικό site)· ο Δήμος (πρόταση, design redesign)· [[vassiliki-giannopoulou]] (λίστα καλεσμένων) ([[2026-07-30-lista-kalesmenon-georgiadis]]).
 - **Συνεργάτες πελάτη (logos στο site):** Hilton, Agusta (Κρήτη) ([[2026-10-01-circle-of-dining-redesign]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-10-28)
+- Στις 2026-10-27 το λογιστήριο GROW έστειλε στο λογιστήριο του Γεωργιάδη (finance.askoffice@) το τιμολόγιο **#1292** για το **μοντάζ του δεύτερου επεισοδίου** (ποσό μόνο στο PDF) ([[2026-10-27-accounting-timologia-kartelles]]). 💭 Υπόθεση: αφορά το γύρισμα της 2026-10-22.
+
+*Από 2026-10-20:*
 - Η πρώτη φάση design του redesign ολοκληρώθηκε 2026-09-15 (PDF «GROW-The-Circle-of-Dining-Redesign-SEO-EL-v3.pdf» + preview σε Cloudflare Workers)· ο σεφ έστειλε φωτογραφίες, logos και ένα testimonial· ο Δήμος τα πέρασε στην Ιωάννα 2026-10-01 ([[2026-10-01-circle-of-dining-redesign]]).
 - Content calendar (GR, .pptx) στάλθηκε στην Ιωάννα 2026-10-07 ([[2026-10-07-circle-of-dining-content-calendar]]).
 - Επόμενο: «The Circle of Dining γύρισμα» 2026-10-22 13:00 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Εξόφληση #1292 (μοντάζ 2ου επεισοδίου) — πελάτης — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
 - [ ] Εξόφληση εκκρεμών τιμολογίων (Circle + ατομική) — πελάτης (λογιστής Ακριώτης) — από 2026-10-19· ποσά μόνο στα PDF ([[2026-10-19-georgiadis-ypoloipo-timologia]])
 - [ ] Feedback/έγκριση «cod video 2» — Δήμος — από 2026-10-20 ([[2026-10-20-asana-circle-of-dining-mentions]])
 - [ ] Σχόλια αρχισυνταξίας + βιντεογράφος ή όχι — Δήμος — **πριν τις 2026-10-22 13:00** ([[2026-10-20-asana-circle-of-dining-mentions]])
@@ -52,6 +56,7 @@ updated: 2026-10-22
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
+- 2026-10-27 — Τιμολόγιο #1292 για το μοντάζ του δεύτερου επεισοδίου ([[2026-10-27-accounting-timologia-kartelles]]).
 - 2026-10-21 — Η Ιωάννα πέρασε τις αλλαγές στην αρχισυνταξία του γυρίσματος και ζητά check από τον Δήμο (Asana). Γύρισμα 2026-10-22 13:00 ([[2026-10-21-asana-mentions]], [[2026-10-22_2026-10-29]]).
 - 2026-10-19 — Ο λογιστής του Γεωργιάδη ζητά καρτέλες για «άμεση πληρωμή»· το λογιστήριο GROW στέλνει τιμολόγιο Οκτωβρίου (μισό ποσό, 2ο μισό του μήνα), καρτέλα ατομικής και 2 εκκρεμή τιμολόγια ([[2026-10-19-georgiadis-ypoloipo-timologia]]).
 - 2026-10-21 — Asana: δύο projects. «The circle of dining» (νέο, δημιουργήθηκε 2026-10-14): 11 ανοιχτά, 7 ολοκληρωμένα (circle presentation ✓ 10-06, cod posting plan ✓ 10-07, cod video 1 αλλαγές & cover ✓ 10-16, cod video 2 cover ✓ 10-20)· ανοιχτά carousels, cod video 2, xenia dinner (έως 2026-11-23). «Georgiadis chef» (από 2026-07-22): 10 ανοιχτά, 30 ολοκληρωμένα — podcast 1 (intro, cover, edit, promo, teasers, Apple/YouTube covers), podcasts Παύλος Κυριάκης & Κυρίτσης/Μπάκουλης, tesla video ✓ 10-13, αρνί video, myway interview ✓ 10-15, ads/tik tok ads/teaser ad (Δήμος ✓ 09-30), media kit ([[2026-10-21-asana-snapshot]]).
@@ -77,6 +82,7 @@ updated: 2026-10-22
 - 2026-07-20 14:00 & 2026-07-22 10:00 — «Γεωργιάδης σεφ εδώ» ([[2026-07-20_2026-11-03]]).
 
 ## Οικονομικά
+- #1292 (2026-10-27): μοντάζ δεύτερου επεισοδίου — ποσό μόνο στο PDF ([[2026-10-27-accounting-timologia-kartelles]]).
 - The Circle of Dining — full πακέτο: 450€ (αποδοχή 2026-08-11) ([[2026-08-11-offer-circle-of-dining-georgiadis]]). Αν περιλαμβάνει ΦΠΑ / τι ακριβώς καλύπτει: ασαφές (μόνο στο PDF).
 - Το «πρώτο» project (προσωπικό brand) — τιμή ασαφής.
 

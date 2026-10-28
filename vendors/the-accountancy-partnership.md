@@ -3,7 +3,7 @@ type: vendor
 title: "The Accountancy Partnership (TAP)"
 aliases: [TAP, The Accountancy Partnership, theaccountancy.co.uk]
 status: ενεργός
-updated: 2026-10-23
+updated: 2026-10-28
 ---
 # The Accountancy Partnership (TAP)
 > Online λογιστικό γραφείο στο UK. Επιλέχθηκε στις 2026-10-14 ως λογιστής της [[grow-360-ltd]]. Το onboarding είναι σε εξέλιξη αλλά μπλοκαρισμένο από ένα απλήρωτο τιμολόγιο.
@@ -27,13 +27,16 @@ updated: 2026-10-23
 - **Ομάδα GROW:** [[marina-papanastasiou]] (επιβεβαίωσε στην TAP ότι προχωράμε· η αναλυτική προσφορά ήρθε 2026-10-12· παίρνει τα forwards). Ο Δήμος, ως director.
 
 ## Τρέχουσα κατάσταση
+Στις 2026-10-28:
+- Η Natalie Hughes (Admin Junior) υπενθύμισε 2026-10-27 ότι τα **P-388148** (Reg fee) και **P-388149** (CH ID) είναι πληρωτέα **έως 2026-10-30**· δεν κάνουν υποβολές πριν την πληρωμή ([[2026-10-27-tap-ypenthymisi-p388148-p388149]]).
+
 Στις 2026-10-20:
 - Ο λογαριασμός στο client hub είναι περιορισμένος λόγω του απλήρωτου τιμολογίου **P-388148** (annual holding/registration fee). Μέχρι να πληρωθεί δεν γίνεται το αρχικό call με τον λογιστή.
 - Τα στοιχεία πληρωμής στάλθηκαν στις 2026-10-19 ([[2026-10-19-accountancy-partnership-account-blocked]]).
 - Εκκρεμούν και τα έγγραφα AML ([[2026-10-16-accountancy-partnership-aml-check]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Πληρωμή του P-388148 (ποσό ασαφές, μόνο στο PDF) — Δήμος — «as soon as possible», από 2026-10-19 ([[2026-10-19-accountancy-partnership-account-blocked]])
+- [ ] Πληρωμή P-388148 και P-388149 (ποσά μόνο στα PDF) — Δήμος — **έως 2026-10-30** (εκκρεμεί από 2026-10-19) ([[2026-10-19-accountancy-partnership-account-blocked]], [[2026-10-27-tap-ypenthymisi-p388148-p388149]])
 - [ ] Έγγραφα AML: photo ID και αποδεικτικό διεύθυνσης τελευταίου τριμήνου — Δήμος/Μαρίνα — χωρίς ημερομηνία ([[2026-10-16-accountancy-partnership-aml-check]])
 - [ ] Link για initial consultation από τον Jamie — TAP — έως 2026-10-20 (2 εργάσιμες από 2026-10-16) ([[2026-10-16-accountancy-partnership-welcome]])
 - [ ] Ο κωδικός «CT» της HMRC (έρχεται ταχυδρομικά σε ~2 εβδομάδες) και το authentication code της Companies House πρέπει να σταλούν στην TAP — Δήμος — ~έως 2026-10-30 ([[2026-10-16-accountancy-partnership-welcome]])
@@ -45,6 +48,7 @@ updated: 2026-10-23
 - 2026-10-14 → [[2026-10-14-logistis-uk-the-accountancy-partnership]].
 
 ## Χρονολόγιο
+- 2026-10-27 — Natalie Hughes: «polite reminder» για P-388148 και P-388149, λήξη 2026-10-30 ([[2026-10-27-tap-ypenthymisi-p388148-p388149]]).
 - 2026-10-23 — «Missing Setup Information»: ζητά Companies House auth code για Grow 360 Ltd ([[2026-10-23-accountancy-missing-setup]]).
 - 2026-10-20 — Onboarding call: η Ellie δεν βρήκε τον Δήμο στο τηλέφωνο, ζητά ώρα· υπενθύμιση P-388149 (λήξη 2026-10-30) ([[2026-10-20-accountancy-partnership-onboarding]], [[2026-10-20-accountancy-partnership-invoice-p388149]]).
 - 2026-10-19 — Ο λογαριασμός μπλοκαρίστηκε (P-388148). Ο Δήμος ρώτησε πώς πληρώνει και η Megan έστειλε τραπεζικά στοιχεία ([[2026-10-19-accountancy-partnership-account-blocked]]).

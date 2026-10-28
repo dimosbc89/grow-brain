@@ -3,7 +3,7 @@ type: admin
 title: "GROW 360 LTD (UK εταιρεία)"
 aliases: [GROW 360, GROW 360 LTD, UK εταιρεία, UK company, βρετανική εταιρεία]
 status: ενεργός
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 # GROW 360 LTD
 > Η βρετανική εταιρεία του Δήμου (μοναδικός director/shareholder, κάτοικος Ελλάδας). Τον Οκτώβριο 2026 πέρασε σε νέο λογιστή, την [[the-accountancy-partnership]], και τον Νοέμβριο 2026 έχει τις πρώτες προθεσμίες της στην Companies House.
@@ -18,6 +18,10 @@ updated: 2026-10-26
 - **Φορολογική κατοικία / μόνιμη εγκατάσταση στην Ελλάδα:** κατά τη DMP είναι εκτός πακέτου UK λογιστή και θέλει Έλληνα φοροτεχνικό ([[2026-10-19-dmp-accountants-grow360-quote]]). Σχετικά: [[forologika-asfalistika]].
 
 ## Τρέχουσα κατάσταση
+Στις 2026-10-28:
+- **YCF:** ο Δήμος απάντησε 2026-10-27 «we don't want to renew». Η YCF (Harold) αντιπρότεινε να κρατηθούν μόνο Registered Office £29/έτος + Officer's Address £28/έτος, για να μη χρειαστεί αλλαγή διεύθυνσης στην Companies House, και ρωτά αν να ακυρώσει τα υπόλοιπα. Χωρίς απάντηση ([[2026-10-27-grow360-ycf-ananeosi]]).
+- **TAP:** νέα υπενθύμιση 2026-10-27 — P-388148 και P-388149 πληρωτέα **έως 2026-10-30**· καμία υποβολή μέχρι να πληρωθούν ([[2026-10-27-tap-ypenthymisi-p388148-p388149]]).
+
 Στις 2026-10-20:
 - Επιλέχθηκε η TAP (ο Δήμος έγραψε «Οκ πάμε» στις 2026-10-14) ([[2026-10-14-check-tap-quote-grow360]]). Η φόρμα «Limited Company Registration» υπογράφηκε στις 2026-10-15 ([[2026-10-15-accountancy-partnership-registration-signed]]). Welcome και αίτημα AML ήρθαν στις 2026-10-16 ([[2026-10-16-accountancy-partnership-welcome]], [[2026-10-16-accountancy-partnership-aml-check]]).
 - Ο λογαριασμός στο client hub της TAP είναι **μπλοκαρισμένος** μέχρι να πληρωθεί το τιμολόγιο P-388148 (annual holding/registration fee). Τα στοιχεία πληρωμής ήρθαν στις 2026-10-19 ([[2026-10-19-accountancy-partnership-account-blocked]]). Χωρίς πληρωμή και χωρίς τα έγγραφα AML δεν γίνεται το πρώτο call με λογιστή ([[2026-10-16-accountancy-partnership-aml-check]]).
@@ -26,15 +30,17 @@ updated: 2026-10-26
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Ώρα για onboarding call με την Ellie — Δήμος / [[marina-papanastasiou]] — από 2026-10-20 ([[2026-10-20-accountancy-partnership-onboarding]])
-- [ ] Πληρωμή P-388149 — Δήμος — **έως 2026-10-30** ([[2026-10-20-accountancy-partnership-invoice-p388149]])
-- [ ] Πληρωμή του τιμολογίου TAP P-388148 (annual holding/registration fee· ποσό μόνο στο PDF, ασαφές) — Δήμος — «as soon as possible», εκκρεμεί από 2026-10-19 ([[2026-10-19-accountancy-partnership-account-blocked]])
+- [ ] Πληρωμή P-388149 — Δήμος — **έως 2026-10-30** ([[2026-10-20-accountancy-partnership-invoice-p388149]], [[2026-10-27-tap-ypenthymisi-p388148-p388149]])
+- [ ] Πληρωμή του τιμολογίου TAP P-388148 (annual holding/registration fee· ποσό μόνο στο PDF, ασαφές) — Δήμος — «as soon as possible», εκκρεμεί από 2026-10-19· νέα υπενθύμιση: **έως 2026-10-30** ([[2026-10-19-accountancy-partnership-account-blocked]], [[2026-10-27-tap-ypenthymisi-p388148-p388149]])
 - [ ] Αποστολή εγγράφων AML στην TAP: photo ID και αποδεικτικό διεύθυνσης τελευταίου τριμήνου — Δήμος/Μαρίνα — χωρίς ημερομηνία ([[2026-10-16-accountancy-partnership-aml-check]])
 - [ ] Link για initial consultation από τον Jamie (TAP) — TAP — έως 2026-10-20 (2 εργάσιμες από 2026-10-16· μπλοκαρισμένο μέχρι την πληρωμή) ([[2026-10-16-accountancy-partnership-welcome]])
 - [ ] Ο κωδικός Corporation Tax «CT» της HMRC έρχεται ταχυδρομικά και πρέπει να προωθηθεί στην TAP — Δήμος — ~έως 2026-10-30 (~2 εβδομάδες από 2026-10-16) ([[2026-10-16-accountancy-partnership-welcome]])
 - [ ] Authentication code της Companies House → TAP (Client Hub) — Δήμος — **υπενθύμιση TAP 2026-10-23, «ASAP»** ([[2026-10-23-accountancy-missing-setup]]) ([[2026-10-16-accountancy-partnership-welcome]])
 - [ ] Ενημέρωση της DMP ότι επιλέχθηκε άλλος λογιστής — Δήμος/Μαρίνα — εκκρεμεί από 2026-10-14 ([[2026-10-19-dmp-accountants-grow360-quote]])
 - [ ] Κλείσιμο των SupportLine (περιμένει απόφαση από 2026-09-15) και Sturgess (ανοιχτό από 2026-09-22) — Δήμος — χωρίς ημερομηνία ([[2026-09-15-grow360-ltd-supportline-quote]], [[2026-09-22-grow360-ltd-sturgess-accounting-quote]])
-- [ ] Απόφαση για ακύρωση της αυτόματης ανανέωσης YCF (339,60, νόμισμα πιθανώς £). Πρώτα ερώτηση στον λογιστή αν μπορεί να ακυρωθεί — Μαρίνα — έως 2026-11-10 ([[2026-10-02-grow360-ycf-renewal-accounting]], [[2026-10-13-yourcompanyformations-renewal]])
+- [x] Απόφαση για ακύρωση της αυτόματης ανανέωσης YCF (339,60, νόμισμα πιθανώς £) — Δήμος — ✓ 2026-10-27 «we don't want to renew» ([[2026-10-27-grow360-ycf-ananeosi]])
+- [ ] Απάντηση στη YCF: πλήρης ακύρωση ή κράτημα μόνο Registered Office (£29) + Officer's Address (£28) — Δήμος — η YCF ρώτησε 2026-10-27 12:32, πριν τις 2026-11-10 ([[2026-10-27-grow360-ycf-ananeosi]])
+- [ ] Αν ακυρωθεί και η διεύθυνση YCF: νέα registered office / service address στην Companies House (💭 μέσω TAP) — Δήμος/TAP — πριν τις 2026-11-10 ([[2026-10-27-grow360-ycf-ananeosi]])
 - [ ] Ταυτοποίηση PSC στην Companies House και δήλωση personal code — Δήμος — 2026-11-10 έως 2026-11-23 (υπάρχει δυνατότητα παράτασης 14 ημερών· αλλιώς κίνδυνος προστίμου) ([[2026-10-14-companies-house-psc-verification]])
 - [ ] Πρώτο Confirmation Statement. Περιλαμβάνεται στο πακέτο της TAP και προϋποθέτει το ID/PSC verification — TAP/Δήμος — έως 2026-11-23 ([[2026-10-07-grow360-confirmation-statement-uk]], [[2026-09-15-grow360-ltd-supportline-quote]], [[2026-10-14-check-tap-quote-grow360]])
 - [ ] Πρώτη πληρωμή TAP (αρχικό κόστος £616,80 με VAT) — GROW 360 LTD — έως 2026-11-30 («Νοέμβριος 2026») ([[2026-10-14-check-tap-quote-grow360]])
@@ -43,10 +49,12 @@ updated: 2026-10-26
 - [ ] Annual accounts και Corporation Tax της 1ης περιόδου — TAP — έως 2027-08-10 ([[2026-10-19-dmp-accountants-grow360-quote]], [[2026-10-02-grow360-ycf-renewal-accounting]])
 
 ## Αποφάσεις
+- 2026-10-27 — Ο Δήμος δηλώνει στη YCF ότι δεν ανανεώνει τις υπηρεσίες ([[2026-10-27-grow360-ycf-ananeosi]]).
 - 2026-10-14 — Λογιστής UK η TAP → [[2026-10-14-logistis-uk-the-accountancy-partnership]].
 - 2026-10-02 — Η Μαρίνα αναλαμβάνει να επιλέξει λογιστή και να ρωτήσει αν ακυρώνονται οι υπηρεσίες YCF ([[2026-10-02-grow360-ycf-renewal-accounting]]).
 
 ## Χρονολόγιο
+- 2026-10-27 — YCF: υπενθύμιση ανανέωσης 2026-11-10 (339,60)· ο Δήμος «we don't want to renew»· η YCF προτείνει να μείνουν μόνο Registered Office £29 + Officer's Address £28 ([[2026-10-27-grow360-ycf-ananeosi]]). TAP (Natalie Hughes): υπενθύμιση P-388148/P-388149 έως 2026-10-30 ([[2026-10-27-tap-ypenthymisi-p388148-p388149]]).
 - 2026-10-24 — YCF: νέα υπενθύμιση, Confirmation Statement έως 2026-11-23 ([[2026-10-24-grow360-confirmation-statement]]).
 - 2026-10-23 — Η TAP ζήτησε μέσω Client Hub το Companies House auth code — καθυστέρηση = κίνδυνος προστίμων HMRC ([[2026-10-23-accountancy-missing-setup]]).
 - 2026-10-20 — Η The Accountancy Partnership ζητά ώρα για onboarding call (forward στη Μαρίνα) και στέλνει υπενθύμιση για το τιμολόγιο P-388149, λήξη 2026-10-30 ([[2026-10-20-accountancy-partnership-onboarding]], [[2026-10-20-accountancy-partnership-invoice-p388149]]).
@@ -71,7 +79,7 @@ updated: 2026-10-26
 | DMP Accountants | Accounts & CT £299/έτος (£279 αν τζίρος < £15k). CS £75 (με το τέλος £50). AML £15 και Director ID £25 εφάπαξ. Registered office + DSA + scanning £25/έτος, όταν ανοίξει νέο γραφείο | ~£389–414 το 1ο έτος, χωρίς VAT, προπληρωμή. FreeAgent προαιρετικό £20/μήνα | [[2026-10-19-dmp-accountants-grow360-quote]] |
 | SupportLine Tax & Consulting | Secretarial + registered office (CS με τέλος £50, HMRC agent, ID verification) £1.500/έτος. Accounts/CT600 και support £150/ώρα. Onboarding £950 (AML £150 + setup £800) | £2.450 το 1ο έτος, £1.500/έτος από το 2ο, συν ωριαία | [[2026-09-15-grow360-ltd-supportline-quote]] |
 | Sturgess and Co. | Accounts + Corporation Tax Return (τιμή από το site, κατά τον Δήμο). Χωρίς ID verification | £400 + VAT | [[2026-09-22-grow360-ltd-sturgess-accounting-quote]] |
-| Your Company Formations | Τωρινό πακέτο DSA, Mail Forwarding, Registered Office, Premium Filing. CS £90 + VAT. Μόνο registered office £29 + VAT/έτος | Ανανέωση 339,60 (νόμισμα πιθανώς £) στις 2026-11-10, χρέωση στην αποθηκευμένη κάρτα | [[2026-10-02-grow360-ycf-renewal-accounting]], [[2026-10-13-yourcompanyformations-renewal]] |
+| Your Company Formations | Τωρινό πακέτο DSA, Mail Forwarding, Registered Office, Premium Filing. CS £90 + VAT. Μόνο registered office £29 + VAT/έτος | Ανανέωση 339,60 (νόμισμα πιθανώς £) στις 2026-11-10, χρέωση στην αποθηκευμένη κάρτα — ο Δήμος αρνήθηκε 2026-10-27· ελάχιστο: Registered Office £29 + Officer's Address £28/έτος ([[2026-10-27-grow360-ycf-ananeosi]]) | [[2026-10-02-grow360-ycf-renewal-accounting]], [[2026-10-13-yourcompanyformations-renewal]] |
 
 ## Σημειώσεις
 - ⚠️ Αντίφαση: Στις 2026-09-22 ο Δήμος έγραψε στη DMP «please proceed so we can start» ([[2026-10-19-dmp-accountants-grow360-quote]]). Στις 2026-10-14 όμως επιλέχθηκε η TAP ([[2026-10-14-check-tap-quote-grow360]]). Η DMP θεωρεί ακόμη ότι η συνεργασία ξεκινά. Πρέπει να ενημερωθεί.

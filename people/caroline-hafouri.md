@@ -3,7 +3,7 @@ type: person
 title: "Caroline Hafouri"
 aliases: [Caroline, caroline@tandemconcept.gr]
 status: ενεργός
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 # Caroline Hafouri
 > Συνιδιοκτήτρια της [[tandem-concept]] και σύντροφος του [[george-chalhoub]]. Είναι η καθημερινή επαφή για προϊόντα, απόθεμα και διορθώσεις στο e-shop, και η shop manager του site.
@@ -13,13 +13,17 @@ updated: 2026-10-27
 - **Ρόλος στο project:** στέλνει import sheets και φωτογραφίες προϊόντων, ποσότητες αποθέματος, λίστες διορθώσεων· έχει λογαριασμό shop manager στο site ([[2026-10-16-tandem-eshop-bags-epsilon]], [[2026-09-24-tandem-eshop-quantities]], [[2026-10-10-tandem-website-user-guide]]).
 - **Ομάδα GROW:** ο Δήμος· [[despina-velissariou]] σε cc.
 
-## Τρέχουσα κατάσταση (στις 2026-10-27)
+## Τρέχουσα κατάσταση (στις 2026-10-28)
+- Έστειλε 2026-10-27 το excel της νέας παραλαβής Su Apparel FW 2026 (αποκλειστικά για το Κολωνάκι) για το Epsilon· ο Δήμος το πέρασε 2026-10-28 και της ζήτησε να το ελέγξει ([[2026-10-27-tandem-su-apparel-epsilon]]).
+
+*Από 2026-10-27:*
 - Ενέκρινε 2026-10-26 την πρόταση Ads της GROW: Google Ads, META 150 €/μήνα, TikTok organic· έδωσε λίστα ανταγωνιστών ([[2026-10-14-tandem-social-ads-strategy]]). Είναι σε cc στο thread της BIZ όπου ενεργοποιήθηκε το BOX NOW ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
 
 *Από 2026-10-20:*
 - Περιμένουμε από αυτήν: feedback για τη γραμματοσειρά, επιβεβαίωση χρωμάτων 6651/6602, βάρος του 6661, έλεγχο ονομάτων ([[2026-10-17-tandem-website-final-amendments]], [[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Έλεγχος των Su Apparel FW 2026 στο Epsilon — Caroline — από 2026-10-28 ([[2026-10-27-tandem-su-apparel-epsilon]])
 - [ ] Feedback για τη γραμματοσειρά (στοχευμένες αλλαγές αντί για γενική μείωση) — Caroline — χωρίς ημερομηνία ([[2026-10-17-tandem-website-final-amendments]])
 - [ ] Χρώματα 6651/6602, βάρος 6661, ονόματα προϊόντων — Caroline — χωρίς ημερομηνία ([[2026-10-16-tandem-eshop-bags-epsilon]])
 - [ ] Ανάγνωση του οδηγού χρήσης πριν το training — Caroline/George — πριν το training ([[2026-10-10-tandem-website-user-guide]])
@@ -28,6 +32,7 @@ updated: 2026-10-27
 - 2026-10-26: Google Ads ΟΚ, META Ads 150 €/μήνα, TikTok χωρίς ads προς το παρόν ([[2026-10-14-tandem-social-ads-strategy]]).
 
 ## Χρονολόγιο
+- 2026-10-27 — Στέλνει excel Su Apparel FW 2026 για το Epsilon ([[2026-10-27-tandem-su-apparel-epsilon]]).
 - 2026-10-26 — Απαντά στη Δέσποινα για τη στρατηγική Ads· ανταγωνιστές: Matchbox, Shoebox, Ginestra, Petridis studio, Free shop, Vestiaire, Mirina Tsantilis, Colori&Co ([[2026-10-14-tandem-social-ads-strategy]]).
 - 2026-10-16 — «Website final amendments» ([[2026-10-17-tandem-website-final-amendments]]).
 - 2026-10-13 → 2026-10-16 — Τσάντες Christian Villa FW 26 και διορθώσεις αποθεμάτων στο Epsilon· προτείνει στήλη «e-shop vs Kolonaki» στο Epsilon import ([[2026-10-16-tandem-eshop-bags-epsilon]]).

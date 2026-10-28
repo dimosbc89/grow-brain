@@ -3,7 +3,7 @@ type: team
 title: "Βασιλική Γιαννοπούλου"
 aliases: [Vassiliki Giannopoulou, Βασιλική, Vassiliki, vassiliki@growagency.online]
 status: ενεργός
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 # Βασιλική Γιαννοπούλου
 > Account Director της GROW. Ο Δήμος της στέλνει τα τιμολόγια και τα admin, τρέχει τα accounts [[yiayia-meatballs]] (από τον Σεπτέμβριο 2026) και Estia, και κάνει calls με νέους πελάτες.
@@ -15,6 +15,7 @@ updated: 2026-10-27
 - Στο [[rules]] περιγράφεται ως «Account Director, τιμολόγια».
 
 ## Πελάτες/αρμοδιότητες
+- [[kyknos]] — κύρια επαφή για βίντεο συνταγών/carousel· στις 2026-10-27 η Ελένη Κάτσαρη ρωτά για 2 βίντεο (Αραμπιάτα, μπρουσκέτα), χωρίς απάντηση ([[2026-08-26-kyknos-4-videos-sxolia]]).
 - [[yiayia-meatballs]] — αναλαμβάνει το account με εσωτερική αναδιαμόρφωση. Χειρίζεται posting/stories, influencers, street interviews και το post της 28/10 ([[2026-10-07-yiayia-street-activation-content]], [[2026-10-20-yiayia-website-new-version]], [[2026-09-11-yiayia-account-vassiliki]]).
 - [[estia-crm]] (Estia) — έγραψε το συγκεντρωμένο πλάνο και τις ερωτήσεις για τα βίντεο, και την απάντηση στο πρώτο inquiry ([[2026-09-12-estia-plano-video-gyrismata]], [[2026-09-18-estia-proto-inquiry-lamia]]).
 - [[pharmacypan]] — review άρθρων (link «article-review»). Meeting «PharmacyPan review» 2026-09-30 ([[2026-10-12-pharmacy-article-review-link]], [[2026-07-20_2026-11-03]]).

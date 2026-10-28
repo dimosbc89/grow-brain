@@ -1,13 +1,13 @@
 ---
 type: index
 title: "Κατάλογος"
-updated: 2026-10-22
+updated: 2026-10-28
 ---
 # Κατάλογος
 
 > Όλες οι σελίδες του εγκεφάλου. Ξεκίνα από [[attention]] και [[rules]]. Ενημερώνεται σε κάθε ingest.
 
-## Πελάτες (59)
+## Πελάτες (60)
 - [[academicals-foxacademy|Academicals / Fox Academy]] · _ενεργός_ — Δύο brands, Academicals και Fox Academy, με κοινή πλευρά πελάτη (Όμηρος, Αλεξ). Η GROW τρέχει Google Ads και για τα δύο και φιλοξενεί τα websites και…
 - [[agape|Agape]] · _ενεργός_ — Πελάτης της GROW με project στο Asana από 2026-03-13: branding (εφαρμογές, ταμπέλα, business card), airbnb brochure, wine video, ad campaigns και ιδέε…
 - [[alerta|Alerta (alerta-app.net)]] · _σε αναμονή_ — Mobile app για την οποία η GROW σχεδίασε onboarding 5 οθονών και paywall redesign.
@@ -39,6 +39,7 @@ updated: 2026-10-22
 - [[karampatsos-law|Karampatsos Law]] · _ενεργός_ — Δικηγορικό γραφείο. Η GROW τρέχει Google Ads με στόχο την ομογένεια στις ΗΠΑ, για κληρονομικά, πληρεξούσια και probate από την Αθήνα.
 - [[karmiotissa|Καρμιώτισσα (Karmiotissa, Κύπρος)]] · _κλειστός_ — Κυπριακός πελάτης που ήρθε μέσω marketing-coach-cy. Η GROW είχε το domain karmiotissa.com στο papaki, τα email και τα DNS. Από 2026-10 φεύγει προς Co-…
 - [[knack-and-snack|Knack & Snack]] · _ενεργός_ — Πελάτης εστίασης της GROW για σχεδόν έναν χρόνο (στις 2026-08): Google Ads, social media management και γυρίσματα· από εδώ βγήκε ο κανόνας του Δήμου γ…
+- [[kyknos|Kyknos (Κύκνος)]] · _ενεργός_ — Brand τροφίμων/κονσερβοποιίας· η GROW κάνει videos συνταγών και carousels μαζί με το agency τους ATTP· εκκρεμούν 2 videos (Αραμπιάτα, μπρουσκέτα).
 - [[koala|Koala]] · _ενεργός_ — Πελάτης (💭 Υπόθεση: καφέ, από τα tasks «coffee day», «coffee AI») για τον οποίο η GROW κάνει social, giveaways, Google Ads και promoters· όλα τα τρέχε…
 - [[kolokytha-eshop|E-shop ρούχων Σωτηρίας Κολοκυθά]] · _ενεργός_ — E-shop ρούχων της sotiria-kolokytha· η GROW (ο Δήμος) υποστηρίζει τεχνικά το site — τώρα ζητείται tag «pre order» για το νέο drop.
 - [[krapsites|Αδελφότητα των Απανταχού Κραψιτών Αθηνών (krapsites.com)]] · _ενεργός_ — Πολιτιστικός σύλλογος με site krapsites.com που δέχεται πληρωμές με κάρτα μέσω Viva· η GROW τον υποστηρίζει στο site/πληρωμές.
@@ -108,7 +109,7 @@ updated: 2026-10-22
 - [[vassia-kataki|Βάσια Κατάκη]] — Graphic Designer της GROW. Της πηγαίνουν brand manuals, logo briefs, design e-shop/site, βίντεο και κατόψεις περιπτέρων.
 - [[vassiliki-giannopoulou|Βασιλική Γιαννοπούλου]] — Account Director της GROW. Ο Δήμος της στέλνει τα τιμολόγια και τα admin, τρέχει τα accounts yiayia-meatballs (από τον Σεπτέμβριο 2026) και Estia, και…
 
-## Πρόσωπα (48)
+## Πρόσωπα (52)
 - [[afroditi-karopoulou|Afroditi Karopoulou]] — Secretary στο Corporate Affairs & Communication General Division της metlen· κανονίζει τα ραντεβού με την ομάδα της κας Γεράκη.
 - [[aliki-theochari|Aliki Theochari]] — Director of Customer Success της biz-courier και κύρια επαφή της GROW για το integration του e-shop της tandem-concept και το BOX NOW.
 - [[andreas-nikolaou|Andreas Nikolaou]] — Information Security Officer στην admin22, που είναι το IT της karmiotissa. Οδηγεί τη μεταφορά του karmiotissa.com από τη GROW στο Cloudflare.
@@ -125,6 +126,7 @@ updated: 2026-10-22
 - [[dimitris-karampatsos|Δημήτρης Καραμπάτσος]] — Βασική επαφή της GROW για το hellenic-heritage-evolution: HHE, Heritage Escape και Τσικλητήρεια. Παίρνει τα reports των Meta καμπανιών και συμμετέχει…
 - [[eleftheria-katsafarou|Ελευθερία Κατσαφάρου]] — Owner του make-your-way (makeyourway.gr)· στέλνει media kit σε agencies.
 - [[elpida-plavou|Elpida Plavou]] — Επαφή της global-foods με ασαφή ρόλο. Λαμβάνει τα Google Ads reports και την πρόταση videography, και είναι σε cc στα event θέματα.
+- [[eleni-katsari|Ελένη Κάτσαρη]] — Marketing στην kyknos· επαφή για τα videos.
 - [[evi-psycha|Εύη Ψύχα]] — Marketing της global-foods· ζητά από τη GROW event content, φυλλάδια και αλλαγές στο app.
 - [[fjola-skraqi|Φιόλα Σκράκι (Fjola Skraqi)]] — Επαφή της danaos που οργανώνει τις συναντήσεις και θέτει ερωτήσεις για τις διαφημίσεις.
 - [[george-andritsos|George Andritsos]] — Εξωτερικός web developer που υλοποιεί το WooCommerce e-shop της tandem-concept με βάση τα reviews της GROW.
@@ -144,6 +146,7 @@ updated: 2026-10-22
 - [[myrto-kazi|Μυρτώ Κάζη]] — Influencer και CEO του Yes I Do - BOOM· η GROW τη δούλεψε στο activation του tesla-glyfada και ελπίζει σε νέα projects.
 - [[nicolette-ladoulis|Nicolette Elise Ladoulis]] — Πρώτη υποψήφια πελάτισσα του Estia (estia-crm): από El Paso, Texas, με διαμέρισμα στη Λαμία προς πώληση.
 - [[niki-daleziou|Niki Daleziou (Νίκη Δαλέζιου)]] — Digital Marketing Manager στη HOTELBRAIN S.A. Είναι η καθημερινή επαφή της GROW για τα hotel websites και για το νέο corporate site της hotelbrain.
+- [[rahma-addeh|Rahma Addeh]] — Partner της tsu-pies, συνιδιοκτήτρια του καταστήματος στο Leiden (νέο κατάστημα Amstelveen).
 - [[panagiotis-nikas|Παναγιώτης Νίκας]] — Ο ιδιοκτήτης πίσω από CoffeeXpert, Barista Academy και το προσωπικό brand panagiotis.nikas.official — πελάτης nikas-coffee-expert.
 - [[panayiotis-aresti|Panayiotis Aresti]] — Marketing Manager στην Co-Win (Λεμεσός). Ανέλαβε το νέο site της karmiotissa και ζήτησε τη μεταφορά domain και email από τη GROW.
 - [[panos-paleologos|Panos Paleologos]] — Στέλεχος της hotelbrain που εγκρίνει τις προσφορές της GROW. Ενέκρινε το νέο corporate website.
@@ -152,10 +155,12 @@ updated: 2026-10-22
 - [[sofia-konstantopoulou|Σοφία Κωνσταντοπούλου]] — Έχει το λογιστικό γραφείο sk-advisors. Είναι πελάτισσα της GROW, αφού η GROW κάνει content, ads και video για το γραφείο της, και ταυτόχρονα λογίστρια…
 - [[sotiria-kolokytha|Σωτηρία Κολοκυθά]] — Ιδιοκτήτρια του kolokytha-eshop (e-shop ρούχων)· ανεβάζει μόνη της τα προϊόντα και ζητά από τον Δήμο τεχνικές λειτουργίες.
 - [[vangelis-zachos|Βαγγέλης Ζάχος]] — Κύρια επαφή της GROW στην greenmart-antemisaris: στέλνει αρχεία προϊόντων, προτάσεις εκθέσεων και κάνει τα follow-ups.
+- [[vasilis-friganiotis|Βασίλης Φριγανιώτης]] — Developer της hotelbrain για το hotelbrain.com· υλοποιεί το νέο Figma design του Δήμου (Next.js stack, ζητά Dev Mode seat).
 - [[vasileia-michail|Βασιλεία Μιχαήλ (Vasileia Michail)]] — Subscriptions Support Executive στην interoptics· κύρια επαφή για το εταιρικό βίντεο για συνέδρια.
 - [[vaso-theochari|Βάσω Θεοχάρη]] — Marketing της overoll· η επαφή για τα τρία νέα websites και τα domains.
 - [[vivi-mammi|Vivi Mammi]] — Office Operations Manager της deturbo· έστειλε το RFQ για το περίπτερο στην DEFEA 2027.
 - [[yiannis-korbos|Yiannis Korbos]] — Στέλνει στη GROW τα brand manuals των mr-mrs-white και anayia. Ο ρόλος του είναι ασαφής: μπορεί να είναι designer ή στέλεχος του brand.
+- [[yousef-ghiami|Yousef Ghiami]] — Partner της tsu-pies, συνιδιοκτήτης του καταστήματος στο Leiden (νέο κατάστημα Amstelveen).
 - [[antony-bebbington|Antony Bebbington]] · _ενεργός_ — Senior Sourcing Manager EMEA & LATAM Marketing, Meetings & Events της Salesforce.
 
 ## Συνεργάτες & πάροχοι (17)

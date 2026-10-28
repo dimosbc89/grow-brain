@@ -3,7 +3,7 @@ type: client
 title: "Barolo (Σαντορίνη)"
 aliases: [Barolo Santorini, Barolo restaurant, barolosantorini@gmail.com]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-10-28
 ---
 # Barolo (Σαντορίνη)
 > Εστιατόριο στη Σαντορίνη· πελάτης της GROW με τιμολόγια από το 2025 και ενδοκοινοτικά παραστατικά (χρεώσεις πλατφορμών), για τα οποία ρωτά η λογίστριά του.
@@ -13,11 +13,15 @@ updated: 2026-10-21
 - **Επαφές:** barolosantorini@gmail.com / barolorestaurant@gmail.com (πελάτης)· Ελένη Περσίδου (e.persidou@hotmail.com) — λογίστρια πελάτη· aggelos.manousakiss@gmail.com — πλευρά πελάτη, ρόλος ασαφής ([[2026-07-24-barolo-timologia-endokoinotika]]).
 - **Ομάδα GROW:** [[marina-papanastasiou]] (τιμολόγια/επικοινωνία)· [[vassiliki-giannopoulou]], [[despina-velissariou]] ([[2026-07-24-barolo-timologia-endokoinotika]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-21)
+## Τρέχουσα κατάσταση (στις 2026-10-28)
+- **Στις 2026-10-28:** στις 2026-10-27 13:50 η [[marina-papanastasiou]] έστειλε στο aggelos.manousakiss@gmail.com (cc τα emails του Barolo, Βασιλική) **τα δημιουργικά του booklet «santorini best life» προς έγκριση**· απάντηση δεν φαίνεται. Τι είναι το «santorini best life»: ασαφές ([[2026-10-27-barolo-booklet-santorini-best-life]]).
+
+**Παλαιότερα (στις 2026-10-21)**
 - Στις 2026-07-24 η λογίστρια ρώτησε γιατί τον Ιούνιο υπάρχουν τόσες ενδοκοινοτικές (καθημερινά μέχρι 15/06) και αν υπάρχουν κι άλλες, για να υποβάλει την ενδοκοινοτική δήλωση· ο Δήμος ζήτησε από τη Μαρίνα να εξηγήσει ([[2026-07-24-barolo-timologia-endokoinotika]]). Αν απαντήθηκε: ασαφές.
 - Στις 2026-10-21 το Asana δείχνει ότι η συνεργασία συνεχίζεται: «video aesthetic» ✓ 2026-10-16 και «day to night reel» ✓ 2026-10-19 (Βασιλική, Μαριάννα). Η κατάσταση άλλαξε από «σε αναμονή» σε «ενεργός» ([[2026-10-21-asana-snapshot]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Έγκριση δημιουργικών booklet «santorini best life» — πελάτης (aggelos.manousakiss@) — από 2026-10-27 ([[2026-10-27-barolo-booklet-santorini-best-life]])
 - [ ] «ενημέρωση bio» — Δήμος — due 2026-03-12 ⚠️ εκπρόθεσμο, χωρίς κίνηση από 2026-07-01 ([[2026-10-21-asana-snapshot]])
 - [ ] Εξήγηση στη λογίστρια Περσίδου για τις ενδοκοινοτικές του Ιουνίου — [[marina-papanastasiou]] — από 2026-07-24, ασαφές αν έγινε ([[2026-07-24-barolo-timologia-endokoinotika]])
 
@@ -25,6 +29,7 @@ updated: 2026-10-21
 - 2026-07-24: η Μαρίνα απαντά στη λογίστρια με βάση την οδηγία του Δήμου («Εξήγησε της ότι ένα βίντεο το πόσο που χρεώνει» — διατύπωση ασαφής) ([[2026-07-24-barolo-timologia-endokoinotika]]).
 
 ## Χρονολόγιο
+- 2026-10-27 — Δημιουργικά booklet «santorini best life» προς έγκριση ([[2026-10-27-barolo-booklet-santorini-best-life]]).
 - 2026-10-21 — Asana: ✓ «day to night reel» ([[vassiliki-giannopoulou]], 2026-10-19· subtask [[marianna-vourna]] 2026-10-16) και «video aesthetic» ([[vassiliki-giannopoulou]], 2026-10-16)· ανοιχτό μόνο το «ενημέρωση bio» του Δήμου ([[2026-10-21-asana-snapshot]]).
 - 2026-07-24 — Ερώτηση λογίστριας για ενδοκοινοτικές Ιουνίου ([[2026-07-24-barolo-timologia-endokoinotika]]).
 - 2025-07-10 — Η Μαρίνα στέλνει ενδοκοινοτικά παραστατικά Ιουνίου (πολλές αποδείξεις συναλλαγών) ([[2026-07-24-barolo-timologia-endokoinotika]]).

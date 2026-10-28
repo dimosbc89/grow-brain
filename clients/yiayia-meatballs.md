@@ -3,7 +3,7 @@ type: client
 title: "Υιάγια (Yiayia Meatballs)"
 aliases: [Υιάγια, Yiayia, Yiayia Meatballs, Υιάγια Home of Meatballs, Γιάγια, yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 # Υιάγια (Yiayia Meatballs)
 > Εστιατόριο με κεφτεδάκια («Home of Meatballs») της [[maria-drouza]]· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influencers, μενού, packaging και γυρίσματα.
@@ -15,13 +15,17 @@ updated: 2026-10-26
 - **Ομάδα GROW:** [[vassiliki-giannopoulou]] (account lead· ανακοινώθηκε στο thread που ξεκίνησε 2026-09-11) ([[2026-10-07-yiayia-street-activation-content]])· [[ioanna-chalkiadaki]] (μενού, packaging, influencers, posting)· ο Δήμος (site, game, email, server)· [[vassia-kataki]] (promo video του game) ([[2026-10-16-yiayia-meatball-catcher-promo]])· [[marina-papanastasiou]] σε cc.
 - **Domains:** yiayiameatballs.gr· foodhugs.gr = άλλο project της Μαρίας ([[2026-10-20-yiayia-website-new-version]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-10-28)
+- Στις 2026-10-27 στάλθηκε στη Μαρία (cc Κώστας) το τιμολόγιο **#1291** για τα γυρίσματα της 2026-10-23 (ποσό μόνο στο PDF) ([[2026-10-27-accounting-timologia-kartelles]]).
+
+*Από 2026-10-20:*
 - Το νέο site ολοκληρώθηκε στις 2026-10-17 με micro interactions και είναι σε test responsiveness· ο Δήμος ζήτησε review. Η Μαρία ζήτησε AnyDesk call γιατί οι διορθώσεις εξηγούνται δύσκολα γραπτώς (19/10)· διορθώσεις μέσω AnyDesk σήμερα ~14:30 ([[2026-10-20-yiayia-website-new-version]])· στο ημερολόγιο «Maria Yiayia call» 2026-10-20 14:30 ([[2026-07-20_2026-11-03]]).
 - Το game τρέχει από 2026-09-17 (στοιχεία στον server, κουπόνι αυτόματα με email, /redeem)· νέο βίντεο game στάλθηκε 17/10 και η Μαρία διάλεξε 8-bit μουσική στις 18/10 ([[2026-09-17-yiayia-game-launch]], [[2026-10-20-yiayia-website-new-version]]).
 - Social: η Βασιλική απάντησε σημείο-σημείο (20/10) για creators, street interviews, editorial (~1.200 emails), post 28ης Οκτωβρίου, TikTok ([[2026-10-20-yiayia-website-new-version]]).
 - Επόμενο γύρισμα: «Υιάγια shooting» 2026-10-23 09:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Εξόφληση #1291 (γυρίσματα 2026-10-23) — Yiayia — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
 - [ ] Auth code + mailboxes για yiayiafoodhugs.gr — theway.gr (Γιώργος) — από 2026-10-22 ([[2026-10-22-yiayia-domain-metafora]])
 - [ ] Feedback για τα σενάρια «ΤέλοςΠάγγων» — Μαρία Δρούζα — από 2026-10-22 ([[2026-10-22-yiayia-telospaggon-senaria]])
 - [ ] Asana «ΔΤ αποστολή» — Δήμος — **due 2026-10-23**
@@ -79,6 +83,7 @@ updated: 2026-10-26
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- 2026-10-27 — Τιμολόγιο #1291 για τα γυρίσματα της 2026-10-23 ([[2026-10-27-accounting-timologia-kartelles]]).
 - 2026-10-23/24 — Η Μαρία ικανοποιημένη από το shooting της 2026-10-23· η Βασιλική έστειλε νέα πρόταση για το post του pasta day· φωτογραφίες shooting δεν έχουν παραδοθεί ακόμα ([[2026-10-23-yiayia-shooting-feedback]]).
 - 2026-10-23 — Τιμολόγιο #1293 για εκτύπωση/τοποθέτηση 2 ταμπελών velcro (ποσό μόνο στο PDF)· έγινε το shooting 09:30 ([[2026-10-23-yiayia-timologio-velcro]]).
 - 2026-10-22 — Ο Δήμος ζήτησε από το theway.gr το auth code του yiayiafoodhugs.gr και λίστα mailboxes (το παλιό site δεν μεταφέρεται). Η Βασιλική έστειλε στη Μαρία τα 2 trial σενάρια του creator «ΤέλοςΠάγγων». Η Βάσια έδωσε εντολή στην Print Kong για 16 αυτοκόλλητα τραπεζιών. Asana «δημιουργία menu landing» ✓ ([[2026-10-22-yiayia-domain-metafora]], [[2026-10-22-yiayia-telospaggon-senaria]], [[2026-10-09-yiayia-aftokollita-printkong]]).
@@ -108,6 +113,7 @@ updated: 2026-10-26
 - 2026-07-24 — «tik tok γύρισμα yiayia» 14:30 ([[2026-07-20_2026-11-03]]).
 
 ## Οικονομικά
+- #1291 (2026-10-27): γυρίσματα 2026-10-23 — ποσό μόνο στο PDF ([[2026-10-27-accounting-timologia-kartelles]]).
 - Outdoor/street activation: 150€ videographer + 50€ παρουσιάστρια = 200€ — εγκρίθηκε ([[2026-10-07-yiayia-street-activation-content]]).
 - Εκτίμηση παράδοσης από το γύρισμα: ~6–7 τελικά video reels + αρχειακό υλικό ([[2026-10-07-yiayia-street-activation-content]]).
 - Τιμολόγιο GROW προς εξόφληση (Αύγ. 2026)· ποσό ασαφές ([[2026-08-04-yiayia-exoflisi-timologiou]]).

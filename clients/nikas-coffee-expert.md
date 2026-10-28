@@ -3,7 +3,7 @@ type: client
 title: "Panagiotis Nikas / CoffeeXpert / Barista Academy"
 aliases: [Panagiotis Nikas, Νίκας, P. Nikas, Coffee Expert, CoffeeXpert, ΚΟΦΙ ΕΞΠΕΡΤ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ, Barista Academy, baristacademy.gr, barista-academy.gr, baristaexpert.gr, coffeexpert.gr, panagiotisnikas.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 # Panagiotis Nikas / CoffeeXpert / Barista Academy
 > Ο [[panagiotis-nikas]] και οι επιχειρήσεις του (CoffeeXpert, Barista Academy, προσωπικό brand): η GROW τρέχει Meta Ads, κρατά τα sites/domains και λειτουργεί στην πράξη ως το IT/security help desk του — πολλά «copyright» phishing.
@@ -49,6 +49,7 @@ updated: 2026-10-27
 - Όλα τα «copyright/DMCA» και «Microsoft 365» emails χαρακτηρίστηκαν spam/phishing — καμία ενέργεια ([[2026-08-21-ninja-tune-copyright-spam-nikas]], [[2026-08-31-nikas-copyright-phishing-scam]], [[2026-09-01-coffeexpert-m365-phishing-check]], [[2026-09-15-barista-academy-copyright-spam]], [[2026-10-19-panagiotisnikas-copyright-spam]]).
 
 ## Χρονολόγιο
+- 2026-10-27/28 — baristacademy.gr: ξανά Wordfence medium για Super Forms 6.3.322 → 6.3.323 (δεν έγινε update). Ξανά αποτυχία auto-update για WPBakery 6.8.0 → 9.0.1 και Ultimate Addons 3.19.11 → 3.21.6 (CMB2 και Yoast ενημερώθηκαν). Ξανά alert για την Easy Appointments connection, ληγμένη από 2022-12-31 ([[2026-10-28-admin-eidopoiiseis]]).
 - 2026-10-27 — baristacademy.gr: Wordfence medium alert (Super Forms update)· Easy Appointments: η connection «Barista Academy ONLINE SEMINAR | Panagiotis Nikas» είναι ληγμένη από 2022-12-31 ([[2026-10-26-admin-eidopoiiseis]]).
 - 2026-10-25 — Προειδοποίηση λήξης domain lucaffe.gr (FORTH) προς info@coffeexpert.gr και Δήμο ([[2026-10-24-admin-eidopoiiseis]]).
 - 2026-10-24 — Η Βασιλική στέλνει στον Νίκα την προσφορά για την [[avek]] για έγκριση ([[2026-10-24-avek-oikonomiki-prosfora-nikas]]).

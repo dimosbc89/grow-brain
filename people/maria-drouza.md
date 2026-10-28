@@ -3,7 +3,7 @@ type: person
 title: "Μαρία Δρούζα"
 aliases: [Maria Drouza, Μαρία, «Μ», mariadrouza@gmail.com, maria@yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-10-23
+updated: 2026-10-28
 ---
 # Μαρία Δρούζα
 > Η πελάτισσα πίσω από την [[yiayia-meatballs]] — κύρια επαφή και αυτή που εγκρίνει site, game, social, μενού και κόστη.
@@ -25,6 +25,7 @@ updated: 2026-10-23
 - Βλ. [[yiayia-meatballs]].
 
 ## Χρονολόγιο
+- 2026-10-27 — Λαμβάνει το τιμολόγιο #1291 (γυρίσματα 2026-10-23) ([[2026-10-27-accounting-timologia-kartelles]]).
 - 2026-10-22 — Έλαβε τα 2 trial σενάρια του «ΤέλοςΠάγγων» ([[2026-10-22-yiayia-telospaggon-senaria]]).
 - 2026-10-19 — Λίστα αιτημάτων (site, μενού, interviews, editorial, 28η Οκτ., TikTok) ([[2026-10-20-yiayia-website-new-version]]).
 - 2026-10-16 — Στέλνει 9 εικόνες «Yiayia Pastas» ([[2026-10-16-yiayia-pastas-photos]]).

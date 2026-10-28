@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -19,7 +19,8 @@ updated: 2026-10-27
 - **Τρίτοι:** [[biz-courier]] (αποθήκη/3PL, BOX NOW)· [[epsilon-net]] (ERP, τιμολόγηση, myDATA)· Viva και Klarna ως τρόποι πληρωμής στο footer ([[2026-10-08-tandem-review-eshop-developer]]).
 - **Ομάδα GROW:** ο Δήμος (integrations, Epsilon, προϊόντα, κύρια επικοινωνία)· [[despina-velissariou]] και [[vassia-kataki]] (review design/περιεχομένου με τον developer) ([[2026-10-08-tandem-review-eshop-developer]])· η [[despina-velissariou]] έχει και τον οδηγό της συνέντευξης ([[2026-10-19-tandem-interview-questions]])· [[vassiliki-giannopoulou]] σε cc ([[2026-10-08-tandem-review-eshop-developer]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-27)
+## Τρέχουσα κατάσταση (στις 2026-10-28)
+- **Su Apparel FW 2026:** η Caroline έστειλε 2026-10-27 15:54 excel για να περαστεί στο Epsilon η νέα παραλαβή Su Apparel, αποκλειστικά για το κατάστημα Κολωνακίου· ο Δήμος απάντησε 2026-10-28 00:59 «Ready Please do a check when you have time.» Αν μπαίνει και στο e-shop: ασαφές ([[2026-10-27-tandem-su-apparel-epsilon]]). 💭 Υπόθεση: το brand είναι το «Susurrous Clothing» (susurrousclothing.com), για το οποίο ο Δήμος λαμβάνει Wordfence alerts ([[2026-10-27-admin-eidopoiiseis-a]]).
 - **BIZ LiNK / BOX NOW:** στις 2026-10-26 η BIZ αναβάθμισε το BIZ LiNK σε 1.3.2 (περιέχει διόρθωση για το Add Supply· το booking λειτουργεί) και επιβεβαίωσε ότι το BOX NOW είναι εμπορικά ενεργό με service code 167. Σειρά του Δήμου: έλεγχος μετά την αναβάθμιση και ρύθμιση Sender Profile 167 σύμφωνα με τον οδηγό της BIZ. Αντικαταβολή μόνο μέσω «Pay on the Go» της BOX NOW ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
 - Τα ελληνικά links των brands (Christian Villa, Vanessa Wu) διορθώθηκαν 2026-10-26· ο Δήμος τρέχει audit σε όλα τα links ([[2026-10-26-tandem-inquiry-links-3pl]]).
 - Πληρωμές: ο George έστειλε 2026-10-26 αποδεικτικά πληρωμής για τα #1285 και #1295 ([[2026-10-15-tandem-timologio-1285-pliromi]], [[2026-10-23-tandem-timologio-brand-identity-update-2026-10-27]]).
@@ -41,6 +42,7 @@ updated: 2026-10-27
 - [ ] Founder-led content με τους ιδρυτές — GROW/Tandem — χωρίς ημερομηνία ([[2026-10-14-tandem-social-ads-strategy]])
 - [ ] Εικόνες APPAREL (pptx) στην αρχή + διαγραφή 4 εικόνων — Δήμος — από 2026-10-21 ([[2026-10-21-tandem-pictures-apparel]])
 **Υποσχέσεις του Δήμου**
+- [x] Πέρασμα Su Apparel FW 2026 στο Epsilon — Δήμος — ✓ 2026-10-28 00:59 ([[2026-10-27-tandem-su-apparel-epsilon]])
 - [x] Creative αλλαγές στο site από τη συνάντηση της 2026-10-13 — Δήμος — εβδομάδα 2026-10-19 ([[2026-10-16-tandem-eshop-bags-epsilon]])· στο Asana «αλλαγές Tandem» (Δήμος) ✓ 2026-10-20 ([[2026-10-21-asana-snapshot]]) — 💭 Υπόθεση: πρόκειται για τις ίδιες αλλαγές.
 - [ ] «Check plugin & solutions» — Δήμος (ανάθεση από Δέσποινα 2026-08-06) — ⚠️ εκπρόθεσμο από 2026-08-07 ([[2026-10-21-asana-snapshot]])
 - [ ] Υπόλοιπα final amendments: επιλογή γλωσσών, customer service, terms & policy, διαγραφή σημείου στο κείμενο Christian Villa, Gift option, βίντεο Christian Villa, νέες φωτογραφίες drone — Δήμος/GROW — χωρίς ημερομηνία ([[2026-10-17-tandem-website-final-amendments]])
@@ -62,6 +64,7 @@ updated: 2026-10-27
 - [ ] Ευθυγράμμιση ποσοτήτων e-shop με το απόθεμα της αποθήκης Biz Courier — GROW — από 2026-09-24, κατάσταση ασαφής ([[2026-09-24-tandem-eshop-quantities]])
 
 **Από τον πελάτη και τρίτους**
+- [ ] Έλεγχος των Su Apparel FW 2026 στο Epsilon — Caroline — από 2026-10-28 ([[2026-10-27-tandem-su-apparel-epsilon]])
 - [ ] Feedback για τη γραμματοσειρά (η GROW προτείνει στοχευμένες αλλαγές αντί για γενική μείωση) — Caroline — χωρίς ημερομηνία ([[2026-10-17-tandem-website-final-amendments]])
 - [ ] Επιβεβαίωση χρωμάτων 6651/6602, βάρος του 6661 (κενό), έλεγχος ονομάτων προϊόντων, «please check» στις διορθώσεις της 2026-10-16 — Caroline — χωρίς ημερομηνία ([[2026-10-16-tandem-eshop-bags-epsilon]])
 - [ ] Gift Card: πώς θα στηθεί — [[george-andritsos]] — ανοιχτό στις 2026-10-08 ([[2026-10-08-tandem-review-eshop-developer]])
@@ -100,6 +103,7 @@ updated: 2026-10-27
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-10-27/28 — Η Caroline στέλνει το excel Su Apparel FW 2026 (μόνο για Κολωνάκι) για το Epsilon· ο Δήμος το περνά και ζητά έλεγχο ([[2026-10-27-tandem-su-apparel-epsilon]]).
 - 2026-10-26 18:20–20:37 — BIZ: αναβάθμιση BIZ LiNK σε 1.3.2 με έγκριση του Δήμου· το booking λειτουργεί· BOX NOW εμπορικά ενεργό με service code 167, οδηγός για Sender Profile· αντικαταβολή μόνο «Pay on the Go» ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
 - 2026-10-26 14:43–14:44 — Ο George στέλνει αποδεικτικά πληρωμής για #1285 και #1295 και VIES check· ζητά να φύγει το «TANDEM BOUTIQUE» από τα τιμολόγια ([[2026-10-15-tandem-timologio-1285-pliromi]], [[2026-10-23-tandem-timologio-brand-identity-update-2026-10-27]]).
 - 2026-10-26 13:30 — Η Caroline εγκρίνει Google Ads, META 150 €/μήνα και TikTok organic, δίνει λίστα ανταγωνιστών ([[2026-10-14-tandem-social-ads-strategy]]).
