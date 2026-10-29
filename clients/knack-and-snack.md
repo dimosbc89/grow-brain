@@ -3,7 +3,7 @@ type: client
 title: "Knack & Snack"
 aliases: [Knack, Knack and Snack, Knack & Snack, @knackandsnack, knackandsnack@gmail.com]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 # Knack & Snack
 > Πελάτης εστίασης της GROW για σχεδόν έναν χρόνο (στις 2026-08): Google Ads, social media management και γυρίσματα· από εδώ βγήκε ο κανόνας του Δήμου για τα κείμενα διαφημίσεων.
@@ -23,6 +23,7 @@ updated: 2026-10-28
 - Google Ads: στρατηγική split του PMax σε walk-ins (πρώτα, για τουρίστες) και delivery/pickup ([[2026-10-20-prohgoumenes-synomilies-claude]]). Αν έχει υλοποιηθεί: ασαφές.
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Διορθωμένη αφίσα 11/11 («Stand up στο μπαλκόνι» πάνω, «Unpopular Opinion» κεντρικό από κάτω, χωρίς «stand up comedy show», Μαίρη σε ίδια κλίμακα, οι δύο Γιώργοι όχι δίπλα) + link κρατήσεων — Μαρίνα — **έως 2026-10-29** ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-29]])
 - [ ] Εξόφληση υπολοίπου 1.215,20 € — Knack & Snack — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
 - [ ] Αποστολή ΤΠΥ για τα 248 € (πληρωμή Σήλιας, φωτογράφιση «Yιάγια») — Knack & Snack — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
 - [x] Αφίσα stand-up 11/11 («Unpopular opinion») → Σαββούλα — Μαρίνα — ✓ 2026-10-27 17:21 ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-28]])
@@ -46,6 +47,7 @@ updated: 2026-10-28
 - Προτεινόμενη δομή παραδοτέων (2026-08-06, αναμένει αποδοχή): Meta 3–4 posts/εβδ. + 7 Stories/εβδ.· TikTok 3–4 posts/εβδ.· 1–2 επαγγελματικά γυρίσματα/μήνα με τη Σήλια (14–16 προϊοντικά βίντεο + 20–25 φωτογραφίες ανά γύρισμα)· 1–2 γυρίσματα Reels/TikTok/μήνα από GROW ([[2026-08-06-knack-snack-organosi-synergasias]]).
 
 ## Χρονολόγιο
+- 2026-10-28 — Η Σαββούλα δίνει διορθώσεις στην αφίσα 11/11 και ζητά τελική + link έως 29/10 ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-29]]).
 - 2026-10-27 — Λογιστήριο GROW: καρτέλα με υπόλοιπο 1.215,20 € (μετά την πίστωση 248 € της Σήλιας)· ζητείται ΤΠΥ ([[2026-10-27-accounting-timologia-kartelles]]).
 - 2026-10-27 — Η Σαββούλα ξαναρωτά για την αφίσα 11/11 (15:23)· η Μαρίνα τη στέλνει 17:21 ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-28]]).
 - 2026-10-26 — Η Σαββούλα ζητά ξανά αφίσα + link για 11/11· στέλνει φωτογραφίες και 6 συμμετέχοντες για 18/11 «Improv night με Κασκαρίκες» (είσοδος 7 €) ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-27]]).

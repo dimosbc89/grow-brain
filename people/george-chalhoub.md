@@ -3,7 +3,7 @@ type: person
 title: "George Chalhoub"
 aliases: [George, Γιώργος Chalhoub, chalhoub.g@gmail.com, george@tandemconcept.gr]
 status: ενεργός
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 # George Chalhoub
 > Συνιδιοκτήτης της [[tandem-concept]], μαζί με τη σύντροφό του [[caroline-hafouri]]. Χειρίζεται Epsilon, BIZ Courier, πληρωμές και τις σημειώσεις για το e-shop.
@@ -32,6 +32,7 @@ updated: 2026-10-27
 - —
 
 ## Χρονολόγιο
+- 2026-10-28 — Διορθώσεις ποσοτήτων Su Apparel στο Epsilon, πρόθεμα SU- στα scan codes, ερώτηση BOX NOW ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-29]])· forward portfolio φωτογράφου ([[2026-10-28-tandem-portfolio-fotografou]]).
 - 2026-10-26 — «Inquiry» για ελληνικά links και 3PL/Box Now· αποδεικτικά πληρωμής #1285 και #1295, VIES check ([[2026-10-26-tandem-inquiry-links-3pl]], [[2026-10-15-tandem-timologio-1285-pliromi]], [[2026-10-23-tandem-timologio-brand-identity-update-2026-10-27]]).
 - 2026-10-14 — Ζητά διόρθωση εταιρικών στοιχείων στο τιμολόγιο βάσει ΓΕΜΗ [στοιχείο παραλείφθηκε] ([[2026-10-15-tandem-timologio-1285-pliromi]]).
 - 2026-10-12 — Σημειώσεις για να ολοκληρωθεί το e-shop ([[2026-10-12-tandem-eshop-final-notes]]).

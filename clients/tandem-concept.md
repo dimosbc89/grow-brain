@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -34,6 +34,9 @@ updated: 2026-10-28
 - Στο ημερολόγιο δεν υπάρχει προγραμματισμένη συνάντηση Tandem μετά τις 2026-10-13 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Epsilon Su Apparel: ποσότητα 2 σε Blouse S047 Chili, Blouse S600 chocolate, Cardigan S031 Moka, Skirt S99 Nero + πρόθεμα brand («SU-…») στα scan codes — Δήμος — από 2026-10-28 ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-29]])
+- [ ] Απάντηση στον George για το BOX NOW test — Δήμος — ρωτήθηκε ξανά 2026-10-28 ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-29]])
+- [ ] Portfolio φωτογράφου (Andrew Chrmds) που προώθησε ο George — τι ζητείται: ασαφές ([[2026-10-28-tandem-portfolio-fotografou]])
 - [x] Εικόνες APPAREL στο site — Δήμος — ✓ 2026-10-23 ([[2026-10-21-tandem-pictures-apparel-update-2026-10-23]])
 - [x] Πληρωμή τιμολογίου #1295 (1.953,00 €) — Tandem — αποδεικτικό 2026-10-26· επιβεβαίωση είσπραξης από λογιστήριο εκκρεμεί ([[2026-10-23-tandem-timologio-brand-identity-update-2026-10-27]])
 - [x] Πληρωμή τιμολογίου #1285 (website τελική + fee β' μισού Οκτωβρίου) — Tandem — αποδεικτικό 2026-10-26 ([[2026-10-15-tandem-timologio-1285-pliromi]])
@@ -103,6 +106,7 @@ updated: 2026-10-28
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-10-28 — Ο George ελέγχει το Epsilon: 4 είδη Su Apparel θέλουν ποσότητα 2· ζητά πρόθεμα brand στα scan codes και ρωτά για το BOX NOW test ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-29]]). 19:08 προωθεί portfolio φωτογράφου ([[2026-10-28-tandem-portfolio-fotografou]]).
 - 2026-10-27/28 — Η Caroline στέλνει το excel Su Apparel FW 2026 (μόνο για Κολωνάκι) για το Epsilon· ο Δήμος το περνά και ζητά έλεγχο ([[2026-10-27-tandem-su-apparel-epsilon]]).
 - 2026-10-26 18:20–20:37 — BIZ: αναβάθμιση BIZ LiNK σε 1.3.2 με έγκριση του Δήμου· το booking λειτουργεί· BOX NOW εμπορικά ενεργό με service code 167, οδηγός για Sender Profile· αντικαταβολή μόνο «Pay on the Go» ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
 - 2026-10-26 14:43–14:44 — Ο George στέλνει αποδεικτικά πληρωμής για #1285 και #1295 και VIES check· ζητά να φύγει το «TANDEM BOUTIQUE» από τα τιμολόγια ([[2026-10-15-tandem-timologio-1285-pliromi]], [[2026-10-23-tandem-timologio-brand-identity-update-2026-10-27]]).

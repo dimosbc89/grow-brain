@@ -3,7 +3,7 @@ type: admin
 title: "GROW 360 LTD (UK εταιρεία)"
 aliases: [GROW 360, GROW 360 LTD, UK εταιρεία, UK company, βρετανική εταιρεία]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 # GROW 360 LTD
 > Η βρετανική εταιρεία του Δήμου (μοναδικός director/shareholder, κάτοικος Ελλάδας). Τον Οκτώβριο 2026 πέρασε σε νέο λογιστή, την [[the-accountancy-partnership]], και τον Νοέμβριο 2026 έχει τις πρώτες προθεσμίες της στην Companies House.
@@ -29,6 +29,7 @@ updated: 2026-10-28
 - Η YCF θα ανανεώσει αυτόματα τις υπηρεσίες της στις 2026-11-10, αν δεν ακυρωθούν ([[2026-10-13-yourcompanyformations-renewal]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Statutory Letter (YCF digital mail, 2026-10-28) — άνοιγμα PDF, προώθηση στην TAP αν είναι HMRC (💭 ίσως ο CT κωδικός) — Δήμος — πρωτότυπο ως ~2026-11-11 ([[2026-10-28-grow360-ycf-statutory-letter]])
 - [ ] Ώρα για onboarding call με την Ellie — Δήμος / [[marina-papanastasiou]] — από 2026-10-20 ([[2026-10-20-accountancy-partnership-onboarding]])
 - [ ] Πληρωμή P-388149 — Δήμος — **έως 2026-10-30** ([[2026-10-20-accountancy-partnership-invoice-p388149]], [[2026-10-27-tap-ypenthymisi-p388148-p388149]])
 - [ ] Πληρωμή του τιμολογίου TAP P-388148 (annual holding/registration fee· ποσό μόνο στο PDF, ασαφές) — Δήμος — «as soon as possible», εκκρεμεί από 2026-10-19· νέα υπενθύμιση: **έως 2026-10-30** ([[2026-10-19-accountancy-partnership-account-blocked]], [[2026-10-27-tap-ypenthymisi-p388148-p388149]])
@@ -54,6 +55,7 @@ updated: 2026-10-28
 - 2026-10-02 — Η Μαρίνα αναλαμβάνει να επιλέξει λογιστή και να ρωτήσει αν ακυρώνονται οι υπηρεσίες YCF ([[2026-10-02-grow360-ycf-renewal-accounting]]).
 
 ## Χρονολόγιο
+- 2026-10-28 — YCF: σκαναρισμένο Statutory Letter για τη GROW 360 LTD (αποστολέας μόνο στο PDF) ([[2026-10-28-grow360-ycf-statutory-letter]]).
 - 2026-10-27 — YCF: υπενθύμιση ανανέωσης 2026-11-10 (339,60)· ο Δήμος «we don't want to renew»· η YCF προτείνει να μείνουν μόνο Registered Office £29 + Officer's Address £28 ([[2026-10-27-grow360-ycf-ananeosi]]). TAP (Natalie Hughes): υπενθύμιση P-388148/P-388149 έως 2026-10-30 ([[2026-10-27-tap-ypenthymisi-p388148-p388149]]).
 - 2026-10-24 — YCF: νέα υπενθύμιση, Confirmation Statement έως 2026-11-23 ([[2026-10-24-grow360-confirmation-statement]]).
 - 2026-10-23 — Η TAP ζήτησε μέσω Client Hub το Companies House auth code — καθυστέρηση = κίνδυνος προστίμων HMRC ([[2026-10-23-accountancy-missing-setup]]).

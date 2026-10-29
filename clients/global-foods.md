@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -28,6 +28,7 @@ updated: 2026-10-28
 - Στο ημερολόγιο: «Πρεσβεία Global - Despina» 2026-10-22 16:00 — 💭 Υπόθεση: αφορά τη Global Foods, ασαφές ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] «Landing Offer» — προσφορά για εισαγωγική σελίδα στο site τους «όπως Overoll» — Δήμος (Asana, ανάθεση Μαρίνας 2026-10-26, χωρίς προθεσμία) ([[2026-10-29-admin-eidopoiiseis]])
 **Νέα στις 2026-10-28**
 - [ ] Reel Unique x Zeo με τις αλλαγές της Ελπίδας (λογότυπα αρχή/τέλος, χωρίς άτομα 0:15/0:18, ΖΕΩ logo περισσότερο) — [[marina-papanastasiou]] / Δέσποινα — **Πέμπτη 2026-10-29** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]])
 - [ ] Τελικό δισέλιδο Οικονομικού Οδηγού (μικρή αλλαγή κειμένου) προς έγκριση, μετά αρχείο με προδιαγραφές — Δέσποινα — **Πέμπτη 2026-10-29** ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]])
