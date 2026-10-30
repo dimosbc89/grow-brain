@@ -3,7 +3,7 @@ type: client
 title: "Exodikastikos.info"
 aliases: [Exodikastikos, exodikastikos.info, Εξωδικαστικός]
 status: σε αναμονή
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 # Exodikastikos.info
 > Πελάτης της GROW για SEO: η GROW έκανε SEO audit, 90ήμερο πλάνο και μετάβαση του site από WordPress σε Astro.
@@ -23,6 +23,7 @@ updated: 2026-10-20
 - Μετάβαση από WordPress σε Astro ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Χρονολόγιο
+- 2026-10-29 — Νέο lead από τη φόρμα (ρύθμιση οφειλών, φυσικό πρόσωπο) ([[2026-10-30-admin-eidopoiiseis]]).
 - Ασαφής ημερομηνία — SEO audit, 90ήμερο πλάνο, migration ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Οικονομικά

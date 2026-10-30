@@ -3,7 +3,7 @@ type: client
 title: "Nomud"
 aliases: [NOMUD, Nomud O.E., nomud.de]
 status: ενεργός
-updated: 2026-10-23
+updated: 2026-10-30
 ---
 # Nomud
 > Πελάτης με video shootings και Google Ads· η GROW χρειάζεται τον λογαριασμό Viva και τους κωδικούς του για κάποια ρύθμιση πληρωμών (σκοπός ασαφής).
@@ -31,6 +31,7 @@ updated: 2026-10-23
 - 2026-08-07: χρειάζονται και οι κωδικοί Viva (ο Δήμος: «nai») ([[2026-08-07-nomud-logariasmos-viva]]).
 
 ## Χρονολόγιο
+- 2026-10-30 — Ο Νίκος Μουλίνος ξαναζητά το brief (από 2026-10-21) ([[2026-10-30-nikos-moulinos-timologio-a1014]]).
 - 2026-10-22 — Η Βασιλική έστειλε τα 2 φυλλάδια Α5 στη Nomud για επιβεβαίωση· η Βάσια έδωσε εντολή εκτύπωσης στην Epilogi (1000+1000, 190 € + ΦΠΑ, 2–3 μέρες) ([[2026-10-22-nomud-fylladia-egkrisi]], [[2026-10-20-nomud-a5-fylladia-update-2026-10-23]]).
 - 2026-10-21 — Ο freelancer [[nikos-moulinos]] αναλαμβάνει και Google Ads Nomud· ζητά brief, ο Δήμος υπόσχεται «μέσα στην ημέρα» ([[2026-10-05-google-ads-freelancer-moulinos-update-2026-10-22]]).
 - 2026-10-21 — Asana: project «NOMUD» (από 2026-03-28) με 7 ανοιχτά και 10 ολοκληρωμένα από 2026-07-01: video qawha 1 ✓ 10-07, προσφορά εκτύπωσης ✓ 10-01, post ACF ✓ 09-25, εταιρικές κάρτες / φυλλάδιο nomud / καρτολίνα Α5 ✓ 09-23, linktree ✓ 09-22, video fixers ✓ 09-14, coffee festival σημειώσεις ✓ 09-10, προετοιμασία γυρίσματος 08.09 ✓ 09-08. Ανοιχτά: νέο site + promo, Google shop (Δήμος), νέα φυλλάδια ([[2026-10-21-asana-snapshot]]).

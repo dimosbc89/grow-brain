@@ -3,7 +3,7 @@ type: admin
 title: "Συνδρομές & εργαλεία λογισμικού"
 aliases: [subscriptions, SaaS, εργαλεία, Anthropic, Claude, Apify, Asana, HubSpot, DataForSEO, Scrape Creators, Google Workspace, ActiveCampaign]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 # Συνδρομές & εργαλεία λογισμικού
 > Τα SaaS που πληρώνει η GROW (AI, scraping, SEO data, project management, CRM, email). Οι αποδείξεις και τα τιμολόγια πάνε στη Βασιλική ή στη Δέσποινα για το λογιστήριο.
@@ -47,6 +47,7 @@ updated: 2026-10-28
 - —
 
 ## Χρονολόγιο
+- 2026-10-29 — **Revolut: «Your account is restricted»** (λογαριασμός ασαφής)· Edenred παραγγελία #1208653 386,78 € «Action required» (κατάθεση)· Meta receipts Vet Center 59,06 €, Knack Main 69,83 €, Dining Society 19,22 €· 3CX αλλαγή IP ([[2026-10-30-admin-eidopoiiseis]]).
 - 2026-10-27 — Asana: νέα απόρριψη πληρωμής 134,90 (13:20)· 18:07 «Thanks for your payment» — εξοφλήθηκαν 134,90 € (απόδειξη INVEU10925411). Revolut Business (GROW 360 LTD): προωθητικό referral £600, χωρίς ενέργεια ([[2026-10-27-admin-eidopoiiseis-a]]).
 - 2026-10-27/28 — Meta: product browsing **ενεργό από 2026-10-28** στα sales ads του Antemisaris· Meta One στο portfolio KALISPERA από 2026-11-10 (ανοίγει αυτόματα)· απόδειξη 2,13 € για παλιά αποτυχημένη χρέωση στο account Women's Golf Day· ads approved για Machevuoi, Kukos the bar, Louis Bistrot. Midjourney: Basic Plan $10 (2026-10-21 → 11-21) με ισόποσο credit note (πίστωση στο balance). Hellas Direct: αυτόματη ανανέωση FlexiPay ασφάλειας οχήματος, 333,15 € (12 × 27,76 €), ⚠️ αντίφαση στην ημερομηνία 1ης δόσης (2026-11-06 ή 07) ([[2026-10-28-admin-eidopoiiseis]]).
 - 2026-10-26/27 — Meta: payment declined στο ad account Grandpa's· ειδοποίηση product browsing από 2026-10-28 (Antemisaris). 3CX: υπενθύμιση ανανέωσης πριν τις 2026-11-05 (βλ. [[symvolaia-leasing]]). Revolut: ενημερωτικό αναδιοργάνωσης της Revolut Bank UAB (2–5/12, αφορά μόνο γαλλικούς λογαριασμούς, καμία ενέργεια) ([[2026-10-26-admin-eidopoiiseis]]).

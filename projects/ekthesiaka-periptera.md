@@ -3,7 +3,7 @@ type: project
 title: "Εκθεσιακά περίπτερα (booth design & build)"
 aliases: [εκθεσιακά περίπτερα, περίπτερα, booths, expo design & build, expo booths]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 # Εκθεσιακά περίπτερα
 > Γραμμή υπηρεσιών της GROW για σχεδιασμό και κατασκευή custom εκθεσιακών περιπτέρων, μαζί με περιφερειακές υπηρεσίες. Εδώ συγκεντρώνονται όλοι οι πελάτες και τα leads περιπτέρων.
@@ -57,6 +57,7 @@ updated: 2026-10-28
 - Πρώτα στέλνουμε δημιουργικό πλαίσιο (κάτοψη, φωτορεαλιστικό, activations) και αναλυτική κοστολόγηση μετά το feedback (GameStuff, 2026-09-07) ([[2026-09-07-gamestuff-fantasy-festival-booth]]).
 
 ## Χρονολόγιο
+- 2026-10-29 — XENIA/Antemisaris: προσφορά Expopiece, αναμένει υπογραφή + προκαταβολή. Η Μαρίνα δοκίμασε τη φόρμα «Εκθεσιακό περίπτερο» του site (auto-reply) ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-30]], [[2026-10-30-admin-eidopoiiseis]]).
 - 2026-10-27 — Plastica: πληρώθηκε η προκαταβολή #1297. XENIA: Option 2 (square presentation) από τον Ζάχο· κάτοψη 8,5 × 11 και αίτημα κατασκευής πίσω από το video wall προς Expopiece· αίτημα kW προς Audio-tech ([[2026-10-26-plastica-offer-kataskevastika-update-2026-10-28]], [[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-28]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]]).
 - 2026-10-26 — Plastica: εγκρίθηκαν τα κατασκευαστικά, προκαταβολή #1297, οθόνη 75 450 €. XENIA: νησίδα 93,5 τ.μ. Hall 2 για Antemisaris, LED wall Audio-tech, ερωτήσεις/απαντήσεις με Expopiece. Η Qorect πουλά app Leads Manager σε εκθέτες Xenia (240 € + ΦΠΑ) — ιδέες για το δικό μας lead follow-up ([[2026-10-26-plastica-offer-kataskevastika]], [[2026-10-20-enoikiasi-othonon-botsaris-update-2026-10-27]], [[2026-10-26-antemisaris-xenia-katopsi-forum]], [[2026-10-16-audiotech-led-xenia]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]], [[2026-10-26-xenia-leads-manager-qorect]]).
 - 2026-10-22 — Plastica/[[argyroplastics]]: η [[epilogin]] αποσύρθηκε από την κατασκευή· ανοιχτή μόνο η [[expopiece]] ([[2026-10-20-plastica-prosfora-kataskevasti-update-2026-10-23]]).

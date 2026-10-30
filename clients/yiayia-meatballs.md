@@ -3,7 +3,7 @@ type: client
 title: "Υιάγια (Yiayia Meatballs)"
 aliases: [Υιάγια, Yiayia, Yiayia Meatballs, Υιάγια Home of Meatballs, Γιάγια, yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 # Υιάγια (Yiayia Meatballs)
 > Εστιατόριο με κεφτεδάκια («Home of Meatballs») της [[maria-drouza]]· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influencers, μενού, packaging και γυρίσματα.
@@ -83,6 +83,7 @@ updated: 2026-10-28
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- 2026-10-29 — Εκτυπωμένη χαρτοπετσέτα 24×24: η Μαρία Δρούζα βρίσκει το σχέδιο «φανταστικό», ανησυχεί για χρώμα/κεντράρισμα· ο Τζεβελέκος θέλει απευθείας επικοινωνία GROW–εκτυπωτή· η Βασιλική έγραψε στον κ. Ντούγια (NAK Company) ([[2026-10-29-yiayia-xartopetseta-maketa]]).
 - 2026-10-27 — Τιμολόγιο #1291 για τα γυρίσματα της 2026-10-23 ([[2026-10-27-accounting-timologia-kartelles]]).
 - 2026-10-23/24 — Η Μαρία ικανοποιημένη από το shooting της 2026-10-23· η Βασιλική έστειλε νέα πρόταση για το post του pasta day· φωτογραφίες shooting δεν έχουν παραδοθεί ακόμα ([[2026-10-23-yiayia-shooting-feedback]]).
 - 2026-10-23 — Τιμολόγιο #1293 για εκτύπωση/τοποθέτηση 2 ταμπελών velcro (ποσό μόνο στο PDF)· έγινε το shooting 09:30 ([[2026-10-23-yiayia-timologio-velcro]]).

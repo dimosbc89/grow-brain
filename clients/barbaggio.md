@@ -3,7 +3,7 @@ type: client
 title: "Barbaggio"
 aliases: [Barbagio, Barbaggio site 2026]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 # Barbaggio
 > Πελάτης για τον οποίο η GROW ετοιμάζει νέο site το 2026 (κείμενα έτοιμα από 2026-10-08).
@@ -36,6 +36,7 @@ updated: 2026-10-28
 - —
 
 ## Χρονολόγιο
+- 2026-10-29 — Ο προμηθευτής: τα αυτοκόλλητα προχώρησαν· ζητά **σήμερα (29/10) τις μακέτες των κουτιών** για να προλάβουν παραγωγή πριν τα Χριστούγεννα. Το email πήγε στη Δέσποινα (off ως 2/11)· απάντηση δεν φαίνεται ([[2026-10-27-barbaggio-aftokollita-update-2026-10-30]]).
 - 2026-10-27 — Αίτημα αναπτύγματος κουτιών και παραγγελία αυτοκόλλητων 7/10 cm (2.500 το καθένα), cc Δήμος, Μαρίνα, Somebread1993@gmail.com ([[2026-10-27-barbaggio-koutia-anaptygma]], [[2026-10-27-barbaggio-aftokollita]]).
 - 2026-10-21 — Asana: project «Barbaggio» (δημιουργήθηκε 2025-10-07· sections Creatives, Branding, Website, Extras, Performance) με 10 ανοιχτά, όλα εκπρόθεσμα ή χωρίς due, και κανένα ολοκληρωμένο στο harvest. Τρέχουν: site (sitemap, design, «Site Barbaggio all» στον Δήμο), σχεδιαστικά για τα καταστήματα Ιθώμης (Βύρωνας) και Τμώλου, menu/price tags, van magnet sticker, review QR, Α5 legal prints ([[2026-10-21-asana-snapshot]]).
 - 2026-10-09 — «Δέσποινα Barbaggio εκεί» 10:30 ([[2026-07-20_2026-11-03]]).

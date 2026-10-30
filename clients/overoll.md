@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -70,6 +70,7 @@ updated: 2026-10-28
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-10-29 — Promoters 29/10 (Πανόρμου, Πραξιτέλους, Γλυφάδα) και νέα πρόσληψη για **30/10 10:00–14:00** (Ν. Σμύρνη, Αιγάλεω κ.ά.). Αφίσα αναζήτησης προσωπικού Νέας Ερυθραίας· story ξανά 3/11. Η Overoll ζητά προτάσεις **panettone packaging** και απαντήσεις στις κριτικές εκτός Πραξιτέλους 25/10. Asana «giveaway ads» άλλαξε 29/10 ([[2026-10-29-overoll-promoters-30-10-kai-afisa]], [[2026-10-21-overoll-panettone-packaging-update-2026-10-30]], [[2026-10-26-overoll-kritikes-19-25-10-update-2026-10-30]]).
 - 2026-10-27 — Λογιστήριο GROW: τιμολόγιο #1298 (promoters 27/29/30 Οκτ.), υπόλοιπο 5.068,40 € → 3.068,40 € μετά την κατάθεση της Overoll. Η Μαρίνα στέλνει στη SK Advisors τους promoters της 29/10 ([[2026-10-27-accounting-timologia-kartelles]], [[2026-10-27-overoll-proslipseis-promoters-29-10]]).
 - 2026-10-27 — Turns 6: η Βάσω διαλέγει sticker πρόταση 1 και 3.000 τμχ (310 € + ΦΠΑ)· εγκρίνει την κάρτα PR boxes (θα την τυπώσει η ίδια)· η Ιωάννα στέλνει εκτυπωτικά sticker & κάρτας, παράδοση stickers πιθανότατα 2026-10-29 στην Πραξιτέλους. Η Μαρίνα δίνει την κατανομή promoters ανά κατάστημα. Η Ιωάννα υπενθυμίζει στον Δήμο το «giveaway ads» (λήγει 2026-10-31) ([[2026-10-20-overoll-turns-6-event-update-2026-10-28]], [[2026-10-26-overoll-pinakes-promoters-27-10-update-2026-10-28]], [[2026-10-27-asana-eidopoiiseis]]).
 - 2026-10-26 21:18 — η Μαρίνα στέλνει στη Βάσω 3 PDF πίνακες (Σταματοπούλου, Ζάκα, Γιαννοπούλου) για τους promoters «Overoll Turns 6» της 27/10 10:00–14:00 ([[2026-10-26-overoll-pinakes-promoters-27-10]]).

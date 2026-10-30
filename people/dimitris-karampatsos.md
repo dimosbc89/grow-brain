@@ -3,7 +3,7 @@ type: person
 title: "Δημήτρης Καραμπάτσος"
 aliases: [Dimitris Karampatsos, Δ. Καραμπάτσος, Δημήτρης, dfkarampatsos@gmail.com]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 # Δημήτρης Καραμπάτσος
 > Βασική επαφή της GROW για το [[hellenic-heritage-evolution]]: HHE, Heritage Escape και Τσικλητήρεια. Παίρνει τα reports των Meta καμπανιών και συμμετέχει στα τακτικά follow-ups.
@@ -21,6 +21,7 @@ updated: 2026-10-20
 - [ ] Απόφαση για budget τουλάχιστον 700 € και για τη χορηγία Viber — ο ίδιος — από 2026-08-09 ([[2026-08-09-tsikliteria-meta-campaigns-report]])
 
 ## Χρονολόγιο
+- 2026-10-29 — «Οκ, αύριο θα τα έχετε» — δικαιολογητικά ΕΟΤ έως 2026-10-30 ([[2026-10-29-hhe-eot-ekkremotites]]).
 - 2026-10-05 — «Grow x HHE» ([[2026-07-20_2026-11-03]]).
 - 2026-09-15 — «Τσικλητήρεια follow up» ([[2026-07-20_2026-11-03]]).
 - 2026-08-06 — Λαμβάνει από τον Δήμο screenshots και ανάλυση των Meta καμπανιών ([[2026-08-09-tsikliteria-meta-campaigns-report]]).

@@ -3,7 +3,7 @@ type: client
 title: "Φαρμακείο Πανόπουλος Αχαρνές (pharmacypan.gr)"
 aliases: [PharmacyPan, pharmacypan.gr, Φαρμακείο Πανόπουλος, Πανόπουλος, Pharmacy Panopoulos, ΠΑΝΟΠΟΥΛΟΣ ΑΚΟΥΣΤΙΚΑ]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 # Φαρμακείο Πανόπουλος Αχαρνές (pharmacypan.gr)
 > Φαρμακείο στις Αχαρνές του [[paris-panopoulos]]· η GROW κρατά domain/email του pharmacypan.gr, γράφει άρθρα για το site και κάνει γυρίσματα.
@@ -40,6 +40,7 @@ updated: 2026-10-28
 - 2026-08-07 — Το email «Webmail Revalidation» για το axarnes@pharmacypan.gr είναι phishing/spam· καμία ενέργεια ([[2026-08-07-pharmacypan-phishing-spam]]).
 
 ## Χρονολόγιο
+- 2026-10-29 — Ο Ανδρίτσος ολοκλήρωσε τα κείμενα των email ραντεβού και έστησε Brevo (συλλογή emails· campaigns/αυτόματο newsletter σε 2ο χρόνο) ([[2026-10-20-pharmacypan-auto-emails-update-2026-10-30]]).
 - 2026-10-27 — Καρτέλα πελάτη: υπόλοιπο 1.829,00 €· μαζί τιμολόγιο #1299 (Twenty Seven) ([[2026-10-27-accounting-timologia-kartelles]]).
 - 2026-10-22 — Ο Γιώργος Ανδρίτσος έκανε όλες τις αλλαγές στα αυτόματα emails. Ο Πάρις θα ελέγξει τα άρθρα το ΣΚ και ζητά **επειγόντως** τις παρουσιάσεις για τα ραντεβού του ([[2026-10-20-pharmacypan-auto-emails-update-2026-10-23]], [[2026-10-13-pharmacypan-arthra-elegxos]]).
 - 2026-10-21 — Asana: στο «Pharmacy Panopoulos» ολοκληρώθηκαν από 2026-09-08 έως 2026-10-16 posts για Eviol, chewy vites, LRP, Apivita (-40%, 1/10–10/10), Vichy, Caudalie (event), «ΠΡΟΣΦΟΡΑ 2ο προϊόν -50%», «Κλήρωση 200 πόντοι», «Μήνας πρόληψης Καρκίνου», «Φάρμακα υψηλού κόστους», «Ψείρες», καθώς και «qr reviews - plexiglass» (2026-09-10), «βιτρίνα Χαλάνδρι» (2026-09-08) και «ανανέωση domain» — Δήμος (2026-09-11). Στις 2026-10-13 ✓ «πρόταση συνεργασίας - φαρμακείο & ακουστικά» (Βασιλική) και «presentation - φαρμακείο & ακουστικά» (Φωτεινή). Στο «ΠΑΝΟΠΟΥΛΟΣ ΑΚΟΥΣΤΙΚΑ» 4 ανοιχτά, 3 εκπρόθεσμα ([[2026-10-21-asana-snapshot]]).

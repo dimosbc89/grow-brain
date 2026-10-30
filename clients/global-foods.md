@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -90,6 +90,7 @@ updated: 2026-10-29
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-10-29 — Οικονομικός οδηγός: η Μαρίνα έστειλε preview, PDF Α4 και 2 εκδοχές στοίχισης· η Ελπίδα οκ σε κείμενο/στοίχιση αλλά θέλει αλλαγή στην κατανομή παραγράφων (μεγαλύτερα γράμματα/κενά) — όχι τελική έγκριση. Reel Unique x ZEO: updated video 11:14· νέα σχόλια 12:15 (πλάνο 04 να κρατά/κόσμος, να φαίνονται γλυκά + 2 πλάνα γλυκών) ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-30]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-30]]).
 - 2026-10-27 — Reel Unique x Zeo στάλθηκε· η Ελπίδα ζητά λογότυπα αρχή/τέλος· η Μαρίνα: «παλιά πρακτική… οι αλλαγές σας είναι προς την αντίθετη κατεύθυνση», τελικά νέο βίντεο Πέμπτη 2026-10-29. Δισέλιδο Οικονομικού Οδηγού: 6 εκδοχές μέσα στη μέρα, «Μας αρέσει», τελικό Πέμπτη. Τελικά ΔΤ Detroit από τον πελάτη + αίτημα ανάρτησης στα sites. Raw Πρεσβείας (link έως 2026-12-27) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]], [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]], [[2026-10-09-global-unique-nea-mas-update-2026-10-28]], [[2026-10-27-globalfoods-arxeia-italiki-presveia]]).
 - 2026-10-26 — Η Δέσποινα στέλνει posts 28ης Οκτωβρίου· η Ελπίδα εγκρίνει Unique, για Global ζητά να μην ξεκινά με prosciutto cotto· η Μαρίνα στέλνει νέο βίντεο, η Ελπίδα: «Χωρίς το κρασί και είμαστε μια χαρά». Η Δέσποινα δίνει χρονοδιάγραμμα βίντεο (reel ZEO έως 2026-10-27, Detroit–Global & ZEO Bakers–Unique έως τέλος εβδομάδας, μετά Detroit–Unique & Πρεσβεία–Global)· η Ελπίδα «Επείγομαι για ΖΕΩ κ Unique», η Μαρίνα: ΖΕΩ σε προτεραιότητα. Το accounting στέλνει τιμολόγιο #1296 + καρτέλα πελάτη στη διοίκηση ([[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]], [[2026-10-26-globalfoods-timologio-presveia]]).
 - 2026-10-24 — Η Ελπίδα στέλνει reminders σε ~10 threads (report, κριτικές, καμπάνιες, social, videos, Carozzi, εκκρεμότητες, Global App, Rummo). Ο Δήμος στέλνει report 10/09–11/10 και στρατηγική Google Reviews. Videography: απάντηση αρχές Νοεμβρίου ([[2026-10-20-globalfoods-google-ads-report-update-2026-10-26]], [[2026-10-21-globalfoods-google-kritikes-update-2026-10-26]], [[2026-10-08-globalfoods-videography-proposal-update-2026-10-26]], [[2024-07-11-globalfoods-global-app-pedia]]).

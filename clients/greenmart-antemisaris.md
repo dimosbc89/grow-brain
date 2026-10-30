@@ -3,7 +3,7 @@ type: client
 title: "Greenmart / Antemisaris"
 aliases: [Antemisaris, Αντεμισάρης, Greenmart, greenmart.gr, antemisaris.gr]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 # Greenmart / Antemisaris
 > Η εταιρεία Antemisaris με το e-shop Greenmart (κήπος/φυτά/εργαλεία, π.χ. βολβοί, Stihl)· η GROW κάνει social posts, γυρίσματα, υποστήριξη σε εκθέσεις (XENIA 2026, Olympic Yacht Show) και τοποθέτηση προϊόντων στο Κορωπί.
@@ -35,7 +35,9 @@ updated: 2026-10-28
 - [ ] Task για την τοποθέτηση προϊόντων Κορωπί («2026 Selection - FINAL Range Grow.xlsx» + logo Harmony) — [[ioanna-chalkiadaki]] — ο Δήμος ρώτησε 2026-08-13 αν μπήκε task· απάντηση δεν φαίνεται ([[2026-08-13-antemisaris-koropi-range-harmony]])
 - [x] Ρόλος GROW στο XENIA 2026: σχεδιασμός περιπτέρου (✓ 2026-10-23, [[2026-10-23-antemisaris-xenia-periptero-protaseis]])
 - [x] Σχόλια/επιλογή μίας από 3 προσεγγίσεις περιπτέρου — Antemisaris — ✓ 2026-10-27: **Option 2 (square presentation)** ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-28]])
-- [ ] Προσαρμογή Option 2 στη νησίδα 8,5 × 11 + νέα κάτοψη προς Expopiece — [[despina-velissariou]] / [[ioanna-chalkiadaki]] — **Πέμπτη 2026-10-29** ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]])
+- [x] Προσαρμογή Option 2 στη νησίδα 8,5 × 11 + νέα κάτοψη προς Expopiece — ✓ 2026-10-29 (Μαρίνα) ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-30]])
+- [ ] **Υπογραφή οικονομικής προσφοράς Expopiece + απόδειξη προκαταβολής** — GROW (💭 Υπόθεση: Δήμος) — «άμεσα», από 2026-10-29 15:21 ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-30]])
+- [ ] Έγκριση video Greenmart — Antemisaris — στάλθηκε 2026-10-29 ([[2026-10-29-greenmart-video-egkrisi]])
 - [ ] Διαστάσεις των έτοιμων «ταψιών» με νέα φυτά (ίσως για τα στάδια παραγωγής) — [[vangelis-zachos]] — από 2026-10-27 ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-28]])
 - [ ] Κοστολόγηση κατασκευής πίσω από το video wall (κοπτικά λογότυπα) — Expopiece — από 2026-10-27 ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]])
 - [ ] Τιμή κατασκευής από [[expopiece]] — Expopiece (Νίκος Λάττας) — μετά την επίσημη κάτοψη και τα kW (από 2026-10-23) ([[2026-10-23-antemisaris-xenia-expopiece]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]])
@@ -69,6 +71,7 @@ updated: 2026-10-28
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-10-29 — XENIA: η Μαρίνα αναλαμβάνει την Expopiece (Δέσποινα off ως 2/11)· νέα κάτοψη, Option 2 χωρίς «κυκλικά», LED wall 4 × 8,5 μ., χωρίς ορατά καλώδια (πίσω διάδρομος)· Ιωάννα: τριφασική 5×32 A / 40 A. 15:21 η **Expopiece έστειλε οικονομική προσφορά** και ζητά **άμεσα υπογεγραμμένη + απόδειξη προκαταβολής**. Η Ιωάννα έστειλε video Greenmart για έγκριση ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-30]], [[2026-10-29-greenmart-video-egkrisi]]).
 - 2026-10-27 — XENIA: 08:45 ο Ζάχος επιλέγει Option 2 (square presentation) «με τις καινούργιες διαστάσεις» και αναφέρει έτοιμα «ταψιά» φυτών. 14:31 η Δέσποινα ζητά kW/γραμμές από Audio-tech· 14:45 στέλνει στην Expopiece κάτοψη 8,5 × 11, ζητά κατασκευή πίσω από το video wall, υπόσχεται νέα κάτοψη Πέμπτη 2026-10-29 ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-28]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]]).
 - 2026-10-28 — Meta: ενεργοποιήθηκε το product browsing στα υπάρχοντα sales ads του business Antemisaris. Μετά το κλικ, ο χρήστης βλέπει σελίδα προϊόντος με προτάσεις από τον κατάλογο και μετά πάει στο site ([[2026-10-28-admin-eidopoiiseis]]).
 - 2026-10-26 — XENIA: η Forum προτείνει νησίδα 93,5 τ.μ. (Hall 2 A23-B25/A26-B27) από ακύρωση· ο Ζάχος επιβεβαιώνει 13:57 και το προωθεί στην Ιωάννα/Δήμο. Η Ιωάννα επιβεβαιώνει στην Audio-tech το video wall σε όλη την πλάτη (13:03). Η Expopiece ζητά επίσημη κάτοψη, kW, διευκρινίσεις· η Δέσποινα απαντά 14:30. Η Ιωάννα στέλνει στον Δήμο την προσφορά Qorect Leads Manager ([[2026-10-26-antemisaris-xenia-katopsi-forum]], [[2026-10-16-audiotech-led-xenia]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]], [[2026-10-26-xenia-leads-manager-qorect]]).

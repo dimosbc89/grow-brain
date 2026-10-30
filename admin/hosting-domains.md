@@ -3,7 +3,7 @@ type: admin
 title: "Hosting, servers & domains"
 aliases: [hosting, servers, domains, cloud.growagency.online, Plesk, Fastpath, Cretaforce, Papaki, Enartia]
 status: ενεργός
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 # Hosting, servers & domains
 > Οι servers της GROW (Plesk στη [[fastpath]]) και οι registrars ([[papaki]]/[[enartia]], [[cretaforce]]) όπου η GROW κρατά τα domains των πελατών. Κάθε ανανέωση domain ξανατιμολογείται στον πελάτη.
@@ -50,6 +50,7 @@ updated: 2026-10-29
 - Κάθε ανανέωση domain πελάτη ξανατιμολογείται στον πελάτη (π.χ. «Τιμολόγιο Πανόπουλος», «25 + fpa to kathena») ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]], [[2026-09-10-invoice-nikas-barista-domains]]).
 
 ## Χρονολόγιο
+- 2026-10-30 — Wordfence: ενεργή εκμετάλλευση RCE στο upgrade-window (λύση: WP 7.1.4). Νέα alerts: logaraslaw, barolobeach, foxacademy, baristacademy, pagopolis, susurrousclothing, montessori-littleland ([[2026-10-30-admin-eidopoiiseis]]).
 - 2026-10-28 — WordPress 7.1.4 αυτόματα σε 9 sites (και castrum-milos)· νέα Wordfence alerts σε exodikastikos, baristacademy, foxacademy, barolosantorini, bikos-derma, poullaides, montessori-littleland, tsiklitiria, susurrous (lockout + admin login)· Papaki WHOIS για marketingagencygreece.online ([[2026-10-29-admin-eidopoiiseis]]).
 - 2026-10-27/28 — Wordfence: **castrum-milos.com JetEngine Critical 9.8** (+Yoast, UpdraftPlus)· foxacademy.gr The Plus Addons (6.4)· bikos-derma.gr Yoast 20.5 → 28.8· barolobeach.gr Safe SVG· logaraslaw.com CookieYes (medium)· baristacademy.gr επανάληψη Super Forms, αποτυχία auto-update WPBakery/Ultimate Addons και ληγμένη Easy Appointments connection ([[2026-10-28-admin-eidopoiiseis]]).
 - 2026-10-26/27 — Cloudflare: [Action Required] αναβάθμιση cloudflared σε 2026.10.2+. Wordfence: foxacademy.gr critical (Really Simple Security, +18 παλιά issues), baristacademy.gr medium (Super Forms, +4), pagopolis.gr medium (Really Simple Security, +7) και lockout 4 ωρών μετά από 20 αποτυχημένα login με username «dimos» από IP στη Βραζιλία (💭 Υπόθεση: brute-force). baristacademy.gr: Easy Appointments connection ληγμένη από 2022-12-31. Enartia: νέο e-invoice μέσω Entersoft ([[2026-10-26-admin-eidopoiiseis]]).

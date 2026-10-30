@@ -3,7 +3,7 @@ type: person
 title: "George Andritsos"
 aliases: [Γιώργος Ανδρίτσος, gandritsos.com, george@gandritsos.com]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 # George Andritsos
 > Εξωτερικός web developer που υλοποιεί το WooCommerce e-shop της [[tandem-concept]] με βάση τα reviews της GROW.
@@ -24,6 +24,7 @@ updated: 2026-10-28
 - —
 
 ## Χρονολόγιο
+- 2026-10-29 — Ολοκλήρωσε email ραντεβού + Brevo για pharmacypan ([[2026-10-20-pharmacypan-auto-emails-update-2026-10-30]]).
 - 2026-10-27 — Divino: ο χάρτης αντιπροσώπων προχωρά σιγά σιγά ([[2026-10-13-divino-feedback-site-update-2026-10-28]]).
 - 2026-10-23 — Ξαναστέλνει (με κοινοποίηση στη Μαρίνα) το αίτημα να συνεργαστεί/προσληφθεί στη GROW (αρχικό 2026-10-08)· ο Δήμος δεν έχει απαντήσει ([[2026-10-08-andritsos-protasi-proslipsis]]).
 - 2026-10-13 → 2026-10-23 — Ολοκλήρωσε τις διορθώσεις στο site [[divino]]· περιμένει εικόνες ([[2026-10-13-divino-feedback-site]]).

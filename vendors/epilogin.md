@@ -3,7 +3,7 @@ type: vendor
 title: "Epilogin / Epilogi Digital"
 aliases: [Epilogin, Epilogi Digital, epilogin.gr, epilogidigital@gmail.com]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 # Epilogin / Epilogi Digital
 > Προμηθευτής εκτυπώσεων/menuboards της GROW (επαφή [[iasonas-kolytos]])· χρησιμοποιείται και για κοστολόγηση κατασκευαστικών σε εκθεσιακά περίπτερα.
@@ -29,6 +29,7 @@ updated: 2026-10-28
 - [[2026-09-11-krema-menuboards-antikatastasi]] — αντικατάσταση χωρίς χρέωση στον πελάτη· πρόταση μοιρασιάς κόστους.
 
 ## Χρονολόγιο
+- 2026-10-29 — Η Μαρίνα ζητά επιβεβαίωση παραλαβής και χρόνο για τα έγγραφα ρεύματος/αναρτήσεων Plastica ([[2026-10-26-revma-anartiseis-plastica-epilogi-update-2026-10-30]]).
 - 2026-10-27 — Εντολή εκτύπωσης 3.000 αυτοκόλλητων 8 × 8 για τον Overoll (αρχείο «6YearsOverollSticker»), ανά 300, παράδοση 2026-10-29/30 ([[2026-10-26-epilogi-aftokollita-prosfora-update-2026-10-28]]).
 - 2026-10-26 — Προσφορά αυτοκόλλητων 8 × 8 cm πλαστικοποιημένων: 220 € (2.000), 280 € (3.000), σε 17 λεπτά από το αίτημα της Μαριάννας ([[2026-10-26-epilogi-aftokollita-prosfora]]).
 - 2026-10-22 — Αρνήθηκε την κατασκευή του περιπτέρου Plastica 2026 («έλλειψη χρόνου»)· την ίδια μέρα πήρε εντολή εκτύπωσης φυλλαδίων Nomud 1000+1000 Α5, 190 € + ΦΠΑ ([[2026-10-20-plastica-prosfora-kataskevasti-update-2026-10-23]], [[2026-10-20-nomud-a5-fylladia-update-2026-10-23]]).

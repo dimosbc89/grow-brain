@@ -3,7 +3,7 @@ type: admin
 title: "GROW 360 LTD (UK εταιρεία)"
 aliases: [GROW 360, GROW 360 LTD, UK εταιρεία, UK company, βρετανική εταιρεία]
 status: ενεργός
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 # GROW 360 LTD
 > Η βρετανική εταιρεία του Δήμου (μοναδικός director/shareholder, κάτοικος Ελλάδας). Τον Οκτώβριο 2026 πέρασε σε νέο λογιστή, την [[the-accountancy-partnership]], και τον Νοέμβριο 2026 έχει τις πρώτες προθεσμίες της στην Companies House.
@@ -55,6 +55,7 @@ updated: 2026-10-29
 - 2026-10-02 — Η Μαρίνα αναλαμβάνει να επιλέξει λογιστή και να ρωτήσει αν ακυρώνονται οι υπηρεσίες YCF ([[2026-10-02-grow360-ycf-renewal-accounting]]).
 
 ## Χρονολόγιο
+- 2026-10-30 — TAP Client Hub: λείπει το **Companies House Authentication Code** της Grow 360 Ltd — ρίσκο ποινών HMRC αν καθυστερήσει ([[2026-10-30-tap-client-hub-auth-code]]).
 - 2026-10-28 — YCF: σκαναρισμένο Statutory Letter για τη GROW 360 LTD (αποστολέας μόνο στο PDF) ([[2026-10-28-grow360-ycf-statutory-letter]]).
 - 2026-10-27 — YCF: υπενθύμιση ανανέωσης 2026-11-10 (339,60)· ο Δήμος «we don't want to renew»· η YCF προτείνει να μείνουν μόνο Registered Office £29 + Officer's Address £28 ([[2026-10-27-grow360-ycf-ananeosi]]). TAP (Natalie Hughes): υπενθύμιση P-388148/P-388149 έως 2026-10-30 ([[2026-10-27-tap-ypenthymisi-p388148-p388149]]).
 - 2026-10-24 — YCF: νέα υπενθύμιση, Confirmation Statement έως 2026-11-23 ([[2026-10-24-grow360-confirmation-statement]]).

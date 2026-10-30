@@ -3,7 +3,7 @@ type: person
 title: "Elpida Plavou"
 aliases: [Ελπίδα Πλάβου, Ελπίδα, elpida.plavou@globalfoods.gr]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 # Elpida Plavou
 > Επαφή της [[global-foods]] με ασαφή ρόλο. Λαμβάνει τα Google Ads reports και την πρόταση videography, και είναι σε cc στα event θέματα.
@@ -27,6 +27,7 @@ updated: 2026-10-28
 - —
 
 ## Χρονολόγιο
+- 2026-10-29 — Σχόλια σε οικονομικό οδηγό (κατανομή παραγράφων) και reel ZEO (γλυκά, πλάνο εισόδου) ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-30]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-30]]).
 - 2026-10-27 — Feedback reel Unique x Zeo (λογότυπα αρχή/τέλος), «Θα μπορούσαμε να τις δούμε; Και να αποφασίσουμε;»· «Μας αρέσει» στο δισέλιδο, τηλέφωνο με Δέσποινα· τελικά ΔΤ Detroit + ανάρτηση στα sites ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]], [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]], [[2026-10-09-global-unique-nea-mas-update-2026-10-28]]).
 - 2026-10-26 — Εγκρίνει posts 28ης Οκτωβρίου (Unique «μια χαρά»· Global όχι με prosciutto cotto στην αρχή, «χωρίς το κρασί»)· γράφει «Επείγομαι για ΖΕΩ κ Unique»· σε cc στο τιμολόγιο #1296 ([[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]], [[2026-10-26-globalfoods-timologio-presveia]]).
 - 2026-10-22 — Αναλυτικό feedback φακέλων υλικού· Zappala εκτός παντού ([[2026-10-21-globalfoods-fakeloi-yliko-update-2026-10-23]]).

@@ -3,7 +3,7 @@ type: vendor
 title: "Expopiece"
 aliases: [Expopiece, expopiece.gr]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 # Expopiece
 > Κατασκευαστής περιπτέρων με τον οποίο η GROW κοστολογεί κατασκευαστικά για τα εκθεσιακά της projects ([[ekthesiaka-periptera]]).
@@ -28,6 +28,7 @@ updated: 2026-10-28
 - —
 
 ## Χρονολόγιο
+- 2026-10-29 — Οικονομική προσφορά για το περίπτερο Antemisaris (XENIA)· ζητούν άμεσα υπογραφή + προκαταβολή για να ξεκινήσουν μελαμίνες ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-30]]).
 - 2026-10-27 — Η Δέσποινα στέλνει κάτοψη 8,5 × 11 και ζητά κατασκευή πίσω από το video wall· νέα κάτοψη 2026-10-29 ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]]).
 - 2026-10-26 — Ο Νίκος Λάττας στέλνει ερωτήσεις για την κοστολόγηση XENIA (κάτοψη, μελαμίνη, καμπύλες, kW, πρίζες, σκαμπό, τραπέζια)· η Δέσποινα απαντά 14:30 ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]]).
 - 2026-10-23 — Η Δέσποινα στέλνει κατόψεις/σχέδιο περιπτέρου XENIA 2026 για τον [[greenmart-antemisaris]] ([[2026-10-23-antemisaris-xenia-expopiece]]).

@@ -1,41 +1,38 @@
 ---
 type: attention
 title: "Τι απασχολεί τον Δήμο τώρα"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
-# Attention — 2026-10-29
+# Attention — 2026-10-30
 
 > Τα 5 projects που απασχολούν πραγματικά τον Δήμο, από τα email που έστειλε, τα εισερχόμενα και το ημερολόγιο. Το ξαναγράφει η πρωινή ενημέρωση κάθε μέρα.
 
-## 1. [[hotelbrain]] — DNS για go-live hotelbraingroup.com + νέο design hotelbrain.com
-- **Κατάσταση:** 2026-10-27 08:14 η [[niki-daleziou]] απάντησε ότι στο domain υπάρχουν τα hq@ και hotels@hotelbraingroup.com και ζητά να αλλάξει **μόνο το pointing του site**· ο Panos το ανέθεσε στον Dimitris Giannis. Εσύ 08:18: «σου στέλνω σε λίγο» τα DNS records — δεν φαίνεται να στάλθηκαν ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]]). Το call για το νέο design έγινε 27/10· 12:25 ο [[vasilis-friganiotis]] έστειλε προδιαγραφές (Next.js/TS/Tailwind/shadcn, UI Kit με Figma Variables) και ζητά **Dev Mode seat στο Figma** ([[2026-10-23-hotelbrain-com-new-design-update-2026-10-28]]).
-- 2026-10-28 (αργία): καμία νέα κίνηση, κανένα απεσταλμένο email.
-- **Επόμενο βήμα (Δήμος):** DNS records στη Νίκη/Giannis (από 27/10) · Dev Mode seat + UI Kit στον Βασίλη · κοστολόγηση νέου site · αλλαγή κωδικού Papaki μετά το go-live.
+## 1. Εκθέσεις — [[greenmart-antemisaris]] (XENIA 21–23/11) και [[argyroplastics]] (Plastica 6–9/11)
+- **Κατάσταση:** 2026-10-29 η Μαρίνα πήρε την Expopiece (Δέσποινα off ως 2/11): νέα κάτοψη, Option 2, LED wall 4 × 8,5 μ., τριφασική 5×32 A. **15:21 η [[expopiece]] έστειλε οικονομική προσφορά και ζητά «άμεσα» υπογραφή + απόδειξη προκαταβολής** για να ξεκινήσει μελαμίνες (ποσό μόνο στο PDF) ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-30]]). Video Greenmart στάλθηκε για έγκριση ([[2026-10-29-greenmart-video-egkrisi]]). Plastica: η Μαρίνα ρωτά την [[epilogin]] πότε θα είναι έτοιμα τα έγγραφα ρεύματος/αναρτήσεων για υπογραφές ([[2026-10-26-revma-anartiseis-plastica-epilogi-update-2026-10-30]]). ⚠️ Κατασκευαστής Plastica: ασαφές — μένουν 7 μέρες.
+- **Επόμενο βήμα (Δήμος):** έλεγχος/υπογραφή προσφοράς Expopiece + προκαταβολή · επιβεβαίωση κατασκευαστή Plastica. Βλ. [[ekthesiaka-periptera]].
 
-## 2. [[global-foods]] — στρατηγική που χρωστάς + παραδόσεις Πέμπτης
-- **Κατάσταση:** reel Unique x ZEO στάλθηκε 27/10· η [[elpida-plavou]] ζητά logos αρχή/τέλος και αφαίρεση προσώπων — νέο video **29/10**. Οικονομικός οδηγός: «Μας αρέσει», τελική **29/10**. Press releases Detroit εγκρίθηκαν, ζητούν ανάρτηση στα sites ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]], [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]], [[2026-10-09-global-unique-nea-mas-update-2026-10-28]]). 2 εταιρικά videos **30/10**. Από εσένα: πλάνο καμπανιών (από 21/10), Global App (από 2024-09-23), Carozzi, λίστα Εύης.
-- Νέο στο Asana: «Landing Offer» — προσφορά εισαγωγικής σελίδας «όπως Overoll» ανατέθηκε σε εσένα (Μαρίνα, 26/10) ([[2026-10-29-admin-eidopoiiseis]]).
-- **Επόμενο βήμα (Δήμος):** πλάνο καμπανιών · Landing Offer · ⚠️ σήμερα παραδόσεις (reel ZEO, οικονομικός οδηγός) ενώ η Δέσποινα είναι off 29–30/10.
+## 2. [[tandem-concept]] — Epsilon Su Apparel + BOX NOW + ads
+- **Κατάσταση:** 2026-10-29 14:13 απάντησες στον [[george-chalhoub]]: θα διορθωθούν οι ποσότητες (4 styles × 2) και θα μπει **SU-** στα scan codes μετά από έλεγχο συνδέσεων ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-30]]). **Το BOX NOW test έμεινε αναπάντητο** (ρωτά από 26/10, ξανά 28/10). Η Βάσια ζητά από Print Kong labels μέσα στην εβδομάδα ([[2026-10-20-tandem-price-tags-print-kong-update-2026-10-30]]). Ads (Google + META 150 €/μήνα) εγκεκριμένα από 26/10.
+- **Επόμενο βήμα (Δήμος):** διόρθωση Epsilon · Sender Profile BOX NOW (code 167) + απάντηση στον George · έναρξη ads.
 
-## 3. Εκθέσεις — [[argyroplastics]] (Plastica 6–9/11) και [[greenmart-antemisaris]] (XENIA 21–23/11)
-- **Κατάσταση:** Plastica: πληρώθηκε η προκαταβολή #1297 (27/10)· εκκρεμούν ανάγκες ρεύματος (GROW) και τελικά κείμενα (πελάτης) ([[2026-10-26-plastica-offer-kataskevastika-update-2026-10-28]]). ⚠️ Κατασκευαστής: ασαφές — μένουν 9 μέρες. XENIA: ο [[vangelis-zachos]] επέλεξε **Option 2**· η Δέσποινα έστειλε κάτοψη 8,5×11 στην [[expopiece]] + νέο αίτημα κατασκευής πίσω από το video wall· τελική κάτοψη **29/10**· kW video wall ζητήθηκαν από [[audio-tech]] ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]]). Meta product browsing στα ads Αντεμισάρη **ενεργό από 28/10** (δεν έγινε opt-out).
-- **Επόμενο βήμα:** επιβεβαίωση κατασκευαστή Plastica · τιμή Expopiece. Βλ. [[ekthesiaka-periptera]].
+## 3. [[global-foods]] — οικονομικός οδηγός, reel ZEO, στρατηγική που χρωστάς
+- **Κατάσταση:** 2026-10-29 η Μαρίνα έστειλε τον οικονομικό οδηγό σε PDF/2 στοιχίσεις· η [[elpida-plavou]] θέλει αλλαγή στην κατανομή παραγράφων — όχι ακόμα τελική έγκριση. Reel ZEO: νέο updated video στάλθηκε· νέα σχόλια (πλάνο εισόδου, να φαίνονται γλυκά + 2 πλάνα γλυκών) ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-30]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-30]]). 2 εταιρικά videos υποσχεμένα για **σήμερα 30/10**. Από εσένα: πλάνο καμπανιών (από 21/10), Landing Offer (Asana), Global App (από 2024-09-23), Carozzi, λίστα Εύης.
+- **Επόμενο βήμα (Δήμος):** πλάνο καμπανιών · Landing Offer.
 
-## 4. [[tandem-concept]] — Epsilon διορθώσεις + BOX NOW + ads
-- **Κατάσταση:** 27/10 η [[caroline-hafouri]] έστειλε excel Su Apparel FW26 (μόνο Κολωνάκι) για το Epsilon· εσύ 28/10 00:59: «Ready, please check» ([[2026-10-27-tandem-su-apparel-epsilon]]). Ads (Google + META 150 €/μήνα) εγκεκριμένα από 26/10· BOX NOW sender profile + ενημέρωση George εκκρεμούν.
-- 28/10 ο [[george-chalhoub]]: 4 είδη θέλουν ποσότητα 2 στο Epsilon, πρόθεμα «SU-» στα scan codes, και **ξαναρωτά για το BOX NOW test**· προώθησε και portfolio φωτογράφου ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-29]], [[2026-10-28-tandem-portfolio-fotografou]]).
-- **Επόμενο βήμα (Δήμος):** ποσότητες + SU- στο Epsilon · απάντηση BOX NOW → George · έναρξη Google/META ads.
+## 4. Admin & UK — σήμερα λήγει η TAP
+- **Κατάσταση:** [[the-accountancy-partnership]] P-388148/P-388149 **λήγουν σήμερα 30/10** ([[2026-10-27-tap-ypenthymisi-p388148-p388149]]). Νέο: η TAP ζητά το **Companies House Authentication Code** της [[grow-360-ltd]] μέσω Client Hub, αλλιώς ρίσκο ποινών HMRC ([[2026-10-30-tap-client-hub-auth-code]]). Statutory Letter (28/10) ανοιχτό. YCF: απάντηση πριν την ανανέωση 10/11. **Revolut: «account restricted»** 29/10 (ποιος λογαριασμός ασαφές). Edenred #1208653 386,78 € θέλει κατάθεση. ΕΦΚΑ 2.300 · ΦΠΑ Γ΄ τριμ. ~5.991,58 € · [[fastpath]] 507,78 € έως 1/11 ([[2026-10-30-admin-eidopoiiseis]]).
+- **Επόμενο βήμα (Δήμος):** πληρωμή TAP + auth code σήμερα · Revolut στοιχεία · απάντηση YCF.
 
-## 5. Admin & UK — πληρωμές αυτή την εβδομάδα
-- **Κατάσταση:** [[the-accountancy-partnership]] P-388148/P-388149 **έως 30/10** (αλλιώς δεν κάνουν υποβολές) ([[2026-10-27-tap-ypenthymisi-p388148-p388149]]). [[grow-360-ltd]]: είπες «don't want to renew» στην YCF· προτείνουν να μείνουν Registered Office £29 + Officer's Address £28 — περιμένουν απάντηση πριν την ανανέωση **10/11** ([[2026-10-27-grow360-ycf-ananeosi]]). ΕΦΚΑ: «το μεγάλο εκκρεμεί 2300» ([[2026-10-23-sk-advisors-ika-teka-fmy-septembrios-update-2026-10-28]]). ΦΠΑ Γ΄ τριμ. υπόλοιπο ~5.991,58 €. [[fastpath]] #61293 507,78 € έως 1/11. Asana πληρώθηκε ✓, Metalease ✓.
-- 28/10: νέο **Statutory Letter** για τη GROW 360 μέσω YCF (PDF· 💭 ίσως ο CT κωδικός HMRC) ([[2026-10-28-grow360-ycf-statutory-letter]]).
-- **Επόμενο βήμα (Δήμος):** πληρωμή TAP (αύριο 30/10) · άνοιγμα statutory letter → TAP · απάντηση YCF · ΕΦΚΑ 2.300.
+## 5. Υποσχέσεις σε ομάδα & freelancers — [[nikos-moulinos]] (Nomud/Danaos) και [[hotelbrain]]
+- **Κατάσταση:** 2026-10-30 08:00 ο Νίκος Μουλίνος ξαναζητά το **brief για [[nomud]] και [[danaos]]** (υπόσχεση «μέσα στην ημέρα» 21/10 — 9 μέρες)· το προώθησες στη Μαρίνα χωρίς κείμενο ([[2026-10-30-nikos-moulinos-timologio-a1014]]). HotelBrain: τα DNS records για hotelbraingroup.com στη [[niki-daleziou]]/Giannis (από 27/10 «σε λίγο») και Dev Mode seat + UI Kit στον [[vasilis-friganiotis]] — καμία κίνηση στο παράθυρο.
+- **Επόμενο βήμα (Δήμος):** brief Nomud/Danaos (ή σαφής ανάθεση στη Μαρίνα) · DNS HotelBrain · Figma seat.
 
 ## Στο ραντάρ
-- **Πωλήσεις:** [[deturbo]] πρόταση ~6.000 € (από 18/09) · TikTok Live Agency απόφαση (από 21/10) · [[avek]], [[padeltech]], [[mythea-travel]], [[1767-beverages]], [[goshipping]], [[salesforce]] σε αναμονή · [[dominos]] meeting **σήμερα 12:00** (Meet· εσύ δεν είσαι στους καλεσμένους) · νέοι partners [[tsu-pies]] Leiden/Amstelveen ([[rahma-addeh]], [[yousef-ghiami]]) · JKD lead-gen: δέχτηκες μόνο με σαφές κόστος και ≥2 πελάτες ([[grow-outreach]]).
-- **Υποσχέσεις:** [[nomud]] brief + [[danaos]] assets στον [[nikos-moulinos]] (από 21/10) · [[overoll]] .com προτάσεις (από 14/10) + giveaway ads (Asana 26/10, το giveaway λήγει 31/10) · [[karmiotissa]]: ο Andreas ρωτά για ipv4./ftp. subdomains (27/10) · [[kolokytha-eshop]] pre-order tag.
-- **[[overoll]] Turns 6 (1/11):** stickers πρόταση 1, 3.000 τμχ, παράδοση Πραξιτέλους 29/10· promoters 29/10.
-- **[[knack-and-snack]]:** η Σαββούλα θέλει διορθωμένη αφίσα 11/11 + link **έως 29/10** (Μαρίνα) ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-29]]).
-- **[[kyknos]]:** η [[eleni-katsari]] ρωτά για 2 ακόμα videos (Αραμπιάτα, μπρουσκέτα).
-- **Ασφάλεια sites:** castrum-milos.com JetEngine **critical 9.8** · foxacademy, barolobeach, bikos-derma critical · baristacademy επαναλαμβανόμενα · Cloudflare Tunnel αναβάθμιση ([[2026-10-28-admin-eidopoiiseis]]).
+- **[[barbaggio]]:** ο προμηθευτής ζήτησε **29/10 τις μακέτες κουτιών «σήμερα»** για παράδοση πριν τα Χριστούγεννα — πήγε στη Δέσποινα (off) ([[2026-10-27-barbaggio-aftokollita-update-2026-10-30]]).
+- **[[overoll]]:** promoters σήμερα 10:00–14:00 · Turns 6 στις 1/11 · λήξη giveaway 31/10 (Asana giveaway ads) · ζητούν προτάσεις panettone packaging ([[2026-10-21-overoll-panettone-packaging-update-2026-10-30]]).
+- **[[hellenic-heritage-evolution]]:** δικαιολογητικά ΕΟΤ από Καραμπάτσο σήμερα 30/10 · meeting 3/11 11:00 ([[2026-10-29-hhe-eot-ekkremotites]]).
+- **[[yiayia-meatballs]]:** χαρτοπετσέτα — η Βασιλική σε απευθείας επαφή με τον εκτυπωτή (χρώμα/κεντράρισμα) ([[2026-10-29-yiayia-xartopetseta-maketa]]).
+- **[[knack-and-snack]]:** αφίσα 11/11 στη Σαββούλα, χωρίς απάντηση.
+- **Πωλήσεις:** [[deturbo]] (~6.000 €, από 18/09) · TikTok Live Agency (από 21/10) · [[dominos]] meeting **5/11 12:00** (χωρίς εσένα) · [[tsu-pies]] intro (από 27/10) · Asana: emails tsupies@/grandpas@growdigital.gr (έληξαν 29/10).
+- **Ασφάλεια sites:** Wordfence — ενεργή εκμετάλλευση RCE πριν το WP 7.1.4 · alerts σε 7 sites · castrum-milos JetEngine critical ([[2026-10-30-admin-eidopoiiseis]]).
 - **[[estia-crm]]:** μήνυση Home Watch Athens — χωρίς νέα από 20/10.
