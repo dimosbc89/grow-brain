@@ -34,6 +34,7 @@ updated: 2026-10-30
 - Στο ημερολόγιο δεν υπάρχει προγραμματισμένη συνάντηση Tandem μετά τις 2026-10-13 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Πλάνο pre-Christmas καμπάνιας social + απάντηση για Q&A και test purchase — Δήμος/[[despina-velissariou]] — ζητήθηκε 2026-10-30 ([[2026-10-30-tandem-marketing-plan]])
 - [ ] Epsilon Su Apparel: ποσότητα 2 σε Blouse S047 Chili, Blouse S600 chocolate, Cardigan S031 Moka, Skirt S99 Nero + πρόθεμα brand («SU-…») στα scan codes — Δήμος — από 2026-10-28· 2026-10-29 ο Δήμος δεσμεύτηκε γραπτώς ότι θα γίνει (χωρίς ημερομηνία) ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-30]])
 - [ ] Απάντηση στον George για το BOX NOW test — Δήμος — ρωτήθηκε ξανά 2026-10-28· ακόμα αναπάντητο στην απάντηση της 2026-10-29 ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-30]])
 - [ ] Portfolio φωτογράφου (Andrew Chrmds) που προώθησε ο George — τι ζητείται: ασαφές ([[2026-10-28-tandem-portfolio-fotografou]])
@@ -106,6 +107,7 @@ updated: 2026-10-30
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-10-30 — 11:49 η Caroline ζητά πλάνο marketing για pre-Christmas καμπάνια στα social, νέα για το Q&A και αν δούλεψε η δοκιμαστική αγορά ([[2026-10-30-tandem-marketing-plan]]). 14:28 ο Δήμος ενημερώνει τη BIZ ότι ενεργοποιήθηκαν Live Order Sync και Order Fulfillment στο BIZ LiNK plugin ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-30]]).
 - 2026-10-29 — 14:13 ο Δήμος απαντά στον George: θα ξαναελεγχθούν τα Su Apparel στο Epsilon (ποσότητα 1, εκτός 4 styles με 2) και θα μπει πρόθεμα **SU-** στα scan codes (π.χ. SU-SKIRT-S99NERO-42) μετά από έλεγχο των συνδέσεων. Δεν απάντησε για το BOX NOW. Η Βάσια ρωτά την Print Kong για παράδοση labels μέσα στην εβδομάδα ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-30]], [[2026-10-20-tandem-price-tags-print-kong-update-2026-10-30]]).
 - 2026-10-28 — Ο George ελέγχει το Epsilon: 4 είδη Su Apparel θέλουν ποσότητα 2· ζητά πρόθεμα brand στα scan codes και ρωτά για το BOX NOW test ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-29]]). 19:08 προωθεί portfolio φωτογράφου ([[2026-10-28-tandem-portfolio-fotografou]]).
 - 2026-10-27/28 — Η Caroline στέλνει το excel Su Apparel FW 2026 (μόνο για Κολωνάκι) για το Epsilon· ο Δήμος το περνά και ζητά έλεγχο ([[2026-10-27-tandem-su-apparel-epsilon]]).

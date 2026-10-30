@@ -3,7 +3,7 @@ type: client
 title: "PadelTech"
 aliases: [PadelTech, Padel Tech]
 status: σε αναμονή
-updated: 2026-10-26
+updated: 2026-10-30
 ---
 # PadelTech
 > Πελάτης (κατασκευές γηπέδων padel, 💭 από τα «έργα» και τις «φωτό γηπέδων») με Asana project από 2024-09-24· οι αλλαγές στο υλικό του εκκρεμούν από το 2025, περιμένοντας τις τελικές φωτογραφίες του πελάτη.
@@ -26,6 +26,7 @@ updated: 2026-10-26
 - —
 
 ## Χρονολόγιο
+- 2026-10-30 — Follow-up της Βασιλικής στην πρόταση της 24/10, χωρίς απάντηση· ο Δήμος έκλεισε «Check Padel Presentation» στο Asana ([[2026-10-24-padeltech-offer-presentation-update-2026-10-30]]).
 - 2026-10-24 — Νέα πρόταση (Offer Presentation) από τη Βασιλική στο lk@polartech.gr ([[2026-10-24-padeltech-offer-presentation]]).
 - 2026-10-09 — Asana: σχόλιο Βασιλικής με link Figma και Dropbox, «περιμένουμε τις τελικές τους φώτο» ([[2026-10-21-asana-snapshot]]).
 - 2025-02-12 — Asana: δημιουργείται το task «Αλλαγές PadelTech» ([[2026-10-21-asana-snapshot]]).

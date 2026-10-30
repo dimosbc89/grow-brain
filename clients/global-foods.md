@@ -39,7 +39,7 @@ updated: 2026-10-30
 **Νέα στις 2026-10-27**
 - [ ] Post + story 28ης Οκτωβρίου: βίντεο Global χωρίς το κρασί, δημοσίευση 2026-10-28 — [[marina-papanastasiou]] / [[despina-velissariou]] — έως 2026-10-28 ([[2026-10-26-globalfoods-28i-oktovriou-posts]])
 - [x] Reel ZEO (social) με τις διορθώσεις — Δέσποινα — ✓ στάλθηκε 2026-10-27 13:54 / 17:18 (νέος γύρος αλλαγών, βλ. παραπάνω) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]])
-- [ ] 2 οριζόντια εταιρικά βίντεο: Masterclass Detroit Pizza – Global και ZEO Bakers – Unique — Δέσποινα — **έως 2026-10-30** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]])
+- [x] 2 οριζόντια εταιρικά βίντεο: Masterclass Detroit Pizza – Global και ZEO Bakers – Unique — Δέσποινα — **έως 2026-10-30** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]]) — ✓ στάλθηκαν 2026-10-30 ([[2026-10-30-globalfoods-etairika-videos]])
 - [ ] Επόμενα βίντεο Detroit Pizza – Unique και Ιταλική Πρεσβεία – Global (+ reels) — Δέσποινα — ενημέρωση από την εβδομάδα 2026-11-02 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]])
 - [ ] Εξόφληση τιμολογίου #1296 (βιντεογράφηση Πρεσβείας) — Global Foods — από 2026-10-26 ([[2026-10-26-globalfoods-timologio-presveia]])
 
@@ -90,6 +90,7 @@ updated: 2026-10-30
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-10-30 — 15:12/15:15 η Μαρίνα στέλνει στην Ελπίδα τα 2 videos (Global X Detroit, ZEO)· 14:42 αρχεία ICAP για τον Οικονομικό Οδηγό ([[2026-10-30-globalfoods-etairika-videos]]).
 - 2026-10-29 — Οικονομικός οδηγός: η Μαρίνα έστειλε preview, PDF Α4 και 2 εκδοχές στοίχισης· η Ελπίδα οκ σε κείμενο/στοίχιση αλλά θέλει αλλαγή στην κατανομή παραγράφων (μεγαλύτερα γράμματα/κενά) — όχι τελική έγκριση. Reel Unique x ZEO: updated video 11:14· νέα σχόλια 12:15 (πλάνο 04 να κρατά/κόσμος, να φαίνονται γλυκά + 2 πλάνα γλυκών) ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-30]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-30]]).
 - 2026-10-27 — Reel Unique x Zeo στάλθηκε· η Ελπίδα ζητά λογότυπα αρχή/τέλος· η Μαρίνα: «παλιά πρακτική… οι αλλαγές σας είναι προς την αντίθετη κατεύθυνση», τελικά νέο βίντεο Πέμπτη 2026-10-29. Δισέλιδο Οικονομικού Οδηγού: 6 εκδοχές μέσα στη μέρα, «Μας αρέσει», τελικό Πέμπτη. Τελικά ΔΤ Detroit από τον πελάτη + αίτημα ανάρτησης στα sites. Raw Πρεσβείας (link έως 2026-12-27) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]], [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]], [[2026-10-09-global-unique-nea-mas-update-2026-10-28]], [[2026-10-27-globalfoods-arxeia-italiki-presveia]]).
 - 2026-10-26 — Η Δέσποινα στέλνει posts 28ης Οκτωβρίου· η Ελπίδα εγκρίνει Unique, για Global ζητά να μην ξεκινά με prosciutto cotto· η Μαρίνα στέλνει νέο βίντεο, η Ελπίδα: «Χωρίς το κρασί και είμαστε μια χαρά». Η Δέσποινα δίνει χρονοδιάγραμμα βίντεο (reel ZEO έως 2026-10-27, Detroit–Global & ZEO Bakers–Unique έως τέλος εβδομάδας, μετά Detroit–Unique & Πρεσβεία–Global)· η Ελπίδα «Επείγομαι για ΖΕΩ κ Unique», η Μαρίνα: ΖΕΩ σε προτεραιότητα. Το accounting στέλνει τιμολόγιο #1296 + καρτέλα πελάτη στη διοίκηση ([[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]], [[2026-10-26-globalfoods-timologio-presveia]]).

@@ -26,6 +26,7 @@ updated: 2026-10-30
 - Social: εγκρίθηκε το carousel για τους φθινοπωρινούς βολβούς (2026-09-18)· τα posts Stihl χρειάζονταν διορθώσεις ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Απάντηση/έγκριση της προσφοράς κατασκευής XENIA της GROW — Αντεμισάρης — από 2026-10-30 ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-30]])
 - [ ] Meta: το «product browsing» είναι **ενεργό από 2026-10-28** στα sales ads (δεν έγινε opt-out). Κρατάμε ή κλείνουμε από Advantage+ creative / Destination settings — Δήμος/Ιωάννα ([[2026-10-26-admin-eidopoiiseis]], [[2026-10-28-admin-eidopoiiseis]])
 - [x] Υπογραφή εντολής Καθημερινής 20.984 € + ΦΠΑ — ✓ 2026-10-23 ([[2026-10-20-antemisaris-kathimerini-entoli-update-2026-10-23]])
 - [ ] Follow-up κατάλογος — Ιωάννα — 2026-10-26 14:00 ([[2026-07-20_2026-11-03]])
@@ -71,6 +72,7 @@ updated: 2026-10-30
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-10-30 — 14:41 η Ιωάννα στέλνει στον Ζάχο ανανεωμένη κάτοψη, φωτορεαλιστικό (Option 2, νέες διαστάσεις) και **οικονομική προσφορά της GROW για την κατασκευή** του περιπτέρου XENIA· ποσό μόνο στο PDF ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-30]]).
 - 2026-10-29 — XENIA: η Μαρίνα αναλαμβάνει την Expopiece (Δέσποινα off ως 2/11)· νέα κάτοψη, Option 2 χωρίς «κυκλικά», LED wall 4 × 8,5 μ., χωρίς ορατά καλώδια (πίσω διάδρομος)· Ιωάννα: τριφασική 5×32 A / 40 A. 15:21 η **Expopiece έστειλε οικονομική προσφορά** και ζητά **άμεσα υπογεγραμμένη + απόδειξη προκαταβολής**. Η Ιωάννα έστειλε video Greenmart για έγκριση ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-30]], [[2026-10-29-greenmart-video-egkrisi]]).
 - 2026-10-27 — XENIA: 08:45 ο Ζάχος επιλέγει Option 2 (square presentation) «με τις καινούργιες διαστάσεις» και αναφέρει έτοιμα «ταψιά» φυτών. 14:31 η Δέσποινα ζητά kW/γραμμές από Audio-tech· 14:45 στέλνει στην Expopiece κάτοψη 8,5 × 11, ζητά κατασκευή πίσω από το video wall, υπόσχεται νέα κάτοψη Πέμπτη 2026-10-29 ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-28]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]]).
 - 2026-10-28 — Meta: ενεργοποιήθηκε το product browsing στα υπάρχοντα sales ads του business Antemisaris. Μετά το κλικ, ο χρήστης βλέπει σελίδα προϊόντος με προτάσεις από τον κατάλογο και μετά πάει στο site ([[2026-10-28-admin-eidopoiiseis]]).

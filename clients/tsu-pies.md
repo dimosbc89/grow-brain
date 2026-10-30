@@ -3,7 +3,7 @@ type: client
 title: "TSU Greek Pies and Coffee"
 aliases: [TSU, TSU Pies, TSUPIES, TSU Pies BV, TSU Pies SARL, Grandpas SARL-s, tsupies.com]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 # TSU Greek Pies and Coffee
 > Αλυσίδα ελληνικής πίτας και καφέ με 3 καταστήματα στο Λουξεμβούργο· ήρθε ως lead τον Αύγουστο 2026 και από τον Σεπτέμβριο έχει τακτικές συναντήσεις με τη GROW, μαζί και «Kick-off call».
@@ -46,6 +46,7 @@ updated: 2026-10-28
 - 2026-08: briefing call μέσω Google Meet στις 16:00 ώρα Ελλάδας (15:00 Λουξεμβούργου), invite από τη Βασιλική ([[2026-08-10-tsu-pies-briefing-call]]).
 
 ## Χρονολόγιο
+- 2026-10-30 — Call «Tsupies X Grow» 11:00–12:00 (GROW Agency Calendar, η Βίκη accepted)· 15:05 η Μαρίνα επιβεβαιώνει στη Looxi το refer a friend (8 σφραγίδες, ενεργοποίηση με την 1η αγορά του φίλου) ([[2026-10-30-weekly-report-data]]).
 - 2026-10-27 — Η Βίκη συστήνει τη GROW στους Rahma Addeh και Yousef Ghiami (κατάστημα Leiden, νέο στο Amstelveen) ([[2026-10-27-tsu-pies-intro-leiden-amstelveen]]).
 - 2026-10-26 — 09:00 ο Βασίλης (Looxi) εξηγεί refer a friend (8 σφραγίδες, επιλογή Α/Β) και birthday push. 12:32 το accounting ζητά εξόφληση Invoice_2/3. 13:57 η Μαρίνα στέλνει Halloween reel και προτείνει επιλογή Β· 14:46 η Βίκη εγκρίνει, ζητά poster, «με τον Βασίλη προχωράμε», call λογοτύπου Πέμπτη/Παρασκευή (ο Κώστας στην Ολλανδία έως Τετάρτη), αποδεικτικό πληρωμής σύντομα. 14:50 poster preview, 16:04 σωστό A3 για εκτύπωση ([[2026-10-23-tsu-pies-looxi-refer-birthday-update-2026-10-27]], [[2026-10-26-tsu-pies-timologia-accounting]], [[2026-10-26-tsu-pies-halloween-looxi-logo]], [[2026-10-26-grandpas-halloween-poster]]).
 - 2026-10-23 — Η Μαρίνα ζήτησε από τη Looxi refer-a-friend (δωρεάν καφές ανά εγγραφή) και birthday push (τσουρέκι + καφές) ([[2026-10-23-tsu-pies-looxi-refer-birthday]]).
