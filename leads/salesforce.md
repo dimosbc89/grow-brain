@@ -3,7 +3,7 @@ type: lead
 title: "Salesforce (events Ελλάδα)"
 aliases: [Salesforce, salesforce.com]
 status: prospect
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 # Salesforce (events Ελλάδα)
 > Παλιός πελάτης events (2 μεγάλα events στην Ελλάδα το 2023, τιμολόγηση μέσω «KONSTANTOPOULOU SOFIA»)· στις 2026-10-21 η Salesforce Sourcing επανήλθε με νέα ανάγκη για local event agency.
@@ -14,16 +14,21 @@ updated: 2026-10-30
 - **Ομάδα GROW:** ο Δήμος (απαντά)· [[marina-papanastasiou]] (παρέλαβε το πρώτο email)· [[vassiliki-giannopoulou]] (cc).
 - **Ιστορικό:** SPA «FY23 Q1–Q4 Greece Exec Program Spend» (2022-03-31) με την KONSTANTOPOULOU SOFIA ως οντότητα τιμολόγησης ([[2026-10-21-salesforce-sos-konstantopoulou]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-22)
+## Τρέχουσα κατάσταση (στις 2026-11-02)
+- **Στις 2026-11-02:** η Salesforce εξετάζει και άλλα agencies λόγω onboarding· ο Δήμος πρότεινε 2026-11-01 τιμολόγηση μέσω KONSTANTOPOULOU SOFIA. Αναμονή απάντησης ([[2026-10-21-salesforce-legal-entity-update-2026-11-02]]). ⚠️ Σημείωση: στις 2026-10-22 η γραμμή ήταν «τιμολογούμε με νέα νομική οντότητα»· τώρα προτείνεται η παλιά — αλλαγή τακτικής, όχι αντίφαση πηγών.
+
+**Παλαιότερα (στις 2026-10-22)**
 - Ο Δήμος επιβεβαίωσε ότι η GROW είναι ενεργή και ότι τιμολογεί πλέον με νέα νομική οντότητα (νέο VAT/τράπεζα, θα δοθούν όταν ζητηθούν)· περιμένουμε τις λεπτομέρειες της ανάγκης ([[2026-10-21-salesforce-legal-entity]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Απάντηση στην πρόταση του Δήμου: τιμολόγηση μέσω KONSTANTOPOULOU SOFIA (χωρίς onboarding νέου προμηθευτή) — [[antony-bebbington]] — από 2026-11-01 ([[2026-10-21-salesforce-legal-entity-update-2026-11-02]])
 - [ ] Λεπτομέρειες requirement / vendor onboarding — Salesforce — από 2026-10-21 ([[2026-10-21-salesforce-legal-entity]])
 - [ ] Νέα εταιρικά στοιχεία (εγγραφή, VAT, τράπεζα) όταν ζητηθούν — Δήμος/[[vassiliki-giannopoulou]] ([[2026-10-21-salesforce-legal-entity]])
 
 ## Αποφάσεις
 
 ## Χρονολόγιο
+- 2026-11-01 — Antony: η KONSTANTOPOULOU SOFIA δεν είναι πια η συμβαλλόμενη οντότητα, η GROW θα χρειαζόταν πλήρες onboarding → «ανοίγουν και άλλες επιλογές agency». Ο Δήμος: η οντότητα παραμένει ενεργή, προτείνει τιμολόγηση μέσω αυτής ως εξαίρεση ([[2026-10-21-salesforce-legal-entity-update-2026-11-02]]).
 - 2026-10-30 — Ο Δήμος στέλνει «Kind reminder» (προς Μαρίνα, cc Antony)· καμία απάντηση Salesforce από 22/10 ([[2026-10-21-salesforce-legal-entity-update-2026-10-30]]).
 - 2026-10-22 — Η Μαρίνα απάντησε στον Antony ότι η GROW θέλει να ξανασυνεργαστεί· αναμένονται λεπτομέρειες ([[2026-10-21-salesforce-legal-entity-update-2026-10-23]]).
 - 2026-10-21 — Ο Antony ρωτά αν είμαστε ακόμη ενεργοί (νέα ανάγκη για local event agency)· ο Δήμος απαντά θετικά και διευκρινίζει την αλλαγή νομικής οντότητας ([[2026-10-21-salesforce-sos-konstantopoulou]], [[2026-10-21-salesforce-legal-entity]]).

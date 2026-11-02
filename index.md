@@ -70,7 +70,8 @@ updated: 2026-10-28
 - [[yiayia-meatballs|Υιάγια (Yiayia Meatballs)]] · _ενεργός_ — Εστιατόριο με κεφτεδάκια («Home of Meatballs») της maria-drouza· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influe…
 - [[yourclima|Yourclima]] · _ενεργός_ — Πελάτης της GROW για εταιρικά email/hosting στο yourclima.com· επαφές ο christos-tsamis και ο manolis-kalomoiris.
 
-## Leads (15)
+## Leads (16)
+- [[spoudastirio-drosopoulou|Σπουδαστήριο Παίδων Δροσοπούλου]] · _prospect_ — Σπουδαστήριο κοντά στη Σουλιέ· στάλθηκε SEO/GEO audit 2026-10-31 με 3 επιλογές συνεργασίας, αναμονή για κλήση.
 - [[1767-beverages|1767 Beverages]] · _prospect_ — Εταιρεία αναψυκτικών· ζητά 2 lifestyle campaign παραγωγές/έτος· call 2026-10-26 12:00.
 - [[avek|AVEK]] · _prospect_ — Εταιρεία brands καφέ/ροφημάτων· draft πρότασης video content με τον Παναγιώτη Νίκα (2026-10-23).
 - [[coco-mat|COCO-MAT]] · _κλειστός_ — Ζήτησε οικονομική προσφορά για τα κατασκευαστικά του περιπτέρου της στη Xenia 2026, με δικά της σχέδια. Στις 2026-09-07 διάλεξε άλλη εταιρεία «για φέτ…

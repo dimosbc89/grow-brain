@@ -3,7 +3,7 @@ type: client
 title: "Divino"
 aliases: [Divino]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 # Divino
 > Πελάτης web της GROW· ο freelancer [[george-andritsos]] κάνει τις διορθώσεις στο site.
@@ -17,9 +17,11 @@ updated: 2026-10-28
 - Οι διορθώσεις ολοκληρώθηκαν· εκκρεμούν εικόνες από τη Divino. Συμφωνήθηκε νέος διαδραστικός χάρτης αντιπροσώπων, στα πρότυπα του globalfoods.gr ([[2026-10-13-divino-feedback-site]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Έλεγχος/σχόλια για τον χάρτη αντιπροσώπων (divino.growagency.online/representatives) + διόρθωση popups στο mobile — Μαρίνα → Ανδρίτσος — από 2026-11-02 ([[2026-10-13-divino-feedback-site-update-2026-11-02]])
 - [ ] Εικόνες για το site — Divino — ασαφές ([[2026-10-13-divino-feedback-site]])
-- [ ] Χάρτης αντιπροσώπων — George Andritsos — σε εξέλιξη από 2026-10-27, χωρίς ημερομηνία ([[2026-10-13-divino-feedback-site-update-2026-10-28]])
+- [x] Χάρτης αντιπροσώπων — George Andritsos — ✓ έτοιμος για έλεγχο 2026-11-02 ([[2026-10-13-divino-feedback-site-update-2026-10-28]])
 
 ## Χρονολόγιο
+- 2026-11-02 — Ο Ανδρίτσος: ο διαδραστικός χάρτης είναι έτοιμος για έλεγχο· θέλει δουλειά στο mobile (popups) ([[2026-10-13-divino-feedback-site-update-2026-11-02]]).
 - 2026-10-27 — Ο Γιώργος Ανδρίτσος: ο χάρτης αντιπροσώπων προχωρά, θέλει χρόνο ([[2026-10-13-divino-feedback-site-update-2026-10-28]]).
 - 2026-10-23 — Η Μαρίνα επιβεβαιώνει: αλλάζει μόνο ο χάρτης στους αντιπροσώπους ([[2026-10-13-divino-feedback-site]]).

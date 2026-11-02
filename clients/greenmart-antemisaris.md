@@ -3,7 +3,7 @@ type: client
 title: "Greenmart / Antemisaris"
 aliases: [Antemisaris, Αντεμισάρης, Greenmart, greenmart.gr, antemisaris.gr]
 status: ενεργός
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 # Greenmart / Antemisaris
 > Η εταιρεία Antemisaris με το e-shop Greenmart (κήπος/φυτά/εργαλεία, π.χ. βολβοί, Stihl)· η GROW κάνει social posts, γυρίσματα, υποστήριξη σε εκθέσεις (XENIA 2026, Olympic Yacht Show) και τοποθέτηση προϊόντων στο Κορωπί.
@@ -14,7 +14,8 @@ updated: 2026-10-30
 - **Ομάδα GROW:** [[ioanna-chalkiadaki]] (day-to-day)· [[vassiliki-giannopoulou]] (cc)· [[despina-velissariou]] (XENIA forward)· ο Δήμος ([[2026-09-18-greenmart-posts-volvoi-stihl]], [[2026-07-21-antemisaris-expowork-xenia-2026]]).
 - **Τρίτοι:** [[expopiece]] (κατασκευή XENIA)· Audio-tech (LED wall XENIA, [[2026-10-16-audiotech-led-xenia]])· [[expowork]] (αρχική πρόταση περιπτέρου XENIA)· tsougrana.gr (συνάντηση συνεργασίας 2026-10-02)· Kathimerini (συνάντηση 2026-09-23) ([[2026-07-20_2026-11-03]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-02)
+- **Στις 2026-11-02:** στις 2026-10-30 19:47 ο Theo (tantemisaris@) απάντησε «Ωραίο φαίνεται» στην ανανεωμένη κάτοψη + οικονομική προσφορά της GROW· ζητά γκαζόν σε απλή καμπύλη και λογότυπο στην πλάτη του video wall. Ο Δήμος απάντησε ότι υπολογίστηκε τοίχος με αυτοκόλλητα λογότυπα· «Οκ τέλεια». Ρητή έγκριση της τιμής: ασαφές ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-02]]). Κατάλογος: νέα εξώφυλλα σε αναμονή επιλογής ([[2026-10-30-antemisaris-katalogos-final-comments]]).
 - **XENIA, στις 2026-10-28:** στις 2026-10-27 08:45 ο [[vangelis-zachos]] επέλεξε το **Option 2 (square presentation)**, να προσαρμοστεί στις νέες διαστάσεις· ίσως χρησιμοποιηθούν έτοιμα «ταψιά» με νέα φυτά (θα στείλει διαστάσεις). Η Δέσποινα έστειλε στην [[expopiece]] κάτοψη 8,5 × 11 και νέο αίτημα: **κατασκευή πίσω από το video wall** (δεν υπάρχει πια τοίχος)· υποσχέθηκε προσαρμογή + νέα κάτοψη την **Πέμπτη 2026-10-29**. Ζήτησε από την [[audio-tech]] kW/γραμμές — χωρίς απάντηση ακόμα. Τιμή κατασκευής: καμία ακόμα ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-28]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]]).
 - **XENIA 2026 (2026-11-21 → 23), στις 2026-10-27:** στις 2026-10-26 ο Αντεμισάρης δέχτηκε από τη Forum (διοργανωτής) νέο περίπτερο από ακύρωση, **νησίδα 8,5 × 11 = 93,5 τ.μ., Hall 2 A23-B25/A26-B27**· περιμένουν επόμενα βήματα από τη Forum. Η GROW επιβεβαίωσε στην Audio-tech **LED video wall σε όλη την πλάτη**· η [[expopiece]] έστειλε ερωτήσεις για κοστολόγηση και η Δέσποινα απάντησε (διχρωμία, μόνο σκαμπό, φωτισμός με τράσες)· εκκρεμούν επίσημη κάτοψη και kW του video wall προς Expopiece, και η τιμή κατασκευής ([[2026-10-26-antemisaris-xenia-katopsi-forum]], [[2026-10-16-audiotech-led-xenia]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]]).
 - ⚠️ Αντίφαση: η τεχνική περιγραφή κατασκευών που ανέβασε η Ιωάννα στο Asana (2026-10-26, «αλλαγή διαστάσεων») γράφει συνολικές διαστάσεις περιπτέρου **850 × 750 cm**, ενώ η νησίδα της Forum και η κάτοψη προς Expopiece είναι **8,5 × 11 m** ([[2026-10-27-asana-eidopoiiseis]], [[2026-10-26-antemisaris-xenia-katopsi-forum]]). Ποια ισχύει; — ρώτα Δήμο/Ιωάννα.
@@ -26,6 +27,9 @@ updated: 2026-10-30
 - Social: εγκρίθηκε το carousel για τους φθινοπωρινούς βολβούς (2026-09-18)· τα posts Stihl χρειάζονταν διορθώσεις ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Αλλαγή τεχνητού γκαζόν σε **μία απλή καμπύλη** + γράμματα/λογότυπα στην εκτεθειμένη πλάτη (τοίχος με αυτοκόλλητα, ήδη υπολογισμένος) — GROW/[[expopiece]] — ζητήθηκε 2026-10-30 ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-02]])
+- [ ] Αν χωρούν οι γλάστρες στο περίπτερο — [[vangelis-zachos]] — ρώτησε ο Lefteris 2026-10-30 ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-02]])
+- [ ] Κατάλογος/παρουσίαση: επιλογή εξωφύλλου (ο Θοδωρής προτιμά το 1ο) + νέα φωτό στη σελίδα Luxury private villas — Antemisaris / [[ioanna-chalkiadaki]] — από 2026-10-30 ([[2026-10-30-antemisaris-katalogos-final-comments]])
 - [ ] Απάντηση/έγκριση της προσφοράς κατασκευής XENIA της GROW — Αντεμισάρης — από 2026-10-30 ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-30]])
 - [ ] Meta: το «product browsing» είναι **ενεργό από 2026-10-28** στα sales ads (δεν έγινε opt-out). Κρατάμε ή κλείνουμε από Advantage+ creative / Destination settings — Δήμος/Ιωάννα ([[2026-10-26-admin-eidopoiiseis]], [[2026-10-28-admin-eidopoiiseis]])
 - [x] Υπογραφή εντολής Καθημερινής 20.984 € + ΦΠΑ — ✓ 2026-10-23 ([[2026-10-20-antemisaris-kathimerini-entoli-update-2026-10-23]])
@@ -72,6 +76,7 @@ updated: 2026-10-30
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-10-30 — XENIA: Theo «Ωραίο φαίνεται» στην κάτοψη/προσφορά· γκαζόν απλή καμπύλη· ο Δήμος: τοίχος με αυτοκόλλητα λογότυπα στην πλάτη· Theo «Οκ τέλεια»· Lefteris συμφωνεί, ρωτά για γλάστρες ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-02]]). Κατάλογος: νέα «artistic» εξώφυλλα· ο Θοδωρής προτιμά το 1ο ([[2026-10-30-antemisaris-katalogos-final-comments]]).
 - 2026-10-30 — 14:41 η Ιωάννα στέλνει στον Ζάχο ανανεωμένη κάτοψη, φωτορεαλιστικό (Option 2, νέες διαστάσεις) και **οικονομική προσφορά της GROW για την κατασκευή** του περιπτέρου XENIA· ποσό μόνο στο PDF ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-30]]).
 - 2026-10-29 — XENIA: η Μαρίνα αναλαμβάνει την Expopiece (Δέσποινα off ως 2/11)· νέα κάτοψη, Option 2 χωρίς «κυκλικά», LED wall 4 × 8,5 μ., χωρίς ορατά καλώδια (πίσω διάδρομος)· Ιωάννα: τριφασική 5×32 A / 40 A. 15:21 η **Expopiece έστειλε οικονομική προσφορά** και ζητά **άμεσα υπογεγραμμένη + απόδειξη προκαταβολής**. Η Ιωάννα έστειλε video Greenmart για έγκριση ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-30]], [[2026-10-29-greenmart-video-egkrisi]]).
 - 2026-10-27 — XENIA: 08:45 ο Ζάχος επιλέγει Option 2 (square presentation) «με τις καινούργιες διαστάσεις» και αναφέρει έτοιμα «ταψιά» φυτών. 14:31 η Δέσποινα ζητά kW/γραμμές από Audio-tech· 14:45 στέλνει στην Expopiece κάτοψη 8,5 × 11, ζητά κατασκευή πίσω από το video wall, υπόσχεται νέα κάτοψη Πέμπτη 2026-10-29 ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-28]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]]).

@@ -3,7 +3,7 @@ type: person
 title: "Μαρία Δρούζα"
 aliases: [Maria Drouza, Μαρία, «Μ», mariadrouza@gmail.com, maria@yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 # Μαρία Δρούζα
 > Η πελάτισσα πίσω από την [[yiayia-meatballs]] — κύρια επαφή και αυτή που εγκρίνει site, game, social, μενού και κόστη.
@@ -18,6 +18,7 @@ updated: 2026-10-28
 - Περιμένει από τη Βασιλική το όνομα του επόμενου creator έως 2026-10-21 πρωί ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Περιμένει βοήθεια για login στα εταιρικά emails — Δήμος — από 2026-10-31 ([[2026-10-09-yiayiameatballs-etairika-emails-update-2026-11-02]])
 - [ ] Απάντηση για το όνομα «Υιάγια Pastas» σε efood/Wolt — Μαρία — χωρίς ημερομηνία ([[2026-10-20-yiayia-website-new-version]])
 - [ ] Επιστροφή για τους influencers — Μαρία — από 2026-09-10 ([[2026-09-10-drouza-photo-material-feedback]])
 
@@ -25,6 +26,7 @@ updated: 2026-10-28
 - Βλ. [[yiayia-meatballs]].
 
 ## Χρονολόγιο
+- 2026-10-31 — Login failed στα εταιρικά emails· «από Δευτέρα και όποτε βρεις χρόνο» ([[2026-10-09-yiayiameatballs-etairika-emails-update-2026-11-02]]).
 - 2026-10-27 — Λαμβάνει το τιμολόγιο #1291 (γυρίσματα 2026-10-23) ([[2026-10-27-accounting-timologia-kartelles]]).
 - 2026-10-22 — Έλαβε τα 2 trial σενάρια του «ΤέλοςΠάγγων» ([[2026-10-22-yiayia-telospaggon-senaria]]).
 - 2026-10-19 — Λίστα αιτημάτων (site, μενού, interviews, editorial, 28η Οκτ., TikTok) ([[2026-10-20-yiayia-website-new-version]]).

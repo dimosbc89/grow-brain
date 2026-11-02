@@ -3,7 +3,7 @@ type: project
 title: "GROW outreach & marketing (δικό μας)"
 aliases: [GROW marketing, cold outreach, ActiveCampaign, ΙΕΚ καμπάνια, @grow.agency.online, GROW social]
 status: ενεργός
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 # GROW outreach & marketing
 > Το marketing της ίδιας της [[grow-agency]]: cold email καμπάνιες μέσω ActiveCampaign (ΙΕΚ/εκπαίδευση, εκθεσιακά περίπτερα), υλικό για τα social και τα flyers της GROW, events και press.
@@ -49,6 +49,7 @@ updated: 2026-10-30
 - 2026-10-27 — Θέση του Δήμου για εξωτερικούς lead-gen providers: πληρωμή μόνο με σαφές κόστος/διαδικασία και αφού φέρουν ≥ 2 πελάτες· «We have payed more than 10 times similar services and never received back something worth mentioning.» ([[2026-10-27-outbound-jkd-lead-gen-pitch]])
 
 ## Χρονολόγιο
+- 2026-10-31 — Ο Δήμος έστειλε SEO/GEO audit στο [[spoudastirio-drosopoulou]] με πρόταση κλήσης 30' ([[2026-10-31-drosopoulou-grow-audit]]).
 - 2026-10-30 — **TikTok LIVE: ο Δήμος αποφάσισε να ξεκινήσει** («θέλουμε να ξεκινήσουμε»)· call Δευτέρα 2026-11-02 16:00 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-30]]).
 - 2026-10-27 — Cold pitch JKD Agency (outbound lead gen, Sortlist)· ο Δήμος θέτει όρους (κόστος/διαδικασία, ≥ 2 πελάτες πρώτα)· εκείνοι ζητούν call ([[2026-10-27-outbound-jkd-lead-gen-pitch]]).
 - 2026-10-26 — TikTok LIVE: η Marilena Rentzou ρωτά αν ο Δήμος εξέτασε την πρόταση ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-27]]). Hospitality Jam: η Ιωάννα κάνει follow-up στον Paralos για call ([[2026-10-20-hospitality-jam-paralos-update-2026-10-27]])· η Βακαλό Art & Design (Γ. Γεωργούλας) απάντησε 2026-10-22 «όχι τώρα, έκλεισε η διαφημιστική περίοδος» — η Ιωάννα έστειλε την εταιρική παρουσίαση για το μέλλον ([[2026-10-26-hospitality-jam-vakalo]]).
