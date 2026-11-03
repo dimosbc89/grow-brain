@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-10-30
+updated: 2026-11-03
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -18,7 +18,10 @@ updated: 2026-10-30
 - **Επαφές:** [[elpida-plavou]] (ρόλος ασαφής· παραλήπτρια report και πρότασης videography) ([[2026-10-08-globalfoods-videography-proposal]])· [[evi-psycha]] (Marketing, marketing@globalfoods.gr) ([[2026-10-02-globalfoods-live-projector-videographer]])· commercial@globalfoods.gr σε cc ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 - **Ομάδα GROW:** ο Δήμος (app, Ads report, προτάσεις)· [[marina-papanastasiou]] (συντονισμός event)· [[despina-velissariou]] (event, φυλλάδιο, βιντεογράφος) ([[2026-10-02-globalfoods-live-projector-videographer]], [[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-03)
+- **Στις 2026-11-03:** 2026-11-02 η [[elpida-plavou]] έστειλε 8 κείμενα tips για το site (Manchego, Napoletana, Spianata, Stinco, Stracciatella, Zimbello, Bologna, Gorgonzola) και ρωτά αν είναι οκ το ύφος· η Δέσποινα έστειλε Canva links με τα posts εβδομάδας Global & Unique ([[2026-10-09-globalfoods-tips-site-update-2026-11-03]], [[2026-11-02-globalfoods-unique-social-posts]]).
+
+*Παλαιότερα (στις 2026-10-28):*
 - **Στις 2026-10-28:** στις 2026-10-27 στάλθηκε το **reel Unique x Zeo** (13:54, ανανεωμένο 17:18)· η [[elpida-plavou]] ζήτησε λογότυπο Unique στην αρχή, λογότυπα Unique Goods · Zeo Bakers στο τέλος, να φύγουν άτομα στα 0:15/0:18· η Μαρίνα αντέτεινε («παλιά πρακτική», IG content) αλλά δέχτηκε να τα δουν — **νέο βίντεο την Πέμπτη 2026-10-29**. Δισέλιδο Οικονομικού Οδηγού: «Μας αρέσει», μένει μικρή αλλαγή κειμένου, **τελικό προς έγκριση 2026-10-29**. Τα **ΔΤ Detroit εγκρίθηκαν** και ο πελάτης ζητά να τα ανεβάσουμε στα sites (Unique: στήσιμο με φωτό για τον «Πέτρο»). Στάλθηκαν τα raw της Ιταλικής Πρεσβείας (link έως 2026-12-27). ⚠️ Η Δέσποινα έχει εγκεκριμένη άδεια 2026-10-29/30 ([[2026-09-23-adeia-despina-29-30-10]]) ενώ οι δεσμεύσεις της Πέμπτης την αφορούν ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]], [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]], [[2026-10-09-global-unique-nea-mas-update-2026-10-28]], [[2026-10-27-globalfoods-arxeia-italiki-presveia]]).
 - **Στις 2026-10-27:** στις 2026-10-26 εγκρίθηκαν τα posts 28ης Οκτωβρίου (Unique όπως είναι, Global με νέο βίντεο «χωρίς το κρασί»)· η Δέσποινα δεσμεύτηκε για το reel ZEO έως 2026-10-27 και τα 2 πρώτα εταιρικά βίντεο έως 2026-10-30· η Ελπίδα «επείγεται για ΖΕΩ κ Unique» και η Μαρίνα έβαλε τη ΖΕΩ σε προτεραιότητα. Στάλθηκε το τιμολόγιο #1296 (βιντεογράφηση Ιταλικής Πρεσβείας) ([[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]], [[2026-10-26-globalfoods-timologio-presveia]]).
 - **Στις 2026-10-26:** η [[elpida-plavou]] έστειλε 2026-10-24 μαζικά «kind reminders» σε ~10 threads. Ο Δήμος απάντησε σε δύο: report Google Ads 10/09–11/10 και στρατηγική Google Reviews (12 εβδομάδες, ζητά call 30') ([[2026-10-20-globalfoods-google-ads-report-update-2026-10-26]], [[2026-10-21-globalfoods-google-kritikes-update-2026-10-26]]). Ανοιχτά από τον Δήμο: πλάνο καμπανιών/στρατηγική, αίτημα Global App από 2024-09-23, Carozzi, λίστα εκκρεμοτήτων Εύης. Η Ελπίδα θέλει 3 posts/εβδομάδα για Global και Unique. Videography: απάντηση αρχές Νοεμβρίου.
@@ -28,6 +31,8 @@ updated: 2026-10-30
 - Στο ημερολόγιο: «Πρεσβεία Global - Despina» 2026-10-22 16:00 — 💭 Υπόθεση: αφορά τη Global Foods, ασαφές ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Feedback στο ύφος των tips (8 Word) — [[despina-velissariou]] / [[marina-papanastasiou]] — από 2026-11-02 ([[2026-10-09-globalfoods-tips-site-update-2026-11-03]])
+- [ ] Έγκριση posts εβδομάδας (Canva Global/Unique) — Global Foods — από 2026-11-02 ([[2026-11-02-globalfoods-unique-social-posts]])
 - [ ] «Landing Offer» — προσφορά για εισαγωγική σελίδα στο site τους «όπως Overoll» — Δήμος (Asana, ανάθεση Μαρίνας 2026-10-26, χωρίς προθεσμία) ([[2026-10-29-admin-eidopoiiseis]])
 **Νέα στις 2026-10-28**
 - [ ] Reel Unique x Zeo με τις αλλαγές της Ελπίδας (λογότυπα αρχή/τέλος, χωρίς άτομα 0:15/0:18, ΖΕΩ logo περισσότερο) — [[marina-papanastasiou]] / Δέσποινα — **Πέμπτη 2026-10-29** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]])
@@ -90,6 +95,7 @@ updated: 2026-10-30
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-11-02 — 12:45 η Ελπίδα στέλνει κείμενα tips για 8 προϊόντα· 17:42 η Δέσποινα στέλνει Canva links με τα posts της εβδομάδας Global & Unique ([[2026-10-09-globalfoods-tips-site-update-2026-11-03]], [[2026-11-02-globalfoods-unique-social-posts]]).
 - 2026-10-30 — 15:12/15:15 η Μαρίνα στέλνει στην Ελπίδα τα 2 videos (Global X Detroit, ZEO)· 14:42 αρχεία ICAP για τον Οικονομικό Οδηγό ([[2026-10-30-globalfoods-etairika-videos]]).
 - 2026-10-29 — Οικονομικός οδηγός: η Μαρίνα έστειλε preview, PDF Α4 και 2 εκδοχές στοίχισης· η Ελπίδα οκ σε κείμενο/στοίχιση αλλά θέλει αλλαγή στην κατανομή παραγράφων (μεγαλύτερα γράμματα/κενά) — όχι τελική έγκριση. Reel Unique x ZEO: updated video 11:14· νέα σχόλια 12:15 (πλάνο 04 να κρατά/κόσμος, να φαίνονται γλυκά + 2 πλάνα γλυκών) ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-30]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-30]]).
 - 2026-10-27 — Reel Unique x Zeo στάλθηκε· η Ελπίδα ζητά λογότυπα αρχή/τέλος· η Μαρίνα: «παλιά πρακτική… οι αλλαγές σας είναι προς την αντίθετη κατεύθυνση», τελικά νέο βίντεο Πέμπτη 2026-10-29. Δισέλιδο Οικονομικού Οδηγού: 6 εκδοχές μέσα στη μέρα, «Μας αρέσει», τελικό Πέμπτη. Τελικά ΔΤ Detroit από τον πελάτη + αίτημα ανάρτησης στα sites. Raw Πρεσβείας (link έως 2026-12-27) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]], [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]], [[2026-10-09-global-unique-nea-mas-update-2026-10-28]], [[2026-10-27-globalfoods-arxeia-italiki-presveia]]).

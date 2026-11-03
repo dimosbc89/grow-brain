@@ -3,7 +3,7 @@ type: client
 title: "Mr & Mrs White Hotels"
 aliases: [Mr & Mrs White, Mr and Mrs White, mrandmrswhitehotels.com]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-11-03
 ---
 # Mr & Mrs White Hotels
 > Ξενοδοχειακό brand με B2C site (mrandmrswhitehotels.com) στο χαρτοφυλάκιο της [[hotelbrain]]. Η GROW έχει το website.
@@ -30,6 +30,7 @@ updated: 2026-10-20
 - Read-only sync των static data, όχι scraping. Βλ. [[2026-09-14-hotelbrain-webhotelier-api-sync]] ([[2026-09-14-hotelbrain-webhotelier-api]]).
 
 ## Χρονολόγιο
+- 2026-11-02 — Αφαιρέθηκαν τα Livin Mykonos και My Mykonos (λήξη μίσθωσης· αίτημα 2026-10-19) ([[2026-11-02-hotelbrain-afairesi-xenodoxeion]]).
 - 2026-09-14 — Το site μπαίνει στο συνολικό αίτημα read-only API για 4 sites ([[2026-09-14-hotelbrain-webhotelier-api]]).
 - 2026-07-24 — Ο Yiannis Korbos στέλνει WeTransfer και το PDF «Mr_Mrs_White_Brand_Manual_2026». Ο Δήμος το προωθεί στη Βάσια ([[2026-07-24-mr-mrs-white-brand-manual]]).
 - 2026-03 — Ο Δήμος ζητά από τη WebHotelier το endpoint BAR για «from price». Η WebHotelier δεν δίνει πρόσβαση στα Availability APIs και το θέτει εσωτερικά ([[2026-09-14-hotelbrain-webhotelier-api]]).

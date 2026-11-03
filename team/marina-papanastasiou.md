@@ -3,7 +3,7 @@ type: team
 title: "Μαρίνα Παπαναστασίου"
 aliases: [Marina Papanastasiou, Μαρίνα, mpapa, mpapa@growagency.online]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-11-03
 ---
 # Μαρίνα Παπαναστασίου
 > Managing Director της GROW. Τρέχει τα περίπτερα (lead στην Argyroplastics), τα admin της UK εταιρείας και τα τιμολόγια που της στέλνει ο Δήμος, και είναι σε cc σχεδόν σε κάθε νέο lead.
@@ -43,6 +43,7 @@ updated: 2026-10-28
 - Η UK εταιρεία κάνει onboarding με την The Accountancy Partnership: φόρμα υπογράφηκε 2026-10-15, welcome και AML ήρθαν 2026-10-16 ([[2026-10-15-accountancy-partnership-registration-signed]], [[2026-10-16-accountancy-partnership-welcome]], [[2026-10-16-accountancy-partnership-aml-check]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Plastica: Υπ. Δηλώσεις ηλεκτρολόγου/κατασκευαστή/μηχανικού προς Expowork — Μαρίνα — πριν το στήσιμο 2026-11-05 ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]])
 - [ ] Global Foods: reel Unique x Zeo με τις αλλαγές της Ελπίδας — Μαρίνα (υπόσχεση) — **Πέμπτη 2026-10-29** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]])
 - [ ] Global Foods: ανάρτηση ΔΤ Detroit στο site Global + στήσιμο με φωτό για το site Unique — Μαρίνα — από 2026-10-27 ([[2026-10-09-global-unique-nea-mas-update-2026-10-28]])
 - [ ] Barolo: έγκριση δημιουργικών booklet «santorini best life» — πελάτης — από 2026-10-27 ([[2026-10-27-barolo-booklet-santorini-best-life]])
@@ -70,6 +71,7 @@ updated: 2026-10-28
 - 2026-09-23: εγκρίνει μαζί με τον Δήμο την άδεια της [[despina-velissariou]] για 29–30/10 ([[2026-09-23-adeia-oktovriou-despina]]).
 
 ## Χρονολόγιο
+- 2026-11-02 — Argyroplastics: έγκριση γραφιστικών, υπογραφές πελάτη, απόδειξη πληρωμής, Expowork δέχεται κατ' εξαίρεση την ανάρτηση και ζητά Υπ. Δηλώσεις· προωθεί στον Δήμο τις προδιαγραφές κατασκευής (email Δέσποινας προς Epilogi 2026-10-21) ([[2026-11-02-argyroplastics-eggrafa-ypografi]], [[2026-10-20-expowork-argyroplastics-d17-update-2026-11-03]], [[2026-11-02-expowork-d17-ypeuthynes-diloseis]], [[2026-10-20-plastica-prosfora-kataskevasti-update-2026-11-03]]).
 - 2026-10-27 — Plastica: παρέλαβε απόδειξη πληρωμής προκαταβολής #1297. Global Foods: αντίρρηση στα λογότυπα αρχή/τέλος του reel («παλιά πρακτική»), υπόσχεση νέου βίντεο Πέμπτη 2026-10-29. Barolo: δημιουργικά booklet «santorini best life» προς έγκριση ([[2026-10-26-plastica-offer-kataskevastika-update-2026-10-28]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]], [[2026-10-27-barolo-booklet-santorini-best-life]]).
 - 2026-10-26 — Plastica: προσφορά κατασκευαστικών → αποδοχή 13:31 → τιμολόγιο προκαταβολής #1297. TSU/Grandpa's: Halloween reel, poster (preview και σωστό αρχείο 16:04), Looxi επιλογή Β, call λογοτύπου. Global: νέο βίντεο 28ης, ΖΕΩ σε προτεραιότητα ([[2026-10-26-plastica-offer-kataskevastika]], [[2026-10-26-tsu-pies-halloween-looxi-logo]], [[2026-10-26-grandpas-halloween-poster]], [[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]]).
 - 2026-10-21 — Asana: 4 ανοιχτά (2 εκπρόθεσμα, 1 χωρίς due): «Posts Εβδομάδας» (due 2026-10-09), «αγγλικό» (grow websites), «Κυριακές και Αργίες στα apps» (due 2026-12-01), 1 στο Overoll. Κυρίως αναθέτει/σχολιάζει. ✓ Site Map | google site και posts εβδομάδας 2026-10-06, Τιμολόγηση βιντεογράφηση Global 2026-10-07, Verification TikTok partners account 2026-10-06, Στοιχεία πρόσληψης Tesla Promoters και Συστατική Επιστολή ΕΚΠΑ 2026-09-28 ([[2026-10-21-asana-snapshot]]).

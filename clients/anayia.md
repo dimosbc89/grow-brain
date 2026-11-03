@@ -3,7 +3,7 @@ type: client
 title: "ANAYIA All Inclusive Resorts"
 aliases: [ANAYIA, Anayia, ANAYIA resorts, anayiaresorts.com]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-11-03
 ---
 # ANAYIA All Inclusive Resorts
 > Brand all-inclusive resorts στο χαρτοφυλάκιο της [[hotelbrain]]. Η GROW έχει το website (anayiaresorts.com) και έχει γράψει brand story και copywriting.
@@ -32,6 +32,7 @@ updated: 2026-10-20
 - Το marketing και SEO περιεχόμενο μένει στο WordPress και οι κρατήσεις γίνονται στο booking engine. Βλ. [[2026-09-14-hotelbrain-webhotelier-api-sync]] ([[2026-09-14-hotelbrain-webhotelier-api]]).
 
 ## Χρονολόγιο
+- 2026-11-02 — Αφαιρέθηκε το Elion Seaside Resort (λήξη μίσθωσης· αίτημα 2026-10-19) ([[2026-11-02-hotelbrain-afairesi-xenodoxeion]]).
 - 2026-09-22 — Ο Yiannis Korbos στέλνει WeTransfer με το PDF «ANAYIA All Inclusive Resorts 2026 Final2.pdf» (Brand Manual 2026). Ο Δήμος το προωθεί στη Βάσια χωρίς σχόλιο ([[2026-09-22-anayia-brand-manual-2026]]).
 - 2026-09-14 — Το anayiaresorts.com μπαίνει στο αίτημα read-only API προς τη WebHotelier ([[2026-09-14-hotelbrain-webhotelier-api]]).
 - 2026-07-29 — Η Niki Daleziou στέλνει screenshot με σφάλμα στην είσοδο του site. Ο Δήμος απαντά περίπου μία ώρα μετά: «Καλησπέρα σας διορθώθηκε.». Η φύση του σφάλματος είναι ασαφής ([[2026-07-29-anayia-website-sfalma]]).

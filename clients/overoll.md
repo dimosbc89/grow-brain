@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-10-30
+updated: 2026-11-03
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -18,7 +18,12 @@ updated: 2026-10-30
 - **Επαφές:** [[vaso-theochari]] (Marketing, marketing@overoll.gr) ([[2026-10-14-overoll-websites-domains]])· Kikiras_john@yahoo.gr σε cc, ρόλος ασαφής ([[2026-10-14-overoll-websites-domains]], [[2026-07-23-overoll-akinito-xanthi]]).
 - **Ομάδα GROW:** ο Δήμος (sites, domains)· [[vassiliki-giannopoulou]] και [[marina-papanastasiou]] σε cc ([[2026-10-14-overoll-websites-domains]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-03)
+- **Τιμολογήσεις event 6 χρόνων (2026-11-02):** η Βασιλική έστειλε στην Overoll το τιμολόγιο του **DJ Γλυφάδας** (με στοιχεία πληρωμής του DJ — [στοιχείο παραλείφθηκε]) και **9 τιμολόγια μπαλονιών Αττικής** (ΤΔΑ-939…949)· ποσά μόνο στα PDF ([[2026-11-02-overoll-timologio-dj-glyfada]], [[2026-11-02-overoll-timologia-mpalonia-attiki]]).
+- **Τιμολόγιο Νοεμβρίου** από το λογιστήριο 2026-11-02 13:02, **υπόλοιπο καρτέλας 5.312,80 €** ([[2026-11-03-admin-eidopoiiseis]]).
+- **Αυτοκόλλητα:** η Epilogi χρέωσε 320 € + ΦΠΑ αντί της προσφοράς 280 € + ΦΠΑ· η Βασιλική ζήτησε έλεγχο 2026-11-02 15:49 ([[2026-11-02-epilogi-timologio-yiayia-overoll]]).
+
+*Από 2026-10-28:*
 - **Turns 6 (2026-11-01), στις 2026-10-27:** sticker — επιλέχθηκε η **1η πρόταση (πάνω αριστερά)**, **3.000 τμχ** από τον τυπογράφο μας (310 € + ΦΠΑ, ανά 300)· εκτυπωτικό στάλθηκε. Παράδοση «πιθανότατα» **Πέμπτη 2026-10-29** στο κατάστημα Πραξιτέλους (περιθώριο λόγω αργίας)· διανομή στα καταστήματα 2026-10-30/31. **Κάρτα PR boxes εγκρίθηκε** (όλα τα καταστήματα + logo), εκτυπωτικό στάλθηκε, την τυπώνει η Overoll. Promoters 27/10: Χαλάνδρι — Σταματοπούλου, Μαρούσι — Ζάκα, Ν. Ερυθραία — Γιαννοπούλου. Giveaway λήγει **2026-10-31**· η Ιωάννα υπενθύμισε στον Δήμο το task «giveaway ads» (δικό του, due 2026-10-26) ([[2026-10-20-overoll-turns-6-event-update-2026-10-28]], [[2026-10-26-overoll-pinakes-promoters-27-10-update-2026-10-28]], [[2026-10-27-asana-eidopoiiseis]]).
 - *Στις 2026-10-26:* η Overoll διάλεξε 2026-10-26 την πρόταση 2 για το sticker με αλλαγές («6» αντί «six», μικρότερο λεκτικό, «Birthday Cake Croissant» από πάνω, χρώματα από την τρούφα)· η Ιωάννα έστειλε τις ανανεωμένες 17:06 — αναμένεται τελική έγκριση ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]]). Σήμερα 2026-10-27 ξεκινούν οι promoters (Χαλάνδρι, Μαρούσι, Ν. Ερυθραία) ([[2026-10-20-overoll-turns-6-event]], [[2026-10-23-overoll-proslipseis-promoters]]).
 - **Promoters 29/10 (10:00–14:00, 50 €):** η Μαρίνα έστειλε 2026-10-27 στη [[sk-advisors]] τα στοιχεία για πρόσληψη: Πανόρμου — Σταματοπούλου, Πραξιτέλους — Καροπούλου, Γλυφάδα — Ξυδιά ([[2026-10-27-overoll-proslipseis-promoters-29-10]]).
@@ -32,6 +37,10 @@ updated: 2026-10-30
 - Ο Δήμος ζήτησε διαθεσιμότητες για call στις 2026-10-14· ημερομηνία call δεν υπάρχει στο ημερολόγιο ([[2026-10-14-overoll-websites-domains]], [[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Πληρωμή τιμολογίων μπαλονιών Αττικής (9 τμχ) και DJ Γλυφάδας — Overoll — από 2026-11-02 ([[2026-11-02-overoll-timologia-mpalonia-attiki]], [[2026-11-02-overoll-timologio-dj-glyfada]])
+- [ ] Εξόφληση υπολοίπου καρτέλας 5.312,80 € (με τιμολόγιο Νοεμβρίου) — Overoll — από 2026-11-02 ([[2026-11-03-admin-eidopoiiseis]])
+- [ ] Διόρθωση χρέωσης αυτοκόλλητων Epilogi (320 € vs προσφορά 280 € + ΦΠΑ) — [[epilogin]] — από 2026-11-02 ([[2026-11-02-epilogi-timologio-yiayia-overoll]])
+- [ ] «Overoll call» — 2026-11-04 16:00–17:00 (δημιουργός Βασιλική· θέμα ασαφές) ([[2026-11-03_2026-11-10]])
 - [ ] Αναγγελία πρόσληψης promoters 29/10 (Πανόρμου, Πραξιτέλους, Γλυφάδα) — [[sk-advisors]] — πριν τις 2026-10-29 ([[2026-10-27-overoll-proslipseis-promoters-29-10]])
 - [ ] Εξόφληση υπολοίπου 3.068,40 € (περιλαμβάνει #1298) — Overoll — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
 - [x] Νέα δημιουργικά Turns 6 (ροζ, γραμματοσειρά Overoll) — Ιωάννα — ✓ 2026-10-26 12:15 ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]])
@@ -45,7 +54,7 @@ updated: 2026-10-30
 - [ ] Κοινή ανάγνωση/αλλαγές στις ερωτήσεις podcast Γιάννη Κίκιρα — Δήμος + [[ioanna-chalkiadaki]] — **2026-10-27** ([[2026-10-26-kikiras-questions]])
 - [ ] Διεύθυνση στις ΗΠΑ για Google Business & Yelp — Overoll/TS Developments — χωρίς ημερομηνία ([[2026-10-19-overoll-social-handles-domains]])
 - [x] Feedback για stickers — Overoll — ✓ 2026-10-26 (πρόταση 2 με αλλαγές)· για την ανακοίνωση γενεθλίων: ασαφές ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]])
-- [ ] Κόστη μπαλονιών/promoters/DJ για το event — [[vassiliki-giannopoulou]] ([[2026-10-20-overoll-turns-6-event]])
+- [x] Κόστη μπαλονιών/promoters/DJ για το event — [[vassiliki-giannopoulou]] — ✓ 2026-10-30/11-02 στάλθηκαν τιμολόγια μπαλονιών (Θεσσαλονίκη, Αττική) και DJ ([[2026-10-20-overoll-turns-6-event]], [[2026-11-02-overoll-timologia-mpalonia-attiki]], [[2026-11-02-overoll-timologio-dj-glyfada]])
 **Από Asana (στις 2026-10-21)**
 - [ ] «birthday overoll» (Overoll Turns 6) — [[vassiliki-giannopoulou]] — έως 2026-11-01· subtasks: σχεδιασμός sticker & birthday pass ([[marianna-vourna]], ⚠️ εκπρόθεσμα από 2026-10-19/20), influencers, promoters σε κάθε κατάστημα, μπαλόνια (Βασιλική, έως 2026-10-23), giveaway carousel post ([[vassia-kataki]], έως 2026-10-21) ([[2026-10-21-asana-snapshot]])
 - [ ] Panettone packaging design — Βασιλική / Vassia — ⚠️ εκπρόθεσμο από 2026-10-13 ([[2026-10-21-asana-snapshot]])
@@ -70,6 +79,8 @@ updated: 2026-10-30
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-11-02 — Τιμολόγιο DJ Γλυφάδας και 9 τιμολόγια μπαλονιών Αττικής προς Overoll· τιμολόγιο Νοεμβρίου, υπόλοιπο 5.312,80 €· η Epilogi χρέωσε 320 € + ΦΠΑ για τα stickers αντί 280 € — η Βασιλική ζητά έλεγχο ([[2026-11-02-overoll-timologio-dj-glyfada]], [[2026-11-02-overoll-timologia-mpalonia-attiki]], [[2026-11-02-epilogi-timologio-yiayia-overoll]], [[2026-11-03-admin-eidopoiiseis]]).
+- 2026-11-03 — Στο GROW Agency Calendar νέο «Overoll call» 2026-11-04 16:00–17:00 (Βασιλική) ([[2026-11-03_2026-11-10]]).
 - 2026-10-30 — 11:42 τιμολόγιο μπαλονιών Θεσσαλονίκης (πληρωμή σήμερα, εξόφληση ή 50%)· 13:59 τιμολόγιο #1301 (αυτοκόλλητα birthday product)· υπόλοιπο καρτέλας 3.452,80 € ([[2026-10-30-overoll-timologia-mpalonia-aftokollita]]).
 - 2026-10-29 — Promoters 29/10 (Πανόρμου, Πραξιτέλους, Γλυφάδα) και νέα πρόσληψη για **30/10 10:00–14:00** (Ν. Σμύρνη, Αιγάλεω κ.ά.). Αφίσα αναζήτησης προσωπικού Νέας Ερυθραίας· story ξανά 3/11. Η Overoll ζητά προτάσεις **panettone packaging** και απαντήσεις στις κριτικές εκτός Πραξιτέλους 25/10. Asana «giveaway ads» άλλαξε 29/10 ([[2026-10-29-overoll-promoters-30-10-kai-afisa]], [[2026-10-21-overoll-panettone-packaging-update-2026-10-30]], [[2026-10-26-overoll-kritikes-19-25-10-update-2026-10-30]]).
 - 2026-10-27 — Λογιστήριο GROW: τιμολόγιο #1298 (promoters 27/29/30 Οκτ.), υπόλοιπο 5.068,40 € → 3.068,40 € μετά την κατάθεση της Overoll. Η Μαρίνα στέλνει στη SK Advisors τους promoters της 29/10 ([[2026-10-27-accounting-timologia-kartelles]], [[2026-10-27-overoll-proslipseis-promoters-29-10]]).
@@ -93,6 +104,7 @@ updated: 2026-10-30
 - 2026-07-23 — Ο Κώστας Μαραμής προτείνει κατάστημα 150 τ.μ. στο Cosmos Center της Ξάνθης για franchise· ο Δήμος το προωθεί στο Kikiras_john@yahoo.gr («μου έστειλε ένας άκυρος... απλά στο προωθώ») ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Οικονομικά
+- 2026-11-02: υπόλοιπο καρτέλας **5.312,80 €** μετά το τιμολόγιο Νοεμβρίου ([[2026-11-03-admin-eidopoiiseis]]). Stickers: κόστος Epilogi 280 € + ΦΠΑ κατά προσφορά, τιμολογήθηκαν 320 € + ΦΠΑ (υπό έλεγχο)· προς Overoll 310 € + ΦΠΑ ([[2026-11-02-epilogi-timologio-yiayia-overoll]]). DJ και μπαλόνια Αττικής: ποσά μόνο στα PDF.
 - overoll.com: 4.500 € (premium domain) ([[2026-10-14-overoll-websites-domains]]).
 - overoll.us και overoll.shop: αγορά από τη GROW, κόστος ασαφές ([[2026-10-14-overoll-websites-domains]]).
 - Αμοιβές GROW για sites/γυρίσματα/Ads: ασαφές.

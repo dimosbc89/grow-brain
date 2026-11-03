@@ -3,7 +3,7 @@ type: person
 title: "Niki Daleziou (Νίκη Δαλέζιου)"
 aliases: [Niki Daleziou, Νίκη, ndaleziou@hotelbrain.com]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-11-03
 ---
 # Niki Daleziou
 > Digital Marketing Manager στη HOTELBRAIN S.A. Είναι η καθημερινή επαφή της GROW για τα hotel websites και για το νέο corporate site της [[hotelbrain]].
@@ -24,6 +24,7 @@ updated: 2026-10-28
 - [ ] DNS records για το site → HotelBrain (διαχειριστής domains) — Δήμος — από 2026-10-27 08:18 ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]])
 
 ## Χρονολόγιο
+- 2026-11-02 — Reminder για αφαίρεση 3 ξενοδοχείων· ο Δήμος απαντά ότι ολοκληρώθηκε ([[2026-11-02-hotelbrain-afairesi-xenodoxeion]]).
 - 2026-10-27 — Απαντά για τα mails του domain (hq@, hotels@) και ζητά αλλαγή μόνο του pointing· στέλνει Teams invite «redesign hotelbrain.com» ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]], [[2026-10-27-hotelbrain-redesign-teams-invite]]).
 - 2026-10-26 — Ζητά go-live του hotelbraingroup.com, στέλνει κωδικούς papaki με email [διαπιστευτήρια παραλείφθηκαν]· κλείνει call για το νέο design 2026-10-27 11:45 (μετά από 12:00) ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-27]], [[2026-10-23-hotelbrain-com-new-design-update-2026-10-27]]).
 - 2026-10-23 — Ζητά νέο design για το hotelbrain.com μετά από απόφαση διοίκησης ([[2026-10-23-hotelbrain-com-new-design]]).

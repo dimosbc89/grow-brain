@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -23,6 +23,7 @@ updated: 2026-11-02
 - Επόμενο: «The Circle of Dining γύρισμα» 2026-10-22 13:00 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] «Chef Georgiadis εδώ» — 2026-11-06 16:00 ([[2026-11-03_2026-11-10]])
 - [ ] Εξόφληση #1292 (μοντάζ 2ου επεισοδίου) — πελάτης — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
 - [ ] Εξόφληση εκκρεμών τιμολογίων (Circle + ατομική) — πελάτης (λογιστής Ακριώτης) — από 2026-10-19· ποσά μόνο στα PDF ([[2026-10-19-georgiadis-ypoloipo-timologia]])
 - [ ] Feedback/έγκριση «cod video 2» — Δήμος — από 2026-10-20 ([[2026-10-20-asana-circle-of-dining-mentions]])
@@ -56,6 +57,7 @@ updated: 2026-11-02
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
+- 2026-11-02 — Meta receipt **The Dining Society 40,00 €** (από 2026-11-01, χρέωση 22:05) — 💭 Υπόθεση: η πληρωμή του ad account λειτουργεί ξανά μετά τα declined 30–31/10. Τιμολόγια Νοεμβρίου (Circle of Dining + Γεωργιάδης) από το λογιστήριο ([[2026-11-03-admin-eidopoiiseis]]).
 - 2026-10-30/31 — Meta: απορρίφθηκε η πληρωμή του ad account «The Dining Society» — λογαριασμός disabled, ads σε παύση (💭 Υπόθεση: είναι ο λογαριασμός του Circle of Dining) ([[2026-11-02-admin-eidopoiiseis]]).
 - 2026-10-27 — Τιμολόγιο #1292 για το μοντάζ του δεύτερου επεισοδίου ([[2026-10-27-accounting-timologia-kartelles]]).
 - 2026-10-21 — Η Ιωάννα πέρασε τις αλλαγές στην αρχισυνταξία του γυρίσματος και ζητά check από τον Δήμο (Asana). Γύρισμα 2026-10-22 13:00 ([[2026-10-21-asana-mentions]], [[2026-10-22_2026-10-29]]).

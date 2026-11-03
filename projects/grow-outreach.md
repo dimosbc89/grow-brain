@@ -3,7 +3,7 @@ type: project
 title: "GROW outreach & marketing (δικό μας)"
 aliases: [GROW marketing, cold outreach, ActiveCampaign, ΙΕΚ καμπάνια, @grow.agency.online, GROW social]
 status: ενεργός
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 # GROW outreach & marketing
 > Το marketing της ίδιας της [[grow-agency]]: cold email καμπάνιες μέσω ActiveCampaign (ΙΕΚ/εκπαίδευση, εκθεσιακά περίπτερα), υλικό για τα social και τα flyers της GROW, events και press.
@@ -18,7 +18,10 @@ updated: 2026-11-02
 - **Inbound:** τα inquiries έρχονται στο hello@growagency.online, π.χ. η [[ilirika]] κατόπιν σύστασης ([[2026-08-27-ilirika-b2b-advertising-inquiry]]).
 - **Ομάδα:** ο Δήμος (καμπάνιες, κείμενα). Forwards των απαντήσεων πάνε στη [[marina-papanastasiou]] και τη [[vassiliki-giannopoulou]] ([[2026-09-24-primowear-periptero-ekthesi-d16]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-03)
+- **Στις 2026-11-03 — TikTok LIVE:** για το call της 2026-11-02 16:00: στις 16:07 η [[marilena-rentzou]] έγραψε ότι έχει συνδεθεί και ρώτησε αν ισχύει το ραντεβού· **καμία απάντηση** του Δήμου στο thread. Αν μπήκε τελικά: ασαφές ([[2026-10-19-tiktok-live-agency-protasi-update-2026-11-03]]).
+
+*Παλαιότερα (στις 2026-10-28):*
 - **Αγορασμένο lead gen:** 2026-10-27 cold pitch από JKD Agency (Alexia Goldberg, outboundjkd.info) — «2–4 επιχειρήσεις/εβδομάδα», με αφορμή το Top Rated Agency στο Sortlist. Ο Δήμος απάντησε ότι είναι ανοιχτός **μόνο με σαφή ανάλυση κόστους, budget και διαδικασία, και αφού φέρουν τουλάχιστον 2 πελάτες ανεξαρτήτως budget**, γιατί η GROW έχει πληρώσει >10 φορές παρόμοιες υπηρεσίες χωρίς αποτέλεσμα. Η Alexia ζητά call μέσω booking link· ο Δήμος δεν έχει κλείσει ([[2026-10-27-outbound-jkd-lead-gen-pitch]]).
 
 *Από 2026-10-20:*
@@ -27,6 +30,7 @@ updated: 2026-11-02
 - Για την καμπάνια ΙΕΚ υπάρχει μόνο το test της 2026-07-30. Πραγματική αποστολή και αποτελέσματα: ασαφή ([[2026-07-30-test-newsletter-iek-eggrafes]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] **Απάντηση στη Marilena Rentzou (TikTok LIVE) / νέο ραντεβού onboarding** — Δήμος — εκκρεμεί από 2026-11-02 16:07 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-11-03]])
 - [ ] JKD Agency: κλείνουμε call ή όχι (ζητούν booking αντί για γραπτή πρόταση κόστους) — Δήμος — από 2026-10-27, χωρίς προθεσμία ([[2026-10-27-outbound-jkd-lead-gen-pitch]])
 - [ ] Mediterranean College: πρόταση με ή χωρίς αμοιβή — Δήμος / [[despina-velissariou]] — από 2026-10-22 ([[2026-10-22-mediterranean-college-paketo]])
 - [x] Απόφαση/απάντηση για TikTok LIVE Agency μετά τα 3 έγγραφα — Δήμος — από 2026-10-21· η TikTok ρώτησε ξανά 2026-10-26 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-22]], [[2026-10-19-tiktok-live-agency-protasi-update-2026-10-27]]) — ✓ 2026-10-30: προχωράμε, call 2026-11-02 16:00 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-30]])
@@ -49,6 +53,7 @@ updated: 2026-11-02
 - 2026-10-27 — Θέση του Δήμου για εξωτερικούς lead-gen providers: πληρωμή μόνο με σαφές κόστος/διαδικασία και αφού φέρουν ≥ 2 πελάτες· «We have payed more than 10 times similar services and never received back something worth mentioning.» ([[2026-10-27-outbound-jkd-lead-gen-pitch]])
 
 ## Χρονολόγιο
+- 2026-11-02 — 16:07 TikTok LIVE: η Marilena Rentzou είναι συνδεδεμένη στο call και ρωτά αν ισχύει· καμία απάντηση από GROW ([[2026-10-19-tiktok-live-agency-protasi-update-2026-11-03]]).
 - 2026-10-31 — Ο Δήμος έστειλε SEO/GEO audit στο [[spoudastirio-drosopoulou]] με πρόταση κλήσης 30' ([[2026-10-31-drosopoulou-grow-audit]]).
 - 2026-10-30 — **TikTok LIVE: ο Δήμος αποφάσισε να ξεκινήσει** («θέλουμε να ξεκινήσουμε»)· call Δευτέρα 2026-11-02 16:00 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-30]]).
 - 2026-10-27 — Cold pitch JKD Agency (outbound lead gen, Sortlist)· ο Δήμος θέτει όρους (κόστος/διαδικασία, ≥ 2 πελάτες πρώτα)· εκείνοι ζητούν call ([[2026-10-27-outbound-jkd-lead-gen-pitch]]).

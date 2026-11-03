@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-10-30
+updated: 2026-11-03
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -19,7 +19,11 @@ updated: 2026-10-30
 - **Τρίτοι:** [[biz-courier]] (αποθήκη/3PL, BOX NOW)· [[epsilon-net]] (ERP, τιμολόγηση, myDATA)· Viva και Klarna ως τρόποι πληρωμής στο footer ([[2026-10-08-tandem-review-eshop-developer]]).
 - **Ομάδα GROW:** ο Δήμος (integrations, Epsilon, προϊόντα, κύρια επικοινωνία)· [[despina-velissariou]] και [[vassia-kataki]] (review design/περιεχομένου με τον developer) ([[2026-10-08-tandem-review-eshop-developer]])· η [[despina-velissariou]] έχει και τον οδηγό της συνέντευξης ([[2026-10-19-tandem-interview-questions]])· [[vassiliki-giannopoulou]] σε cc ([[2026-10-08-tandem-review-eshop-developer]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-03)
+- **Δοκιμαστική παραγγελία e-shop:** η BIZ δεν μπόρεσε να ακυρώσει την test αποστολή SWS49373664 (είχε ήδη συσκευαστεί)· η Caroline ζήτησε επιστροφή 2026-11-02 (το email πήγε στον Δήμο, όχι στη BIZ — ασαφές αν έφτασε). Η BIZ ζητά στο μέλλον ένδειξη «test» στον παραλήπτη και test προϊόν ([[2026-11-02-tandem-bizcourier-cancel-test-order]]).
+- **Price tags / αυτοκόλλητα (Print Kong):** η Δέσποινα ρώτησε 2026-11-02 αν παραδίδουν άμεσα· εξόφληση μετρητά χωρίς τιμολόγιο 385 € (120 + 265) ([[2026-10-20-tandem-price-tags-print-kong-update-2026-11-03]]).
+
+*Παλαιότερα (στις 2026-10-28):*
 - **Su Apparel FW 2026:** η Caroline έστειλε 2026-10-27 15:54 excel για να περαστεί στο Epsilon η νέα παραλαβή Su Apparel, αποκλειστικά για το κατάστημα Κολωνακίου· ο Δήμος απάντησε 2026-10-28 00:59 «Ready Please do a check when you have time.» Αν μπαίνει και στο e-shop: ασαφές ([[2026-10-27-tandem-su-apparel-epsilon]]). 💭 Υπόθεση: το brand είναι το «Susurrous Clothing» (susurrousclothing.com), για το οποίο ο Δήμος λαμβάνει Wordfence alerts ([[2026-10-27-admin-eidopoiiseis-a]]).
 - **BIZ LiNK / BOX NOW:** στις 2026-10-26 η BIZ αναβάθμισε το BIZ LiNK σε 1.3.2 (περιέχει διόρθωση για το Add Supply· το booking λειτουργεί) και επιβεβαίωσε ότι το BOX NOW είναι εμπορικά ενεργό με service code 167. Σειρά του Δήμου: έλεγχος μετά την αναβάθμιση και ρύθμιση Sender Profile 167 σύμφωνα με τον οδηγό της BIZ. Αντικαταβολή μόνο μέσω «Pay on the Go» της BOX NOW ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
 - Τα ελληνικά links των brands (Christian Villa, Vanessa Wu) διορθώθηκαν 2026-10-26· ο Δήμος τρέχει audit σε όλα τα links ([[2026-10-26-tandem-inquiry-links-3pl]]).
@@ -34,6 +38,8 @@ updated: 2026-10-30
 - Στο ημερολόγιο δεν υπάρχει προγραμματισμένη συνάντηση Tandem μετά τις 2026-10-13 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Επιστροφή test αποστολής SWS49373664 — BIZ — η Caroline ενέκρινε 2026-11-02 αλλά το email πήγε στον Δήμο· να επιβεβαιωθεί ότι το έλαβε η BIZ — Δήμος/Caroline ([[2026-11-02-tandem-bizcourier-cancel-test-order]])
+- [ ] Παράδοση/παραλαβή price tags & αυτοκόλλητων Print Kong + εξόφληση 385 € μετρητά — [[despina-velissariou]] — από 2026-11-02 ([[2026-10-20-tandem-price-tags-print-kong-update-2026-11-03]])
 - [ ] Πλάνο pre-Christmas καμπάνιας social + απάντηση για Q&A και test purchase — Δήμος/[[despina-velissariou]] — ζητήθηκε 2026-10-30 ([[2026-10-30-tandem-marketing-plan]])
 - [ ] Epsilon Su Apparel: ποσότητα 2 σε Blouse S047 Chili, Blouse S600 chocolate, Cardigan S031 Moka, Skirt S99 Nero + πρόθεμα brand («SU-…») στα scan codes — Δήμος — από 2026-10-28· 2026-10-29 ο Δήμος δεσμεύτηκε γραπτώς ότι θα γίνει (χωρίς ημερομηνία) ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-30]])
 - [ ] Απάντηση στον George για το BOX NOW test — Δήμος — ρωτήθηκε ξανά 2026-10-28· ακόμα αναπάντητο στην απάντηση της 2026-10-29 ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-30]])
@@ -107,6 +113,7 @@ updated: 2026-10-30
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-11-02 — 09:15 η BIZ: η test αποστολή SWS49373664 δεν ακυρώνεται, μόνο επιστροφή· η Caroline προωθεί στον Δήμο (12:27) και γράφει «proceed with the return» (15:09, προς Δήμο). 13:22 η Δέσποινα ρωτά την Print Kong για άμεση παράδοση· 385 € μετρητά ([[2026-11-02-tandem-bizcourier-cancel-test-order]], [[2026-10-20-tandem-price-tags-print-kong-update-2026-11-03]]).
 - 2026-10-30 — 11:49 η Caroline ζητά πλάνο marketing για pre-Christmas καμπάνια στα social, νέα για το Q&A και αν δούλεψε η δοκιμαστική αγορά ([[2026-10-30-tandem-marketing-plan]]). 14:28 ο Δήμος ενημερώνει τη BIZ ότι ενεργοποιήθηκαν Live Order Sync και Order Fulfillment στο BIZ LiNK plugin ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-30]]).
 - 2026-10-29 — 14:13 ο Δήμος απαντά στον George: θα ξαναελεγχθούν τα Su Apparel στο Epsilon (ποσότητα 1, εκτός 4 styles με 2) και θα μπει πρόθεμα **SU-** στα scan codes (π.χ. SU-SKIRT-S99NERO-42) μετά από έλεγχο των συνδέσεων. Δεν απάντησε για το BOX NOW. Η Βάσια ρωτά την Print Kong για παράδοση labels μέσα στην εβδομάδα ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-30]], [[2026-10-20-tandem-price-tags-print-kong-update-2026-10-30]]).
 - 2026-10-28 — Ο George ελέγχει το Epsilon: 4 είδη Su Apparel θέλουν ποσότητα 2· ζητά πρόθεμα brand στα scan codes και ρωτά για το BOX NOW test ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-29]]). 19:08 προωθεί portfolio φωτογράφου ([[2026-10-28-tandem-portfolio-fotografou]]).

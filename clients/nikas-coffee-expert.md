@@ -3,7 +3,7 @@ type: client
 title: "Panagiotis Nikas / CoffeeXpert / Barista Academy"
 aliases: [Panagiotis Nikas, Νίκας, P. Nikas, Coffee Expert, CoffeeXpert, ΚΟΦΙ ΕΞΠΕΡΤ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ, Barista Academy, baristacademy.gr, barista-academy.gr, baristaexpert.gr, coffeexpert.gr, panagiotisnikas.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 # Panagiotis Nikas / CoffeeXpert / Barista Academy
 > Ο [[panagiotis-nikas]] και οι επιχειρήσεις του (CoffeeXpert, Barista Academy, προσωπικό brand): η GROW τρέχει Meta Ads, κρατά τα sites/domains και λειτουργεί στην πράξη ως το IT/security help desk του — πολλά «copyright» phishing.
@@ -16,12 +16,18 @@ updated: 2026-11-02
 - **Registrar baristacademy.gr:** ENARTIA (papaki.com) → [[papaki]], [[enartia]] ([[2026-08-27-baristacademy-domain-expiration]]).
 - **Σχετικά:** lead [[avek]] (συνάντηση «P. Nikas X AVEK» 2026-10-19)· 2box (kimon@2box.gr, «P. Nikas X 2box» 2026-08-05) ([[2026-07-20_2026-11-03]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-03)
+- **Καρτέλα:** στις 2026-11-02 13:09 ο [[panagiotis-nikas]] απάντησε στο τιμολόγιο Νοεμβρίου (υπόλοιπο 1.829,00 €) ότι **και τα δύο τιμολόγια πληρώθηκαν 2026-10-15 (961,00 €)** και ζητά διορθωμένη καρτέλα ([[2026-11-02-nikas-kartela-pliromi-15-10]]).
+- **OutIn LattoGo S:** η OutIn ενέκρινε το video 2026-11-02 12:27· launch post OutIn 2026-11-02 16:00, μετά μπορεί να ανέβει το δικό μας με τα επίσημα hashtags ([[2026-11-02-nikas-outin-lattogo-s]]).
+
+*Από 2026-10-20:*
 - 2026-10-09: η φόρμα του baristacademy.gr γέμισε spam· ο Δήμος το χαρακτήρισε απόπειρα hacking και δούλευε να κλείσει τα κενά ([[2026-10-09-baristacademy-spam-forma-hacking]]).
 - 2026-10-10: το πλήρες σεμινάριο εμφανίζεται 500€ αντί 600€· ο Δήμος υποσχέθηκε έλεγχο έως 2026-10-11 ([[2026-10-10-seminario-timi-600-500]]). Αν διορθώθηκε: ασαφές.
 - 2026-10-19: νέο «copyright» phishing (Jackson Walker LLP) → «spam» ([[2026-10-19-panagiotisnikas-copyright-spam]])· ίδια μέρα συνάντηση «P. Nikas X AVEK» με Βασιλική και Δήμο ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] **Έλεγχος πίστωσης 961,00 € (2026-10-15) και επαναποστολή διορθωμένης καρτέλας** — [[sofia-konstantopoulou]] / Δήμος — ο Νίκας περιμένει από 2026-11-02 13:09 ([[2026-11-02-nikas-kartela-pliromi-15-10]])
+- [ ] Ανέβασμα video LattoGo S (μετά 2026-11-02 16:00, hashtags #OutInLattoGoS κ.ά.) — [[vassiliki-giannopoulou]] — ασαφές αν έγινε ([[2026-11-02-nikas-outin-lattogo-s]])
 - [ ] «Nikas Podcast» — ανάγνωση σήμερα από Βασιλική + Ιωάννα (+ Δήμο, «και οι τρεις μαζί») — 2026-11-02 ([[2026-11-02-admin-eidopoiiseis]])
 **Υποσχέσεις του Δήμου**
 - [ ] Διόρθωση/εξήγηση συνόλου σεμιναρίου (500€ αντί 600€) — Δήμος/GROW — υπόσχεση έως 2026-10-11, **εκπρόθεσμο αν δεν έγινε** ([[2026-10-10-seminario-timi-600-500]])
@@ -50,6 +56,7 @@ updated: 2026-11-02
 - Όλα τα «copyright/DMCA» και «Microsoft 365» emails χαρακτηρίστηκαν spam/phishing — καμία ενέργεια ([[2026-08-21-ninja-tune-copyright-spam-nikas]], [[2026-08-31-nikas-copyright-phishing-scam]], [[2026-09-01-coffeexpert-m365-phishing-check]], [[2026-09-15-barista-academy-copyright-spam]], [[2026-10-19-panagiotisnikas-copyright-spam]]).
 
 ## Χρονολόγιο
+- 2026-11-02 — Ο Νίκας αμφισβητεί την καρτέλα (1.829,00 €): πλήρωσε 961,00 € για δύο τιμολόγια 2026-10-15. Η OutIn εγκρίνει το video LattoGo S (launch 16:00). baristacademy.gr: Wordfence ξανά Super Forms 6.3.322 → 6.3.323 (3/11) και connection Easy Appointments ληγμένη ([[2026-11-02-nikas-kartela-pliromi-15-10]], [[2026-11-02-nikas-outin-lattogo-s]], [[2026-11-03-admin-eidopoiiseis]]).
 - 2026-10-31 — Ο Δήμος προώθησε «Nikas Podcast» σε Βασιλική + Ιωάννα: «Προς ανάγνωση την δευτέρα και οι τρεις μαζί»· 2026-10-30 η Βασιλική έστειλε το video LattoGo S στην OutIn ([[2026-11-02-admin-eidopoiiseis]]).
 - 2026-10-27/28 — baristacademy.gr: ξανά Wordfence medium για Super Forms 6.3.322 → 6.3.323 (δεν έγινε update). Ξανά αποτυχία auto-update για WPBakery 6.8.0 → 9.0.1 και Ultimate Addons 3.19.11 → 3.21.6 (CMB2 και Yoast ενημερώθηκαν). Ξανά alert για την Easy Appointments connection, ληγμένη από 2022-12-31 ([[2026-10-28-admin-eidopoiiseis]]).
 - 2026-10-27 — baristacademy.gr: Wordfence medium alert (Super Forms update)· Easy Appointments: η connection «Barista Academy ONLINE SEMINAR | Panagiotis Nikas» είναι ληγμένη από 2022-12-31 ([[2026-10-26-admin-eidopoiiseis]]).
@@ -75,6 +82,7 @@ updated: 2026-11-02
 - 2026-07-31 — «Νίκας εκεί» 10:00 ([[2026-07-20_2026-11-03]]).
 
 ## Οικονομικά
+- Καρτέλα 2026-11-02: υπόλοιπο 1.829,00 € κατά GROW· ο πελάτης λέει ότι πλήρωσε 961,00 € 2026-10-15 για δύο τιμολόγια. ⚠️ Ασαφές: το ίδιο ποσό 1.829,00 € είχε η καρτέλα του [[pharmacypan]] 2026-10-27 — 💭 Υπόθεση: λάθος καρτέλα/ποσό ([[2026-11-02-nikas-kartela-pliromi-15-10]]).
 - Domains: 25€ + ΦΠΑ × 3 (baristaexpert.gr, baristacademy.gr, barista-academy.gr) ([[2026-09-10-invoice-nikas-barista-domains]]).
 - Χρεώσεις Meta (κάρτα πελάτη): 31,24€ (2026-08-16), 58,57€ (2026-08-07), 55,00€ (2026-04-16)· απόκλιση ~25€ υπό έλεγχο ([[2026-08-16-coffeexpert-viva-card-meta-charges]]).
 - Σεμινάριο Barista Professional: πλήρες 600€ (θεωρία 150€ + 150€ ανά ημέρα) ([[2026-10-10-seminario-timi-600-500]]).

@@ -3,7 +3,7 @@ type: lead
 title: "Domino's"
 aliases: [Dominos, Domino's Pizza, dominos.gr]
 status: prospect
-updated: 2026-10-30
+updated: 2026-11-03
 ---
 # Domino's
 > Νέο lead από το outreach «The Hospitality Jam»: η Marketing Manager Katerina Masoura + 2 συνάδελφοι σε συνάντηση «Grow Agency x Dominos» 2026-10-23 με όλη την senior ομάδα της GROW.
@@ -13,13 +13,17 @@ updated: 2026-10-30
 - **Ομάδα GROW:** ο Δήμος, [[marina-papanastasiou]], [[despina-velissariou]], [[ioanna-chalkiadaki]] ([[2026-07-20_2026-11-03]]).
 - **Υπηρεσίες:** ασαφές.
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-03)
+- **Στις 2026-11-03:** στο GROW Agency Calendar η συνάντηση «Grow Agency x Dominos» είναι **2026-11-05 12:00–13:00** (Ιωάννα, Μαρίνα, Κατερίνα Μασούρα· ο Δήμος δεν καλείται). ⚠️ Αντίφαση: το email-thread έδινε 2026-10-29 12:00· στο ημερολόγιο φαίνεται πλέον 5/11 — αν έγινε συνάντηση 29/10: ασαφές ([[2026-11-03_2026-11-10]], [[2026-10-19-hospitality-jam-dominos-update-2026-10-28]]).
+
+*Παλαιότερα (στις 2026-10-28):*
 - Η αναβληθείσα συνάντηση ορίστηκε: **«Grow Agency x Dominos» — Πέμπτη 2026-10-29, 12:00–13:00, Google Meet** (πρόταση Κατερίνας Μασούρα 2026-10-27 16:50, αποδοχή & invite Ιωάννας 16:55). Guests στο invite: Ιωάννα, Μαρίνα, katerinam@· ο Δήμος δεν είναι στη λίστα (το έλαβε μέσω GROW Agency Calendar) — ασαφές αν μπαίνει ([[2026-10-19-hospitality-jam-dominos-update-2026-10-28]]).
 
 *Στις 2026-10-20:*
 - Συνάντηση 2026-10-23 13:00 ([[2026-07-20_2026-11-03]]). Καμία άλλη πηγή.
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Συνάντηση «Grow Agency x Dominos» — Ιωάννα, Μαρίνα — **2026-11-05 12:00–13:00** ([[2026-11-03_2026-11-10]])
 - [x] Νέα ημερομηνία συνάντησης — ✓ 2026-10-27: Πέμπτη 2026-10-29 12:00 ([[2026-10-19-hospitality-jam-dominos-update-2026-10-28]])
 - [ ] Συνάντηση «Grow Agency x Dominos» (Meet) — Ιωάννα, Μαρίνα (+ Δήμος;) με Κ. Μασούρα + 2 συναδέλφους — **2026-10-29 12:00–13:00** ([[2026-10-19-hospitality-jam-dominos-update-2026-10-28]])
 - [ ] Προετοιμασία: τι προτείνει η GROW στη Domino's (Hospitality Jam + performance/social) — Δήμος — **πριν τις 2026-10-29 12:00** (αρχικά 2026-10-23) ([[2026-10-19-hospitality-jam-dominos]], [[2026-10-19-hospitality-jam-dominos-update-2026-10-28]])

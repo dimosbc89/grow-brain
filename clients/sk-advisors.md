@@ -3,7 +3,7 @@ type: client
 title: "SK Advisors"
 aliases: [SK Advisors, sk-advisors.gr, SK ADVISORS]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-11-03
 ---
 # SK Advisors
 > Λογιστικό γραφείο της Σοφίας Κωνσταντοπούλου. Για τη GROW είναι δύο πράγματα: πελάτης (SEO content, Meta Ads, video για TikTok/Reels) και λογιστής της ίδιας της GROW.
@@ -24,7 +24,10 @@ updated: 2026-10-20
 
   ([[2026-09-02-sk-video-2-edit-feedback]], [[2026-08-27-sk-advisors-toll-pass-documents]])
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-03)
+- Στις 2026-11-02 συμπλήρωσε και επέστρεψε (13:01) τη φόρμα προμηθευτή του [[kyknos]] που της έστειλε η Μαρίνα (myDATA αριθμός εγκατάστασης, accounting details) ([[2026-11-02-sk-advisors-epikairopoiisi-stoixeion]]).
+
+*Από 2026-10-20:*
 - **YouTube outreach:** στις 2026-09-30 ο Δήμος έστειλε cold outreach στο κανάλι YouTube TruePathFX. Πρότεινε επεισόδιο για τα οικονομικά των ταξί, γυρισμένο μέσα σε ταξί, με καλεσμένη τη Σοφία. Απάντηση δεν υπάρχει ([[2026-09-30-truepathfx-taxi-episode-proposal]]).
 - **«Sofia Video 2»:** οι τελευταίες εκδοχές στάλθηκαν στις 2026-09-02 και ο Δήμος προώθησε την τελευταία στη Βάσια. Δεν είναι σαφές αν παραδόθηκε στην πελάτισσα ([[2026-09-02-sk-video-2-edit-feedback]]).
 - **ΓΕΜΗ και pass διοδίων:** οι οφειλές για το πιστοποιητικό ΓΕΜΗ πληρώθηκαν στις 2026-08-26 ([[2026-08-26-gemi-payments-sk-advisors]]). Τα έγγραφα για το Pass διοδίων της «κυρίας Γιαννοπούλου» τα έχει η Βασιλική από 2026-08-27 ([[2026-08-27-sk-advisors-toll-pass-documents]]).
@@ -43,6 +46,7 @@ updated: 2026-10-20
 - Τα άρθρα γράφονται πάντα κατά E-E-A-T 2026: byline, TL;DR, schema, FAQ, YMYL ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Χρονολόγιο
+- 2026-11-02 — Συμπληρώνει τη φόρμα προμηθευτή Κύκνου για τη GROW (Μαρίνα 11:32 → επιστροφή 13:01) ([[2026-11-02-sk-advisors-epikairopoiisi-stoixeion]]).
 - 2026-09-30 — Cold outreach του Δήμου στο TruePathFX, με τη Σοφία σε bcc ([[2026-09-30-truepathfx-taxi-episode-proposal]]).
 - 2026-09-02 — Η Marianna στέλνει νέες εκδοχές και ο Δήμος προωθεί την τελευταία στη Βάσια ([[2026-09-02-sk-video-2-edit-feedback]]).
 - 2026-08-31 — Η Marianna στέλνει το «Sofia Video 2» για έγκριση. Ο Δήμος ζητά ([[2026-09-02-sk-video-2-edit-feedback]]):

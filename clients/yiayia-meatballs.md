@@ -3,7 +3,7 @@ type: client
 title: "Υιάγια (Yiayia Meatballs)"
 aliases: [Υιάγια, Yiayia, Yiayia Meatballs, Υιάγια Home of Meatballs, Γιάγια, yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 # Υιάγια (Yiayia Meatballs)
 > Εστιατόριο με κεφτεδάκια («Home of Meatballs») της [[maria-drouza]]· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influencers, μενού, packaging και γυρίσματα.
@@ -15,7 +15,13 @@ updated: 2026-11-02
 - **Ομάδα GROW:** [[vassiliki-giannopoulou]] (account lead· ανακοινώθηκε στο thread που ξεκίνησε 2026-09-11) ([[2026-10-07-yiayia-street-activation-content]])· [[ioanna-chalkiadaki]] (μενού, packaging, influencers, posting)· ο Δήμος (site, game, email, server)· [[vassia-kataki]] (promo video του game) ([[2026-10-16-yiayia-meatball-catcher-promo]])· [[marina-papanastasiou]] σε cc.
 - **Domains:** yiayiameatballs.gr· foodhugs.gr = άλλο project της Μαρίας ([[2026-10-20-yiayia-website-new-version]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-03)
+- **Creators (2026-11-02):** η Μαρία Δρούζα απέρριψε το ανανεωμένο test video του ΤέλοςΠάγγων («πολύ κριντζ», «κρατάει πολύ») και το concept kung fu του Γιώργου Λαγούδη· θέλει απλά σενάρια — ο ΤέλοςΠάγγων με βάση το μανιφέστο, χωρίς μακαρονάδες· ο Λαγούδης π.χ. «λέει ψέματα ότι μαγείρεψε». Ρωτά επίσης για follow-up της «επιστολής» σε περιοδικό/άρθρο ([[2026-11-02-yiayia-creators-telospaggon-lagoudis]]).
+- **ΔΤ αποστολή:** η Βασιλική ζήτησε από τον Δήμο στο Asana 2026-11-02 12:20 «παίζει να ασχοληθείς με αυτό σήμερα;» (task του Δήμου, due 2026-10-23) ([[2026-11-02-asana-yiayia-dt-apostoli]]).
+- **Χαρτοπετσέτα 24×24:** η NAK Company απάντησε 2026-11-02 ότι τα dots είναι οδηγοί και ότι τυπώνει μόνο σε Pantone U (έστειλε τα διαθέσιμα μελάνια) → Vassia ([[2026-10-29-yiayia-xartopetseta-maketa-update-2026-11-03]]).
+- Η Epilogi τιμολόγησε δουλειές Υιάγια + Overoll· η Βασιλική εγκρίνει το σκέλος Υιάγια ([[2026-11-02-epilogi-timologio-yiayia-overoll]]). Το λογιστήριο έστειλε το τιμολόγιο Νοεμβρίου στη Μαρία 2026-11-02 ([[2026-11-03-admin-eidopoiiseis]]).
+
+*Από 2026-10-28:*
 - Στις 2026-10-27 στάλθηκε στη Μαρία (cc Κώστας) το τιμολόγιο **#1291** για τα γυρίσματα της 2026-10-23 (ποσό μόνο στο PDF) ([[2026-10-27-accounting-timologia-kartelles]]).
 
 *Από 2026-10-20:*
@@ -25,11 +31,14 @@ updated: 2026-11-02
 - Επόμενο γύρισμα: «Υιάγια shooting» 2026-10-23 09:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Νέα κατεύθυνση σε ΤέλοςΠάγγων (μανιφέστο, χωρίς μακαρονάδες) και Λαγούδη (απλό σενάριο, όχι kung fu) + προγραμματισμός γυρισμάτων — [[vassiliki-giannopoulou]] — από 2026-11-02 ([[2026-11-02-yiayia-creators-telospaggon-lagoudis]])
+- [ ] Follow-up για δημοσίευση της «επιστολής» (περιοδικό/άρθρο), όπως ζήτησε η Μαρία — GROW (💭 Δήμος, μαζί με το ΔΤ) — από 2026-11-02 ([[2026-11-02-yiayia-creators-telospaggon-lagoudis]])
+- [ ] Επιλογή Pantone U για τη ροζ χαρτοπετσέτα (κοντά στο #f69893) από τη λίστα της NAK + έγκριση μακέτας — [[vassia-kataki]] / Βασιλική — από 2026-11-02 ([[2026-10-29-yiayia-xartopetseta-maketa-update-2026-11-03]])
 - [ ] **Login εταιρικών emails αποτυγχάνει** (Outlook: «δεν βρίσκει account», webmail: «login failed») — έλεγχος λογαριασμών + απάντηση στη [[maria-drouza]] — Δήμος — από 2026-10-31 («όχι επείγον, από Δευτέρα») ([[2026-10-09-yiayiameatballs-etairika-emails-update-2026-11-02]])
 - [ ] Εξόφληση #1291 (γυρίσματα 2026-10-23) — Yiayia — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
 - [ ] Auth code + mailboxes για yiayiafoodhugs.gr — theway.gr (Γιώργος) — από 2026-10-22 ([[2026-10-22-yiayia-domain-metafora]])
-- [ ] Feedback για τα σενάρια «ΤέλοςΠάγγων» — Μαρία Δρούζα — από 2026-10-22 ([[2026-10-22-yiayia-telospaggon-senaria]])
-- [ ] Asana «ΔΤ αποστολή» — Δήμος — **due 2026-10-23**
+- [x] Feedback για τα σενάρια «ΤέλοςΠάγγων» — Μαρία Δρούζα — ✓ 2026-11-02 (απόρριψη του test video, ζητά πιο απλό) ([[2026-11-02-yiayia-creators-telospaggon-lagoudis]]) — αρχικά από 2026-10-22 ([[2026-10-22-yiayia-telospaggon-senaria]])
+- [ ] Asana «ΔΤ αποστολή» — Δήμος — **due 2026-10-23** ⚠️ εκπρόθεσμο· η Βασιλική ρώτησε 2026-11-02 12:20 «παίζει να ασχοληθείς με αυτό σήμερα;» ([[2026-11-02-asana-yiayia-dt-apostoli]])
 - [ ] Τελικό οκ και παραγγελία εκτυπωτικών· μέτρηση υδρογείου 2026-10-23 — [[vassiliki-giannopoulou]] ([[2026-10-20-yiayia-ektypotika]])
 **Υποσχέσεις του Δήμου**
 - [x] Απάντηση στους υπεύθυνους του server για το foodhugs.gr — Δήμος — ✓ 2026-10-22 αίτημα μεταφοράς domain ([[2026-10-22-yiayia-domain-metafora]])· η landing: Asana «menu landing» ✓ 22/10 ([[2026-10-20-yiayia-website-new-version]])
@@ -84,6 +93,7 @@ updated: 2026-11-02
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- 2026-11-02 — Η Μαρία απορρίπτει το test video ΤέλοςΠάγγων και το kung fu concept του Λαγούδη· ζητά follow-up για την «επιστολή». Η Βασιλική πιέζει τον Δήμο για το Asana «ΔΤ αποστολή». NAK: dots = οδηγοί, μόνο Pantone U. Epilogi τιμολόγιο (Υιάγια οκ). Τιμολόγιο Νοεμβρίου από λογιστήριο ([[2026-11-02-yiayia-creators-telospaggon-lagoudis]], [[2026-11-02-asana-yiayia-dt-apostoli]], [[2026-10-29-yiayia-xartopetseta-maketa-update-2026-11-03]], [[2026-11-02-epilogi-timologio-yiayia-overoll]]).
 - 2026-10-31 — Η Μαρία Δρούζα δεν μπορεί να συνδεθεί στα νέα εταιρικά emails (Outlook/webmail)· ζητά βοήθεια από Δευτέρα ([[2026-10-09-yiayiameatballs-etairika-emails-update-2026-11-02]]).
 - 2026-10-29 — Εκτυπωμένη χαρτοπετσέτα 24×24: η Μαρία Δρούζα βρίσκει το σχέδιο «φανταστικό», ανησυχεί για χρώμα/κεντράρισμα· ο Τζεβελέκος θέλει απευθείας επικοινωνία GROW–εκτυπωτή· η Βασιλική έγραψε στον κ. Ντούγια (NAK Company) ([[2026-10-29-yiayia-xartopetseta-maketa]]).
 - 2026-10-27 — Τιμολόγιο #1291 για τα γυρίσματα της 2026-10-23 ([[2026-10-27-accounting-timologia-kartelles]]).
@@ -116,6 +126,7 @@ updated: 2026-11-02
 - 2026-07-24 — «tik tok γύρισμα yiayia» 14:30 ([[2026-07-20_2026-11-03]]).
 
 ## Οικονομικά
+- 2026-11-02: τιμολόγιο Νοεμβρίου προς Μαρία (cc Κώστας) — ποσό μόνο στο PDF ([[2026-11-03-admin-eidopoiiseis]])· τιμολόγιο Epilogi προς GROW για δουλειές Υιάγια + Overoll (ποσό Υιάγια μόνο στο PDF) ([[2026-11-02-epilogi-timologio-yiayia-overoll]]).
 - #1291 (2026-10-27): γυρίσματα 2026-10-23 — ποσό μόνο στο PDF ([[2026-10-27-accounting-timologia-kartelles]]).
 - Outdoor/street activation: 150€ videographer + 50€ παρουσιάστρια = 200€ — εγκρίθηκε ([[2026-10-07-yiayia-street-activation-content]]).
 - Εκτίμηση παράδοσης από το γύρισμα: ~6–7 τελικά video reels + αρχειακό υλικό ([[2026-10-07-yiayia-street-activation-content]]).

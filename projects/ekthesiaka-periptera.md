@@ -3,7 +3,7 @@ type: project
 title: "Εκθεσιακά περίπτερα (booth design & build)"
 aliases: [εκθεσιακά περίπτερα, περίπτερα, booths, expo design & build, expo booths]
 status: ενεργός
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 # Εκθεσιακά περίπτερα
 > Γραμμή υπηρεσιών της GROW για σχεδιασμό και κατασκευή custom εκθεσιακών περιπτέρων, μαζί με περιφερειακές υπηρεσίες. Εδώ συγκεντρώνονται όλοι οι πελάτες και τα leads περιπτέρων.
@@ -16,21 +16,24 @@ updated: 2026-11-02
 - **Υπεργολάβοι κατασκευής:** [[expopiece]]· Epilogi Digital ([[epilogin]]) ([[2026-09-07-cocomat-xenia-booth-offer]])· [[expowork]] εμφανίζεται ως ανταγωνιστική πρόταση στην [[greenmart-antemisaris]] ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 - **Ομάδα GROW:** ο Δήμος (πωλήσεις, προτάσεις)· [[marina-papanastasiou]] (lead στην [[argyroplastics]], cc παντού)· [[vassiliki-giannopoulou]] (Account Director)· γραφιστικά/κατόψεις/φωτορεαλιστικά: [[vassia-kataki]], [[marianna-vourna]], [[fotini]]· [[despina-velissariou]] στα meetings ([[2026-09-01-gamestuff-expo-brief]], [[2026-10-20-argyroplastics-plastica-2026]], [[2026-07-20_2026-11-03]]).
 
-## Pipeline (στις 2026-10-28)
+## Pipeline (στις 2026-11-03)
 
 | Οργανισμός | Έκθεση | Μέγεθος | Κατάσταση | Πηγή |
 |---|---|---|---|---|
-| [[argyroplastics]] | Plastica 2026-11-06 → 09, H3 D17 | 10 × 3 m | **Κλεισμένο**: συμφωνητικό 2026-10-07, προκαταβολή #1281· **κατασκευαστικά εγκρίθηκαν 2026-10-26**, προκαταβολή #1297· κατασκευαστής ασαφής | [[2026-10-20-argyroplastics-plastica-2026]], [[2026-10-26-plastica-offer-kataskevastika]] |
+| [[argyroplastics]] | Plastica 2026-11-06 → 09, H3 D17 | 10 × 3 m | **Κλεισμένο**, σε παραγωγή: γραφιστικά εγκρίθηκαν 2026-11-02, εκτυπωτικά στην Epilogi, Expowork ρεύμα/ανάρτηση/εξόφληση ✓· μένουν Υπ. Δηλώσεις· στήσιμο 2026-11-05· κατασκευαστής ρητά ασαφής (💭 Epilogi) | [[2026-10-20-argyroplastics-plastica-2026]], [[2026-11-02-expowork-d17-ypeuthynes-diloseis]], [[2026-11-02-argyroplastics-ektypotika-arxeia]] |
 | [[deturbo]] | DEFEA 2027, Hall 3 / B10 | 33 τ.μ. | Περιμένουμε budget από 2026-09-18 | [[2026-09-22-deturbo-defea-2027-periptero]] |
 | [[primowear]] | PRINTINGSHOW'26 / «Syskevasia 2026», Hall 4 / D16 | ασαφές | Meeting 2026-09-30· προσφορά ασαφής | [[2026-09-24-primowear-periptero-ekthesi-d16]], [[2026-07-20_2026-11-03]] |
 | [[metlen]] | ασαφές | ασαφές | Teams meeting 2026-09-18· αποτέλεσμα ασαφές | [[2026-09-09-metlen-booth-teams-meeting]], [[2026-07-20_2026-11-03]] |
 | [[gamestuff]] | Fantasy Festival 2026-10-02 → 04 | 3 × 4 m | Πρώτη πρόταση 2026-09-07, meetings 8–9/9· αν έκλεισε: ασαφές | [[2026-09-07-gamestuff-fantasy-festival-booth]] |
 | [[coco-mat]] | Xenia 2026 | ασαφές | **Χάθηκε** 2026-09-07 (άλλη εταιρεία) | [[2026-09-07-cocomat-xenia-booth-offer]] |
-| [[greenmart-antemisaris]] | Xenia 2026-11-21 → 23, Hall 2 A23-B25/A26-B27 | νησίδα 8,5 × 11 = 93,5 τ.μ. (από 2026-10-26) | Σχεδιασμός GROW: **Option 2 (square presentation) επιλέχθηκε 2026-10-27**· LED wall Audio-tech (kW εκκρεμούν)· κοστολόγηση [[expopiece]] σε εξέλιξη, νέα κάτοψη 2026-10-29 | [[2026-10-26-antemisaris-xenia-katopsi-forum]], [[2026-10-16-audiotech-led-xenia]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]] |
+| [[greenmart-antemisaris]] | Xenia 2026-11-21 → 23, Hall 2 A23-B25/A26-B27 | νησίδα 8,5 × 11 = 93,5 τ.μ. (από 2026-10-26) | Option 2 (2026-10-27)· προσφορά GROW **19.000 €** (2026-10-30) — εκκρεμεί ρητή έγκριση Lefteris/Theo· Expopiece περιμένει υπογραφή + προκαταβολή από 2026-10-29 | [[2026-10-26-antemisaris-xenia-katopsi-forum]], [[2026-10-16-audiotech-led-xenia]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]] |
 
 Από παλαιότερες συνομιλίες: ιδέες περιπτέρου για την Kouvelas S.A. ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-03)
+- **Στις 2026-11-03:** Plastica ([[argyroplastics]], 2026-11-06 → 09) — γραφιστικά εγκρίθηκαν, εκτυπωτικά + κάτοψη στην [[epilogin]], η [[expowork]] καταχώρησε ρεύμα/ανάρτηση/εξόφληση (ανάρτηση κατ' εξαίρεση) και ζητά Υπεύθυνες Δηλώσεις ηλεκτρολόγου/κατασκευαστή/μηχανικού· οθόνη 75'' (Botsaris) στήνεται 2026-11-05 απόγευμα. XENIA ([[greenmart-antemisaris]]) — ο Ζάχος έθεσε στους ιδιοκτήτες την προσφορά GROW 19.000 € (πέρυσι 10.400 €)· έγκριση εκκρεμεί ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]], [[2026-11-02-argyroplastics-ektypotika-arxeia]], [[2026-10-20-enoikiasi-othonon-botsaris-update-2026-11-03]], [[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]]).
+
+**Παλαιότερα (στις 2026-10-28)**
 - **Στις 2026-10-28:** Plastica — η προκαταβολή #1297 πληρώθηκε 2026-10-27· κατασκευαστής ακόμα ασαφής ([[2026-10-26-plastica-offer-kataskevastika-update-2026-10-28]]). XENIA — ο πελάτης διάλεξε Option 2 (square presentation)· στην Expopiece πήγε κάτοψη 8,5 × 11 + αίτημα για κατασκευή πίσω από το video wall, νέα κάτοψη την Πέμπτη 2026-10-29· η Audio-tech δεν έχει δώσει ακόμα kW ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-28]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]]).
 - **Plastica ([[argyroplastics]]):** ο πελάτης αποδέχθηκε την προσφορά κατασκευαστικών 2026-10-26 και πήρε τιμολόγιο προκαταβολής #1297· ποιος κατασκευάζει δεν αναφέρεται (ασαφές)· οθόνη 1 × 75'' 450 € (Botsaris) ([[2026-10-26-plastica-offer-kataskevastika]], [[2026-10-20-enoikiasi-othonon-botsaris-update-2026-10-27]]).
 - **XENIA ([[greenmart-antemisaris]]):** νέο περίπτερο-νησίδα 93,5 τ.μ. από ακύρωση (2026-10-26)· LED video wall σε όλη την πλάτη από Audio-tech· η [[expopiece]] περιμένει επίσημη κάτοψη και kW για να κοστολογήσει ([[2026-10-26-antemisaris-xenia-katopsi-forum]], [[2026-10-16-audiotech-led-xenia]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]]).
@@ -41,7 +44,10 @@ updated: 2026-11-02
 
 ## Ανοιχτά & επόμενα βήματα
 - [x] Argyroplastics: προσφορά κατασκευαστικών — Μαρίνα — ✓ εγκρίθηκε 2026-10-26 ([[2026-10-26-plastica-offer-kataskevastika]])
-- [ ] Argyroplastics: κατασκευαστής, ανάγκες ρεύματος, παραγγελίες έκθεσης — Μαρίνα — άμεσα (έκθεση 2026-11-06) ([[2026-10-26-plastica-offer-kataskevastika]])
+- [x] Argyroplastics: ρεύμα, ανάρτηση, εξόφληση Expowork — ✓ 2026-11-02 ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]])
+- [ ] Argyroplastics: Υπ. Δηλώσεις ηλεκτρολόγου/κατασκευαστή/μηχανικού (σφραγίδα + υπογραφή) — Μαρίνα — πριν το στήσιμο 2026-11-05 ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]])
+- [ ] ⚠️ Argyroplastics: ρητή επιβεβαίωση κατασκευαστή (💭 Epilogi) — Δήμος ([[2026-11-02-argyroplastics-ektypotika-arxeia]])
+- [ ] XENIA: ρητή έγκριση προσφοράς 19.000 € από Antemisaris → μετά υπογραφή/προκαταβολή Expopiece — Antemisaris / GROW ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]])
 - [ ] XENIA/Antemisaris: προσαρμογή Option 2 + νέα κάτοψη στην Expopiece — Δέσποινα — **2026-10-29**· kW video wall (Audio-tech, ζητήθηκαν 2026-10-27)· κοστολόγηση (+ κατασκευή πίσω από video wall) — Expopiece ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]])
 - [ ] DETURBO: budget → δύο προτάσεις — DETURBO, μετά GROW — από 2026-09-18 ([[2026-09-22-deturbo-defea-2027-periptero]])
 - [ ] Primowear: προσφορά για το D16 — GROW — ασαφές αν στάλθηκε ([[2026-09-24-primowear-periptero-ekthesi-d16]])
@@ -57,6 +63,7 @@ updated: 2026-11-02
 - Πρώτα στέλνουμε δημιουργικό πλαίσιο (κάτοψη, φωτορεαλιστικό, activations) και αναλυτική κοστολόγηση μετά το feedback (GameStuff, 2026-09-07) ([[2026-09-07-gamestuff-fantasy-festival-booth]]).
 
 ## Χρονολόγιο
+- 2026-11-02 — Plastica: έγκριση γραφιστικών, εκτυπωτικά στην Epilogi, Expowork καταχώρησε ρεύμα/ανάρτηση/εξόφληση, οθόνη 75'' επιβεβαιώθηκε. XENIA: προσφορά GROW 19.000 € προς έγκριση στους ιδιοκτήτες ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]], [[2026-11-02-argyroplastics-ektypotika-arxeia]], [[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]]).
 - 2026-10-30 — XENIA ([[greenmart-antemisaris]]): θετικά σχόλια Antemisaris στην κάτοψη/προσφορά· γκαζόν απλή καμπύλη, τοίχος με λογότυπα στην πλάτη ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-02]]).
 - 2026-10-29 — XENIA/Antemisaris: προσφορά Expopiece, αναμένει υπογραφή + προκαταβολή. Η Μαρίνα δοκίμασε τη φόρμα «Εκθεσιακό περίπτερο» του site (auto-reply) ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-30]], [[2026-10-30-admin-eidopoiiseis]]).
 - 2026-10-27 — Plastica: πληρώθηκε η προκαταβολή #1297. XENIA: Option 2 (square presentation) από τον Ζάχο· κάτοψη 8,5 × 11 και αίτημα κατασκευής πίσω από το video wall προς Expopiece· αίτημα kW προς Audio-tech ([[2026-10-26-plastica-offer-kataskevastika-update-2026-10-28]], [[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-28]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]]).
@@ -83,6 +90,7 @@ updated: 2026-11-02
 
 ## Οικονομικά
 - Αναφορά τιμής: «περίπτερο με δομή PLUS» 180€/τ.μ. — ασαφές αν είναι τιμή διοργανωτή ή GROW ([[2026-09-01-gamestuff-expo-brief]]).
+- XENIA/Antemisaris: προσφορά GROW 19.000 € (πέρυσι 10.400 €) ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]]).
 - Τα ποσά των προσφορών (COCO-MAT, Argyroplastics) υπάρχουν μόνο σε PDF, ασαφή ([[2026-09-07-cocomat-xenia-booth-offer]], [[2026-10-20-argyroplastics-plastica-2026]]).
 
 ## Σημειώσεις

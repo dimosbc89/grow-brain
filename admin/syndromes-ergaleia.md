@@ -3,7 +3,7 @@ type: admin
 title: "Συνδρομές & εργαλεία λογισμικού"
 aliases: [subscriptions, SaaS, εργαλεία, Anthropic, Claude, Apify, Asana, HubSpot, DataForSEO, Scrape Creators, Google Workspace, ActiveCampaign]
 status: ενεργός
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 # Συνδρομές & εργαλεία λογισμικού
 > Τα SaaS που πληρώνει η GROW (AI, scraping, SEO data, project management, CRM, email). Οι αποδείξεις και τα τιμολόγια πάνε στη Βασιλική ή στη Δέσποινα για το λογιστήριο.
@@ -32,6 +32,7 @@ updated: 2026-11-02
 - Στις 2026-10-05 ήταν κλεισμένο demo για το «Revly Automated Review Growth System» της Axel Services, προωθημένο στη Μαρίνα. Αποτέλεσμα ασαφές ([[2026-09-30-revly-axel-services-appointment]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] **Meta: πληρωμή απορρίφθηκε για το ad account «adele»** (2026-11-02 15:26–15:29, disabled) — ποιος πελάτης; ενημέρωση τρόπου πληρωμής — Δήμος ([[2026-11-03-admin-eidopoiiseis]])
 - [ ] **Meta / Facebook Ads: πληρωμή απορρίφθηκε για το ad account του [[grandpas]]** (2026-10-26 22:25) — ενημέρωση τρόπου πληρωμής + εξόφληση οφειλής, αλλιώς σταματούν τα ads· ποσό ασαφές — Δήμος ([[2026-10-26-admin-eidopoiiseis]])
 - [ ] Meta: το «product browsing» είναι **ενεργό από 2026-10-28** στα sales ads του business Antemisaris ([[greenmart-antemisaris]]). Το opt-out πριν την ενεργοποίηση δεν έγινε· κρατάμε ή κλείνουμε από Advantage+ creative / Destination — Δήμος ([[2026-10-26-admin-eidopoiiseis]], [[2026-10-28-admin-eidopoiiseis]])
 - [ ] Meta One στο portfolio KALISPERA Athenian Tapas: ανοίγει αυτόματα **2026-11-10**· κλείσιμο ή όχι από Business info — Δήμος ([[2026-10-28-admin-eidopoiiseis]])
@@ -47,6 +48,7 @@ updated: 2026-11-02
 - —
 
 ## Χρονολόγιο
+- 2026-11-02 — Meta: ad account «adele» declined/disabled (3 ειδοποιήσεις). Receipts The Dining Society 40 € (22:05 — 💭 η πληρωμή δουλεύει ξανά), Koukos The Bar 45 €, Mama's Restaurant 10,97 €. Google Workspace τιμολόγιο 5728019006 (αυτόματη χρέωση) ([[2026-11-03-admin-eidopoiiseis]]).
 - 2026-11-02 — Meta: απορρίφθηκαν πληρωμές — ad accounts **Tsu Pies** (2/11) και **The Dining Society** (30/10, 31/10) disabled. Receipts NOMUD 38 €, Ermou 18 329,75 €, Dining 8,69 €. Metalease Σ1181 (1/11) + Σ1495 (2/11). Fastpath ticket #836805 έκλεισε αυτόματα ([[2026-11-02-admin-eidopoiiseis]]).
 - 2026-10-29 — **Revolut: «Your account is restricted»** (λογαριασμός ασαφής)· Edenred παραγγελία #1208653 386,78 € «Action required» (κατάθεση)· Meta receipts Vet Center 59,06 €, Knack Main 69,83 €, Dining Society 19,22 €· 3CX αλλαγή IP ([[2026-10-30-admin-eidopoiiseis]]).
 - 2026-10-27 — Asana: νέα απόρριψη πληρωμής 134,90 (13:20)· 18:07 «Thanks for your payment» — εξοφλήθηκαν 134,90 € (απόδειξη INVEU10925411). Revolut Business (GROW 360 LTD): προωθητικό referral £600, χωρίς ενέργεια ([[2026-10-27-admin-eidopoiiseis-a]]).

@@ -3,7 +3,7 @@ type: team
 title: "Δέσποινα Βελισσαρίου"
 aliases: [Despina Velissariou, Δέσποινα, Despina, despina@growagency.online]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-11-03
 ---
 # Δέσποινα Βελισσαρίου
 > Senior Account Manager της GROW. Τρέχει events, χορηγίες ([[hellenic-heritage-evolution]], [[rejuv-collective-solace]]), influencers και το e-shop της [[tandem-concept]]. Είναι και στα meetings των περιπτέρων.
@@ -42,6 +42,7 @@ updated: 2026-10-28
 - Meeting με την Argyroplastics σήμερα 14:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Slot ωρών εγκατάστασης οθόνης (2026-11-05) προς Botsaris — Δέσποινα — **2026-11-03** ([[2026-10-20-enoikiasi-othonon-botsaris-update-2026-11-03]])
 - [x] Reel ZEO για [[global-foods]] — Δέσποινα — ✓ στάλθηκε 2026-10-27 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]])
 - [ ] Τελικό δισέλιδο Οικονομικού Οδηγού (μικρή αλλαγή κειμένου) — Δέσποινα — **2026-10-29** (⚠️ μέρα άδειας) ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]])
 - [ ] Προσαρμογή Option 2 + νέα κάτοψη XENIA προς Expopiece — Δέσποινα / «τα παιδιά» — **2026-10-29** ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]])
@@ -62,6 +63,7 @@ updated: 2026-10-28
 - 2026-07-24: οδηγία του Δήμου να μπει απονομή βραβείου στο gala στην πρόταση προς Viber ([[2026-07-24-viber-heritage-escape-ideas]]).
 
 ## Χρονολόγιο
+- 2026-11-02 — Επέστρεψε· επιβεβαιώνει στον Botsaris 1 × 75'' για Plastica, στήσιμο 2026-11-05 απόγευμα ([[2026-10-20-enoikiasi-othonon-botsaris-update-2026-11-03]]).
 - 2026-10-27 — Global Foods: reel Unique x Zeo, 6 εκδοχές δισέλιδου, τηλέφωνο με Ελπίδα, raw Πρεσβείας. XENIA: kW προς Audio-tech, κάτοψη 8,5 × 11 προς Expopiece. Barbaggio: ανάπτυγμα κουτιών + αυτοκόλλητα 2 × 2.500. Αποδοχή «ΗΗΕ x Grow» 2026-11-03 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]], [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]], [[2026-10-27-globalfoods-arxeia-italiki-presveia]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]], [[2026-10-27-barbaggio-koutia-anaptygma]], [[2026-10-27-barbaggio-aftokollita]], [[2026-10-27-hhe-meeting-2026-11-03-accepted]]).
 - 2026-10-26 — Posts 28ης Οκτωβρίου Global/Unique προς έγκριση· χρονοδιάγραμμα βίντεο Global Foods· απαντήσεις στην Expopiece για XENIA (διχρωμία, σκαμπό, φωτισμός)· 1 × 75'' για Plastica από Botsaris 450 € ([[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]], [[2026-10-20-enoikiasi-othonon-botsaris-update-2026-10-27]]).
 - 2026-10-21 — Asana: 10 ανοιχτά (9 εκπρόθεσμα, 1 χωρίς due). Κύριος φόρτος: Heritage Escape, Global Foods, Tandem (από 2), Barbaggio, Tsiklitiria, «Oggi follow up». ✓ Tesla Activation 2026-09-28, Χρεώσεις Hellenic 2026-10-19. Ανέθεσε στον Δήμο «Mail Karampatsos generic», «Upload υλικό Unique/Global», «Mail to find», «Check plugin & solutions» ([[2026-10-21-asana-snapshot]]).

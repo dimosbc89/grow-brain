@@ -70,7 +70,8 @@ updated: 2026-10-28
 - [[yiayia-meatballs|Υιάγια (Yiayia Meatballs)]] · _ενεργός_ — Εστιατόριο με κεφτεδάκια («Home of Meatballs») της maria-drouza· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influe…
 - [[yourclima|Yourclima]] · _ενεργός_ — Πελάτης της GROW για εταιρικά email/hosting στο yourclima.com· επαφές ο christos-tsamis και ο manolis-kalomoiris.
 
-## Leads (16)
+## Leads (17)
+- [[jti|JTI]] · _σε αναμονή_ — RFI για Meetings & Events (2026-09)· μετά τη συνάντηση η JTI ανέβαλε 2026-11-02 λόγω στρατηγικής 2027.
 - [[spoudastirio-drosopoulou|Σπουδαστήριο Παίδων Δροσοπούλου]] · _prospect_ — Σπουδαστήριο κοντά στη Σουλιέ· στάλθηκε SEO/GEO audit 2026-10-31 με 3 επιλογές συνεργασίας, αναμονή για κλήση.
 - [[1767-beverages|1767 Beverages]] · _prospect_ — Εταιρεία αναψυκτικών· ζητά 2 lifestyle campaign παραγωγές/έτος· call 2026-10-26 12:00.
 - [[avek|AVEK]] · _prospect_ — Εταιρεία brands καφέ/ροφημάτων· draft πρότασης video content με τον Παναγιώτη Νίκα (2026-10-23).
@@ -110,7 +111,9 @@ updated: 2026-10-28
 - [[vassia-kataki|Βάσια Κατάκη]] — Graphic Designer της GROW. Της πηγαίνουν brand manuals, logo briefs, design e-shop/site, βίντεο και κατόψεις περιπτέρων.
 - [[vassiliki-giannopoulou|Βασιλική Γιαννοπούλου]] — Account Director της GROW. Ο Δήμος της στέλνει τα τιμολόγια και τα admin, τρέχει τα accounts yiayia-meatballs (από τον Σεπτέμβριο 2026) και Estia, και…
 
-## Πρόσωπα (52)
+## Πρόσωπα (56)
+- [[marilena-rentzou|Μαριλένα Ρέντζου]] — Agency Operations Manager στο TikTok LIVE· πρόταση η GROW να γίνει TikTok LIVE Agency (grow-outreach).
+- [[dimitris-letkas|Δημήτρης Λετκας]] — CCO της Divino Espresso Hellas· δίνει τις αλλαγές για το site της divino.
 - [[afroditi-karopoulou|Afroditi Karopoulou]] — Secretary στο Corporate Affairs & Communication General Division της metlen· κανονίζει τα ραντεβού με την ομάδα της κας Γεράκη.
 - [[aliki-theochari|Aliki Theochari]] — Director of Customer Success της biz-courier και κύρια επαφή της GROW για το integration του e-shop της tandem-concept και το BOX NOW.
 - [[andreas-nikolaou|Andreas Nikolaou]] — Information Security Officer στην admin22, που είναι το IT της karmiotissa. Οδηγεί τη μεταφορά του karmiotissa.com από τη GROW στο Cloudflare.
@@ -132,10 +135,12 @@ updated: 2026-10-28
 - [[fjola-skraqi|Φιόλα Σκράκι (Fjola Skraqi)]] — Επαφή της danaos που οργανώνει τις συναντήσεις και θέτει ερωτήσεις για τις διαφημίσεις.
 - [[george-andritsos|George Andritsos]] — Εξωτερικός web developer που υλοποιεί το WooCommerce e-shop της tandem-concept με βάση τα reviews της GROW.
 - [[george-chalhoub|George Chalhoub]] — Συνιδιοκτήτης της tandem-concept, μαζί με τη σύντροφό του caroline-hafouri. Χειρίζεται Epsilon, BIZ Courier, πληρωμές και τις σημειώσεις για το e-shop…
+- [[christos-gavalas|Χρήστος Γαβαλάς]] — Στέλεχος της argyroplastics που δίνει λεκτικά/γραφιστικά και υπογράφει τα έγγραφα για το περίπτερο της Plastica 2026.
 - [[giorgos-tzortzopoulos|Γιώργος Τζωρτζόπουλος]] — Κύρια επαφή της argyroplastics για το περίπτερο της Plastica 2026 και για το domain argyroplastics.gr.
 - [[haris-filandras|Χάρης Φιλάνδρας]] — Πελάτης website της GROW (filandras)· ζητά αλλαγές στα σημεία λιανικής πώλησης και τις υπηρεσίες του site του.
 - [[iasonas-kolytos|Ιάσωνας Κολυτός]] — Η επαφή της GROW στην epilogin (εκτυπώσεις/menuboards) — εκκρεμεί η αντικατάσταση των menuboards της krema-gelato.
 - [[jose-fernando-trujillo-heron|Jose Fernando Trujillo Heron]] — Business Development and Marketing Specialist της biz-courier· έχει τα εμπορικά (τιμοκατάλογος Box Now, πωλήσεις εκτός ΕΕ) για την tandem-concept.
+- [[konstantinos-roumeliotis|Κωνσταντίνος Ρουμελιώτης]] — Operations Manager ARS της expowork· χειρίζεται τις αναρτήσεις (rigging) περιπτέρων στο Metropolitan Expo.
 - [[kostas-giannopoulos|Κώστας Γιαννόπουλος (TSU)]] — CEO & Co-Founder των TSU Pies BV / TSU Pies SARL / Grandpas SARL-s (Λουξεμβούργο) — ο decision maker του lead tsu-pies.
 - [[kostas-tzevelekos|Κώστας Τζεβελέκος]] — Πλευρά πελάτη στην yiayia-meatballs: χειρίζεται packaging/προμηθευτές και είναι σε cc στα περισσότερα threads.
 - [[lena-pothou|Lena Pothou]] — Sales & Partnerships της gamestuff· ζήτησε το περίπτερο για το Fantasy Festival 2026.
@@ -228,6 +233,6 @@ updated: 2026-10-28
 - [[README|jobs/README]] — λίστα leads (Δευτέρα), posts (Παρασκευή), αναφορά (Παρασκευή) · οδηγίες: [[leads]], [[posts]], [[report]]
 
 ## Πηγές
-- `raw/email/` — 272 digests από Gmail (απεσταλμένα από 2026-07-20)
+- `raw/email/` — 527 digests από Gmail (απεσταλμένα από 2026-07-20)
 - `raw/calendar/` — Google Calendar
 - `raw/notes/` — σημειώσεις και ό,τι μπαίνει από το `inbox/`

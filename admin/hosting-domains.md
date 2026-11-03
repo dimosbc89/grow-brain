@@ -3,7 +3,7 @@ type: admin
 title: "Hosting, servers & domains"
 aliases: [hosting, servers, domains, cloud.growagency.online, Plesk, Fastpath, Cretaforce, Papaki, Enartia]
 status: ενεργός
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 # Hosting, servers & domains
 > Οι servers της GROW (Plesk στη [[fastpath]]) και οι registrars ([[papaki]]/[[enartia]], [[cretaforce]]) όπου η GROW κρατά τα domains των πελατών. Κάθε ανανέωση domain ξανατιμολογείται στον πελάτη.
@@ -27,18 +27,26 @@ updated: 2026-11-02
   - Ο Δήμος: τεχνικά (tickets, DNS).
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-03:
+- **Fastpath #61293 (507,78 €, Νοέμβριος) ληξιπρόθεσμο από 2026-11-01** — εξόφληση εντός 5 ημερών από 2026-11-03 (≈ 2026-11-08), αλλιώς διακοπή του cloud.growagency.online ([[2026-11-03-admin-eidopoiiseis]], [[fastpath]]).
+- **machevuoi.gr λήγει 2026-11-04 23:59 UTC** (νέα προειδοποίηση FORTH 2026-11-02).
+- Νέο domain **tagora.online** (GoDaddy, 1,06 € πρώτο έτος, auto-renew 2027-11-02 στα 49,28 €) και active στο Cloudflare Free (2026-11-03 ~00:50)· σκοπός ασαφής ([[2026-11-03-admin-eidopoiiseis]]).
+
 Στις 2026-10-20:
 - **Επείγον:** Η [[fastpath]] ειδοποίησε ότι το προτιμολόγιο #58712 (cloud.growagency.online, περίοδος 2026-09-01→30) είναι ανεξόφλητο. Οι υπηρεσίες έχουν προγραμματιστεί για απενεργοποίηση. Μετά την απενεργοποίηση τα δεδομένα κρατούνται 7 ημέρες και μετά διαγράφονται. Ο Δήμος απάντησε «θα ταχτοποιηθεί μέχρι Παρασκευή», δηλαδή έως 2026-10-23 ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]]).
 - Το ticket 004632 για SSH στα mailboxes του academicals.gr περιμένει ακόμη απάντηση ([[2026-09-28-fastpath-ticket-ssh-academicals]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] **Εξόφληση Fastpath #61293 (507,78 €)** — Δήμος/λογιστήριο — ληξιπρόθεσμο από 2026-11-01, προθεσμία ≈ **2026-11-08** ([[2026-11-03-admin-eidopoiiseis]])
+- [ ] barolobeach.gr: επανασύνδεση Instagram feed (Smash Balloon → Instagram API) — Δήμος/GROW — από 2026-11-02 ([[2026-11-03-admin-eidopoiiseis]], [[barolo]])
+- [ ] tagora.online: για ποιο project/πελάτη; (νέα αγορά 2026-11-03) — Δήμος ([[2026-11-03-admin-eidopoiiseis]])
 - [ ] jerryvasiliki.online λήγει **2026-12-01** (Papaki) — ανανέωση; — Δήμος ([[2026-11-02-admin-eidopoiiseis]])
 - [ ] **Cloudflare Tunnel: αναβάθμιση κάθε cloudflared σε 2026.10.2+** (macOS χωρίς Homebrew 2026.10.3+· Docker image 2026.10.3) λόγω compromised eMudhra certificates — Δήμος — «as soon as possible», ειδοποίηση 2026-10-26· ποιο host τρέχει το tunnel: ασαφές ([[2026-10-26-admin-eidopoiiseis]])
 - [ ] **Wordfence 2026-10-27/28: castrum-milos.com «JetEngine» 3.8.4.1 → 3.9.0.1 (Critical 9.8/10)** + Yoast 26.9 → 28.8 + UpdraftPlus· bikos-derma.gr Yoast 20.5 → 28.8· barolobeach.gr Safe SVG 2.4.0 → 2.5.2· foxacademy.gr The Plus Addons 6.4.16 → 6.6.0· logaraslaw.com CookieYes 3.4.2 → 3.5.8· baristacademy.gr WPBakery + Ultimate Addons αποτυγχάνουν στο auto-update (ξανά) — Δήμος/τεχνικός — castrum **άμεσα** ([[2026-10-28-admin-eidopoiiseis]])
 - [ ] Wordfence: update «Really Simple Security» στο foxacademy.gr (9.6.0 → 9.8.4, **High 8.8/10**) και στο pagopolis.gr (9.8.3 → 9.8.4)· «Super Forms» στο baristacademy.gr (6.3.322 → 6.3.323) — Δήμος — από 2026-10-27 ([[2026-10-26-admin-eidopoiiseis]])
 - [ ] goldenvisagreece.online **έληξε 2026-10-21** (Papaki) — ανανέωση ή όχι; — Δήμος ([[2026-10-24-admin-eidopoiiseis]])
 - [ ] lucaffe.gr: προειδοποίηση λήξης (FORTH, 2026-10-25) — [[nikas-coffee-expert]] — ημερομηνία ασαφής ([[2026-10-24-admin-eidopoiiseis]])
-- [ ] Ανανέωση machevuoi.gr ή όχι — Δήμος — **έως 2026-11-04** ([[2026-10-20-machevuoi-gr-lixi-domain]])
+- [ ] Ανανέωση machevuoi.gr ή όχι — Δήμος — **έως 2026-11-04 23:59 UTC** (νέα προειδοποίηση FORTH 2026-11-02) ([[2026-10-20-machevuoi-gr-lixi-domain]], [[2026-11-03-admin-eidopoiiseis]])
 - [ ] **Εξόφληση Fastpath #58712: 507,78 €**. Αλλιώς διακόπτεται το cloud.growagency.online και ό,τι φιλοξενεί (ποια sites: ασαφές) — Δήμος — **άμεσα**: η Fastpath δεν έδωσε προθεσμία, η διακοπή είναι ήδη προγραμματισμένη· ο Δήμος υποσχέθηκε έως 2026-10-23 ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]])
 - [ ] Απάντηση της Fastpath στο ticket 004632: το SSH key δεν έχει πρόσβαση στα mailboxes του academicals.gr (χρειάζεται για backup και διαγραφή παλιών email) — Fastpath — ανοιχτό από 2026-09-28 ([[2026-09-28-fastpath-ticket-ssh-academicals]]). Σχετικά: [[academicals-foxacademy]]
 - [ ] Εκδόθηκε το τιμολόγιο προς [[pharmacypan]] («Τιμολόγιο Πανόπουλος») για την ανανέωση του pharmacypan.gr; — Μαρίνα/Βασιλική — ασαφές (λήξη domain 2026-09-14) ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]])
@@ -51,6 +59,7 @@ updated: 2026-11-02
 - Κάθε ανανέωση domain πελάτη ξανατιμολογείται στον πελάτη (π.χ. «Τιμολόγιο Πανόπουλος», «25 + fpa to kathena») ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]], [[2026-09-10-invoice-nikas-barista-domains]]).
 
 ## Χρονολόγιο
+- 2026-11-02/03 — Fastpath: #61293 ληξιπρόθεσμο (5 ημέρες περιθώριο). FORTH: machevuoi.gr λήγει 2026-11-04. GoDaddy + Cloudflare: νέο tagora.online. Wordfence 3/11: problems σε tsiklitiria, logaraslaw, castrum-milos, baristacademy (Super Forms), lineathens, foxacademy· εβδομαδιαίες αναφορές 14 sites. barolobeach.gr: Instagram feed αποσυνδέθηκε ([[2026-11-03-admin-eidopoiiseis]]).
 - 2026-11-02 — Papaki: goldenvisagreece.online ληγμένο −10 ημέρες (ακόμα ανανεώσιμο)· jerryvasiliki.online λήγει 2026-12-01. Wordfence: castrum-milos increased attack rate, logaraslaw admin login, nomud OBS Speedex update, problems σε 7 sites ([[2026-11-02-admin-eidopoiiseis]]).
 - 2026-10-30 — Wordfence: ενεργή εκμετάλλευση RCE στο upgrade-window (λύση: WP 7.1.4). Νέα alerts: logaraslaw, barolobeach, foxacademy, baristacademy, pagopolis, susurrousclothing, montessori-littleland ([[2026-10-30-admin-eidopoiiseis]]).
 - 2026-10-28 — WordPress 7.1.4 αυτόματα σε 9 sites (και castrum-milos)· νέα Wordfence alerts σε exodikastikos, baristacademy, foxacademy, barolosantorini, bikos-derma, poullaides, montessori-littleland, tsiklitiria, susurrous (lockout + admin login)· Papaki WHOIS για marketingagencygreece.online ([[2026-10-29-admin-eidopoiiseis]]).

@@ -3,7 +3,7 @@ type: person
 title: "Πάρις Πανόπουλος"
 aliases: [Paris Panopoulos, Πανόπουλος, pan.par.axarnes@gmail.com]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-11-03
 ---
 # Πάρις Πανόπουλος
 > Φαρμακοποιός, Φαρμακείο Πανόπουλος Αχαρνές — πελάτης της GROW ([[pharmacypan]]).
@@ -24,6 +24,7 @@ updated: 2026-10-28
 - —
 
 ## Χρονολόγιο
+- 2026-11-02 — Λαμβάνει το δημιουργικό τρίπτυχου φυλλαδίου ακουστικών για feedback ([[2026-11-02-pharmacypan-flyer-akoustika]]).
 - 2026-10-27 — Τιμολόγιο #1299 (Twenty Seven) + καρτέλα 1.829,00 € ([[2026-10-27-accounting-timologia-kartelles]]).
 - 2026-08-31 14:00 — «Πανόπουλος εδώ» στο γραφείο ([[2026-07-20_2026-11-03]]).
 - 2026-08-07 — Ρώτησε μέσω Βασιλικής αν ένα email «Webmail Revalidation» είναι spam ([[2026-08-07-pharmacypan-phishing-spam]]).
