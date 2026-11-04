@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -113,6 +113,8 @@ updated: 2026-11-03
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-11-04 — Αίτηση στο Tagora μέσω plugin με 0 προϊόντα ([[2026-11-03-tagora-launch]]).
+- 2026-11-03 — Bag hangers: follow-up Δέσποινας στην Axiom, αναπάντητη από 22/10 ([[2026-09-16-axiom-bag-hangers-tandem-update-2026-11-04]]).
 - 2026-11-02 — 09:15 η BIZ: η test αποστολή SWS49373664 δεν ακυρώνεται, μόνο επιστροφή· η Caroline προωθεί στον Δήμο (12:27) και γράφει «proceed with the return» (15:09, προς Δήμο). 13:22 η Δέσποινα ρωτά την Print Kong για άμεση παράδοση· 385 € μετρητά ([[2026-11-02-tandem-bizcourier-cancel-test-order]], [[2026-10-20-tandem-price-tags-print-kong-update-2026-11-03]]).
 - 2026-10-30 — 11:49 η Caroline ζητά πλάνο marketing για pre-Christmas καμπάνια στα social, νέα για το Q&A και αν δούλεψε η δοκιμαστική αγορά ([[2026-10-30-tandem-marketing-plan]]). 14:28 ο Δήμος ενημερώνει τη BIZ ότι ενεργοποιήθηκαν Live Order Sync και Order Fulfillment στο BIZ LiNK plugin ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-30]]).
 - 2026-10-29 — 14:13 ο Δήμος απαντά στον George: θα ξαναελεγχθούν τα Su Apparel στο Epsilon (ποσότητα 1, εκτός 4 styles με 2) και θα μπει πρόθεμα **SU-** στα scan codes (π.χ. SU-SKIRT-S99NERO-42) μετά από έλεγχο των συνδέσεων. Δεν απάντησε για το BOX NOW. Η Βάσια ρωτά την Print Kong για παράδοση labels μέσα στην εβδομάδα ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-30]], [[2026-10-20-tandem-price-tags-print-kong-update-2026-10-30]]).

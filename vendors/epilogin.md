@@ -3,7 +3,7 @@ type: vendor
 title: "Epilogin / Epilogi Digital"
 aliases: [Epilogin, Epilogi Digital, epilogin.gr, epilogidigital@gmail.com]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 # Epilogin / Epilogi Digital
 > Προμηθευτής εκτυπώσεων/menuboards της GROW (επαφή [[iasonas-kolytos]])· χρησιμοποιείται και για κοστολόγηση κατασκευαστικών σε εκθεσιακά περίπτερα.
@@ -35,6 +35,8 @@ updated: 2026-11-03
 - [[2026-09-11-krema-menuboards-antikatastasi]] — αντικατάσταση χωρίς χρέωση στον πελάτη· πρόταση μοιρασιάς κόστους.
 
 ## Χρονολόγιο
+- 2026-11-03 — Plastica: νέα εκτυπωτικά ρεσεψιόν ([[2026-11-02-argyroplastics-ektypotika-arxeia-update-2026-11-04]]).
+- 2026-11-03 — Η Δέσποινα ζητά τιμή για folder/ντοσιέ έως 6/11 ([[2026-11-03-epilogi-ntosie-ektyposi]]).
 - 2026-11-02 — Τιμολόγιο για Υιάγια + Overoll (14:58)· ο Δήμος το προωθεί σε Βασιλική/Μαρίνα· η Βασιλική ρωτά για 320 € αντί 280 € + ΦΠΑ στα stickers Overoll ([[2026-11-02-epilogi-timologio-yiayia-overoll]]).
 - 2026-11-02 — Λαμβάνει από τη Βάσια κάτοψη με μέτρα και εκτυπωτικά αρχεία του περιπτέρου Argyroplastics (Plastica 2026) ([[2026-11-02-argyroplastics-katopsi-me-metra]], [[2026-11-02-argyroplastics-ektypotika-arxeia]]).
 - 2026-10-29 — Η Μαρίνα ζητά επιβεβαίωση παραλαβής και χρόνο για τα έγγραφα ρεύματος/αναρτήσεων Plastica ([[2026-10-26-revma-anartiseis-plastica-epilogi-update-2026-10-30]]).

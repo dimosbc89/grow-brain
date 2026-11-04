@@ -1,37 +1,36 @@
 ---
 type: attention
 title: "Τι απασχολεί τον Δήμο τώρα"
-updated: 2026-11-03
+updated: 2026-11-04
 ---
-# Attention — 2026-11-03
+# Attention — 2026-11-04
 
 > Τα 5 projects που απασχολούν πραγματικά τον Δήμο, από τα email που έστειλε, τα εισερχόμενα και το ημερολόγιο. Το ξαναγράφει η πρωινή ενημέρωση κάθε μέρα.
 
-## 1. Εκθέσεις — [[argyroplastics]] (Plastica 6–9/11, στήσιμο 5/11) και [[greenmart-antemisaris]] (XENIA 21–23/11)
-- **Κατάσταση:** στις 2026-11-02 ο Χρήστος Γαβαλάς ενέκρινε τα γραφιστικά (μπροστινό τοιχείο στο 1,15 m), υπέγραψε τα έγγραφα και εξόφλησε απευθείας την [[expowork]]· ρεύμα + ανάρτηση καταχωρήθηκαν (η ανάρτηση «κατ' εξαίρεση», εκπρόθεσμη). Οθόνη 75'' Botsaris 450 € επιβεβαιώθηκε — η Δέσποινα στέλνει σήμερα slot εγκατάστασης. Κάτοψη + εκτυπωτικά στάλθηκαν στην [[epilogin]] (επιβεβαίωση παραλαβής: ασαφές). Λείπουν Υπεύθυνες Δηλώσεις ηλεκτρολόγου (υποχρεωτική για ρεύμα) και σφραγίδα κατασκευαστή ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]], [[2026-10-20-plastica-prosfora-kataskevasti-update-2026-11-03]]). XENIA: ο Ζάχος έγραψε στους Lefteris/Theo ότι η προσφορά GROW είναι 19.000 € (πέρυσι 10.400 €) και ζητά να εγκρίνουν — απάντηση δεν υπάρχει ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]]). Video εγκρίθηκε με μία αλλαγή ✓· κατάλογος: 3 νέα εξώφυλλα «άμεσα».
-- **Επόμενο βήμα (Δήμος):** κατασκευαστής/ηλεκτρολόγος Plastica + δηλώσεις πριν 5/11 · έγκριση τιμής Antemisaris → υπογραφή/προκαταβολή [[expopiece]].
+## 1. Εκθέσεις — [[argyroplastics]] (Plastica 6–9/11, **στήσιμο αύριο 5/11**) και [[greenmart-antemisaris]] (XENIA 21–23/11)
+- **Κατάσταση:** Plastica: στις 2026-11-03 η Μαρίνα έστειλε στην [[expowork]] την Υπ. Δήλωση Εκθέτη/Κατασκευαστή· **λείπει ακόμα η δήλωση ηλεκτρολόγου** (υποχρεωτική για ρεύμα) και ίσως αρχιτέκτονα (τοίχοι 4 m). Η Βάσια έστειλε νέα εκτυπωτικά ρεσεψιόν στην [[epilogin]] ([[2026-11-02-expowork-d17-ypeuthynes-diloseis-update-2026-11-04]], [[2026-11-02-argyroplastics-ektypotika-arxeia-update-2026-11-04]]). XENIA: **ξεμπλόκαρε** — η Δέσποινα υπέγραψε την προσφορά [[expopiece]], προκαταβολή 50% στο λογιστήριο· η GROW τιμολόγησε την Antemisaris (#1324, προκαταβολή)· αποδοχή LED [[audio-tech]]· ο Ζάχος χρωστά την ΥΔ «αύριο το πρωί» (= σήμερα) ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-11-04]], [[2026-11-03-antemisaris-xenia-timologio-prokatavolis]]).
+- **Επόμενο βήμα (Δήμος):** ηλεκτρολόγος Plastica + δήλωση σήμερα · παρακολούθηση ΥΔ Ζάχου και πληρωμής #1324.
 
-## 2. Πωλήσεις — TikTok LIVE, [[salesforce]], [[spoudastirio-drosopoulou]], [[deturbo]], [[chaonic]]
-- **Κατάσταση:** στις 2026-11-02 16:07 η [[marilena-rentzou]] μπήκε στο call και ρώτησε αν ισχύει — απάντηση από GROW δεν φαίνεται ([[2026-10-19-tiktok-live-agency-protasi-update-2026-11-03]]). [[jti]] ανέβαλε το RFI λόγω στρατηγικής 2027. Chaonic: ήρθε το αρχείο προϊόντων για e-shop, ανατέθηκε σε Laurine + Δέσποινα. DETURBO χωρίς πρόταση από 18/09.
-- **Επόμενο βήμα (Δήμος):** απάντηση/νέα ώρα στη Μαριλένα · πρόταση DETURBO · follow-up Δροσοπούλου.
+## 2. [[tagora]] — νέο project (Google CSS της GROW)
+- **Κατάσταση:** στις 2026-11-03 στήθηκε tagora.online + email routing· στις 00:25 ο Δήμος έστειλε το πρώτο pitch στη [[danaos]] (έως 20% φθηνότερα κλικ Shopping, δωρεάν για πελάτες GROW)· αίτηση [[tandem-concept]] με **0 προϊόντα**· CI fail στο WooCommerce plugin (pazari) ([[2026-11-03-tagora-launch]]).
+- **Επόμενο βήμα (Δήμος):** διόρθωση plugin/feed Tandem · pitch σε περισσότερα e-shops για την έγκριση της Google.
 
-## 3. [[tandem-concept]] — BOX NOW, BIZ επιστροφή, pre-Christmas
-- **Κατάσταση:** η BIZ δεν ακυρώνει την test αποστολή, μόνο επιστροφή· η Caroline έγραψε «proceed with the return» στον Δήμο, όχι στη BIZ ([[2026-11-02-tandem-bizcourier-cancel-test-order]]). Print Kong 385 € μετρητά. BOX NOW test αναπάντητο προς George από 26/10. Πλάνο pre-Christmas εκκρεμεί.
-- **Επόμενο βήμα (Δήμος):** προώθηση επιστροφής στη BIZ · BOX NOW · πλάνο Χριστουγέννων με Δέσποινα.
+## 3. [[global-foods]] — η Ελπίδα πιέζει
+- **Κατάσταση:** παραδόθηκαν τα videos Πρεσβείας + Detroit Pizza. Η Ελπίδα έχει ενστάσεις στο reel (γρήγορο, πρόσωπα)· ο Δήμος απάντησε 18:03 και η Ελπίδα **ζητά τηλέφωνο**. Ακύρωσε τα folder: «θέλω να τελειώσουμε με τις εκκρεμότητες» ([[2026-11-03-globalfoods-italiki-presveia-reel]], [[2026-11-03-globalfoods-custom-folder]]). Ανοιχτά από πριν: πλάνο καμπανιών (21/10), Global App (2024), Carozzi, tips.
+- **Επόμενο βήμα (Δήμος):** τηλέφωνο Ελπίδα · λίστα εκκρεμοτήτων με Δέσποινα.
 
-## 4. Admin & πληρωμές
-- **Κατάσταση:** Meta: «adele» disabled 2/11 (πληρωμή απορρίφθηκε)· Tsu Pies disabled από 2/11· Dining Society πέρασε χρέωση 40 € (2/11). [[fastpath]] #61293 507,78 € ληξιπρόθεσμο από 1/11. machevuoi.gr λήγει 4/11. [[grow-360-ltd]]: Revolut GRGL-4/5 750 € έως 9/11 · YCF ανανεώνει όλο το πακέτο 10/11 (£339.60) παρά το «we don't want to renew» της 27/10. [[the-accountancy-partnership]] P-388148/9 + auth code — πληρωμή δεν φαίνεται. Νέο domain tagora.online (GoDaddy + Cloudflare) ([[2026-11-03-admin-eidopoiiseis]]).
-- **Επόμενο βήμα (Δήμος):** κάρτα Meta · ακύρωση YCF πριν 10/11 · Fastpath · machevuoi.gr · TAP.
+## 4. Πωλήσεις & νέα leads — [[malamatina]], TikTok LIVE, [[deturbo]], [[pharmacypan]], [[spoudastirio-drosopoulou]]
+- **Κατάσταση:** νέο lead Malamatina (video launch με rapper, event 31/12) — η Δέσποινα ζήτησε στοιχεία ([[2026-11-03-malamatina-mantis-group]]). Προσφορά landing + Google Ads στον Πάρη ([[2026-11-03-pharmacypan-prosfora-landing-ads]]). [[marilena-rentzou]] / TikTok: χωρίς νέα από 2/11. DETURBO χωρίς πρόταση από 18/09. [[hotelbrain]]: ο Δήμος απάντησε στο security questionnaire· η Νίκη ζητά timeline design.
+- **Επόμενο βήμα (Δήμος):** timeline στη Νίκη · απάντηση Μαριλένα · πρόταση DETURBO.
 
-## 5. Υποσχέσεις σε ομάδα, freelancers, πελάτες
-- **Κατάσταση:** brief [[nomud]]/[[danaos]] στον [[nikos-moulinos]] από 21/10. [[global-foods]]: πλάνο καμπανιών από 21/10· η Ελπίδα ρωτά αν είναι οκ το ύφος των tips. [[yiayia-meatballs]]: η Βασιλική σε κυνηγά για το Asana «ΔΤ αποστολή» (due 23/10) — «παίζει να ασχοληθείς σήμερα;» (2/11)· login Μαρίας Δρούζα. [[nikas-coffee-expert]]: αμφισβητεί καρτέλα 1.829 € — λέει ότι πλήρωσε 15/10 ([[2026-11-02-nikas-kartela-pliromi-15-10]]).
-- **Επόμενο βήμα (Δήμος):** ΔΤ Yiayia · brief Νίκου · πλάνο Global · διόρθωση καρτέλας Νίκα (Βασιλική).
+## 5. Υποσχέσεις σε ομάδα & admin
+- **Κατάσταση:** brief [[nomud]]/[[danaos]] στον [[nikos-moulinos]] — 2ο reminder 3/11. [[yiayia-meatballs]]: ΔΤ αποστολή (Asana 23/10) + Pantone χαρτοπετσέτας («είδες αυτό;» Βασιλικής) + μακέτα τσάντας. [[chaonic]]: η Laurine θέλει feedback σελ. 15. Κάρτα εργασίας υποχρεωτική 15/11 — απόφαση υπερωριών ([[2026-11-03-sk-advisors-karta-ergasias]]). Admin: Meta «adele» disabled · Nord suspended · [[fastpath]] #61293 έως ~8/11 · Revolut GRGL-4/5 9/11 · YCF ανανέωση 10/11 (£339.60) · machevuoi.gr ανανεώθηκε ✓.
+- **Επόμενο βήμα (Δήμος):** brief Νίκου · Yiayia · Laurine · YCF πριν 10/11 · Fastpath.
 
 ## Στο ραντάρ
-- **[[hellenic-heritage-evolution]]:** meeting σήμερα 11:00 (Meet).
-- **[[overoll]]:** call 4/11 16:00 · καρτέλα 5.312,80 € · Epilogi χρέωσε stickers 320 € αντί 280 €.
-- **[[kyknos]]:** τελευταίο video (μακαρονάδα) · φόρμα προμηθευτή έως 6/11.
-- **[[divino]]:** feedback περάστηκε, μένει mobile · «Divino εδώ» 6/11 14:00.
-- **[[barbaggio]]:** μακέτες κουτιών στάλθηκαν 2/11 ✓ — αναμονή προμηθευτή.
-- **Εβδομάδα:** [[laurine-erasmus]] x ΑΑΔΕ 4/11 10:15 · γύρισμα Κρεοπωλείο Ρέντη & Φάληρο 5/11 · [[dominos]] 5/11 12:00 · Hospitality Jam 5/11 17:00 · Chef Georgiadis 6/11 16:00 · Knack 10/11 13:00.
-- **Ασφάλεια sites:** Wordfence σε tsiklitiria, logaraslaw, castrum-milos, baristacademy, lineathens, foxacademy · Barolo beach Instagram feed χαλασμένο.
+- **Σήμερα:** Laurine x ΑΑΔΕ 10:15 · «Νίκος εδώ» 12:00 · [[overoll]] 16:00 (Meet, με Κίκιρα) · OpenAI webinar 19:00.
+- **[[overoll]]:** Panettone — διάλεξαν σχέδιο (ροζ φόντο)· ερωτήσεις Hospitality Jam (γύρισμα 5/11 17:00).
+- **[[krapsites]]:** 4 videos «Μπρατίμια» για reel — αναπάντητα.
+- **[[tandem-concept]]:** Axiom bag hangers αναπάντητα από 22/10 · BOX NOW · BIZ επιστροφή.
+- **Εβδομάδα:** Κρεοπωλείο Φάληρο 5/11 10:00 (Ρέντη → 10/11) · [[dominos]] 5/11 12:00 · Divino 6/11 14:00 · Chef Georgiadis 6/11 16:00 · [[kyknos]] φόρμα 6/11 · Knack 10/11 13:00.
+- **Ασφάλεια sites:** Wordfence σε logaraslaw, exodikastikos, poullaides, baristacademy, foxacademy, castrum-milos, lineathens, tsiklitiria, susurrous.

@@ -3,7 +3,7 @@ type: team
 title: "Laurine (Erasmus)"
 aliases: [Laurine, Laurine Erasmus, laurine.astier1809@gmail.com, Laurine Astier]
 status: ενεργός
-updated: 2026-10-29
+updated: 2026-11-04
 ---
 # Laurine (Erasmus)
 > Νέο μέλος της GROW μέσω Erasmus, με πρώτη μέρα τη Δευτέρα 2026-10-19. Ρόλος και καθήκοντα ασαφή.
@@ -31,6 +31,7 @@ updated: 2026-10-29
 - —
 
 ## Χρονολόγιο
+- 2026-11-03 — Launch campaign Chaonic στη σελ. 15 Canva, περιμένει feedback ([[2026-11-03-chaonic-launch-campaign]]).
 - 2026-11-04 10:15 — «Laurine X AADE Video Call» στο GROW Agency Calendar (δημιουργός Μαρίνα) ([[2026-10-29_2026-11-05]]).
 - 2026-10-23 — Νέο event «Laurine X AADE Video Call» 2026-11-04 10:15–11:15 (από Μαρίνα) ([[2026-10-23-laurine-aade-video-call]]).
 - 2026-10-21 — Asana: εμφανίζεται ως «Laurine Astier». 1 ανοιχτό task: «test task» (TSU Pies, created 2026-10-19, due 2026-10-20 ⚠️ εκπρόθεσμο) ([[2026-10-21-asana-snapshot]]).

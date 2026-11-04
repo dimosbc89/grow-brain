@@ -3,7 +3,7 @@ type: client
 title: "HotelBrain"
 aliases: [HOTELBRAIN S.A., Hotelbrain, Hotel Brain, hotelbrain.com, hotelbraingroup.com]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 # HotelBrain
 > Η HOTELBRAIN S.A. είναι η πλευρά πελάτη για τα hotel websites που φτιάχνει και υποστηρίζει τεχνικά η GROW ([[mr-mrs-white]], [[anayia]], September City Living, GHH) και τώρα για το νέο corporate site της ίδιας της HotelBrain.
@@ -32,6 +32,7 @@ updated: 2026-11-03
 - **Επόμενη συνάντηση:** 2026-10-23, 13:00–14:00 (ήταν 15:00· ⚠️ συμπίπτει με [[dominos]]), Microsoft Teams, «Τεχνικές Προδιαγραφές Ιστοσελίδων». Συμμετέχουν η ομάδα HotelBrain και ο gspyridis@aviamos.com. Ο ρόλος της Aviamos είναι ασαφής ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Timeline πρώτου design hotelbrain.com + αν χρειάζεται υλικό — Δήμος → Νίκη — από 2026-11-03 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-04]])
 - [x] Αφαίρεση Livin Mykonos & My Mykonos (mrandmrswhitehotels.com) και Elion Seaside Resort (anayiaresorts.com) — ζητήθηκε 2026-10-19, reminder 2026-11-02 — ✓ ο Δήμος: «έχει ολοκληρωθεί» 2026-11-02 12:12 ([[2026-11-02-hotelbrain-afairesi-xenodoxeion]])
 - [x] Call για το νέο design hotelbrain.com — Δήμος, Νίκη, Βασίλης, κ. Λεωνίδας — ✓ έγινε 2026-10-27 πρωί ([[2026-10-23-hotelbrain-com-new-design-update-2026-10-28]])
 - [x] Αποστολή DNS records (μόνο για το site, χωρίς αλλαγή NS) για το go-live του hotelbraingroup.com — Δήμος — υποσχέθηκε «σε λίγο» 2026-10-27 08:18 ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]]) — ✓ 2026-10-30 ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-30]])
@@ -61,6 +62,7 @@ updated: 2026-11-03
 - 2026-10-27: το go-live του hotelbraingroup.com γίνεται με αλλαγή μόνο των DNS records του site (όχι name servers), από τον διαχειριστή domains της HotelBrain ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]]).
 
 ## Χρονολόγιο
+- 2026-11-03 — Ο Δήμος απάντησε αναλυτικά στον Dimitris Giannis για την ασφάλεια του νέου server (Fastpath VPS, MET-2, ModSecurity, backups)· η Νίκη ρωτά πότε θα δουν πρώτο design ([[2026-11-03-hotelbrain-new-server]], [[2026-10-23-hotelbrain-com-new-design-update-2026-11-04]]).
 - 2026-11-02 — 11:14 reminder της Νίκης για αφαίρεση 3 ξενοδοχείων (λήξη μίσθωσης)· 12:12 ο Δήμος: «έχει ολοκληρωθεί» ([[2026-11-02-hotelbrain-afairesi-xenodoxeion]]).
 - 2026-10-30 — 13:39 ο Δήμος ενημερώνει τη Niki ότι η μεταφορά του site στον νέο server ολοκληρώθηκε και στέλνει τις DNS ρυθμίσεις για το hotelbraingroup.com ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-30]]).
 - 2026-10-27 — Νέο design hotelbrain.com: Teams invite «redesign hotelbrain.com» (08:11)· έγινε το call· 12:25 ο [[vasilis-friganiotis]] στέλνει προδιαγραφές Figma/stack και ζητά Dev Mode seat ([[2026-10-27-hotelbrain-redesign-teams-invite]], [[2026-10-23-hotelbrain-com-new-design-update-2026-10-28]]).

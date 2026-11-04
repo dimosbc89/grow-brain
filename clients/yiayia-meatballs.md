@@ -3,7 +3,7 @@ type: client
 title: "Υιάγια (Yiayia Meatballs)"
 aliases: [Υιάγια, Yiayia, Yiayia Meatballs, Υιάγια Home of Meatballs, Γιάγια, yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 # Υιάγια (Yiayia Meatballs)
 > Εστιατόριο με κεφτεδάκια («Home of Meatballs») της [[maria-drouza]]· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influencers, μενού, packaging και γυρίσματα.
@@ -31,6 +31,9 @@ updated: 2026-11-03
 - Επόμενο γύρισμα: «Υιάγια shooting» 2026-10-23 09:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Επιλογή Pantone U χαρτοπετσέτας — Δήμος / Βάσια — από 2026-11-02 ([[2026-10-29-yiayia-xartopetseta-maketa-update-2026-11-04]])
+- [ ] Έγκριση μακέτας τσάντας 28x17x29 (NAK) — GROW + πελάτης ([[2026-11-03-yiayia-xartini-tsanta]])
+- [ ] Έγκριση take away menus — Μαρία Δρούζα / Τζεβελέκος ([[2026-11-03-yiayia-take-away-menu]])
 - [ ] Νέα κατεύθυνση σε ΤέλοςΠάγγων (μανιφέστο, χωρίς μακαρονάδες) και Λαγούδη (απλό σενάριο, όχι kung fu) + προγραμματισμός γυρισμάτων — [[vassiliki-giannopoulou]] — από 2026-11-02 ([[2026-11-02-yiayia-creators-telospaggon-lagoudis]])
 - [ ] Follow-up για δημοσίευση της «επιστολής» (περιοδικό/άρθρο), όπως ζήτησε η Μαρία — GROW (💭 Δήμος, μαζί με το ΔΤ) — από 2026-11-02 ([[2026-11-02-yiayia-creators-telospaggon-lagoudis]])
 - [ ] Επιλογή Pantone U για τη ροζ χαρτοπετσέτα (κοντά στο #f69893) από τη λίστα της NAK + έγκριση μακέτας — [[vassia-kataki]] / Βασιλική — από 2026-11-02 ([[2026-10-29-yiayia-xartopetseta-maketa-update-2026-11-03]])
@@ -93,6 +96,7 @@ updated: 2026-11-03
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- 2026-11-03 — NAK: μακέτα χάρτινης τσάντας 28x17x29 για έγκριση· η Βασιλική «είδες αυτό;» για τα Pantone U της χαρτοπετσέτας· take away menus με pasta για έγκριση ([[2026-11-03-yiayia-xartini-tsanta]], [[2026-10-29-yiayia-xartopetseta-maketa-update-2026-11-04]], [[2026-11-03-yiayia-take-away-menu]]).
 - 2026-11-02 — Η Μαρία απορρίπτει το test video ΤέλοςΠάγγων και το kung fu concept του Λαγούδη· ζητά follow-up για την «επιστολή». Η Βασιλική πιέζει τον Δήμο για το Asana «ΔΤ αποστολή». NAK: dots = οδηγοί, μόνο Pantone U. Epilogi τιμολόγιο (Υιάγια οκ). Τιμολόγιο Νοεμβρίου από λογιστήριο ([[2026-11-02-yiayia-creators-telospaggon-lagoudis]], [[2026-11-02-asana-yiayia-dt-apostoli]], [[2026-10-29-yiayia-xartopetseta-maketa-update-2026-11-03]], [[2026-11-02-epilogi-timologio-yiayia-overoll]]).
 - 2026-10-31 — Η Μαρία Δρούζα δεν μπορεί να συνδεθεί στα νέα εταιρικά emails (Outlook/webmail)· ζητά βοήθεια από Δευτέρα ([[2026-10-09-yiayiameatballs-etairika-emails-update-2026-11-02]]).
 - 2026-10-29 — Εκτυπωμένη χαρτοπετσέτα 24×24: η Μαρία Δρούζα βρίσκει το σχέδιο «φανταστικό», ανησυχεί για χρώμα/κεντράρισμα· ο Τζεβελέκος θέλει απευθείας επικοινωνία GROW–εκτυπωτή· η Βασιλική έγραψε στον κ. Ντούγια (NAK Company) ([[2026-10-29-yiayia-xartopetseta-maketa]]).

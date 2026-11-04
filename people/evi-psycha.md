@@ -3,7 +3,7 @@ type: person
 title: "Εύη Ψύχα"
 aliases: [Εύη, Evi Psycha, marketing@globalfoods.gr]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-11-04
 ---
 # Εύη Ψύχα
 > Marketing της [[global-foods]]· ζητά από τη GROW event content, φυλλάδια και αλλαγές στο app.
@@ -23,6 +23,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-11-03 — Ζήτησε 30 folder για παρουσίαση 9/11 (ακυρώθηκε) ([[2026-11-03-globalfoods-custom-folder]]).
 - 2026-10-20 — Προωθεί το αίτημα της Στέλλας Κρουσανιωτάκη (από app@/info@) ([[2026-10-20-globalfoods-email-pelati-paikopoulos]]).
 - 2026-10-02 → 2026-10-05 — Brief για το φυλλάδιο, «SOS» για εκτύπωση, διορθώσεις κειμένου ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 - 2026-09-24 → 2026-10-02 — Live προβολή και βιντεογράφος για το event της 2026-10-06· αντιπρόταση 300€ + ΦΠΑ ([[2026-10-02-globalfoods-live-projector-videographer]]).

@@ -3,7 +3,7 @@ type: client
 title: "Φαρμακείο Πανόπουλος Αχαρνές (pharmacypan.gr)"
 aliases: [PharmacyPan, pharmacypan.gr, Φαρμακείο Πανόπουλος, Πανόπουλος, Pharmacy Panopoulos, ΠΑΝΟΠΟΥΛΟΣ ΑΚΟΥΣΤΙΚΑ]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 # Φαρμακείο Πανόπουλος Αχαρνές (pharmacypan.gr)
 > Φαρμακείο στις Αχαρνές του [[paris-panopoulos]]· η GROW κρατά domain/email του pharmacypan.gr, γράφει άρθρα για το site και κάνει γυρίσματα.
@@ -44,6 +44,7 @@ updated: 2026-11-03
 - 2026-08-07 — Το email «Webmail Revalidation» για το axarnes@pharmacypan.gr είναι phishing/spam· καμία ενέργεια ([[2026-08-07-pharmacypan-phishing-spam]]).
 
 ## Χρονολόγιο
+- 2026-11-03 — Εκτυπωτικά τρίπτυχου + παρουσίασης στάλθηκαν· προσφορά landing page + Google Ads για τα ακουστικά ([[2026-11-03-pharmacypan-prosfora-landing-ads]]).
 - 2026-11-02 — Δημιουργικό τρίπτυχου φυλλαδίου ακουστικών προς Πάρι για έλεγχο. ⚠️ Το υπόλοιπο 1.829,00 € της καρτέλας του (2026-10-27) εμφανίστηκε και στην καρτέλα του [[nikas-coffee-expert]] 2026-11-02 ([[2026-11-02-pharmacypan-flyer-akoustika]], [[2026-11-02-nikas-kartela-pliromi-15-10]]).
 - 2026-10-29 — Ο Ανδρίτσος ολοκλήρωσε τα κείμενα των email ραντεβού και έστησε Brevo (συλλογή emails· campaigns/αυτόματο newsletter σε 2ο χρόνο) ([[2026-10-20-pharmacypan-auto-emails-update-2026-10-30]]).
 - 2026-10-27 — Καρτέλα πελάτη: υπόλοιπο 1.829,00 €· μαζί τιμολόγιο #1299 (Twenty Seven) ([[2026-10-27-accounting-timologia-kartelles]]).

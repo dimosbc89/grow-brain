@@ -3,7 +3,7 @@ type: project
 title: "PriceSpot.gr (Google CSS)"
 aliases: [PriceSpot, PriceSpot.gr, pricespot.gr]
 status: σε αναμονή
-updated: 2026-10-20
+updated: 2026-11-04
 ---
 # PriceSpot.gr (Google CSS)
 > Ιδέα δικού project του Δήμου: δίγλωσσο Google CSS partner site με white-label μεταπώληση σε agencies.
@@ -22,6 +22,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-11-03 — 💭 Υπόθεση: η ιδέα υλοποιείται ως [[tagora]] (Google CSS της GROW) ([[2026-11-03-tagora-launch]]).
 - Ασαφής ημερομηνία — ιδέα και πλάνο ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Οικονομικά

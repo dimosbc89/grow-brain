@@ -3,7 +3,7 @@ type: client
 title: "SK Advisors"
 aliases: [SK Advisors, sk-advisors.gr, SK ADVISORS]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 # SK Advisors
 > Λογιστικό γραφείο της Σοφίας Κωνσταντοπούλου. Για τη GROW είναι δύο πράγματα: πελάτης (SEO content, Meta Ads, video για TikTok/Reels) και λογιστής της ίδιας της GROW.
@@ -46,6 +46,8 @@ updated: 2026-11-03
 - Τα άρθρα γράφονται πάντα κατά E-E-A-T 2026: byline, TL;DR, schema, FAQ, YMYL ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Χρονολόγιο
+- 2026-11-03 — Ερωτήσεις Μαρίνας για κάρτες εργασίας (υπερωρίες, άδειες, καθυστερήσεις) — υποχρεωτικό από 2026-11-15 ([[2026-11-03-sk-advisors-karta-ergasias]]).
+- 2026-11-03 — Ξαναστάλθηκαν παλιά έγγραφα (Pass διοδίων, UP Hellas) χωρίς κείμενο ([[2026-08-27-sk-advisors-toll-pass-documents-update-2026-11-04]]).
 - 2026-11-02 — Συμπληρώνει τη φόρμα προμηθευτή Κύκνου για τη GROW (Μαρίνα 11:32 → επιστροφή 13:01) ([[2026-11-02-sk-advisors-epikairopoiisi-stoixeion]]).
 - 2026-09-30 — Cold outreach του Δήμου στο TruePathFX, με τη Σοφία σε bcc ([[2026-09-30-truepathfx-taxi-episode-proposal]]).
 - 2026-09-02 — Η Marianna στέλνει νέες εκδοχές και ο Δήμος προωθεί την τελευταία στη Βάσια ([[2026-09-02-sk-video-2-edit-feedback]]).

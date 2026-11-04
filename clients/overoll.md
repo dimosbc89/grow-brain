@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -37,6 +37,7 @@ updated: 2026-11-03
 - Ο Δήμος ζήτησε διαθεσιμότητες για call στις 2026-10-14· ημερομηνία call δεν υπάρχει στο ημερολόγιο ([[2026-10-14-overoll-websites-domains]], [[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Αναθεώρηση Panettone με ροζ φόντο + αρχείο εκτύπωσης — Βασιλική ([[2026-10-21-overoll-panettone-packaging-update-2026-11-04]])
 - [ ] Πληρωμή τιμολογίων μπαλονιών Αττικής (9 τμχ) και DJ Γλυφάδας — Overoll — από 2026-11-02 ([[2026-11-02-overoll-timologia-mpalonia-attiki]], [[2026-11-02-overoll-timologio-dj-glyfada]])
 - [ ] Εξόφληση υπολοίπου καρτέλας 5.312,80 € (με τιμολόγιο Νοεμβρίου) — Overoll — από 2026-11-02 ([[2026-11-03-admin-eidopoiiseis]])
 - [ ] Διόρθωση χρέωσης αυτοκόλλητων Epilogi (320 € vs προσφορά 280 € + ΦΠΑ) — [[epilogin]] — από 2026-11-02 ([[2026-11-02-epilogi-timologio-yiayia-overoll]])
@@ -79,6 +80,7 @@ updated: 2026-11-03
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-11-03 — Panettone: διάλεξαν σχέδιο (ροζ φόντο, έγχρωμα στολίδια)· ερωτήσεις podcast Hospitality Jam στάλθηκαν· το call 4/11 16:00 ξαναστήθηκε ως «Grow Agency X Overoll» με Κίκιρα ([[2026-10-21-overoll-panettone-packaging-update-2026-11-04]], [[2026-11-03-overoll-hospitality-jam-erotiseis]], [[2026-11-04_2026-11-11]]).
 - 2026-11-02 — Τιμολόγιο DJ Γλυφάδας και 9 τιμολόγια μπαλονιών Αττικής προς Overoll· τιμολόγιο Νοεμβρίου, υπόλοιπο 5.312,80 €· η Epilogi χρέωσε 320 € + ΦΠΑ για τα stickers αντί 280 € — η Βασιλική ζητά έλεγχο ([[2026-11-02-overoll-timologio-dj-glyfada]], [[2026-11-02-overoll-timologia-mpalonia-attiki]], [[2026-11-02-epilogi-timologio-yiayia-overoll]], [[2026-11-03-admin-eidopoiiseis]]).
 - 2026-11-03 — Στο GROW Agency Calendar νέο «Overoll call» 2026-11-04 16:00–17:00 (Βασιλική) ([[2026-11-03_2026-11-10]]).
 - 2026-10-30 — 11:42 τιμολόγιο μπαλονιών Θεσσαλονίκης (πληρωμή σήμερα, εξόφληση ή 50%)· 13:59 τιμολόγιο #1301 (αυτοκόλλητα birthday product)· υπόλοιπο καρτέλας 3.452,80 € ([[2026-10-30-overoll-timologia-mpalonia-aftokollita]]).

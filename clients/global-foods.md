@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -31,6 +31,9 @@ updated: 2026-11-03
 - Στο ημερολόγιο: «Πρεσβεία Global - Despina» 2026-10-22 16:00 — 💭 Υπόθεση: αφορά τη Global Foods, ασαφές ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] **Τηλέφωνο στην Ελπίδα** για το reel Πρεσβείας (λιγότερα πρόσωπα, πιάτα/προϊόντα, όνομα event) — Δήμος — από 2026-11-03 18:20 ([[2026-11-03-globalfoods-italiki-presveia-reel]])
+- [ ] Κλείσιμο «παλιών εκκρεμοτήτων» που ζητά η Ελπίδα — Δήμος / Δέσποινα — από 2026-11-03 ([[2026-11-03-globalfoods-custom-folder]])
+- [ ] Πρόταση content για μεριδοποιημένα toppings — Δέσποινα ([[2026-11-03-globalfoods-toppings]])
 - [ ] Feedback στο ύφος των tips (8 Word) — [[despina-velissariou]] / [[marina-papanastasiou]] — από 2026-11-02 ([[2026-10-09-globalfoods-tips-site-update-2026-11-03]])
 - [ ] Έγκριση posts εβδομάδας (Canva Global/Unique) — Global Foods — από 2026-11-02 ([[2026-11-02-globalfoods-unique-social-posts]])
 - [ ] «Landing Offer» — προσφορά για εισαγωγική σελίδα στο site τους «όπως Overoll» — Δήμος (Asana, ανάθεση Μαρίνας 2026-10-26, χωρίς προθεσμία) ([[2026-10-29-admin-eidopoiiseis]])
@@ -45,7 +48,7 @@ updated: 2026-11-03
 - [ ] Post + story 28ης Οκτωβρίου: βίντεο Global χωρίς το κρασί, δημοσίευση 2026-10-28 — [[marina-papanastasiou]] / [[despina-velissariou]] — έως 2026-10-28 ([[2026-10-26-globalfoods-28i-oktovriou-posts]])
 - [x] Reel ZEO (social) με τις διορθώσεις — Δέσποινα — ✓ στάλθηκε 2026-10-27 13:54 / 17:18 (νέος γύρος αλλαγών, βλ. παραπάνω) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]])
 - [x] 2 οριζόντια εταιρικά βίντεο: Masterclass Detroit Pizza – Global και ZEO Bakers – Unique — Δέσποινα — **έως 2026-10-30** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]]) — ✓ στάλθηκαν 2026-10-30 ([[2026-10-30-globalfoods-etairika-videos]])
-- [ ] Επόμενα βίντεο Detroit Pizza – Unique και Ιταλική Πρεσβεία – Global (+ reels) — Δέσποινα — ενημέρωση από την εβδομάδα 2026-11-02 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]])
+- [x] ✓ παραδόθηκαν 2026-11-03 ([[2026-11-03-globalfoods-detroit-pizza-video]]) — Επόμενα βίντεο Detroit Pizza – Unique και Ιταλική Πρεσβεία – Global (+ reels) — Δέσποινα — ενημέρωση από την εβδομάδα 2026-11-02 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]])
 - [ ] Εξόφληση τιμολογίου #1296 (βιντεογράφηση Πρεσβείας) — Global Foods — από 2026-10-26 ([[2026-10-26-globalfoods-timologio-presveia]])
 
 **Νέα στις 2026-10-26**
@@ -95,6 +98,8 @@ updated: 2026-11-03
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-11-03 — Παραδόθηκαν videos Detroit Pizza (Unique) και Ιταλικής Πρεσβείας· η Ελπίδα ενστάσεις για το reel Πρεσβείας (γρήγορο, πρόσωπα)· **ο Δήμος απάντησε** ότι ο ρυθμός είναι σωστός· η Ελπίδα ζητά **τηλέφωνο** ([[2026-11-03-globalfoods-italiki-presveia-reel]], [[2026-11-03-globalfoods-detroit-pizza-video]]).
+- 2026-11-03 — Αίτημα 30 folder για 9/11 → **ακυρώθηκε** από την Ελπίδα: «να τελειώσουμε με τις εκκρεμότητες» ([[2026-11-03-globalfoods-custom-folder]]). Toppings: έμπνευση για μεριδοποιημένα ([[2026-11-03-globalfoods-toppings]]). Τιμολόγια #1325/#1326 + καρτέλες ([[2026-11-03-globalfoods-timologia-kartelas]]).
 - 2026-11-02 — 12:45 η Ελπίδα στέλνει κείμενα tips για 8 προϊόντα· 17:42 η Δέσποινα στέλνει Canva links με τα posts της εβδομάδας Global & Unique ([[2026-10-09-globalfoods-tips-site-update-2026-11-03]], [[2026-11-02-globalfoods-unique-social-posts]]).
 - 2026-10-30 — 15:12/15:15 η Μαρίνα στέλνει στην Ελπίδα τα 2 videos (Global X Detroit, ZEO)· 14:42 αρχεία ICAP για τον Οικονομικό Οδηγό ([[2026-10-30-globalfoods-etairika-videos]]).
 - 2026-10-29 — Οικονομικός οδηγός: η Μαρίνα έστειλε preview, PDF Α4 και 2 εκδοχές στοίχισης· η Ελπίδα οκ σε κείμενο/στοίχιση αλλά θέλει αλλαγή στην κατανομή παραγράφων (μεγαλύτερα γράμματα/κενά) — όχι τελική έγκριση. Reel Unique x ZEO: updated video 11:14· νέα σχόλια 12:15 (πλάνο 04 να κρατά/κόσμος, να φαίνονται γλυκά + 2 πλάνα γλυκών) ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-30]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-30]]).

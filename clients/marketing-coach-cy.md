@@ -3,7 +3,7 @@ type: client
 title: "Marketing Coach (Κύπρος)"
 aliases: [Marketing Coach, PG Group of Companies, PG Group, marketingcoach.com.cy, Petros Goulas]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-11-04
 ---
 # Marketing Coach (Κύπρος)
 > Κυπριακό marketing γραφείο του Petros Goulas (PG Group of Companies). Λειτουργεί ως μεσάζων: φέρνει στη GROW πελάτες στην Κύπρο ([[karmiotissa]], [[poullaides-foundation]]) και έχει δικές του Google Ads καμπάνιες.
@@ -45,6 +45,7 @@ updated: 2026-10-21
 - 2026-08-21: ο Petros ζητά ο Δήμος να είναι πάντα σε cc στα θέματα του site της Poullaides ([[2026-08-21-poullaides-website-not-working]]).
 
 ## Χρονολόγιο
+- 2026-11-03 — Ο Petros προώθησε πρόσβαση στο site buildiaconstructions.com χωρίς αίτημα ([[2026-11-03-marketing-coach-buildia]]).
 - 2026-10-21 — Asana «PG Graphics»: 5 ανοιχτά (όλα εκπρόθεσμα) και 18 ολοκληρωμένα από 2026-09-22 έως 2026-10-16 — π.χ. «Products of the week», «Giveaway», «Hiring», «Recital 3rd Service βάσει template», «Monthly Nameday Posts» Οκτωβρίου και Νοεμβρίου–Δεκεμβρίου, «Brew & Bloom», «Kiss Post», «New Giveaway Flash Kiss FM», «Sfera New Small Giveaway - Home Soda», «New Job Graphic ΖΗΤΕΙΤΑΙ ΔΙΑΝΟΜΕΑΣ – BAKE & PACK», «Product Of The Week» (2026-10-16) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-01 — Ο Δήμος δίνει εντολή στον Nikos: «Πάτα στοπ και στα δύο κλείσε και campaign a» ([[2026-10-05-google-ads-freelancer-moulinos]]).
 - 2026-09-18 — Asana: δημιουργείται το project «PG Graphics» ([[2026-10-21-asana-snapshot]]).

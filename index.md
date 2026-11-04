@@ -1,7 +1,7 @@
 ---
 type: index
 title: "Κατάλογος"
-updated: 2026-10-28
+updated: 2026-11-04
 ---
 # Κατάλογος
 
@@ -70,7 +70,8 @@ updated: 2026-10-28
 - [[yiayia-meatballs|Υιάγια (Yiayia Meatballs)]] · _ενεργός_ — Εστιατόριο με κεφτεδάκια («Home of Meatballs») της maria-drouza· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influe…
 - [[yourclima|Yourclima]] · _ενεργός_ — Πελάτης της GROW για εταιρικά email/hosting στο yourclima.com· επαφές ο christos-tsamis και ο manolis-kalomoiris.
 
-## Leads (17)
+## Leads (18)
+- [[malamatina|Malamatina (Mantis Group)]] · _prospect_ — Video launch με rapper + PR event + προβολή 31/12· η Δέσποινα ζήτησε στοιχεία 2026-11-03.
 - [[jti|JTI]] · _σε αναμονή_ — RFI για Meetings & Events (2026-09)· μετά τη συνάντηση η JTI ανέβαλε 2026-11-02 λόγω στρατηγικής 2027.
 - [[spoudastirio-drosopoulou|Σπουδαστήριο Παίδων Δροσοπούλου]] · _prospect_ — Σπουδαστήριο κοντά στη Σουλιέ· στάλθηκε SEO/GEO audit 2026-10-31 με 3 επιλογές συνεργασίας, αναμονή για κλήση.
 - [[1767-beverages|1767 Beverages]] · _prospect_ — Εταιρεία αναψυκτικών· ζητά 2 lifestyle campaign παραγωγές/έτος· call 2026-10-26 12:00.
@@ -89,13 +90,14 @@ updated: 2026-10-28
 - [[wonderkids|Wonderkids (wearewonderkids.com)]] · _prospect_ — Lead για νέα ιστοσελίδα (web design & development)· ο Δήμος πρότεινε discovery video call στις 2026-09-08 και περιμένει διαθεσιμότητα.
 - [[salesforce|Salesforce (events Ελλάδα)]] · _prospect_ — Παλιός πελάτης events (2023)· στις 2026-10-21 η Sourcing επανήλθε με νέα ανάγκη για local event agency.
 
-## Projects & υπηρεσίες (7)
+## Projects & υπηρεσίες (8)
 - [[ai-workshops|Εσωτερικά workshops ομάδας (AI & Social)]] — Εκπαιδευτικά workshops που κάνει ο Δήμος στην ομάδα της grow-agency (Social Media 2026, AI). Τα παρουσιαστικά μοιράζονται στο προσωπικό.
 - [[content-system|content-system (Claude Skill για visual content)]] — Claude Skill του Δήμου που οργανώνει την παραγωγή visual content ανά πελάτη της GROW μέσα από τα AI εργαλεία του.
 - [[ekthesiaka-periptera|Εκθεσιακά περίπτερα (booth design & build)]] — Γραμμή υπηρεσιών της GROW για σχεδιασμό και κατασκευή custom εκθεσιακών περιπτέρων, μαζί με περιφερειακές υπηρεσίες. Εδώ συγκεντρώνονται όλοι οι πελάτ…
 - [[estia-crm|Estia (estiagreekhome.online) & Estia CRM]] — Δικό project του Δήμου: η υπηρεσία Estia (estiagreekhome.online — φροντίδα/έλεγχος ακινήτων στην Ελλάδα για ιδιοκτήτες που ζουν στο εξωτερικό, κατά το…
 - [[grow-greek-site|Ελληνικό site GROW (marketingagencygreece.online)]] — Το νέο ελληνόφωνο site της grow-agency για την ελληνική αγορά· το growagency.online μένει αγγλικό για διεθνές B2B.
 - [[grow-outreach|GROW outreach & marketing (δικό μας)]] — Το marketing της ίδιας της grow-agency: cold email καμπάνιες μέσω ActiveCampaign (ΙΕΚ/εκπαίδευση, εκθεσιακά περίπτερα), υλικό για τα social και τα fly…
+- [[tagora|Tagora (Google CSS)]] — Υπηρεσία σύγκρισης τιμών της GROW στο πρόγραμμα CSS της Google· σε φάση onboarding καταστημάτων (από 2026-11-03).
 - [[pricespot|PriceSpot.gr (Google CSS)]] — Ιδέα δικού project του Δήμου: δίγλωσσο Google CSS partner site με white-label μεταπώληση σε agencies.
 
 ## Ομάδα GROW (11)

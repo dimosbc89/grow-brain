@@ -3,7 +3,7 @@ type: person
 title: "Elpida Plavou"
 aliases: [Ελπίδα Πλάβου, Ελπίδα, elpida.plavou@globalfoods.gr]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 # Elpida Plavou
 > Επαφή της [[global-foods]] με ασαφή ρόλο. Λαμβάνει τα Google Ads reports και την πρόταση videography, και είναι σε cc στα event θέματα.
@@ -27,6 +27,7 @@ updated: 2026-11-03
 - —
 
 ## Χρονολόγιο
+- 2026-11-03 — Ενστάσεις στο reel Πρεσβείας, ζητά τηλέφωνο από τον Δήμο· ακύρωσε τα folder ([[2026-11-03-globalfoods-italiki-presveia-reel]], [[2026-11-03-globalfoods-custom-folder]]).
 - 2026-11-02 — Στέλνει 8 κείμενα tips για το site Global Foods και ρωτά για το ύφος ([[2026-10-09-globalfoods-tips-site-update-2026-11-03]]).
 - 2026-10-29 — Σχόλια σε οικονομικό οδηγό (κατανομή παραγράφων) και reel ZEO (γλυκά, πλάνο εισόδου) ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-30]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-30]]).
 - 2026-10-27 — Feedback reel Unique x Zeo (λογότυπα αρχή/τέλος), «Θα μπορούσαμε να τις δούμε; Και να αποφασίσουμε;»· «Μας αρέσει» στο δισέλιδο, τηλέφωνο με Δέσποινα· τελικά ΔΤ Detroit + ανάρτηση στα sites ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]], [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]], [[2026-10-09-global-unique-nea-mas-update-2026-10-28]]).

@@ -3,7 +3,7 @@ type: admin
 title: "Συνδρομές & εργαλεία λογισμικού"
 aliases: [subscriptions, SaaS, εργαλεία, Anthropic, Claude, Apify, Asana, HubSpot, DataForSEO, Scrape Creators, Google Workspace, ActiveCampaign]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 # Συνδρομές & εργαλεία λογισμικού
 > Τα SaaS που πληρώνει η GROW (AI, scraping, SEO data, project management, CRM, email). Οι αποδείξεις και τα τιμολόγια πάνε στη Βασιλική ή στη Δέσποινα για το λογιστήριο.
@@ -48,6 +48,7 @@ updated: 2026-11-03
 - —
 
 ## Χρονολόγιο
+- 2026-11-03 — Nord ανεστάλη (αποτυχημένη χρέωση)· Google OAuth clients carrots-website / wishbone διαγράφονται ~2026-12-03 ([[2026-11-04-admin-eidopoiiseis]]).
 - 2026-11-02 — Meta: ad account «adele» declined/disabled (3 ειδοποιήσεις). Receipts The Dining Society 40 € (22:05 — 💭 η πληρωμή δουλεύει ξανά), Koukos The Bar 45 €, Mama's Restaurant 10,97 €. Google Workspace τιμολόγιο 5728019006 (αυτόματη χρέωση) ([[2026-11-03-admin-eidopoiiseis]]).
 - 2026-11-02 — Meta: απορρίφθηκαν πληρωμές — ad accounts **Tsu Pies** (2/11) και **The Dining Society** (30/10, 31/10) disabled. Receipts NOMUD 38 €, Ermou 18 329,75 €, Dining 8,69 €. Metalease Σ1181 (1/11) + Σ1495 (2/11). Fastpath ticket #836805 έκλεισε αυτόματα ([[2026-11-02-admin-eidopoiiseis]]).
 - 2026-10-29 — **Revolut: «Your account is restricted»** (λογαριασμός ασαφής)· Edenred παραγγελία #1208653 386,78 € «Action required» (κατάθεση)· Meta receipts Vet Center 59,06 €, Knack Main 69,83 €, Dining Society 19,22 €· 3CX αλλαγή IP ([[2026-10-30-admin-eidopoiiseis]]).
