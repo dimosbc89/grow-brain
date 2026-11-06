@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -18,7 +18,11 @@ updated: 2026-11-04
 - **Επαφές:** [[elpida-plavou]] (ρόλος ασαφής· παραλήπτρια report και πρότασης videography) ([[2026-10-08-globalfoods-videography-proposal]])· [[evi-psycha]] (Marketing, marketing@globalfoods.gr) ([[2026-10-02-globalfoods-live-projector-videographer]])· commercial@globalfoods.gr σε cc ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 - **Ομάδα GROW:** ο Δήμος (app, Ads report, προτάσεις)· [[marina-papanastasiou]] (συντονισμός event)· [[despina-velissariou]] (event, φυλλάδιο, βιντεογράφος) ([[2026-10-02-globalfoods-live-projector-videographer]], [[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-03)
+## Τρέχουσα κατάσταση (στις 2026-11-06)
+- Στις 2026-11-04 το marketing@ ζήτησε από τον Δήμο **νέο reel ~30''** με πιο αργές εναλλαγές και λιγότερο κόσμο — αναπάντητο ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-06]]).
+- Στις 2026-11-05 η Δέσποινα ανέβασε carousel posts (events Οκτ.) σε Global + Unique για έγκριση ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-06]]).
+
+*Από 2026-11-03:*
 - **Στις 2026-11-03:** 2026-11-02 η [[elpida-plavou]] έστειλε 8 κείμενα tips για το site (Manchego, Napoletana, Spianata, Stinco, Stracciatella, Zimbello, Bologna, Gorgonzola) και ρωτά αν είναι οκ το ύφος· η Δέσποινα έστειλε Canva links με τα posts εβδομάδας Global & Unique ([[2026-10-09-globalfoods-tips-site-update-2026-11-03]], [[2026-11-02-globalfoods-unique-social-posts]]).
 
 *Παλαιότερα (στις 2026-10-28):*
@@ -31,6 +35,7 @@ updated: 2026-11-04
 - Στο ημερολόγιο: «Πρεσβεία Global - Despina» 2026-10-22 16:00 — 💭 Υπόθεση: αφορά τη Global Foods, ασαφές ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Reel Πρεσβείας ~30'' — Δήμος ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-06]])
 - [ ] **Τηλέφωνο στην Ελπίδα** για το reel Πρεσβείας (λιγότερα πρόσωπα, πιάτα/προϊόντα, όνομα event) — Δήμος — από 2026-11-03 18:20 ([[2026-11-03-globalfoods-italiki-presveia-reel]])
 - [ ] Κλείσιμο «παλιών εκκρεμοτήτων» που ζητά η Ελπίδα — Δήμος / Δέσποινα — από 2026-11-03 ([[2026-11-03-globalfoods-custom-folder]])
 - [ ] Πρόταση content για μεριδοποιημένα toppings — Δέσποινα ([[2026-11-03-globalfoods-toppings]])
@@ -98,6 +103,8 @@ updated: 2026-11-04
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-11-05 — Carousel posts για έγκριση ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-06]]).
+- 2026-11-04 — Αίτημα για reel 30'' ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-06]]).
 - 2026-11-03 — Παραδόθηκαν videos Detroit Pizza (Unique) και Ιταλικής Πρεσβείας· η Ελπίδα ενστάσεις για το reel Πρεσβείας (γρήγορο, πρόσωπα)· **ο Δήμος απάντησε** ότι ο ρυθμός είναι σωστός· η Ελπίδα ζητά **τηλέφωνο** ([[2026-11-03-globalfoods-italiki-presveia-reel]], [[2026-11-03-globalfoods-detroit-pizza-video]]).
 - 2026-11-03 — Αίτημα 30 folder για 9/11 → **ακυρώθηκε** από την Ελπίδα: «να τελειώσουμε με τις εκκρεμότητες» ([[2026-11-03-globalfoods-custom-folder]]). Toppings: έμπνευση για μεριδοποιημένα ([[2026-11-03-globalfoods-toppings]]). Τιμολόγια #1325/#1326 + καρτέλες ([[2026-11-03-globalfoods-timologia-kartelas]]).
 - 2026-11-02 — 12:45 η Ελπίδα στέλνει κείμενα tips για 8 προϊόντα· 17:42 η Δέσποινα στέλνει Canva links με τα posts της εβδομάδας Global & Unique ([[2026-10-09-globalfoods-tips-site-update-2026-11-03]], [[2026-11-02-globalfoods-unique-social-posts]]).

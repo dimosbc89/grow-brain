@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -18,7 +18,10 @@ updated: 2026-11-04
 - **Επαφές:** [[vaso-theochari]] (Marketing, marketing@overoll.gr) ([[2026-10-14-overoll-websites-domains]])· Kikiras_john@yahoo.gr σε cc, ρόλος ασαφής ([[2026-10-14-overoll-websites-domains]], [[2026-07-23-overoll-akinito-xanthi]]).
 - **Ομάδα GROW:** ο Δήμος (sites, domains)· [[vassiliki-giannopoulou]] και [[marina-papanastasiou]] σε cc ([[2026-10-14-overoll-websites-domains]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-03)
+## Τρέχουσα κατάσταση (στις 2026-11-06)
+- Γύρισμα **Δευτέρα 9/11 Πραξιτέλους** (με Κωνσταντίνο, και υλικό για Αμερική) επιβεβαιώθηκε· Panettone: 3 νέα σχέδια με χρωματιστά ornaments (5/11)· λογαριασμοί @overoll.us / @overollusa· κριτικές 26/10–1/11· τιμολόγια creators γενεθλίων ([[2026-11-04-overoll-gyrisma-social-panettone]]).
+
+*Από 2026-11-03:*
 - **Τιμολογήσεις event 6 χρόνων (2026-11-02):** η Βασιλική έστειλε στην Overoll το τιμολόγιο του **DJ Γλυφάδας** (με στοιχεία πληρωμής του DJ — [στοιχείο παραλείφθηκε]) και **9 τιμολόγια μπαλονιών Αττικής** (ΤΔΑ-939…949)· ποσά μόνο στα PDF ([[2026-11-02-overoll-timologio-dj-glyfada]], [[2026-11-02-overoll-timologia-mpalonia-attiki]]).
 - **Τιμολόγιο Νοεμβρίου** από το λογιστήριο 2026-11-02 13:02, **υπόλοιπο καρτέλας 5.312,80 €** ([[2026-11-03-admin-eidopoiiseis]]).
 - **Αυτοκόλλητα:** η Epilogi χρέωσε 320 € + ΦΠΑ αντί της προσφοράς 280 € + ΦΠΑ· η Βασιλική ζήτησε έλεγχο 2026-11-02 15:49 ([[2026-11-02-epilogi-timologio-yiayia-overoll]]).
@@ -80,6 +83,7 @@ updated: 2026-11-04
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-11-05 — Panettone v3, επιβεβαίωση γυρίσματος 9/11, social accounts ([[2026-11-04-overoll-gyrisma-social-panettone]]).
 - 2026-11-03 — Panettone: διάλεξαν σχέδιο (ροζ φόντο, έγχρωμα στολίδια)· ερωτήσεις podcast Hospitality Jam στάλθηκαν· το call 4/11 16:00 ξαναστήθηκε ως «Grow Agency X Overoll» με Κίκιρα ([[2026-10-21-overoll-panettone-packaging-update-2026-11-04]], [[2026-11-03-overoll-hospitality-jam-erotiseis]], [[2026-11-04_2026-11-11]]).
 - 2026-11-02 — Τιμολόγιο DJ Γλυφάδας και 9 τιμολόγια μπαλονιών Αττικής προς Overoll· τιμολόγιο Νοεμβρίου, υπόλοιπο 5.312,80 €· η Epilogi χρέωσε 320 € + ΦΠΑ για τα stickers αντί 280 € — η Βασιλική ζητά έλεγχο ([[2026-11-02-overoll-timologio-dj-glyfada]], [[2026-11-02-overoll-timologia-mpalonia-attiki]], [[2026-11-02-epilogi-timologio-yiayia-overoll]], [[2026-11-03-admin-eidopoiiseis]]).
 - 2026-11-03 — Στο GROW Agency Calendar νέο «Overoll call» 2026-11-04 16:00–17:00 (Βασιλική) ([[2026-11-03_2026-11-10]]).

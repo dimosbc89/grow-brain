@@ -3,7 +3,7 @@ type: project
 title: "Tagora (Google CSS)"
 aliases: [Tagora, tagora.online, hello@tagora.online]
 status: ενεργός
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 # Tagora
 > Ελληνική υπηρεσία σύγκρισης τιμών της GROW (tagora.online) που μπαίνει στο πρόγραμμα CSS της Google, ώστε οι Shopping καμπάνιες των πελατών να τρέχουν με έως 20% φθηνότερα κλικ.
@@ -15,10 +15,14 @@ updated: 2026-11-04
 - **Κώδικας:** repo dimosbc89/pazari, branch claude/tagora-rebrand (WooCommerce plugin) ([[2026-11-03-tagora-launch]]).
 - Σχετικό: [[pricespot]] (💭 Υπόθεση: η ίδια ιδέα).
 
-## Τρέχουσα κατάσταση (στις 2026-11-04)
+## Τρέχουσα κατάσταση (στις 2026-11-06)
+- Danaos Stores μέσα με feed (6.280 προϊόντα) αλλά **sync απέτυχε 4/11 και 5/11**· νέα αίτηση [[nomud]] με **0 προϊόντα** (plugin)· Merchant Center ζητά store ratings ([[2026-11-03-tagora-launch-update-2026-11-06]]).
+
+*Από 2026-11-04:*
 - Η Google χρειάζεται καταστήματα με πραγματικά προϊόντα για να εγκρίνει το Tagora ως CSS — ο Δήμος μαζεύει πελάτες GROW. Πρώτο pitch στη [[danaos]]· πρώτη αίτηση από [[tandem-concept]] (0 προϊόντα) ([[2026-11-03-tagora-launch]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Διόρθωση sync Danaos + plugin (NOMUD/Tandem 0 προϊόντα) — Δήμος ([[2026-11-03-tagora-launch-update-2026-11-06]])
 - [ ] Tandem: η αίτηση μέσω plugin βρήκε 0 προϊόντα — Δήμος ([[2026-11-03-tagora-launch]])
 - [ ] CI «WooCommerce plugin» απέτυχε (pazari, claude/tagora-rebrand) — Δήμος ([[2026-11-03-tagora-launch]])
 - [ ] Εγγραφή/feed από Danaos — Φιόλα Σκράκι ([[2026-11-03-tagora-launch]])
@@ -27,6 +31,7 @@ updated: 2026-11-04
 - —
 
 ## Χρονολόγιο
+- 2026-11-04/05 — Αιτήσεις Danaos (6.280) και NOMUD (0)· 2 αποτυχημένα sync Danaos ([[2026-11-03-tagora-launch-update-2026-11-06]]).
 - 2026-11-04 — Pitch προς Danaos· αίτηση Tandem (0 προϊόντα)· CI fail ([[2026-11-03-tagora-launch]]).
 - 2026-11-03 — Αγορά tagora.online, Cloudflare, δοκιμή email routing ([[2026-11-03-admin-eidopoiiseis]], [[2026-11-03-tagora-launch]]).
 

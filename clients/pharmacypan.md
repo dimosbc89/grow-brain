@@ -3,7 +3,7 @@ type: client
 title: "Φαρμακείο Πανόπουλος Αχαρνές (pharmacypan.gr)"
 aliases: [PharmacyPan, pharmacypan.gr, Φαρμακείο Πανόπουλος, Πανόπουλος, Pharmacy Panopoulos, ΠΑΝΟΠΟΥΛΟΣ ΑΚΟΥΣΤΙΚΑ]
 status: ενεργός
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 # Φαρμακείο Πανόπουλος Αχαρνές (pharmacypan.gr)
 > Φαρμακείο στις Αχαρνές του [[paris-panopoulos]]· η GROW κρατά domain/email του pharmacypan.gr, γράφει άρθρα για το site και κάνει γυρίσματα.
@@ -14,7 +14,10 @@ updated: 2026-11-04
 - **Επαφές:** [[paris-panopoulos]] (φαρμακοποιός)· george@gandritsos.com στο «PharmacyPan review» της 2026-09-30, ρόλος ασαφής ([[2026-07-20_2026-11-03]]).
 - **Ομάδα GROW:** [[vassiliki-giannopoulou]] (επικοινωνία με πελάτη, review άρθρων)· ο Δήμος· [[marina-papanastasiou]] σε τιμολόγηση domain ([[2026-08-07-pharmacypan-phishing-spam]], [[2026-10-12-pharmacy-article-review-link]], [[2026-09-07-cretaforce-pharmacypan-domain-renewal]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-03)
+## Τρέχουσα κατάσταση (στις 2026-11-06)
+- **Στις 2026-11-04 ο Πάρης αποδέχτηκε** την προσφορά landing + performance Google Ads («Συμφωνώ, προχωράμε») και ρωτά πώς θα παρακολουθεί τα emails/leads· τιμολόγιο παρουσίασης ακουστικών, υπόλοιπο 1.674,00 € ([[2026-11-04-pharmacypan-apodoxi-akoustika]]).
+
+*Από 2026-11-03:*
 - Στις 2026-11-02 η Βασιλική έστειλε στον Πάρι το δημιουργικό για το **τρίπτυχο φυλλάδιο ακουστικών** και περιμένει feedback ([[2026-11-02-pharmacypan-flyer-akoustika]]).
 
 *Από 2026-10-28:*
@@ -25,6 +28,7 @@ updated: 2026-11-04
 - Στο ημερολόγιο υπάρχει «γύρισμα Πανόπουλος σπίτια» 2026-10-23· ασαφές αν αφορά τον ίδιο πελάτη ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Απάντηση στον Πάρη: πώς βλέπει τα leads + έναρξη landing/Ads ([[2026-11-04-pharmacypan-apodoxi-akoustika]])
 - [ ] Feedback στο τρίπτυχο φυλλάδιο ακουστικών — [[paris-panopoulos]] — από 2026-11-02 ([[2026-11-02-pharmacypan-flyer-akoustika]])
 - [ ] Εξόφληση υπολοίπου 1.829,00 € — Πανόπουλος — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
 - [ ] Παρουσιάσεις για τον Πάρι (για υλικά/ραντεβού) — GROW — «επειγόντως» (2026-10-22) ([[2026-10-13-pharmacypan-arthra-elegxos]])
@@ -44,6 +48,7 @@ updated: 2026-11-04
 - 2026-08-07 — Το email «Webmail Revalidation» για το axarnes@pharmacypan.gr είναι phishing/spam· καμία ενέργεια ([[2026-08-07-pharmacypan-phishing-spam]]).
 
 ## Χρονολόγιο
+- 2026-11-04 — Αποδοχή προσφοράς landing + Google Ads· τιμολόγιο ([[2026-11-04-pharmacypan-apodoxi-akoustika]]).
 - 2026-11-03 — Εκτυπωτικά τρίπτυχου + παρουσίασης στάλθηκαν· προσφορά landing page + Google Ads για τα ακουστικά ([[2026-11-03-pharmacypan-prosfora-landing-ads]]).
 - 2026-11-02 — Δημιουργικό τρίπτυχου φυλλαδίου ακουστικών προς Πάρι για έλεγχο. ⚠️ Το υπόλοιπο 1.829,00 € της καρτέλας του (2026-10-27) εμφανίστηκε και στην καρτέλα του [[nikas-coffee-expert]] 2026-11-02 ([[2026-11-02-pharmacypan-flyer-akoustika]], [[2026-11-02-nikas-kartela-pliromi-15-10]]).
 - 2026-10-29 — Ο Ανδρίτσος ολοκλήρωσε τα κείμενα των email ραντεβού και έστησε Brevo (συλλογή emails· campaigns/αυτόματο newsletter σε 2ο χρόνο) ([[2026-10-20-pharmacypan-auto-emails-update-2026-10-30]]).

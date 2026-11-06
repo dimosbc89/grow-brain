@@ -3,7 +3,7 @@ type: client
 title: "Oggi Gelato"
 aliases: [Oggi]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-11-06
 ---
 # Oggi Gelato
 > Πελάτης Google Ads της GROW (παγωτό)· τον Σεπτέμβριο 2026 ετοιμάστηκε lifetime report της καμπάνιας.
@@ -31,6 +31,7 @@ updated: 2026-10-28
 - —
 
 ## Χρονολόγιο
+- 2026-11-05 — Η Βασιλική ζητά άποψη Δήμου στο Asana «marathon creatives sos» (💭 Oggi) ([[2026-11-04-dianoma-pelates-mikra]]).
 - 2026-10-27 — Ο πελάτης ενέκρινε το moodboard T-shirts (αγάπησε την πρόσοψη)· ζητούνται mockups ([[2026-10-27-asana-eidopoiiseis]]).
 - 2026-10-21 — Asana: 4 ανοιχτά tasks, όλα εκπρόθεσμα (κουτιά τιραμισού, moodboard T-shirts, GelatΟ videO, gelato vs παγωτό). Ολοκληρώθηκαν: «Affogato AI video» (2026-10-16), «Tiramisu bowl» (2026-10-01), «4plana» (2026-09-28), «Past - future video» και «Why people come» (2026-09-24), «Oggi Next Steps Presentation» — Δέσποινα (2026-09-10) ([[2026-10-21-asana-snapshot]]).
 - 2026-09-18 — «Oggi εκεί» 10:30 ([[2026-07-20_2026-11-03]]).

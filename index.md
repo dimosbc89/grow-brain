@@ -1,7 +1,7 @@
 ---
 type: index
 title: "Κατάλογος"
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 # Κατάλογος
 
@@ -70,7 +70,9 @@ updated: 2026-11-04
 - [[yiayia-meatballs|Υιάγια (Yiayia Meatballs)]] · _ενεργός_ — Εστιατόριο με κεφτεδάκια («Home of Meatballs») της maria-drouza· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influe…
 - [[yourclima|Yourclima]] · _ενεργός_ — Πελάτης της GROW για εταιρικά email/hosting στο yourclima.com· επαφές ο christos-tsamis και ο manolis-kalomoiris.
 
-## Leads (18)
+## Leads (20)
+- [[eza-zythopoiia|Ελληνική Ζυθοποιία Αταλάντης (ΕΖΑ)]] · _prospect_ — «LOCAL MICROBREWERIES – Πρώτη πρόταση» 2026-11-05· τι ζητά: ασαφές.
+- [[venture-travel-quick-park|Venture Travel / Quick Park]] · _prospect_ — Προσφορά GROW στάλθηκε 2026-11-05 στον Χρήστο Μπακογιάννη.
 - [[malamatina|Malamatina (Mantis Group)]] · _prospect_ — Video launch με rapper + PR event + προβολή 31/12· η Δέσποινα ζήτησε στοιχεία 2026-11-03.
 - [[jti|JTI]] · _σε αναμονή_ — RFI για Meetings & Events (2026-09)· μετά τη συνάντηση η JTI ανέβαλε 2026-11-02 λόγω στρατηγικής 2027.
 - [[spoudastirio-drosopoulou|Σπουδαστήριο Παίδων Δροσοπούλου]] · _prospect_ — Σπουδαστήριο κοντά στη Σουλιέ· στάλθηκε SEO/GEO audit 2026-10-31 με 3 επιλογές συνεργασίας, αναμονή για κλήση.
@@ -235,6 +237,6 @@ updated: 2026-11-04
 - [[README|jobs/README]] — λίστα leads (Δευτέρα), posts (Παρασκευή), αναφορά (Παρασκευή) · οδηγίες: [[leads]], [[posts]], [[report]]
 
 ## Πηγές
-- `raw/email/` — 527 digests από Gmail (απεσταλμένα από 2026-07-20)
+- `raw/email/` — 580 digests από Gmail (απεσταλμένα από 2026-07-20)
 - `raw/calendar/` — Google Calendar
 - `raw/notes/` — σημειώσεις και ό,τι μπαίνει από το `inbox/`

@@ -3,7 +3,7 @@ type: client
 title: "Nomud"
 aliases: [NOMUD, Nomud O.E., nomud.de]
 status: ενεργός
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 # Nomud
 > Πελάτης με video shootings και Google Ads· η GROW χρειάζεται τον λογαριασμό Viva και τους κωδικούς του για κάποια ρύθμιση πληρωμών (σκοπός ασαφής).
@@ -31,6 +31,7 @@ updated: 2026-11-04
 - 2026-08-07: χρειάζονται και οι κωδικοί Viva (ο Δήμος: «nai») ([[2026-08-07-nomud-logariasmos-viva]]).
 
 ## Χρονολόγιο
+- 2026-11-04 — Αίτηση στο Tagora μέσω plugin, 0 προϊόντα ([[2026-11-03-tagora-launch-update-2026-11-06]]).
 - 2026-11-03 — Ο Νίκος Μουλίνος ξαναζητά το brief ([[2026-10-30-nikos-moulinos-timologio-a1014-update-2026-11-04]]).
 - 2026-10-30 — Ο Νίκος Μουλίνος ξαναζητά το brief (από 2026-10-21) ([[2026-10-30-nikos-moulinos-timologio-a1014]]).
 - 2026-10-22 — Η Βασιλική έστειλε τα 2 φυλλάδια Α5 στη Nomud για επιβεβαίωση· η Βάσια έδωσε εντολή εκτύπωσης στην Epilogi (1000+1000, 190 € + ΦΠΑ, 2–3 μέρες) ([[2026-10-22-nomud-fylladia-egkrisi]], [[2026-10-20-nomud-a5-fylladia-update-2026-10-23]]).

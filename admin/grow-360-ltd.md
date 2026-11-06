@@ -3,7 +3,7 @@ type: admin
 title: "GROW 360 LTD (UK εταιρεία)"
 aliases: [GROW 360, GROW 360 LTD, UK εταιρεία, UK company, βρετανική εταιρεία]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-06
 ---
 # GROW 360 LTD
 > Η βρετανική εταιρεία του Δήμου (μοναδικός director/shareholder, κάτοικος Ελλάδας). Τον Οκτώβριο 2026 πέρασε σε νέο λογιστή, την [[the-accountancy-partnership]], και τον Νοέμβριο 2026 έχει τις πρώτες προθεσμίες της στην Companies House.
@@ -33,6 +33,8 @@ updated: 2026-11-03
 - Η YCF θα ανανεώσει αυτόματα τις υπηρεσίες της στις 2026-11-10, αν δεν ακυρωθούν ([[2026-10-13-yourcompanyformations-renewal]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Companies House Auth Code στο Client Hub της Accountancy Partnership — Δήμος — άμεσα ([[2026-11-06-admin-eidopoiiseis]])
+- [ ] Πληρωμή ληξιπρόθεσμων P-388148/9 — Δήμος ([[2026-11-06-admin-eidopoiiseis]])
 - [ ] Πληρωμή/διευθέτηση τιμολογίων Revolut GRGL-4 και GRGL-5 (750 € × 2) της GROW 360 LTD — Δήμος (💭 από την ελληνική GROW) — **έως 2026-11-09** ([[2026-11-03-admin-eidopoiiseis]])
 - [ ] Statutory Letter (YCF digital mail, 2026-10-28) — άνοιγμα PDF, προώθηση στην TAP αν είναι HMRC (💭 ίσως ο CT κωδικός) — Δήμος — πρωτότυπο ως ~2026-11-11 ([[2026-10-28-grow360-ycf-statutory-letter]])
 - [ ] Ώρα για onboarding call με την Ellie — Δήμος / [[marina-papanastasiou]] — από 2026-10-20 ([[2026-10-20-accountancy-partnership-onboarding]])
@@ -60,6 +62,7 @@ updated: 2026-11-03
 - 2026-10-02 — Η Μαρίνα αναλαμβάνει να επιλέξει λογιστή και να ρωτήσει αν ακυρώνονται οι υπηρεσίες YCF ([[2026-10-02-grow360-ycf-renewal-accounting]]).
 
 ## Χρονολόγιο
+- 2026-11-06 — Accountancy Partnership ζητά Companies House Auth Code· 2026-11-04 υπενθύμιση ληξιπρόθεσμων P-388148/9 ([[2026-11-06-admin-eidopoiiseis]]).
 - 2026-11-02 — Revolut: τιμολόγια GROW 360 LTD GRGL-4 και GRGL-5 (750 € το καθένα, λήξη 2026-11-09) προς dimos@. YCF: υπενθύμιση ανανέωσης όλου του πακέτου £339.60 στις 2026-11-10 ([[2026-11-03-admin-eidopoiiseis]]).
 - 2026-10-30 — TAP Client Hub: λείπει το **Companies House Authentication Code** της Grow 360 Ltd — ρίσκο ποινών HMRC αν καθυστερήσει ([[2026-10-30-tap-client-hub-auth-code]]).
 - 2026-10-28 — YCF: σκαναρισμένο Statutory Letter για τη GROW 360 LTD (αποστολέας μόνο στο PDF) ([[2026-10-28-grow360-ycf-statutory-letter]]).

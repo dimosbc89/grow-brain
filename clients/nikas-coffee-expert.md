@@ -3,7 +3,7 @@ type: client
 title: "Panagiotis Nikas / CoffeeXpert / Barista Academy"
 aliases: [Panagiotis Nikas, Νίκας, P. Nikas, Coffee Expert, CoffeeXpert, ΚΟΦΙ ΕΞΠΕΡΤ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ, Barista Academy, baristacademy.gr, barista-academy.gr, baristaexpert.gr, coffeexpert.gr, panagiotisnikas.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-06
 ---
 # Panagiotis Nikas / CoffeeXpert / Barista Academy
 > Ο [[panagiotis-nikas]] και οι επιχειρήσεις του (CoffeeXpert, Barista Academy, προσωπικό brand): η GROW τρέχει Meta Ads, κρατά τα sites/domains και λειτουργεί στην πράξη ως το IT/security help desk του — πολλά «copyright» phishing.
@@ -26,6 +26,7 @@ updated: 2026-11-03
 - 2026-10-19: νέο «copyright» phishing (Jackson Walker LLP) → «spam» ([[2026-10-19-panagiotisnikas-copyright-spam]])· ίδια μέρα συνάντηση «P. Nikas X AVEK» με Βασιλική και Δήμο ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Απάντηση στην Ιωάννα: πότε βλέπουμε το Nikas Podcast (γύρισμα 7/12) — Δήμος ([[2026-11-04-dianoma-pelates-mikra]])
 - [ ] **Έλεγχος πίστωσης 961,00 € (2026-10-15) και επαναποστολή διορθωμένης καρτέλας** — [[sofia-konstantopoulou]] / Δήμος — ο Νίκας περιμένει από 2026-11-02 13:09 ([[2026-11-02-nikas-kartela-pliromi-15-10]])
 - [ ] Ανέβασμα video LattoGo S (μετά 2026-11-02 16:00, hashtags #OutInLattoGoS κ.ά.) — [[vassiliki-giannopoulou]] — ασαφές αν έγινε ([[2026-11-02-nikas-outin-lattogo-s]])
 - [ ] «Nikas Podcast» — ανάγνωση σήμερα από Βασιλική + Ιωάννα (+ Δήμο, «και οι τρεις μαζί») — 2026-11-02 ([[2026-11-02-admin-eidopoiiseis]])
@@ -56,6 +57,7 @@ updated: 2026-11-03
 - Όλα τα «copyright/DMCA» και «Microsoft 365» emails χαρακτηρίστηκαν spam/phishing — καμία ενέργεια ([[2026-08-21-ninja-tune-copyright-spam-nikas]], [[2026-08-31-nikas-copyright-phishing-scam]], [[2026-09-01-coffeexpert-m365-phishing-check]], [[2026-09-15-barista-academy-copyright-spam]], [[2026-10-19-panagiotisnikas-copyright-spam]]).
 
 ## Χρονολόγιο
+- 2026-11-04 — Ιωάννα: πότε βλέπουμε το podcast· γύρισμα 7/12 ([[2026-11-04-dianoma-pelates-mikra]]).
 - 2026-11-02 — Ο Νίκας αμφισβητεί την καρτέλα (1.829,00 €): πλήρωσε 961,00 € για δύο τιμολόγια 2026-10-15. Η OutIn εγκρίνει το video LattoGo S (launch 16:00). baristacademy.gr: Wordfence ξανά Super Forms 6.3.322 → 6.3.323 (3/11) και connection Easy Appointments ληγμένη ([[2026-11-02-nikas-kartela-pliromi-15-10]], [[2026-11-02-nikas-outin-lattogo-s]], [[2026-11-03-admin-eidopoiiseis]]).
 - 2026-10-31 — Ο Δήμος προώθησε «Nikas Podcast» σε Βασιλική + Ιωάννα: «Προς ανάγνωση την δευτέρα και οι τρεις μαζί»· 2026-10-30 η Βασιλική έστειλε το video LattoGo S στην OutIn ([[2026-11-02-admin-eidopoiiseis]]).
 - 2026-10-27/28 — baristacademy.gr: ξανά Wordfence medium για Super Forms 6.3.322 → 6.3.323 (δεν έγινε update). Ξανά αποτυχία auto-update για WPBakery 6.8.0 → 9.0.1 και Ultimate Addons 3.19.11 → 3.21.6 (CMB2 και Yoast ενημερώθηκαν). Ξανά alert για την Easy Appointments connection, ληγμένη από 2022-12-31 ([[2026-10-28-admin-eidopoiiseis]]).

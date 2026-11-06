@@ -3,7 +3,7 @@ type: client
 title: "TSU Greek Pies and Coffee"
 aliases: [TSU, TSU Pies, TSUPIES, TSU Pies BV, TSU Pies SARL, Grandpas SARL-s, tsupies.com]
 status: ενεργός
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 # TSU Greek Pies and Coffee
 > Αλυσίδα ελληνικής πίτας και καφέ με 3 καταστήματα στο Λουξεμβούργο· ήρθε ως lead τον Αύγουστο 2026 και από τον Σεπτέμβριο έχει τακτικές συναντήσεις με τη GROW, μαζί και «Kick-off call».
@@ -14,7 +14,10 @@ updated: 2026-11-02
 - **Ομάδα GROW:** ο Δήμος· [[vassiliki-giannopoulou]] (αρχικός συντονισμός)· [[ioanna-chalkiadaki]] και [[marina-papanastasiou]] (από Σεπτέμβριο) ([[2026-08-10-tsu-pies-briefing-call]], [[2026-07-20_2026-11-03]]).
 - **Υπηρεσίες:** ασαφές — ο Δήμος πρότεινε briefing για «στόχους και επόμενο στάδιο ανάπτυξης» ([[2026-08-10-tsu-pies-briefing-call]]). Από το Asana: social content (posts, reels, giveaway), Google Business Profile, έντυπα (poster, roll-up) ([[2026-10-21-asana-snapshot]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-06)
+- Στις 2026-11-05 η Vicky έστειλε το υπάρχον packaging· θέλουν πρώτα νέα **χαρτοσακούλα** ([[2026-11-05-tsu-pies-packaging]]).
+
+*Από 2026-10-28:*
 - **Στις 2026-10-28:** στις 2026-10-27 η Βίκη σύστησε με email τη GROW (Μαρίνα, Δήμο) στους [[rahma-addeh]] και [[yousef-ghiami]], partners/ιδιοκτήτες του καταστήματος στο **Leiden** (Ολλανδία), που ετοιμάζουν **δεύτερο κατάστημα στο Amstelveen**· η GROW θα στηρίζει το marketing τους «από εδώ και πέρα». Καμία απάντηση στο thread ακόμα. Ποιο brand (TSU ή Grandpa's) έχει το Leiden και εμπορικοί όροι: ασαφές ([[2026-10-27-tsu-pies-intro-leiden-amstelveen]]).
 - **Στις 2026-10-27:** στις 2026-10-26 η Βίκη ενέκρινε το Halloween reel (ανεβαίνει σε 3 accounts με collab) και πήρε το A3 poster «Grandpa's Halloween» για εκτύπωση. Looxi: αποφασίστηκε refer a friend με **8 σφραγίδες** στον referrer, πίστωση με την **πρώτη αγορά** του φίλου (επιλογή Β)· μένει η απάντηση στον Βασίλη και το κείμενο του birthday push. Το accounting ζήτησε εξόφληση των Invoice_2 και Invoice_3· η Βίκη: «Δεν έχω ξεχάσει το τιμολόγιο σας», αποδεικτικό μόλις πληρώσουν. Ο Κώστας είναι στην Ολλανδία έως 2026-10-28· call για λογότυπο Grandpa's Πέμπτη 2026-10-29 ή Παρασκευή 2026-10-30 ([[2026-10-26-tsu-pies-halloween-looxi-logo]], [[2026-10-26-grandpas-halloween-poster]], [[2026-10-23-tsu-pies-looxi-refer-birthday-update-2026-10-27]], [[2026-10-26-tsu-pies-timologia-accounting]]).
 
@@ -24,6 +27,7 @@ updated: 2026-11-02
 - 💭 Υπόθεση: το «TSUPIES x Grow Kick-off call» της 2026-09-21 δείχνει ότι η συνεργασία ξεκίνησε και η σελίδα ίσως πρέπει να περάσει στους πελάτες — καμία πρόταση/τιμή/αποδοχή δεν φαίνεται στα email ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Πρόταση χαρτοσακούλας — Μαρίνα ([[2026-11-05-tsu-pies-packaging]])
 - [ ] **Meta: απορρίφθηκε η πληρωμή του ad account Tsu Pies — λογαριασμός απενεργοποιημένος, ads σε παύση** (2026-11-02 07:40) — ενημέρωση στοιχείων πληρωμής — Δήμος — σήμερα ([[2026-11-02-admin-eidopoiiseis]])
 - [ ] Πρώτη επαφή/call με Rahma & Yousef (Leiden / Amstelveen): ιδέες και προτεραιότητες — Μαρίνα/Δήμος — από 2026-10-27 ([[2026-10-27-tsu-pies-intro-leiden-amstelveen]])
 - [ ] Να ξεκαθαριστεί εύρος/τιμή για τη δουλειά Leiden/Amstelveen (ξεχωριστή συμφωνία ή μέρος της TSU) — Δήμος — χωρίς ημερομηνία ([[2026-10-27-tsu-pies-intro-leiden-amstelveen]])
@@ -47,6 +51,7 @@ updated: 2026-11-02
 - 2026-08: briefing call μέσω Google Meet στις 16:00 ώρα Ελλάδας (15:00 Λουξεμβούργου), invite από τη Βασιλική ([[2026-08-10-tsu-pies-briefing-call]]).
 
 ## Χρονολόγιο
+- 2026-11-05 — Brief packaging/χαρτοσακούλα ([[2026-11-05-tsu-pies-packaging]]).
 - 2026-11-02 — Meta: απόρριψη πληρωμής, ad account Tsu Pies disabled, ads σε παύση ([[2026-11-02-admin-eidopoiiseis]]).
 - 2026-10-30 — Looxi: ενεργοποιήθηκε το Refer a friend (8 σφραγίδες στον referrer με την πρώτη αγορά του φίλου) ([[2026-10-23-tsu-pies-looxi-refer-birthday-update-2026-11-02]]).
 - 2026-10-30 — Call «Tsupies X Grow» 11:00–12:00 (GROW Agency Calendar, η Βίκη accepted)· 15:05 η Μαρίνα επιβεβαιώνει στη Looxi το refer a friend (8 σφραγίδες, ενεργοποίηση με την 1η αγορά του φίλου) ([[2026-10-30-weekly-report-data]]).

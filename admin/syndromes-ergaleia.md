@@ -3,7 +3,7 @@ type: admin
 title: "Συνδρομές & εργαλεία λογισμικού"
 aliases: [subscriptions, SaaS, εργαλεία, Anthropic, Claude, Apify, Asana, HubSpot, DataForSEO, Scrape Creators, Google Workspace, ActiveCampaign]
 status: ενεργός
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 # Συνδρομές & εργαλεία λογισμικού
 > Τα SaaS που πληρώνει η GROW (AI, scraping, SEO data, project management, CRM, email). Οι αποδείξεις και τα τιμολόγια πάνε στη Βασιλική ή στη Δέσποινα για το λογιστήριο.
@@ -32,6 +32,7 @@ updated: 2026-11-04
 - Στις 2026-10-05 ήταν κλεισμένο demo για το «Revly Automated Review Growth System» της Axel Services, προωθημένο στη Μαρίνα. Αποτέλεσμα ασαφές ([[2026-09-30-revly-axel-services-appointment]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Reconnect Asana MCP connector πριν 17/11 — Δήμος ([[2026-11-06-admin-eidopoiiseis]])
 - [ ] **Meta: πληρωμή απορρίφθηκε για το ad account «adele»** (2026-11-02 15:26–15:29, disabled) — ποιος πελάτης; ενημέρωση τρόπου πληρωμής — Δήμος ([[2026-11-03-admin-eidopoiiseis]])
 - [ ] **Meta / Facebook Ads: πληρωμή απορρίφθηκε για το ad account του [[grandpas]]** (2026-10-26 22:25) — ενημέρωση τρόπου πληρωμής + εξόφληση οφειλής, αλλιώς σταματούν τα ads· ποσό ασαφές — Δήμος ([[2026-10-26-admin-eidopoiiseis]])
 - [ ] Meta: το «product browsing» είναι **ενεργό από 2026-10-28** στα sales ads του business Antemisaris ([[greenmart-antemisaris]]). Το opt-out πριν την ενεργοποίηση δεν έγινε· κρατάμε ή κλείνουμε από Advantage+ creative / Destination — Δήμος ([[2026-10-26-admin-eidopoiiseis]], [[2026-10-28-admin-eidopoiiseis]])
@@ -48,6 +49,7 @@ updated: 2026-11-04
 - —
 
 ## Χρονολόγιο
+- 2026-11-04/05 — 3CX ανανέωση· Asana MCP final notice (17/11)· Apify Scale/220,77 USD· Meta payment declined ([[2026-11-06-admin-eidopoiiseis]]).
 - 2026-11-03 — Nord ανεστάλη (αποτυχημένη χρέωση)· Google OAuth clients carrots-website / wishbone διαγράφονται ~2026-12-03 ([[2026-11-04-admin-eidopoiiseis]]).
 - 2026-11-02 — Meta: ad account «adele» declined/disabled (3 ειδοποιήσεις). Receipts The Dining Society 40 € (22:05 — 💭 η πληρωμή δουλεύει ξανά), Koukos The Bar 45 €, Mama's Restaurant 10,97 €. Google Workspace τιμολόγιο 5728019006 (αυτόματη χρέωση) ([[2026-11-03-admin-eidopoiiseis]]).
 - 2026-11-02 — Meta: απορρίφθηκαν πληρωμές — ad accounts **Tsu Pies** (2/11) και **The Dining Society** (30/10, 31/10) disabled. Receipts NOMUD 38 €, Ermou 18 329,75 €, Dining 8,69 €. Metalease Σ1181 (1/11) + Σ1495 (2/11). Fastpath ticket #836805 έκλεισε αυτόματα ([[2026-11-02-admin-eidopoiiseis]]).

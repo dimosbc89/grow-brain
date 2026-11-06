@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -19,7 +19,10 @@ updated: 2026-11-04
 - **Τρίτοι:** [[biz-courier]] (αποθήκη/3PL, BOX NOW)· [[epsilon-net]] (ERP, τιμολόγηση, myDATA)· Viva και Klarna ως τρόποι πληρωμής στο footer ([[2026-10-08-tandem-review-eshop-developer]]).
 - **Ομάδα GROW:** ο Δήμος (integrations, Epsilon, προϊόντα, κύρια επικοινωνία)· [[despina-velissariou]] και [[vassia-kataki]] (review design/περιεχομένου με τον developer) ([[2026-10-08-tandem-review-eshop-developer]])· η [[despina-velissariou]] έχει και τον οδηγό της συνέντευξης ([[2026-10-19-tandem-interview-questions]])· [[vassiliki-giannopoulou]] σε cc ([[2026-10-08-tandem-review-eshop-developer]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-03)
+## Τρέχουσα κατάσταση (στις 2026-11-06)
+- Bag hangers: εναλλακτική προσφορά Fun Promotion — hook 3,21 €/τμχ, τσάντα CAMPO DE FIORI 4,26 €/τμχ (+ΦΠΑ, 100 τμχ, 15 εργάσιμες)· posts & holiday inspo στάλθηκαν (4/11)· BizCourier IT απάντησε για BIZ LiNK (5/11) ([[2026-11-04-tandem-posts-hangers-bizlink]]).
+
+*Από 2026-11-03:*
 - **Δοκιμαστική παραγγελία e-shop:** η BIZ δεν μπόρεσε να ακυρώσει την test αποστολή SWS49373664 (είχε ήδη συσκευαστεί)· η Caroline ζήτησε επιστροφή 2026-11-02 (το email πήγε στον Δήμο, όχι στη BIZ — ασαφές αν έφτασε). Η BIZ ζητά στο μέλλον ένδειξη «test» στον παραλήπτη και test προϊόν ([[2026-11-02-tandem-bizcourier-cancel-test-order]]).
 - **Price tags / αυτοκόλλητα (Print Kong):** η Δέσποινα ρώτησε 2026-11-02 αν παραδίδουν άμεσα· εξόφληση μετρητά χωρίς τιμολόγιο 385 € (120 + 265) ([[2026-10-20-tandem-price-tags-print-kong-update-2026-11-03]]).
 
@@ -113,6 +116,8 @@ updated: 2026-11-04
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-11-05 — Προσφορά Fun Promotion· απάντηση BizCourier ([[2026-11-04-tandem-posts-hangers-bizlink]]).
+- 2026-11-04 — Posts & inspo ([[2026-11-04-tandem-posts-hangers-bizlink]]).
 - 2026-11-04 — Αίτηση στο Tagora μέσω plugin με 0 προϊόντα ([[2026-11-03-tagora-launch]]).
 - 2026-11-03 — Bag hangers: follow-up Δέσποινας στην Axiom, αναπάντητη από 22/10 ([[2026-09-16-axiom-bag-hangers-tandem-update-2026-11-04]]).
 - 2026-11-02 — 09:15 η BIZ: η test αποστολή SWS49373664 δεν ακυρώνεται, μόνο επιστροφή· η Caroline προωθεί στον Δήμο (12:27) και γράφει «proceed with the return» (15:09, προς Δήμο). 13:22 η Δέσποινα ρωτά την Print Kong για άμεση παράδοση· 385 € μετρητά ([[2026-11-02-tandem-bizcourier-cancel-test-order]], [[2026-10-20-tandem-price-tags-print-kong-update-2026-11-03]]).

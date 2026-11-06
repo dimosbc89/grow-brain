@@ -3,7 +3,7 @@ type: client
 title: "Equipman"
 aliases: [Equipman]
 status: σε αναμονή
-updated: 2026-10-21
+updated: 2026-11-06
 ---
 # Equipman
 > Πελάτης με Asana project χωρίς ουσιαστική κίνηση: ένα ανοιχτό task χωρίς ανάθεση από 2026-07-28.
@@ -24,6 +24,7 @@ updated: 2026-10-21
 - —
 
 ## Χρονολόγιο
+- 2026-11-05 — Καρτέλα: υπόλοιπο 5.675,13 € ([[2026-11-04-dianoma-pelates-mikra]]).
 - 2026-07-28 — Asana: τελευταία κίνηση στο «Game trizzle» ([[2026-10-21-asana-snapshot]]).
 
 ## Οικονομικά
