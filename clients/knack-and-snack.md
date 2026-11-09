@@ -3,7 +3,7 @@ type: client
 title: "Knack & Snack"
 aliases: [Knack, Knack and Snack, Knack & Snack, @knackandsnack, knackandsnack@gmail.com]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 # Knack & Snack
 > Πελάτης εστίασης της GROW για σχεδόν έναν χρόνο (στις 2026-08): Google Ads, social media management και γυρίσματα· από εδώ βγήκε ο κανόνας του Δήμου για τα κείμενα διαφημίσεων.
@@ -52,6 +52,7 @@ updated: 2026-11-03
 - Προτεινόμενη δομή παραδοτέων (2026-08-06, αναμένει αποδοχή): Meta 3–4 posts/εβδ. + 7 Stories/εβδ.· TikTok 3–4 posts/εβδ.· 1–2 επαγγελματικά γυρίσματα/μήνα με τη Σήλια (14–16 προϊοντικά βίντεο + 20–25 φωτογραφίες ανά γύρισμα)· 1–2 γυρίσματα Reels/TikTok/μήνα από GROW ([[2026-08-06-knack-snack-organosi-synergasias]]).
 
 ## Χρονολόγιο
+- 2026-11-06 — «Knack εγκαίνια έκθεσης» 20:00 (GROW Calendar)· 2026-11-10 13:00 «Knack εδώ» ([[2026-11-09-omada-mikra]], [[2026-11-09_2026-11-16]]).
 - 2026-11-02 — Η Βασιλική στέλνει λίστα ανταποδοτικών creators Νοεμβρίου ([[2026-11-02-knack-snack-creators-noemvriou]]).
 - 2026-10-29 — Η Βασιλική έστειλε ανανεωμένη αφίσα 11/11 (12:08) και ξαναρώτησε 16:31· η Σαββούλα δεν απάντησε ακόμα ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-30]]).
 - 2026-10-28 — Η Σαββούλα δίνει διορθώσεις στην αφίσα 11/11 και ζητά τελική + link έως 29/10 ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-29]]).

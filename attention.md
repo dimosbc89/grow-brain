@@ -1,34 +1,34 @@
 ---
 type: attention
 title: "Τι απασχολεί τον Δήμο τώρα"
-updated: 2026-11-06
+updated: 2026-11-09
 ---
-# Attention — 2026-11-06
+# Attention — 2026-11-09
 
 > Τα 5 projects που απασχολούν πραγματικά τον Δήμο, από τα email που έστειλε, τα εισερχόμενα και το ημερολόγιο. Το ξαναγράφει η πρωινή ενημέρωση κάθε μέρα.
 
-## 1. Πωλήσεις & νέα leads — [[pharmacypan]] ✓, [[venture-travel-quick-park]], [[eza-zythopoiia]], Enersys, Elmon, Κριματόγλου
-- **Κατάσταση:** ο Πάρης **αποδέχτηκε** landing + Google Ads (4/11) και ρωτά πώς θα βλέπει τα leads ([[2026-11-04-pharmacypan-apodoxi-akoustika]]). Ο Δήμος έστειλε προσφορά στον Χρήστο Μπακογιάννη (Venture Travel / Quick Park, 5/11) ([[2026-11-05-venture-travel-quick-park-prosfora]]). Η ΕΖΑ έστειλε «LOCAL MICROBREWERIES» χωρίς περιεχόμενο — ο Δήμος ρώτησε τι αφορά ([[2026-11-05-eza-local-microbreweries]]). Νέα ραντεβού: Enersys 6/11 13:00, Ράλλης (περίπτερο) 9/11, Elmon SA 10/11 11:00, Κριματόγλου «SOS» 10/11 17:00 ([[2026-11-06_2026-11-13]]). Domino's: η συνάντηση 5/11 έγινε ✓.
-- **Επόμενο βήμα (Δήμος):** απάντηση στον Πάρη για τα leads · Enersys σήμερα · DETURBO από 18/09.
+## 1. Hosting / [[fastpath]] + [[hotelbrain]] — επείγον
+- **Κατάσταση:** η FASTPATH έστειλε 2026-11-08 07:01 **ειδοποίηση διακοπής υπηρεσίας** για το #61293 (Νοέμβριος, 507,78 €, «εντός 24 ωρών»). Στις 8/11 09:27 πληρώθηκε το **#59965 (Οκτώβριος)** — το #61293 δεν φαίνεται εξοφλημένο ([[2026-11-09-admin-eidopoiiseis]]). Στο HotelBrain ο Dimitris Giannis ζητά για τελικό ΟΚ στη μεταφορά: **DDoS always-on** (π.χ. Cloudflare), **καθημερινό offsite backup**, επιβεβαίωση **isolation** (CageFS) ([[2026-11-03-hotelbrain-new-server-update-2026-11-09]]). Παρουσίαση design HotelBrain «Πέμπτη» (💭 12/11).
+- **Επόμενο βήμα (Δήμος):** έλεγχος/πληρωμή #61293 σήμερα · απάντηση στα 3 σημεία HotelBrain.
 
-## 2. [[danaos]] + [[tagora]]
-- **Κατάσταση:** η Μαρία Κοκκινοπούλου ζητά **report Οκτωβρίου, ραντεβού και πλάνο Black Friday / Cyber Monday** (4/11, αναπάντητο) ([[2026-11-04-danaos-report-oktovriou]]). Στο Tagora μπήκε με feed 6.280 προϊόντων, αλλά **ο συγχρονισμός απέτυχε 4/11 και 5/11**· NOMUD και Tandem με 0 προϊόντα ([[2026-11-03-tagora-launch-update-2026-11-06]]).
-- **Επόμενο βήμα (Δήμος):** report + ραντεβού Danaos · διόρθωση sync/plugin.
+## 2. Πωλήσεις & νέα leads — Elmon, Κριματόγλου, Ράλλης, Anavalos, [[venture-travel-quick-park]], [[eza-zythopoiia]]
+- **Κατάσταση:** σήμερα Ράλλης (περίπτερο) 12:00 εδώ και Anavalos 15:00 εκεί· αύριο Elmon SA 11:00 (Meet) και Κριματόγλου 17:00 ([[2026-11-09_2026-11-16]]). Venture Travel / ΕΖΑ: καμία απάντηση στο παράθυρο. [[pharmacypan]]: ο Πάρης περιμένει πώς θα βλέπει τα leads (από 4/11).
+- **Επόμενο βήμα (Δήμος):** προετοιμασία Elmon/Κριματόγλου · απάντηση Πάρη.
 
-## 3. [[global-foods]] — η Ελπίδα περιμένει
-- **Κατάσταση:** τηλέφωνο που ζήτησε 3/11 — δεν φαίνεται να έγινε· 4/11 ζητούν **νέο reel ~30''** με πιο αργές εναλλαγές ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-06]]). Carousel posts για έγκριση (Δέσποινα, 5/11). Ανοιχτά από πριν: πλάνο καμπανιών (21/10), Global App (2024), Carozzi.
-- **Επόμενο βήμα (Δήμος):** τηλέφωνο Ελπίδα + reel 30''.
+## 3. [[greenmart-antemisaris]] — έντυπα έως 19/11 + XENIA 21–23/11
+- **Κατάσταση:** 6/11 η Ιωάννα έστειλε για τελικό οκ παρουσίαση 28 σελ. (1.000: 2.900 € / 2.000: 4.200 € / 5.000: 7.900 €) και τρίπτυχο (2.500: 400 € / 5.000: 490 €)· ρωτά ποσότητες και αγγλική έκδοση. Η Βάσια ζήτησε από Epilogi παράδοση **έως 19/11** ([[2026-11-06-antemisaris-parousiasi-tryptyxo-egkrisi]], [[2026-09-25-antemisaris-entypo-prosfora-epilogi]]). XMAS posts από σήμερα. 9/11 η Ιωάννα ζήτησε από XENIA link εκθέτη + στοιχεία Xenia Web App ([[2026-11-09-antemisaris-xenia-katachorisi]]).
+- **Επόμενο βήμα:** έγκριση πελάτη (πίεση για χρόνο εκτύπωσης) · έγγραφα XENIA.
 
-## 4. Εκθέσεις & παραγωγές — Plastica τώρα, XENIA 21–23/11, γυρίσματα
-- **Κατάσταση:** [[argyroplastics]] στην Plastica 6–9/11· 5/11 βράδυ η Μαρίνα έστειλε στην Epilogi mock up καλουπιού + εκτυπωτικά που έλειπαν ([[2026-11-05-argyroplastics-mockup-kaloupi]]). [[greenmart-antemisaris]]: ΥΔ Ζάχου ✓ → Expowork, λείπουν «τα υπόλοιπα έγγραφα»· XMAS posts από 9/11· τρίπτυχα Α3 έως 12/11 ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa]]). [[yiayia-meatballs]] street activation **Σάββατο 7/11** · [[overoll]] γύρισμα **9/11** · Κρεοπωλείο Ρέντη 10/11.
-- **Επόμενο βήμα (Δήμος):** έλεγχος Plastica · έγγραφα XENIA.
+## 4. [[danaos]] + [[tagora]]
+- **Κατάσταση:** ο sync Danaos Stores απέτυχε ξανά 6, 7 και 8/11 ([[2026-11-09-admin-eidopoiiseis]]). Η Μαρία Κοκκινοπούλου περιμένει **report Οκτωβρίου, ραντεβού και πλάνο BF/CM** από 4/11 ([[2026-11-04-danaos-report-oktovriou]]).
+- **Επόμενο βήμα (Δήμος):** διόρθωση sync · report + ραντεβού Danaos πριν τη Black Friday.
 
-## 5. Υποσχέσεις σε ομάδα & admin
-- **Κατάσταση:** [[hotelbrain]]: υποσχέθηκες **παρουσίαση design την Πέμπτη** (💭 12/11) και ρώτησες για τη μεταφορά server ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-06]]). Brief [[nomud]]/[[danaos]] στον [[nikos-moulinos]] (από 21/10). [[yiayia-meatballs]] ΔΤ (Asana 23/10). Η Βασιλική θέλει άποψη στο Asana «marathon creatives» · η Ιωάννα ρωτά πότε βλέπουμε το Nikas Podcast. Admin: **[[grow-360-ltd]] — Companies House Auth Code** + ληξιπρόθεσμα P-388148/9 · METALEASE Σ1181 51,11 € (στη Βασιλική) · Asana MCP reconnect πριν 17/11 · Fastpath ~8/11 · Revolut 9/11 · YCF 10/11 · Meta payment declined.
-- **Επόμενο βήμα (Δήμος):** auth code UK · design HotelBrain · brief Νίκου.
+## 5. Πελάτες που περιμένουν έγκριση/απάντηση — [[global-foods]], [[yiayia-meatballs]], [[tandem-concept]]
+- **Κατάσταση:** Global Foods: **SOS 9/11 — πιο έντονη παρουσίαση στο italia.gr** (Ιταλικό Επιμελητήριο) ([[2026-11-09-globalfoods-sos-italiko-epimelitirio]])· «Kind reminder» 6/11 για το ύφος κειμένων Tips· τηλέφωνο Ελπίδας & reel 30'' ακόμα ανοιχτά ([[2026-10-09-globalfoods-tips-site-update-2026-11-09]]). Yiayia: η Βασιλική κυνηγά έγκριση take away menus + βίντεο Ραφαήλ ([[2026-11-03-yiayia-take-away-menu-update-2026-11-09]]). Tandem: Fun Promotion — hangers με σμάλτο 4,30 €/τμχ, ζητήθηκε προτιμολόγιο (9/11)· ο George έστειλε αντίγραφο πληρωμής ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-09]]). Brief [[nomud]]/[[danaos]] στον [[nikos-moulinos]] (από 21/10).
+- **Επόμενο βήμα (Δήμος):** τηλέφωνο Ελπίδα · brief Νίκου.
 
 ## Στο ραντάρ
-- **Σήμερα:** Βάσια Σ. off · Enersys 13:00 · Divino 14:00 · Chef Georgiadis 16:00 · τιμολόγιο Καραμπάτσου (ΕΟΤ) το πρωί · πανό Κραψίτες 120×400 (υπόσχεση Βάσιας Σ. για σήμερα, αλλά είναι off).
-- **[[tandem-concept]]:** Fun Promotion hangers 3,21 € / τσάντα 4,26 € · BIZ LiNK απάντηση · BOX NOW.
-- **[[tsu-pies]]:** brief για νέα χαρτοσακούλα.
-- **Ασφάλεια sites:** WordPress core RCE — ενημέρωση σε 7.1.4· Wordfence alerts σε ~12 sites.
+- **Σήμερα:** shooting [[overoll]] 07:00 · Golf (Δήμος-Δέσποινα-Μαρίνα) 13:00 · Asana «google ads» [[circle-of-dining]] λήγει σήμερα · Revolut GRGL-4/5.
+- **Admin:** [[grow-360-ltd]] Companies House Auth Code + P-388148/9 · YCF 10/11 · Meta split payments (888904452439735) · lucaffe.gr λήξη · Asana MCP reconnect έως 17/11.
+- **TikTok ([[marilena-rentzou]]):** θέλει Lark ή WhatsApp.
+- **Ασφάλεια:** νέα OAuth Supabase στο GitHub (8/11 23:36) και νέο iPhone sign-in Google (8/11 23:19) — αν ήσουν εσύ, οκ.

@@ -3,7 +3,7 @@ type: client
 title: "Chaonic"
 aliases: [CHAONIC, Gatita Maldita, gatitamaldita2026@gmail.com]
 status: ενεργός
-updated: 2026-11-04
+updated: 2026-11-09
 ---
 # Chaonic
 > Νέο fashion/street brand· η GROW σχεδίασε το λογότυπο και το visual identity με concept «CHAOS, BUT ICONIC.».
@@ -32,6 +32,7 @@ updated: 2026-11-04
 - 2026-08-13 (brief): δυνατό wordmark χωρίς icon· minimal, bold, fashion/street, premium, «ελεγχόμενο χάος»· όχι graffiti/gaming/heavy metal/generic streetwear· references Daily Paper, Dua Lipa, Kendrick Lamar (για στάση, όχι αντιγραφή)· «Don't over-design it.»· πρώτη παρουσίαση με 3 πραγματικά διαφορετικά routes, το καθένα με primary wordmark, secondary version, typography, color direction, rationale και mockups (signage, bag/packaging, clothing/tag, Instagram) ([[2026-08-13-chaonic-logo-brief]]).
 
 ## Χρονολόγιο
+- 2026-11-06 — Laurine: WeTransfer «Link for Chaonic»· ο Δήμος έστειλε το «WE ARE CHAONIC» manifesto στο gatitamaldita2026@gmail.com (ποιος είναι: ασαφές) ([[2026-11-09-omada-mikra]]).
 - 2026-11-03 — Η Laurine ζητά feedback στη σελ. 15 (launch campaign) ([[2026-11-03-chaonic-launch-campaign]]).
 - 2026-11-02 — 11:42 η Μαριάννα στέλνει «Chaonic Elements»· 11:47 ο Δήμος: Laurine + Δέσποινα στις 13:30 για «new small designer brand»· 18:25 η πελάτισσα επιστρέφει τα eshop data· 18:39 ο Δήμος τα προωθεί στη Laurine και τη Δέσποινα ([[2026-11-02-chaonic-elements]], [[2026-11-02-chaonic-eshop-data]]).
 - 2026-10-30 — 16:32 ο Δήμος στέλνει «Eshop Data» (WooCommerce_Product_Input.xlsx) στην πελάτισσα ([[2026-11-02-chaonic-eshop-data]]).

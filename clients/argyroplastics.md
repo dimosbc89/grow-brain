@@ -3,7 +3,7 @@ type: client
 title: "Argyroplastics"
 aliases: [ArgyrΩplastics, Υιοί Ιωάννη Γαβαλά Ο.Ε., Yioi Ioanni Gavala O.E., argyroplastics.gr, Plastica 2026]
 status: ενεργός
-updated: 2026-11-06
+updated: 2026-11-09
 ---
 # Argyroplastics
 > Εταιρεία πλαστικών (Υιοί Ιωάννη Γαβαλά Ο.Ε.)· η GROW συντηρεί το website argyroplastics.gr και κάνει το εκθεσιακό περίπτερο για την Plastica 2026, με υπογεγραμμένη συμφωνία.
@@ -81,6 +81,8 @@ updated: 2026-11-06
 - Τα τελικά μηνύματα/γραφικά τοίχων τα δίνει ξεχωριστά ο πελάτης ([[2026-10-20-argyroplastics-plastica-2026]]).
 
 ## Χρονολόγιο
+- 2026-11-09 — Το λογιστήριο GROW έστειλε τιμολόγιο εξοφλήσεων κατασκευαστικών + agency fee ([[2026-11-09-admin-eidopoiiseis]]).
+- 2026-11-07 — Η Μαρίνα ζήτησε από τον Μποτσαρη τιμολόγιο για να γίνει η κατάθεση για την οθόνη ([[2026-10-20-enoikiasi-othonon-botsaris-update-2026-11-09]]).
 - 2026-11-05 — Mock up καλουπιού + εκτυπωτικά στην Epilogi ([[2026-11-05-argyroplastics-mockup-kaloupi]]).
 - 2026-11-03 — Νέα εκτυπωτικά ρεσεψιόν στην Epilogi (όλα με αυτοκόλλητο, χωρίς βάψιμο)· η Μαρίνα έστειλε στην Expowork την Υπ. Δήλωση Εκθέτη/Κατασκευαστή — **λείπει η δήλωση ηλεκτρολόγου** ([[2026-11-02-argyroplastics-ektypotika-arxeia-update-2026-11-04]], [[2026-11-02-expowork-d17-ypeuthynes-diloseis-update-2026-11-04]]).
 - 2026-11-02 — 09:13 η Μαρίνα στέλνει έγγραφα ανάρτησης/rigging για υπογραφή· 12:02 ο Χρήστος εγκρίνει γραφιστικά (καλούπι ~1,50–1,60 m, μπροστινό τοιχείο → βιτρίνα 1,15 m)· 12:18/13:44 η Βάσια στέλνει κάτοψη με μέτρα και εκτυπωτικά στην Epilogi· 12:23 υπογραφές πελάτη· 13:23 απόδειξη κατάθεσης συνόλου προς Expowork· 13:09–13:54 η Expowork δέχεται κατ' εξαίρεση την ανάρτηση· 13:53 Expowork: ρεύμα/ανάρτηση/εξόφληση καταχωρήθηκαν, μένουν Υπ. Δηλώσεις· 13:35/15:11 οθόνη 75'' επιβεβαιώθηκε, στήσιμο 2026-11-05· 14:12 η Μαρίνα προωθεί στον Δήμο τις προδιαγραφές κατασκευής (email 2026-10-21 προς Epilogi)· 15:22 ο πελάτης υπογράφει δήλωση εκθέτη-κατασκευαστή ([[2026-11-02-argyroplastics-eggrafa-ypografi]], [[2026-10-30-argyroplastics-lektika-periptero-update-2026-11-03]], [[2026-11-02-argyroplastics-katopsi-me-metra]], [[2026-11-02-argyroplastics-ektypotika-arxeia]], [[2026-10-20-expowork-argyroplastics-d17-update-2026-11-03]], [[2026-11-02-expowork-d17-ypeuthynes-diloseis]], [[2026-10-20-enoikiasi-othonon-botsaris-update-2026-11-03]], [[2026-10-20-plastica-prosfora-kataskevasti-update-2026-11-03]]).

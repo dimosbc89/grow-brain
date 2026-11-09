@@ -3,7 +3,7 @@ type: person
 title: "Μαριλένα Ρέντζου (Marilena Rentzou)"
 aliases: [Marilena Rentzou, Μαριλένα, marilena.rentzou@tiktok.com]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 # Μαριλένα Ρέντζου
 > Agency Operations Manager στο TikTok LIVE· πρότεινε στη GROW να γίνει TikTok LIVE Agency ([[grow-outreach]]).
@@ -20,6 +20,7 @@ updated: 2026-11-03
 - [ ] Απάντηση / νέο ραντεβού onboarding — Δήμος — από 2026-11-02 16:07 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-11-03]])
 
 ## Χρονολόγιο
+- 2026-11-06 — Ζητά επικοινωνία μέσω Lark ή WhatsApp ([[2026-11-09-omada-mikra]]).
 - 2026-11-02 — Συνδέεται στο call και ρωτά αν ισχύει ([[2026-10-19-tiktok-live-agency-protasi-update-2026-11-03]]).
 - 2026-10-30 — Ο Δήμος: «θέλουμε να ξεκινήσουμε»· κλείνει call 2026-11-02 16:00 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-30]]).
 - 2026-10-26 — Follow-up: εξέτασε ο Δήμος την πρόταση; ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-27]]).

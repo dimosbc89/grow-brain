@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-06
+updated: 2026-11-09
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -35,6 +35,8 @@ updated: 2026-11-06
 - Στο ημερολόγιο: «Πρεσβεία Global - Despina» 2026-10-22 16:00 — 💭 Υπόθεση: αφορά τη Global Foods, ασαφές ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] SOS: πιο έντονη παρουσίαση στο italia.gr — GROW (Δήμος/Δέσποινα/Μαρίνα) — από 2026-11-09 ([[2026-11-09-globalfoods-sos-italiko-epimelitirio]])
+- [ ] Feedback στο ύφος κειμένων Tips — [[despina-velissariou]]/[[marina-papanastasiou]] — από 2026-11-02, υπενθύμιση 2026-11-06 ([[2026-10-09-globalfoods-tips-site-update-2026-11-09]])
 - [ ] Reel Πρεσβείας ~30'' — Δήμος ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-06]])
 - [ ] **Τηλέφωνο στην Ελπίδα** για το reel Πρεσβείας (λιγότερα πρόσωπα, πιάτα/προϊόντα, όνομα event) — Δήμος — από 2026-11-03 18:20 ([[2026-11-03-globalfoods-italiki-presveia-reel]])
 - [ ] Κλείσιμο «παλιών εκκρεμοτήτων» που ζητά η Ελπίδα — Δήμος / Δέσποινα — από 2026-11-03 ([[2026-11-03-globalfoods-custom-folder]])
@@ -103,6 +105,8 @@ updated: 2026-11-06
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-11-09 — «SOS» Ελπίδα: πιο έντονη παρουσίαση στη σελίδα italia.gr (Ιταλικό Επιμελητήριο), «παρακάτω είναι και η italfood» ([[2026-11-09-globalfoods-sos-italiko-epimelitirio]]).
+- 2026-11-06 — «Kind reminder» από Εύη: είναι οκ το ύφος των κειμένων Tips (από 2/11); αναπάντητο ([[2026-10-09-globalfoods-tips-site-update-2026-11-09]]).
 - 2026-11-05 — Carousel posts για έγκριση ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-06]]).
 - 2026-11-04 — Αίτημα για reel 30'' ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-06]]).
 - 2026-11-03 — Παραδόθηκαν videos Detroit Pizza (Unique) και Ιταλικής Πρεσβείας· η Ελπίδα ενστάσεις για το reel Πρεσβείας (γρήγορο, πρόσωπα)· **ο Δήμος απάντησε** ότι ο ρυθμός είναι σωστός· η Ελπίδα ζητά **τηλέφωνο** ([[2026-11-03-globalfoods-italiki-presveia-reel]], [[2026-11-03-globalfoods-detroit-pizza-video]]).

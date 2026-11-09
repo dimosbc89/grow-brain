@@ -3,7 +3,7 @@ type: client
 title: "Υιάγια (Yiayia Meatballs)"
 aliases: [Υιάγια, Yiayia, Yiayia Meatballs, Υιάγια Home of Meatballs, Γιάγια, yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-11-06
+updated: 2026-11-09
 ---
 # Υιάγια (Yiayia Meatballs)
 > Εστιατόριο με κεφτεδάκια («Home of Meatballs») της [[maria-drouza]]· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influencers, μενού, packaging και γυρίσματα.
@@ -99,6 +99,7 @@ updated: 2026-11-06
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- 2026-11-06 — Η Βασιλική υπενθύμισε έγκριση take away menus (pasta) και έστειλε ανανεωμένο βίντεο Ραφαήλ (ΤέλοςΠάγγων)· αναπάντητα από Μαρία Δρούζα ([[2026-11-03-yiayia-take-away-menu-update-2026-11-09]], [[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-09]]).
 - 2026-11-05 — Απόφαση Pantone ([[2026-11-04-yiayia-pantone-street-activation]]).
 - 2026-11-04 — Χρωματικές συγκρίσεις· concepts street activation ([[2026-11-04-yiayia-pantone-street-activation]]).
 - 2026-11-03 — NAK: μακέτα χάρτινης τσάντας 28x17x29 για έγκριση· η Βασιλική «είδες αυτό;» για τα Pantone U της χαρτοπετσέτας· take away menus με pasta για έγκριση ([[2026-11-03-yiayia-xartini-tsanta]], [[2026-10-29-yiayia-xartopetseta-maketa-update-2026-11-04]], [[2026-11-03-yiayia-take-away-menu]]).

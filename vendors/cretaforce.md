@@ -3,7 +3,7 @@ type: vendor
 title: "CretaForce"
 aliases: [Cretaforce, cretaforce.gr]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-11-09
 ---
 # CretaForce
 > Registrar και πάροχος domains/hosting. Εκεί η GROW κρατά domains πελατών, όπως το pharmacypan.gr και το argyroplastics.gr.
@@ -28,6 +28,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-11-08 — ΤΠΥ 24311, 30,00 € ([[2026-11-09-admin-eidopoiiseis]]).
 - 2026-10-14 — Τηλεφώνησαν στην Cretaforce εκ μέρους του ιδιοκτήτη του argyroplastics.gr. Επειδή το domain το διαχειρίζεται η GROW, ζητούν να επικοινωνήσει ο Δήμος → Μαρίνα ([[2026-10-14-cretaforce-domain-argyroplastics]]).
 - 2026-09-07 — Ειδοποίηση ανανέωσης του pharmacypan.gr για 2 έτη (λήξη 2026-09-14) → Μαρίνα/Βασιλική, «Τιμολόγιο Πανόπουλος» ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]]).
 
