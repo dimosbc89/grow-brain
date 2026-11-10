@@ -3,7 +3,7 @@ type: client
 title: "Φαρμακείο Πανόπουλος Αχαρνές (pharmacypan.gr)"
 aliases: [PharmacyPan, pharmacypan.gr, Φαρμακείο Πανόπουλος, Πανόπουλος, Pharmacy Panopoulos, ΠΑΝΟΠΟΥΛΟΣ ΑΚΟΥΣΤΙΚΑ]
 status: ενεργός
-updated: 2026-11-06
+updated: 2026-11-10
 ---
 # Φαρμακείο Πανόπουλος Αχαρνές (pharmacypan.gr)
 > Φαρμακείο στις Αχαρνές του [[paris-panopoulos]]· η GROW κρατά domain/email του pharmacypan.gr, γράφει άρθρα για το site και κάνει γυρίσματα.
@@ -28,6 +28,7 @@ updated: 2026-11-06
 - Στο ημερολόγιο υπάρχει «γύρισμα Πανόπουλος σπίτια» 2026-10-23· ασαφές αν αφορά τον ίδιο πελάτη ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Εξήγηση στη Βασιλική τι ζητά ο Πάρης (απάντηση 4/11) — Δήμος — από 2026-11-09 ([[2026-11-03-pharmacypan-prosfora-landing-ads-update-2026-11-10]])
 - [ ] Απάντηση στον Πάρη: πώς βλέπει τα leads + έναρξη landing/Ads ([[2026-11-04-pharmacypan-apodoxi-akoustika]])
 - [ ] Feedback στο τρίπτυχο φυλλάδιο ακουστικών — [[paris-panopoulos]] — από 2026-11-02 ([[2026-11-02-pharmacypan-flyer-akoustika]])
 - [ ] Εξόφληση υπολοίπου 1.829,00 € — Πανόπουλος — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
@@ -48,6 +49,7 @@ updated: 2026-11-06
 - 2026-08-07 — Το email «Webmail Revalidation» για το axarnes@pharmacypan.gr είναι phishing/spam· καμία ενέργεια ([[2026-08-07-pharmacypan-phishing-spam]]).
 
 ## Χρονολόγιο
+- 2026-11-09 — Η Βασιλική ρωτά τον Δήμο «τι εννοεί» ο Πάρης στην απάντηση της 4/11 ([[2026-11-03-pharmacypan-prosfora-landing-ads-update-2026-11-10]]).
 - 2026-11-04 — Αποδοχή προσφοράς landing + Google Ads· τιμολόγιο ([[2026-11-04-pharmacypan-apodoxi-akoustika]]).
 - 2026-11-03 — Εκτυπωτικά τρίπτυχου + παρουσίασης στάλθηκαν· προσφορά landing page + Google Ads για τα ακουστικά ([[2026-11-03-pharmacypan-prosfora-landing-ads]]).
 - 2026-11-02 — Δημιουργικό τρίπτυχου φυλλαδίου ακουστικών προς Πάρι για έλεγχο. ⚠️ Το υπόλοιπο 1.829,00 € της καρτέλας του (2026-10-27) εμφανίστηκε και στην καρτέλα του [[nikas-coffee-expert]] 2026-11-02 ([[2026-11-02-pharmacypan-flyer-akoustika]], [[2026-11-02-nikas-kartela-pliromi-15-10]]).

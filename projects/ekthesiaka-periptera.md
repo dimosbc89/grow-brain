@@ -3,7 +3,7 @@ type: project
 title: "Εκθεσιακά περίπτερα (booth design & build)"
 aliases: [εκθεσιακά περίπτερα, περίπτερα, booths, expo design & build, expo booths]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 # Εκθεσιακά περίπτερα
 > Γραμμή υπηρεσιών της GROW για σχεδιασμό και κατασκευή custom εκθεσιακών περιπτέρων, μαζί με περιφερειακές υπηρεσίες. Εδώ συγκεντρώνονται όλοι οι πελάτες και τα leads περιπτέρων.
@@ -63,6 +63,7 @@ updated: 2026-11-03
 - Πρώτα στέλνουμε δημιουργικό πλαίσιο (κάτοψη, φωτορεαλιστικό, activations) και αναλυτική κοστολόγηση μετά το feedback (GameStuff, 2026-09-07) ([[2026-09-07-gamestuff-fantasy-festival-booth]]).
 
 ## Χρονολόγιο
+- 2026-11-09 — Το «Ράλλης (περίπτερο) εδώ» μεταφέρθηκε στις 2026-11-10 14:00 ([[2026-11-10_2026-11-17]]).
 - 2026-11-02 — Plastica: έγκριση γραφιστικών, εκτυπωτικά στην Epilogi, Expowork καταχώρησε ρεύμα/ανάρτηση/εξόφληση, οθόνη 75'' επιβεβαιώθηκε. XENIA: προσφορά GROW 19.000 € προς έγκριση στους ιδιοκτήτες ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]], [[2026-11-02-argyroplastics-ektypotika-arxeia]], [[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]]).
 - 2026-10-30 — XENIA ([[greenmart-antemisaris]]): θετικά σχόλια Antemisaris στην κάτοψη/προσφορά· γκαζόν απλή καμπύλη, τοίχος με λογότυπα στην πλάτη ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-02]]).
 - 2026-10-29 — XENIA/Antemisaris: προσφορά Expopiece, αναμένει υπογραφή + προκαταβολή. Η Μαρίνα δοκίμασε τη φόρμα «Εκθεσιακό περίπτερο» του site (auto-reply) ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-30]], [[2026-10-30-admin-eidopoiiseis]]).

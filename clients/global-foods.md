@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -35,6 +35,7 @@ updated: 2026-11-09
 - Στο ημερολόγιο: «Πρεσβεία Global - Despina» 2026-10-22 16:00 — 💭 Υπόθεση: αφορά τη Global Foods, ασαφές ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] **Απάντηση στην Ελπίδα: γύρισμα ταρτάκια Τετάρτη 2026-11-11 10:00;** — Δήμος — έως 2026-11-10 ([[2026-11-09-globalfoods-tartakia-tetarti]])
 - [ ] SOS: πιο έντονη παρουσίαση στο italia.gr — GROW (Δήμος/Δέσποινα/Μαρίνα) — από 2026-11-09 ([[2026-11-09-globalfoods-sos-italiko-epimelitirio]])
 - [ ] Feedback στο ύφος κειμένων Tips — [[despina-velissariou]]/[[marina-papanastasiou]] — από 2026-11-02, υπενθύμιση 2026-11-06 ([[2026-10-09-globalfoods-tips-site-update-2026-11-09]])
 - [ ] Reel Πρεσβείας ~30'' — Δήμος ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-06]])
@@ -105,6 +106,7 @@ updated: 2026-11-09
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-11-09 22:22 — Η Ελπίδα: Τετάρτη 2026-11-11 10:00 Ισπανοί προμηθευτές δείχνουν ταρτάκια/συνταγές στους πωλητές — ρωτά αν να τραβήξουμε πλάνα ([[2026-11-09-globalfoods-tartakia-tetarti]]).
 - 2026-11-09 — «SOS» Ελπίδα: πιο έντονη παρουσίαση στη σελίδα italia.gr (Ιταλικό Επιμελητήριο), «παρακάτω είναι και η italfood» ([[2026-11-09-globalfoods-sos-italiko-epimelitirio]]).
 - 2026-11-06 — «Kind reminder» από Εύη: είναι οκ το ύφος των κειμένων Tips (από 2/11); αναπάντητο ([[2026-10-09-globalfoods-tips-site-update-2026-11-09]]).
 - 2026-11-05 — Carousel posts για έγκριση ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-06]]).

@@ -3,7 +3,7 @@ type: client
 title: "Interoptics S.A."
 aliases: [Interoptics, interoptics.com.gr]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-11-10
 ---
 # Interoptics S.A.
 > Πελάτης της GROW για εταιρικό υλικό: η GROW είχε φτιάξει τα δύο εταιρικά φυλλάδιά της και τώρα παράγει σύντομο εταιρικό βίντεο για προβολή σε συνέδρια (250 €).
@@ -35,6 +35,7 @@ updated: 2026-10-21
 - ⚠️ Αντίφαση: για τη γραμματοσειρά η πελάτισσα είπε ότι το πρώτο screenshot (A.Bold) είναι πιο ευδιάκριτο, αλλά η Δέσποινα απάντησε «προχωράμε με το επισυναπτόμενο» επισυνάπτοντας το B.Changed· ασαφές ποιο κρατήθηκε ([[2026-10-19-interoptics-etairiko-video-synedria]]).
 
 ## Χρονολόγιο
+- 2026-11-09 — Η Δέσποινα έστειλε το τιμολόγιο του εταιρικού video ([[2026-10-19-interoptics-etairiko-video-synedria-update-2026-11-10]]).
 - 2026-10-21 — Asana: το task «Interoptics video» (δημιουργήθηκε 2026-09-16, due 2026-10-16) μένει ανοιχτό, ανατεθειμένο στη [[vassia-kataki]] ([[2026-10-21-asana-snapshot]]).
 - 2026-10-19 — Νέα εκδοχή με τις διορθώσεις ([[2026-10-19-interoptics-etairiko-video-synedria]]).
 - 2026-10-14 — Τελικές παρατηρήσεις πελάτισσας (βλ. Αποφάσεις) ([[2026-10-19-interoptics-etairiko-video-synedria]]).

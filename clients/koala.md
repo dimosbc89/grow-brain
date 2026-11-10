@@ -3,7 +3,7 @@ type: client
 title: "Koala"
 aliases: [koala, Koala, koala ads]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-11-10
 ---
 # Koala
 > Πελάτης (💭 Υπόθεση: καφέ, από τα tasks «coffee day», «coffee AI») για τον οποίο η GROW κάνει social, giveaways, Google Ads και promoters· όλα τα τρέχει η Ιωάννα.
@@ -25,6 +25,7 @@ updated: 2026-10-21
 - —
 
 ## Χρονολόγιο
+- 2026-11-09 — Ο Δήμος έστειλε σε Βασιλική & Ιωάννα PDF «Koala Club — πώς δουλεύει η εφαρμογή» (💭 εφαρμογή loyalty) ([[2026-11-09-koala-app-pdf]]).
 - 2026-10-07 — Asana: ✓ «coffee AI», «fast reel», «κλήρωση διαγωνισμού» ([[2026-10-21-asana-snapshot]]).
 - 2026-10-02 — Asana (ΛΟΓΙΣΤΗΡΙΟ): ✓ «πληρωμή koala promoters» ([[2026-10-21-asana-snapshot]]).
 - 2026-09-30 — Asana: ✓ «coffee day giveaway»· «Koala μικρό γύρισμα» 10:00 ([[2026-10-21-asana-snapshot]], [[2026-07-20_2026-11-03]]).

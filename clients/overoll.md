@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -40,6 +40,7 @@ updated: 2026-11-09
 - Ο Δήμος ζήτησε διαθεσιμότητες για call στις 2026-10-14· ημερομηνία call δεν υπάρχει στο ημερολόγιο ([[2026-10-14-overoll-websites-domains]], [[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Overoll να περάσει 5 εγγραφές DNS (loyalty, admin.loyalty, resend DKIM, rsend, send) στο Papaki → ο Δήμος κάνει έλεγχο — Overoll / Δήμος — εντός εβδομάδας 2026-11-09 ([[2026-11-09-overoll-dns-loyalty-club]])
 - [ ] Αναθεώρηση Panettone με ροζ φόντο + αρχείο εκτύπωσης — Βασιλική ([[2026-10-21-overoll-panettone-packaging-update-2026-11-04]])
 - [ ] Πληρωμή τιμολογίων μπαλονιών Αττικής (9 τμχ) και DJ Γλυφάδας — Overoll — από 2026-11-02 ([[2026-11-02-overoll-timologia-mpalonia-attiki]], [[2026-11-02-overoll-timologio-dj-glyfada]])
 - [ ] Εξόφληση υπολοίπου καρτέλας 5.312,80 € (με τιμολόγιο Νοεμβρίου) — Overoll — από 2026-11-02 ([[2026-11-03-admin-eidopoiiseis]])
@@ -83,6 +84,7 @@ updated: 2026-11-09
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-11-09 — Ο Δήμος ζήτησε από Overoll (marketing@ + Κίκιρα) 5 εγγραφές DNS στο overoll.gr (Papaki) για το **Overoll Club** (loyalty.overoll.gr σε Cloudflare Pages, admin.loyalty, αποστολή από app@overoll.gr μέσω Resend) «μέσα στην εβδομάδα» ([[2026-11-09-overoll-dns-loyalty-club]]).
 - 2026-11-06 — Η Βασιλική έστειλε τα ενδοκοινοτικά τιμολόγια Οκτωβρίου ([[2026-11-09-omada-mikra]])· 2026-11-09 07:00 shooting overoll (GROW Calendar) ([[2026-11-09_2026-11-16]]).
 - 2026-11-05 — Panettone v3, επιβεβαίωση γυρίσματος 9/11, social accounts ([[2026-11-04-overoll-gyrisma-social-panettone]]).
 - 2026-11-03 — Panettone: διάλεξαν σχέδιο (ροζ φόντο, έγχρωμα στολίδια)· ερωτήσεις podcast Hospitality Jam στάλθηκαν· το call 4/11 16:00 ξαναστήθηκε ως «Grow Agency X Overoll» με Κίκιρα ([[2026-10-21-overoll-panettone-packaging-update-2026-11-04]], [[2026-11-03-overoll-hospitality-jam-erotiseis]], [[2026-11-04_2026-11-11]]).

@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -116,6 +116,7 @@ updated: 2026-11-09
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-11-09 — Fun Promotion: εντολή ανάθεσης· Order confirmation 813,44 € (προκαταβολή 406,72 €) — ο George πλήρωσε ✓· η Δέσποινα έστειλε mockups + αρχεία εκτύπωσης ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-10]]).
 - 2026-11-09 — Η Δέσποινα ζήτησε προτιμολόγιο Fun Promotion για προκαταβολή· ο George έστειλε αντίγραφο πληρωμής για το τιμολόγιο της 2/11 ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-09]], [[2026-11-09-admin-eidopoiiseis]]).
 - 2026-11-06/09 — Η Δέσποινα παρήγγειλε στη Fun Promotion 50 hangers με doming + 100 τσάντες CAMPO DE FIORI (4,26 €)· νέα τιμή hanger με σμάλτο **4,30 €/τμχ** (9/11)· παράδοση ασαφής ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-09]]).
 - 2026-11-05 — Προσφορά Fun Promotion· απάντηση BizCourier ([[2026-11-04-tandem-posts-hangers-bizlink]]).

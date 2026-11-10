@@ -3,7 +3,7 @@ type: client
 title: "Greenmart / Antemisaris"
 aliases: [Antemisaris, Αντεμισάρης, Greenmart, greenmart.gr, antemisaris.gr]
 status: ενεργός
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 # Greenmart / Antemisaris
 > Η εταιρεία Antemisaris με το e-shop Greenmart (κήπος/φυτά/εργαλεία, π.χ. βολβοί, Stihl)· η GROW κάνει social posts, γυρίσματα, υποστήριξη σε εκθέσεις (XENIA 2026, Olympic Yacht Show) και τοποθέτηση προϊόντων στο Κορωπί.
@@ -34,6 +34,8 @@ updated: 2026-11-09
 - Social: εγκρίθηκε το carousel για τους φθινοπωρινούς βολβούς (2026-09-18)· τα posts Stihl χρειάζονταν διορθώσεις ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Επιβεβαίωση Audio-Tech για απεικόνιση video wall — Βάσια — από 2026-11-09 ([[2026-10-16-audiotech-led-xenia-update-2026-11-10]])
+- [ ] Ποσότητες merch Xenia από Ζάχο → προσφορά — Ιωάννα — από 2026-11-09 ([[2026-11-09-antemisaris-merch-xenia-xorigia]])
 - [ ] Έγκριση παρουσίασης/τριπτύχου + ποσότητες + αγγλική έκδοση — πελάτης (Ζάχος/Αντεμισάρηδες) — εκκρεμεί από 2026-11-06· εκτύπωση πρέπει να είναι έτοιμη **2026-11-19** ([[2026-11-06-antemisaris-parousiasi-tryptyxo-egkrisi]])
 - [ ] Υπόλοιπα έγγραφα XENIA στην Expowork — Ιωάννα ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa]])
 - [ ] Τρίπτυχα Α3 έως 12/11 — Vassia ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa]])
@@ -88,6 +90,7 @@ updated: 2026-11-09
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-11-09 — Merch Xenia: η Ιωάννα έστειλε προτάσεις, ο Ζάχος ρωτά τιμές, η Ιωάννα ζητά ποσότητες · χορηγία 5ου Νηπιαγωγείου Αγ. Δημητρίου: η Ιωάννα επιβεβαίωσε πρόθεση και ζητά προγραμματισμό · η Βάσια έστειλε στην Audio-Tech την παρουσίαση περιπτέρου (video wall 850×400) · Asana: μάλλον 3 στάδια παραγωγής αντί 4 ([[2026-11-09-antemisaris-merch-xenia-xorigia]], [[2026-10-16-audiotech-led-xenia-update-2026-11-10]]).
 - 2026-11-09 — Η Ιωάννα ζήτησε από XENIA link εκθέτη → antemisaris-group.gr και στοιχεία Xenia Web App ([[2026-11-09-antemisaris-xenia-katachorisi]]).
 - 2026-11-06 — Η Ιωάννα έστειλε για τελικό οκ παρουσίαση (νέο εξώφυλλο, 28 σελ.) με προσφορά 1.000: 2.900 € / 2.000: 4.200 € / 5.000: 7.900 € + τρίπτυχο 2.500: 400 € / 5.000: 490 € (+ΦΠΑ)· ρωτά ποσότητες και αν θέλουν αγγλική έκδοση. Η Βάσια ζήτησε από Epilogi νέα προσφορά — **παράδοση έως 2026-11-19** ([[2026-11-06-antemisaris-parousiasi-tryptyxo-egkrisi]], [[2026-09-25-antemisaris-entypo-prosfora-epilogi]]).
 - 2026-11-05 — XMAS posts: «προχωράμε με το 3ο»· αίτημα προσφοράς τρίπτυχων ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa]]).

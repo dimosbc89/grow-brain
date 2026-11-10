@@ -3,7 +3,7 @@ type: vendor
 title: "Audio-tech"
 aliases: [audio-tech.gr, Audio tech]
 status: ενεργός
-updated: 2026-11-04
+updated: 2026-11-10
 ---
 # Audio-tech
 > Πάροχος LED οθονών / video wall για τα εκθεσιακά περίπτερα της GROW ([[ekthesiaka-periptera]]).
@@ -21,6 +21,7 @@ updated: 2026-11-04
 - [ ] Τυχόν πληροφορίες για την κατασκευή πίσω από το video wall (τις ζήτησε η GROW από την Expopiece) — ασαφές ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]])
 
 ## Χρονολόγιο
+- 2026-11-09 — Η Βάσια έστειλε την παρουσίαση περιπτέρου Xenia για επιβεβαίωση video wall 850×400 ([[2026-10-16-audiotech-led-xenia-update-2026-11-10]]).
 - 2026-11-03 — Η Μαρίνα αποδέχτηκε την προσφορά LED XENIA ([[2026-10-16-audiotech-led-xenia-update-2026-11-04]]).
 - 2026-10-27 — η Δέσποινα ζητά kW/γραμμές ([[2026-10-16-audiotech-led-xenia-update-2026-10-28]]).
 - 2026-10-26 — επιβεβαίωση Option 1 από Ιωάννα.
