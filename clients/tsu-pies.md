@@ -3,7 +3,7 @@ type: client
 title: "TSU Greek Pies and Coffee"
 aliases: [TSU, TSU Pies, TSUPIES, TSU Pies BV, TSU Pies SARL, Grandpas SARL-s, tsupies.com]
 status: ενεργός
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 # TSU Greek Pies and Coffee
 > Αλυσίδα ελληνικής πίτας και καφέ με 3 καταστήματα στο Λουξεμβούργο· ήρθε ως lead τον Αύγουστο 2026 και από τον Σεπτέμβριο έχει τακτικές συναντήσεις με τη GROW, μαζί και «Kick-off call».
@@ -51,6 +51,7 @@ updated: 2026-11-10
 - 2026-08: briefing call μέσω Google Meet στις 16:00 ώρα Ελλάδας (15:00 Λουξεμβούργου), invite από τη Βασιλική ([[2026-08-10-tsu-pies-briefing-call]]).
 
 ## Χρονολόγιο
+- 2026-11-10 — Ο Κώστας Γιαννόπουλος: marketing σε αναμονή μέχρι να εξοφληθεί το **πρώτο τιμολόγιο** («πολύ άμεσα», χωρίς ημερομηνία)· μπήκαν στο Foozo (15 παραγγελίες), συζητά με επενδυτές — αναπάντητο ([[2026-11-10-tsu-grandpas-moodboards]]).
 - 2026-11-09 — Στάλθηκαν δύο τιμολόγια μηνιαίας συνεργασίας στον Κώστα ([[2026-11-10-admin-omada-mikra]]).
 - 2026-11-05 — Brief packaging/χαρτοσακούλα ([[2026-11-05-tsu-pies-packaging]]).
 - 2026-11-02 — Meta: απόρριψη πληρωμής, ad account Tsu Pies disabled, ads σε παύση ([[2026-11-02-admin-eidopoiiseis]]).

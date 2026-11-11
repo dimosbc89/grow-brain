@@ -3,7 +3,7 @@ type: client
 title: "Grandpa's"
 aliases: [Grandpa's, Grandpas]
 status: ενεργός
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 # Grandpa's
 > Νέος πελάτης στο Asana (project από 2026-10-09): reels και redesign λογοτύπου.
@@ -32,6 +32,7 @@ updated: 2026-11-10
 - —
 
 ## Χρονολόγιο
+- 2026-11-10 — Η Μαρίνα έστειλε moodboards και ζήτησε videos πιάτων· ο Κώστας βάζει το marketing σε αναμονή μέχρι την εξόφληση του 1ου τιμολογίου ([[2026-11-10-tsu-grandpas-moodboards]]). Η Μαριάννα ξανάστειλε το reel (Walker.mp4) με mention σε Δήμο/Μαρίνα ([[2026-11-10-asana-omada-mikra]]).
 - 2026-11-09 — Asana: η Μαριάννα σε mention για το reel «δρομέας που τρώει σουβλάκι» ([[2026-11-10-admin-omada-mikra]]).
 - 2026-10-26 — Meta: «Your payment for Facebook Ads was declined» για τον ad account του Grandpa's ([[2026-10-26-admin-eidopoiiseis]]).
 - 2026-10-26 — Halloween reel + A3 poster «Grandpa's Halloween» (preview 14:50, σωστό αρχείο 16:04)· η Βίκη θα το τυπώσει και θα το βάλει στην ελληνική κοινότητα στο Facebook· call λογοτύπου μετατίθεται για Πέμπτη/Παρασκευή ([[2026-10-26-tsu-pies-halloween-looxi-logo]], [[2026-10-26-grandpas-halloween-poster]]).

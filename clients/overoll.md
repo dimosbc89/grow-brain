@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -84,6 +84,7 @@ updated: 2026-11-10
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-11-10 — Η Βάσω ενέκρινε τις απαντήσεις κριτικών 26/10–1/11 ([[2026-11-04-overoll-gyrisma-social-panettone-update-2026-11-11]]).
 - 2026-11-09 — Ο Δήμος ζήτησε από Overoll (marketing@ + Κίκιρα) 5 εγγραφές DNS στο overoll.gr (Papaki) για το **Overoll Club** (loyalty.overoll.gr σε Cloudflare Pages, admin.loyalty, αποστολή από app@overoll.gr μέσω Resend) «μέσα στην εβδομάδα» ([[2026-11-09-overoll-dns-loyalty-club]]).
 - 2026-11-06 — Η Βασιλική έστειλε τα ενδοκοινοτικά τιμολόγια Οκτωβρίου ([[2026-11-09-omada-mikra]])· 2026-11-09 07:00 shooting overoll (GROW Calendar) ([[2026-11-09_2026-11-16]]).
 - 2026-11-05 — Panettone v3, επιβεβαίωση γυρίσματος 9/11, social accounts ([[2026-11-04-overoll-gyrisma-social-panettone]]).

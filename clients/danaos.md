@@ -3,7 +3,7 @@ type: client
 title: "Πολυκατάστημα ΔΑΝΑΟΣ"
 aliases: [DANAOS, Danaos, ΔΑΝΑΟΣ, Danaos Stores, danaos-stores.gr, ΔΑΝΑΟΣ ΑΦΟΙ ΓΕΩΡΓΙΟΠΟΥΛΟΙ ΑΕΒΕ]
 status: ενεργός
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 # Πολυκατάστημα ΔΑΝΑΟΣ
 > Πολυκατάστημα με eshop (danaos-stores.gr), εταιρεία ΔΑΝΑΟΣ ΑΦΟΙ ΓΕΩΡΓΙΟΠΟΥΛΟΙ ΑΕΒΕ. Η GROW τρέχει Google Ads (PMax) και Meta. Ο πελάτης ζητά περισσότερη επικοινωνία και καθυστερημένα τιμολόγια.
@@ -60,6 +60,7 @@ updated: 2026-11-10
 - 2026-09-09: η πελάτισσα αλλάζει τους κωδικούς μπαίνοντας η ίδια στο προφίλ της, όχι από το κουμπί του email ([[2026-09-09-danaos-google-password-alert]]).
 
 ## Χρονολόγιο
+- 2026-11-10 — Η Μαρία Κοκκινοπούλου: «Kind reminder» για report Οκτωβρίου / ραντεβού / BF-CM — αναπάντητο από 2026-11-04 ([[2026-11-04-danaos-report-oktovriou-update-2026-11-11]]). Tagora sync απέτυχε ξανά 10/11 ([[2026-11-10-asana-omada-mikra]]).
 - 2026-11-09 — Tagora sync Danaos Stores απέτυχε ξανά (6–9/11) ([[2026-11-10-admin-omada-mikra]]).
 - 2026-11-06→08 — Tagora: αποτυχία sync Danaos Stores κάθε μέρα ([[2026-11-09-admin-eidopoiiseis]]).
 - 2026-11-04 — Αίτημα report Οκτωβρίου/ραντεβού· εγγραφή στο Tagora ([[2026-11-04-danaos-report-oktovriou]], [[2026-11-03-tagora-launch-update-2026-11-06]]).

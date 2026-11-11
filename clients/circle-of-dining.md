@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -58,6 +58,7 @@ updated: 2026-11-09
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
+- 2026-11-10 — Asana: task «website» ανατέθηκε στον Δήμο (λήξη 2026-11-20)· podcast3 (Chef Γεωργιάδης 💭): η Ιωάννα ζητά από τον Δήμο να δει first cut και cover (λήξη 18/11) ([[2026-11-10-asana-omada-mikra]]).
 - 2026-11-02 — Meta receipt **The Dining Society 40,00 €** (από 2026-11-01, χρέωση 22:05) — 💭 Υπόθεση: η πληρωμή του ad account λειτουργεί ξανά μετά τα declined 30–31/10. Τιμολόγια Νοεμβρίου (Circle of Dining + Γεωργιάδης) από το λογιστήριο ([[2026-11-03-admin-eidopoiiseis]]).
 - 2026-10-30/31 — Meta: απορρίφθηκε η πληρωμή του ad account «The Dining Society» — λογαριασμός disabled, ads σε παύση (💭 Υπόθεση: είναι ο λογαριασμός του Circle of Dining) ([[2026-11-02-admin-eidopoiiseis]]).
 - 2026-10-27 — Τιμολόγιο #1292 για το μοντάζ του δεύτερου επεισοδίου ([[2026-10-27-accounting-timologia-kartelles]]).

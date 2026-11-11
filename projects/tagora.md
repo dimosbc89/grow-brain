@@ -3,7 +3,7 @@ type: project
 title: "Tagora (Google CSS)"
 aliases: [Tagora, tagora.online, hello@tagora.online]
 status: ενεργός
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 # Tagora
 > Ελληνική υπηρεσία σύγκρισης τιμών της GROW (tagora.online) που μπαίνει στο πρόγραμμα CSS της Google, ώστε οι Shopping καμπάνιες των πελατών να τρέχουν με έως 20% φθηνότερα κλικ.
@@ -31,6 +31,7 @@ updated: 2026-11-10
 - —
 
 ## Χρονολόγιο
+- 2026-11-10 — Sync Danaos Stores απέτυχε ξανά (5η μέρα) ([[2026-11-10-asana-omada-mikra]]).
 - 2026-11-09 — Ο sync Danaos Stores απέτυχε 4η μέρα · Shopping API support: να γραφτεί το project tagora-css-2026 με το parent CSS group account ID ([[2026-11-10-admin-omada-mikra]]).
 - 2026-11-06/07/08 — Ο συγχρονισμός Danaos Stores απέτυχε ξανά και τις 3 μέρες ([[2026-11-09-admin-eidopoiiseis]]).
 - 2026-11-04/05 — Αιτήσεις Danaos (6.280) και NOMUD (0)· 2 αποτυχημένα sync Danaos ([[2026-11-03-tagora-launch-update-2026-11-06]]).

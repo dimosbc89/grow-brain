@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -106,6 +106,7 @@ updated: 2026-11-10
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-11-10 — Η Ελπίδα έστειλε το PDF του demo ταρτάκια (σήμερα 2026-11-11 10:00)· ασαφές αν επιβεβαιώθηκε γύρισμα ([[2026-11-09-globalfoods-tartakia-tetarti-update-2026-11-11]]). Πρόγραμμα FISAN (Felipe) 17–21/11: 18/11 εταιρεία + ΚΑΒΑ ΝΕΚΤΑΡ Κηφισιά, 19/11 ΒΟΝΑΜΑ Γλυφάδα + ΤΟΡΑ Κυψέλη, 20/11 ΜΟΝΤΑΚΙΟΥ Ψυχικό ([[2026-11-10-globalfoods-fisan-presentation]]). Η Μαρίνα έστειλε πρόταση χορηγίας/παρουσίας στο podcast του Chef Γεωργιάδη — τιμές «συζητιούνται με τον Δήμο» ([[2026-11-10-globalfoods-podcast-georgiadis-protasi]]).
 - 2026-11-09 22:22 — Η Ελπίδα: Τετάρτη 2026-11-11 10:00 Ισπανοί προμηθευτές δείχνουν ταρτάκια/συνταγές στους πωλητές — ρωτά αν να τραβήξουμε πλάνα ([[2026-11-09-globalfoods-tartakia-tetarti]]).
 - 2026-11-09 — «SOS» Ελπίδα: πιο έντονη παρουσίαση στη σελίδα italia.gr (Ιταλικό Επιμελητήριο), «παρακάτω είναι και η italfood» ([[2026-11-09-globalfoods-sos-italiko-epimelitirio]]).
 - 2026-11-06 — «Kind reminder» από Εύη: είναι οκ το ύφος των κειμένων Tips (από 2/11); αναπάντητο ([[2026-10-09-globalfoods-tips-site-update-2026-11-09]]).

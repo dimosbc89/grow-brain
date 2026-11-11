@@ -3,7 +3,7 @@ type: client
 title: "HotelBrain"
 aliases: [HOTELBRAIN S.A., Hotelbrain, Hotel Brain, hotelbrain.com, hotelbraingroup.com]
 status: ενεργός
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 # HotelBrain
 > Η HOTELBRAIN S.A. είναι η πλευρά πελάτη για τα hotel websites που φτιάχνει και υποστηρίζει τεχνικά η GROW ([[mr-mrs-white]], [[anayia]], September City Living, GHH) και τώρα για το νέο corporate site της ίδιας της HotelBrain.
@@ -35,6 +35,7 @@ updated: 2026-11-09
 - **Επόμενη συνάντηση:** 2026-10-23, 13:00–14:00 (ήταν 15:00· ⚠️ συμπίπτει με [[dominos]]), Microsoft Teams, «Τεχνικές Προδιαγραφές Ιστοσελίδων». Συμμετέχουν η ομάδα HotelBrain και ο gspyridis@aviamos.com. Ο ρόλος της Aviamos είναι ασαφής ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Στείλε ώρες στη Niki για Teams Πέμπτη 2026-11-12 (παρουσίαση design) — Δήμος — **σήμερα** ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-11]])
 - [ ] Απάντηση στον Dimitris Giannis για DDoS always-on / daily offsite backup / isolation — Δήμος (+[[fastpath]]) — από 2026-11-09 ([[2026-11-03-hotelbrain-new-server-update-2026-11-09]])
 - [ ] Design hotelbrain.com έτοιμο για παρουσίαση Πέμπτη — Δήμος ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-06]])
 - [ ] Timeline πρώτου design hotelbrain.com + αν χρειάζεται υλικό — Δήμος → Νίκη — από 2026-11-03 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-04]])
@@ -67,6 +68,7 @@ updated: 2026-11-09
 - 2026-10-27: το go-live του hotelbraingroup.com γίνεται με αλλαγή μόνο των DNS records του site (όχι name servers), από τον διαχειριστή domains της HotelBrain ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]]).
 
 ## Χρονολόγιο
+- 2026-11-10 — Η Niki Daleziou ζητά **Teams την Πέμπτη 2026-11-12** για παρουσίαση του design· περιμένει τις διαθέσιμες ώρες του Δήμου — αναπάντητο ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-11]]).
 - 2026-11-09 — Ο Dimitris Giannis ζητά για τελικό ΟΚ στη μεταφορά: **DDoS always-on** (π.χ. Cloudflare), **καθημερινό offsite backup**, επιβεβαίωση **isolation** (π.χ. CageFS) ([[2026-11-03-hotelbrain-new-server-update-2026-11-09]]).
 - 2026-11-05 — Πρόταση παρουσίασης design Πέμπτη· ερώτηση για ημερομηνία μεταφοράς server ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-06]], [[2026-11-03-hotelbrain-new-server-update-2026-11-06]]).
 - 2026-11-03 — Ο Δήμος απάντησε αναλυτικά στον Dimitris Giannis για την ασφάλεια του νέου server (Fastpath VPS, MET-2, ModSecurity, backups)· η Νίκη ρωτά πότε θα δουν πρώτο design ([[2026-11-03-hotelbrain-new-server]], [[2026-10-23-hotelbrain-com-new-design-update-2026-11-04]]).
