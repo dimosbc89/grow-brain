@@ -1,7 +1,7 @@
 ---
 type: index
 title: "Κατάλογος"
-updated: 2026-11-06
+updated: 2026-11-12
 ---
 # Κατάλογος
 
@@ -70,10 +70,12 @@ updated: 2026-11-06
 - [[yiayia-meatballs|Υιάγια (Yiayia Meatballs)]] · _ενεργός_ — Εστιατόριο με κεφτεδάκια («Home of Meatballs») της maria-drouza· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influe…
 - [[yourclima|Yourclima]] · _ενεργός_ — Πελάτης της GROW για εταιρικά email/hosting στο yourclima.com· επαφές ο christos-tsamis και ο manolis-kalomoiris.
 
-## Leads (23)
+## Leads (25)
 - [[elmon|ELMON SA]] · _prospect_ — περίπτερο DEFEA 2027, προσφορά 2026-11-10.
 - [[krimatoglou|Κριματόγλου ΑΒΕΤΕ]] · _prospect_ — περίπτερο HORECA 2027, 92,75 τ.μ.
-- [[tsianakas-packaging|Tsianakas Packaging]] · _prospect_ — Meet 2026-11-11 12:00.
+- [[tsianakas-packaging|Tsianakas Packaging]] · _prospect_ — προσφορά Agency Fee (Global Pack 2027) 2026-11-11.
+- [[cryo|Cryo]] · _prospect_ — περίπτερο CosmoEstetica, προσφορά 2026-11-11.
+- [[enersys|Enersys]] · _prospect_ — περίπτερο Agrothessaly 2027, προσφορά 2026-11-11.
 - [[eza-zythopoiia|Ελληνική Ζυθοποιία Αταλάντης (ΕΖΑ)]] · _prospect_ — «LOCAL MICROBREWERIES – Πρώτη πρόταση» 2026-11-05· τι ζητά: ασαφές.
 - [[venture-travel-quick-park|Venture Travel / Quick Park]] · _prospect_ — Προσφορά GROW στάλθηκε 2026-11-05 στον Χρήστο Μπακογιάννη.
 - [[malamatina|Malamatina (Mantis Group)]] · _prospect_ — Video launch με rapper + PR event + προβολή 31/12· η Δέσποινα ζήτησε στοιχεία 2026-11-03.
@@ -118,7 +120,9 @@ updated: 2026-11-06
 - [[vassia-kataki|Βάσια Κατάκη]] — Graphic Designer της GROW. Της πηγαίνουν brand manuals, logo briefs, design e-shop/site, βίντεο και κατόψεις περιπτέρων.
 - [[vassiliki-giannopoulou|Βασιλική Γιαννοπούλου]] — Account Director της GROW. Ο Δήμος της στέλνει τα τιμολόγια και τα admin, τρέχει τα accounts yiayia-meatballs (από τον Σεπτέμβριο 2026) και Estia, και…
 
-## Πρόσωπα (56)
+## Πρόσωπα (58)
+- [[panagiotis-rallis|Παναγιώτης Ράλλης]] — 💭 επαφή [[cryo]].
+- [[michalis-barbagiorgis|Μιχάλης Μπαρμπαγιώργης]] — [[barbaggio]].
 - [[marilena-rentzou|Μαριλένα Ρέντζου]] — Agency Operations Manager στο TikTok LIVE· πρόταση η GROW να γίνει TikTok LIVE Agency (grow-outreach).
 - [[dimitris-letkas|Δημήτρης Λετκας]] — CCO της Divino Espresso Hellas· δίνει τις αλλαγές για το site της divino.
 - [[afroditi-karopoulou|Afroditi Karopoulou]] — Secretary στο Corporate Affairs & Communication General Division της metlen· κανονίζει τα ραντεβού με την ομάδα της κας Γεράκη.

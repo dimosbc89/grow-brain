@@ -3,7 +3,7 @@ type: person
 title: "Βαγγέλης Ζάχος"
 aliases: [Zachos V., Vangelis Zachos, zachosv@antemisaris.gr]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-12
 ---
 # Βαγγέλης Ζάχος
 > Κύρια επαφή της GROW στην [[greenmart-antemisaris]]: στέλνει αρχεία προϊόντων, προτάσεις εκθέσεων και κάνει τα follow-ups.
@@ -31,6 +31,7 @@ updated: 2026-11-03
 - —
 
 ## Χρονολόγιο
+- 2026-11-11 — Λαμβάνει τιμολόγιο GROW #1332 για την εκτύπωση της εταιρικής παρουσίασης, με αίτημα προεξόφλησης ([[2026-11-11-antemisaris-timologio-parousiasis-proexoflisi]]).
 - 2026-11-02 — Video «ΟΚ» με αλλαγή (ελαιοραβδιστικό)· XENIA: προσφορά GROW 19.000 € προς έγκριση στους ιδιοκτήτες, γλάστρες ΟΚ· κατάλογος: 3 νέα εξώφυλλα + φωτό κατοικίας ([[2026-10-29-greenmart-video-egkrisi-update-2026-11-03]], [[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]], [[2026-10-30-antemisaris-katalogos-final-comments-update-2026-11-03]]).
 - 2026-10-27 — 08:45 επιλέγει Option 2 (square presentation) για το XENIA, με τις νέες διαστάσεις ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-10-28]]).
 - 2026-10-26 — 11:13 προωθεί στην Ιωάννα την προσφορά Qorect Leads Manager· 13:57 επιβεβαιώνει στη Forum το περίπτερο-νησίδα 93,5 τ.μ. και στις 14:25 το προωθεί στην Ιωάννα (cc Δήμος) ([[2026-10-26-xenia-leads-manager-qorect]], [[2026-10-26-antemisaris-xenia-katopsi-forum]]).

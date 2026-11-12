@@ -1,15 +1,16 @@
 ---
 type: client
 title: "Koala"
-aliases: [koala, Koala, koala ads]
+aliases: [koala, Koala, koala ads, koalacoffee.gr]
 status: ενεργός
-updated: 2026-11-10
+updated: 2026-11-12
 ---
 # Koala
 > Πελάτης (💭 Υπόθεση: καφέ, από τα tasks «coffee day», «coffee AI») για τον οποίο η GROW κάνει social, giveaways, Google Ads και promoters· όλα τα τρέχει η Ιωάννα.
 
 ## Σε μια ματιά
 - **Υπηρεσίες:** social content (fast reel, lines post, AI video), giveaway/διαγωνισμός «coffee day», Meta/Google ads («ads sep», «google ads account»), TikTok strategy, promoters ([[2026-10-21-asana-snapshot]]).
+- **Domain:** koalacoffee.gr — καταχωρήθηκε μέσω [[cretaforce]] 2026-11-12 (2 έτη, λήξη 2028-11-10) και ενεργό στο Cloudflare (Free plan) ([[2026-11-12-koala-domain-security-mikra]]).
 - **Επαφές:** ασαφές.
 - **Ομάδα GROW:** [[ioanna-chalkiadaki]] (όλα τα tasks) ([[2026-10-21-asana-snapshot]]).
 
@@ -25,6 +26,7 @@ updated: 2026-11-10
 - —
 
 ## Χρονολόγιο
+- 2026-11-12 — Καταχώρηση **koalacoffee.gr** (CretaForce, 2 έτη, 13,28 credits, λήξη 2028-11-10)· Cloudflare: domain active (Free plan). 💭 Υπόθεση: για την εφαρμογή/site Koala Club ([[2026-11-12-koala-domain-security-mikra]]).
 - 2026-11-09 — Ο Δήμος έστειλε σε Βασιλική & Ιωάννα PDF «Koala Club — πώς δουλεύει η εφαρμογή» (💭 εφαρμογή loyalty) ([[2026-11-09-koala-app-pdf]]).
 - 2026-10-07 — Asana: ✓ «coffee AI», «fast reel», «κλήρωση διαγωνισμού» ([[2026-10-21-asana-snapshot]]).
 - 2026-10-02 — Asana (ΛΟΓΙΣΤΗΡΙΟ): ✓ «πληρωμή koala promoters» ([[2026-10-21-asana-snapshot]]).

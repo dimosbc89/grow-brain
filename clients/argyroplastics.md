@@ -3,7 +3,7 @@ type: client
 title: "Argyroplastics"
 aliases: [ArgyrΩplastics, Υιοί Ιωάννη Γαβαλά Ο.Ε., Yioi Ioanni Gavala O.E., argyroplastics.gr, Plastica 2026]
 status: ενεργός
-updated: 2026-11-09
+updated: 2026-11-12
 ---
 # Argyroplastics
 > Εταιρεία πλαστικών (Υιοί Ιωάννη Γαβαλά Ο.Ε.)· η GROW συντηρεί το website argyroplastics.gr και κάνει το εκθεσιακό περίπτερο για την Plastica 2026, με υπογεγραμμένη συμφωνία.
@@ -44,7 +44,8 @@ updated: 2026-11-09
 - [ ] Slot ωρών εγκατάστασης οθόνης 2026-11-05 προς Botsaris — [[despina-velissariou]] — **2026-11-03** ([[2026-10-20-enoikiasi-othonon-botsaris-update-2026-11-03]])
 - [x] Εξόφληση προκαταβολής #1297 — Argyroplastics — ✓ απόδειξη κατάθεσης 2026-10-27 ([[2026-10-26-plastica-offer-kataskevastika-update-2026-10-28]])
 - [x] Οθόνη 1 × 75'' (450 €) από Botsaris — ✓ επιβεβαιώθηκε 2026-11-02 ([[2026-10-20-enoikiasi-othonon-botsaris-update-2026-11-03]])
-- [ ] Προσφορά plexi (κρεμαστό, με σόκορο, πρόταση πάχους) — Print Kong — από 2026-10-22 ([[2026-10-19-plexiglass-argyroplastics-printkong]])
+- [x] Προσφορά plexi (κρεμαστό, με σόκορο, πρόταση πάχους) — Print Kong — από 2026-10-22 ([[2026-10-19-plexiglass-argyroplastics-printkong]]) — ✓ 2026-11-11 εντολή 60 € + ΦΠΑ ([[2026-10-19-plexiglass-argyroplastics-printkong-update-2026-11-12]])
+- [ ] Παράδοση plexi 40 × 30 στη GROW → στον πελάτη· τιμολόγιο Print Kong απευθείας στους Υιούς Ι. Γαβαλά — Print Kong / Βάσια — ημερομηνία ασαφής ([[2026-10-19-plexiglass-argyroplastics-printkong-update-2026-11-12]])
 - [x] ~~Αναθεωρημένη τιμή από Ιάσονα~~ — ο Ιάσονας αρνήθηκε 2026-10-22· μένει η Expopiece — από 2026-10-21 ([[2026-10-20-plastica-prosfora-kataskevasti-update-2026-10-22]], [[2026-10-21-plastica-expopiece-3d]])
 - [x] Κάτοψη — ✓ η Δέσποινα την έστειλε στους κατασκευαστές 2026-10-22 ([[2026-10-20-argyroplastics-plastica-2026-update-2026-10-22]])
 - [x] ~~Έγκριση προσφοράς κατασκευής 8.950 € + ΦΠΑ~~ — άκυρη, η Epilogi αποσύρθηκε 2026-10-22 ([[2026-10-20-plastica-prosfora-kataskevasti]])
@@ -81,6 +82,7 @@ updated: 2026-11-09
 - Τα τελικά μηνύματα/γραφικά τοίχων τα δίνει ξεχωριστά ο πελάτης ([[2026-10-20-argyroplastics-plastica-2026]]).
 
 ## Χρονολόγιο
+- 2026-11-11 — Η Βάσια παρήγγειλε στην Print Kong plexi διάφανο 5 mm 40 × 30 (μπιζουτέ, αυτοκόλλητο στην πλάτη), **60 € + ΦΠΑ**, τιμολόγιο απευθείας στον πελάτη, παράδοση στη GROW ([[2026-10-19-plexiglass-argyroplastics-printkong-update-2026-11-12]]).
 - 2026-11-09 — Το λογιστήριο GROW έστειλε τιμολόγιο εξοφλήσεων κατασκευαστικών + agency fee ([[2026-11-09-admin-eidopoiiseis]]).
 - 2026-11-07 — Η Μαρίνα ζήτησε από τον Μποτσαρη τιμολόγιο για να γίνει η κατάθεση για την οθόνη ([[2026-10-20-enoikiasi-othonon-botsaris-update-2026-11-09]]).
 - 2026-11-05 — Mock up καλουπιού + εκτυπωτικά στην Epilogi ([[2026-11-05-argyroplastics-mockup-kaloupi]]).
@@ -111,6 +113,7 @@ updated: 2026-11-09
 - 2026-09-16 — «Argyroplastics / Plastica '26 Meeting» 12:00 με Τζωρτζόπουλο, Christos Gavalas, Δέσποινα ([[2026-07-20_2026-11-03]]).
 
 ## Οικονομικά
+- Plexi 40 × 30 (Print Kong): 60 € + ΦΠΑ 24%, τιμολογείται απευθείας στον πελάτη (εντολή 2026-11-11) ([[2026-10-19-plexiglass-argyroplastics-printkong-update-2026-11-12]]).
 - Ποσό προσφοράς και προκαταβολής: μόνο στα συνημμένα PDF, ασαφές ([[2026-10-20-argyroplastics-plastica-2026]]).
 - Τιμολόγιο προκαταβολής #1281 (2026-10-08) ([[2026-10-20-argyroplastics-plastica-2026]]).
 - Προσφορά κατασκευαστικών v4 (εγκρίθηκε 2026-10-26) και τιμολόγιο προκαταβολής #1297 (2026-10-26, **πληρώθηκε 2026-10-27**): ποσά μόνο στα συνημμένα, ασαφή ([[2026-10-26-plastica-offer-kataskevastika]], [[2026-10-26-plastica-offer-kataskevastika-update-2026-10-28]]).

@@ -3,7 +3,7 @@ type: person
 title: "Petros Goulas"
 aliases: [Petros Goulas, PG, Πέτρος Γκούλας, pg@marketingcoach.com.cy]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-11-12
 ---
 # Petros Goulas
 > Ιδρυτής του [[marketing-coach-cy]] (PG Group of Companies, Κύπρος). Φέρνει στη GROW κυπριακούς πελάτες και δίνει εντολές για Google Ads.
@@ -15,9 +15,11 @@ updated: 2026-10-20
 - Ο τίτλος «Ιδρυτής» είναι ασαφής. Οι πηγές τον γράφουν «Marketing Coach (PG Group)».
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] 2η κατάθεση προς GROW — ο ίδιος — **έως 2026-11-13** ([[2026-11-11-marketing-coach-kartela]])
 - [ ] Κατεύθυνση για την καμπάνια Odysseia — ο ίδιος — από 2026-07-27 ([[2026-09-01-marketing-coach-pause-google]])
 
 ## Χρονολόγιο
+- 2026-11-11 — Στην ερώτηση της Μαρίνας για τη 2η κατάθεση: «Μέχρι Παρ.» ([[2026-11-11-marketing-coach-kartela]]).
 - 2026-09-17 — «PG X Grow Meeting» ([[2026-07-20_2026-11-03]]).
 - 2026-08-21 — Ζητά ο Δήμος να είναι πάντα σε cc για το site της Poullaides ([[2026-08-21-poullaides-website-not-working]]).
 - 2026-07-27 — Ζητά pause για τις Hercules, Sakura και CTL ([[2026-09-01-marketing-coach-pause-google]]).

@@ -3,7 +3,7 @@ type: client
 title: "Knack & Snack"
 aliases: [Knack, Knack and Snack, Knack & Snack, @knackandsnack, knackandsnack@gmail.com]
 status: ενεργός
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 # Knack & Snack
 > Πελάτης εστίασης της GROW για σχεδόν έναν χρόνο (στις 2026-08): Google Ads, social media management και γυρίσματα· από εδώ βγήκε ο κανόνας του Δήμου για τα κείμενα διαφημίσεων.
@@ -14,7 +14,10 @@ updated: 2026-11-11
 - **Ομάδα GROW:** ο Δήμος· [[vassiliki-giannopoulou]] (cc, Reels/TikTok γυρίσματα) ([[2026-08-06-knack-snack-organosi-synergasias]]).
 - **IG:** @knackandsnack ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-03)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **Οικονομικά:** 2026-11-11 το λογιστήριο έστειλε ανανεωμένη καρτέλα με **υπόλοιπο 1.436,00 €** (από 1.215,20 € στις 2026-10-27) ([[2026-11-11-knack-snack-kartela]]).
+
+*Από 2026-11-03:*
 - **Στις 2026-11-03:** 2026-11-02 η [[vassiliki-giannopoulou]] έστειλε Google Sheet με ανταποδοτικούς creators (foodbloggers/micro) για τον Νοέμβριο, για επιλογή με comments ([[2026-11-02-knack-snack-creators-noemvriou]]). Στο ημερολόγιο: «Knack εδώ» **2026-11-10 13:00** ([[2026-11-03_2026-11-10]]).
 
 *Παλαιότερα (στις 2026-10-28):*
@@ -29,7 +32,7 @@ updated: 2026-11-11
 - [ ] Επιλογή ανταποδοτικών creators Νοεμβρίου (comments στο Sheet) — Knack and Snack (Σπήλιος) — από 2026-11-02 ([[2026-11-02-knack-snack-creators-noemvriou]])
 - [ ] Συνάντηση «Knack εδώ» — 2026-11-10 13:00 ([[2026-11-03_2026-11-10]])
 - [ ] Διορθωμένη αφίσα 11/11 («Stand up στο μπαλκόνι» πάνω, «Unpopular Opinion» κεντρικό από κάτω, χωρίς «stand up comedy show», Μαίρη σε ίδια κλίμακα, οι δύο Γιώργοι όχι δίπλα) + link κρατήσεων — Μαρίνα — **έως 2026-10-29** ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-29]])
-- [ ] Εξόφληση υπολοίπου 1.215,20 € — Knack & Snack — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
+- [ ] Εξόφληση υπολοίπου **1.436,00 €** (καρτέλα 2026-11-11· πριν 1.215,20 € από 2026-10-27) — Knack & Snack ([[2026-11-11-knack-snack-kartela]], [[2026-10-27-accounting-timologia-kartelles]])
 - [ ] Αποστολή ΤΠΥ για τα 248 € (πληρωμή Σήλιας, φωτογράφιση «Yιάγια») — Knack & Snack — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
 - [x] Αφίσα stand-up 11/11 («Unpopular opinion») → Σαββούλα — Μαρίνα — ✓ 2026-10-27 17:21 ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-28]])
 - [ ] Link κρατήσεων 11/11 → Σαββούλα — GROW — ζητήθηκε 2026-10-22, ασαφές αν στάλθηκε ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-28]])
@@ -52,6 +55,7 @@ updated: 2026-11-11
 - Προτεινόμενη δομή παραδοτέων (2026-08-06, αναμένει αποδοχή): Meta 3–4 posts/εβδ. + 7 Stories/εβδ.· TikTok 3–4 posts/εβδ.· 1–2 επαγγελματικά γυρίσματα/μήνα με τη Σήλια (14–16 προϊοντικά βίντεο + 20–25 φωτογραφίες ανά γύρισμα)· 1–2 γυρίσματα Reels/TikTok/μήνα από GROW ([[2026-08-06-knack-snack-organosi-synergasias]]).
 
 ## Χρονολόγιο
+- 2026-11-11 — Λογιστήριο: ανανεωμένη καρτέλα, υπόλοιπο 1.436,00 € ([[2026-11-11-knack-snack-kartela]]).
 - 2026-11-10 — «Knack εδώ» μετακινήθηκε 15:00–16:00 ([[2026-11-10-asana-omada-mikra]]).
 - 2026-11-06 — «Knack εγκαίνια έκθεσης» 20:00 (GROW Calendar)· 2026-11-10 13:00 «Knack εδώ» ([[2026-11-09-omada-mikra]], [[2026-11-09_2026-11-16]]).
 - 2026-11-02 — Η Βασιλική στέλνει λίστα ανταποδοτικών creators Νοεμβρίου ([[2026-11-02-knack-snack-creators-noemvriou]]).
@@ -70,6 +74,7 @@ updated: 2026-11-11
 
 ## Οικονομικά
 - Τιμές/fee: ασαφές (δεν αναφέρονται στις πηγές).
+- Υπόλοιπο καρτέλας 2026-11-11: **1.436,00 €** ([[2026-11-11-knack-snack-kartela]]).
 - Υπόλοιπο καρτέλας 2026-10-27: **1.215,20 €**, μετά από πίστωση 248 € (200 € + ΦΠΑ) για την πληρωμή της Σήλιας (φωτογράφιση «Yιάγια») ([[2026-10-27-accounting-timologia-kartelles]]).
 
 ## Σημειώσεις

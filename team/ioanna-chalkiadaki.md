@@ -3,7 +3,7 @@ type: team
 title: "Ιωάννα Χαλκιαδάκη"
 aliases: [Ioanna Chalkiadaki, Ιωάννα, Ioanna, ioanna@growagency.online]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-12
 ---
 # Ιωάννα Χαλκιαδάκη
 > Account Manager της GROW. Τρέχει social και content για πελάτες εστίασης και λιανικής ([[circle-of-dining]], [[greenmart-antemisaris]], [[yiayia-meatballs]]) και είναι στα calls των [[hellenic-heritage-evolution]] και [[tsu-pies]].
@@ -49,6 +49,8 @@ updated: 2026-11-03
 - 2026-09-18: ο Δήμος της πρότεινε να δώσει στη Greenmart κάτι παραπάνω, «λίγη κίνηση με AI» ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-11-11 — Τιμολόγιο #1332 με προεξόφληση στον [[greenmart-antemisaris]] ([[2026-11-11-antemisaris-timologio-parousiasis-proexoflisi]])· ερώτηση ώρας παράδοσης Α5 στην Epilogi ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]).
+- 2026-11-11 — Ο Δήμος δεσμεύει ότι η Ιωάννα θα επανέλθει στη Global Foods με δημιουργικές ιδέες προβολής/product placement για το The Hospitality Jam (χωρίς ημερομηνία) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]]).
 - 2026-11-02 — Antemisaris: μιλά με τον Ζάχο για τα κόστη XENIA (19.000 €)· στέλνει ανανεωμένο video Greenmart· νέο αίτημα για 3 εξώφυλλα καταλόγου ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]], [[2026-10-29-greenmart-video-egkrisi-update-2026-11-03]], [[2026-10-30-antemisaris-katalogos-final-comments-update-2026-11-03]]).
 - 2026-10-26 — Στέλνει στην Overoll νέα stickers (12:15) και, μετά την επιλογή της πρότασης 2, ανανεωμένες προτάσεις (17:06). Ο Δήμος της στέλνει «Podcast_Giannis_Kikiras_Interview.docx» για ανάγνωση μαζί 2026-10-27 ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]], [[2026-10-26-kikiras-questions]]).
 - 2026-10-21 — Asana: 63 ανοιχτά (31 εκπρόθεσμα, 14 χωρίς due). Κύριος φόρτος: Antemisaris Group (20), Circle of Dining (9), Agape (9), Georgiadis chef (7), Heritage Escape (4), Standard Burgers (4). Στο «Grow» έχει εκπρόθεσμο το subtask «Ιωάννα» του «Posts Εβδομάδας» (due 2026-10-08) ([[2026-10-21-asana-snapshot]]).

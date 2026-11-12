@@ -3,7 +3,7 @@ type: person
 title: "Niki Daleziou (Νίκη Δαλέζιου)"
 aliases: [Niki Daleziou, Νίκη, ndaleziou@hotelbrain.com]
 status: ενεργός
-updated: 2026-11-04
+updated: 2026-11-12
 ---
 # Niki Daleziou
 > Digital Marketing Manager στη HOTELBRAIN S.A. Είναι η καθημερινή επαφή της GROW για τα hotel websites και για το νέο corporate site της [[hotelbrain]].
@@ -18,12 +18,16 @@ updated: 2026-11-04
 - Το call για το νέο design του hotelbrain.com έγινε 2026-10-27 (δικό της Teams invite) ([[2026-10-27-hotelbrain-redesign-teams-invite]], [[2026-10-23-hotelbrain-com-new-design-update-2026-10-28]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Νέα ώρα Teams Παρασκευή 2026-11-13 (παρουσίαση design hotelbrain.com) — Νίκη — από 2026-11-11 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-12]])
+- [ ] Feedback στην προσφορά HotelBrain Academy — Νίκη — από 2026-11-11 ([[2026-11-11-hotelbrain-academy-prosfora]])
 - [ ] Αλλαγή NS μαζί με τον Δήμο (εκείνη δίνει τον 2FA κωδικό του papaki) — Δήμος — από 2026-10-12 ([[2026-10-12-hotelbrain-corporate-website]], [[2026-10-12-hotelbrain-corporate-website-update-2026-10-27]])
 - [x] Απάντηση αν υπάρχουν email/υπηρεσίες στο domain — Νίκη — ✓ 2026-10-27 (hq@, hotels@) ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]])
 - [x] Call νέο design hotelbrain.com — ✓ 2026-10-27 ([[2026-10-23-hotelbrain-com-new-design-update-2026-10-28]])
 - [ ] DNS records για το site → HotelBrain (διαχειριστής domains) — Δήμος — από 2026-10-27 08:18 ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]])
 
 ## Χρονολόγιο
+- 2026-11-11 — Ρωτά ώρα για Teams 2026-11-12 (πρόταση 14:00)· ο Δήμος ζητά μεταφορά Παρασκευή 2026-11-13 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-12]]). Λαμβάνει προσφορά για το website της HotelBrain Academy ([[2026-11-11-hotelbrain-academy-prosfora]]).
+- 2026-11-10 — Ζητά Teams την Πέμπτη 2026-11-12 για παρουσίαση design ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-11]]).
 - 2026-11-03 — Ρωτά timeline για το πρώτο design ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-04]]).
 - 2026-11-02 — Reminder για αφαίρεση 3 ξενοδοχείων· ο Δήμος απαντά ότι ολοκληρώθηκε ([[2026-11-02-hotelbrain-afairesi-xenodoxeion]]).
 - 2026-10-27 — Απαντά για τα mails του domain (hq@, hotels@) και ζητά αλλαγή μόνο του pointing· στέλνει Teams invite «redesign hotelbrain.com» ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]], [[2026-10-27-hotelbrain-redesign-teams-invite]]).

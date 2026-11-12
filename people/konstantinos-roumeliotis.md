@@ -3,7 +3,7 @@ type: person
 title: "Κωνσταντίνος Ρουμελιώτης"
 aliases: [Konstantinos Roumeliotis, Roumeliotis K., kroumeliotis@expowork.gr]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-12
 ---
 # Κωνσταντίνος Ρουμελιώτης
 > Υπεύθυνος Υπηρεσιών ARS / Operations Manager της [[expowork]] (Metropolitan Expo)· χειρίζεται τις παραγγελίες ανάρτησης (rigging) των περιπτέρων.
@@ -23,6 +23,7 @@ updated: 2026-11-03
 - —
 
 ## Χρονολόγιο
+- 2026-11-11 — Στέλνει νέα κάτοψη ανάρτησης XENIA Α23-Β25 (11 × 8,5) για να κλείσει η ανάρτηση την ίδια μέρα· λαμβάνει δελτία + σχέδιο κρέμασης 20:54 ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]).
 - 2026-11-02 — Καταχωρεί κατ' εξαίρεση την ανάρτηση D17 ([[2026-10-20-expowork-argyroplastics-d17-update-2026-11-03]]).
 - 2026-10-20 — Στέλνει κάτοψη με δοκούς, φόρμες και κανονισμούς· προθεσμία αναρτήσεων 2026-10-23 ([[2026-10-20-expowork-argyroplastics-d17]]).
 

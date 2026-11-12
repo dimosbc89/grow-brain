@@ -3,7 +3,7 @@ type: client
 title: "HotelBrain"
 aliases: [HOTELBRAIN S.A., Hotelbrain, Hotel Brain, hotelbrain.com, hotelbraingroup.com]
 status: ενεργός
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 # HotelBrain
 > Η HOTELBRAIN S.A. είναι η πλευρά πελάτη για τα hotel websites που φτιάχνει και υποστηρίζει τεχνικά η GROW ([[mr-mrs-white]], [[anayia]], September City Living, GHH) και τώρα για το νέο corporate site της ίδιας της HotelBrain.
@@ -16,7 +16,11 @@ updated: 2026-11-11
 - **Ομάδα GROW:** ο Δήμος (τεχνικό και εμπορικό σκέλος) και η [[marina-papanastasiou]], που πήρε forward το invite της 2026-10-02 ([[2026-10-02-hotelbrain-meeting-invite]]).
 - **Vendor:** [[webhotelier]], η πηγή των δεδομένων των ξενοδοχείων και το booking engine ([[2026-09-14-hotelbrain-webhotelier-api]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-06)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **Παρουσίαση design hotelbrain.com:** η Νίκη/Panos πρότειναν Teams **2026-11-12 14:00**· ο Δήμος απάντησε 2026-11-11 13:19 ότι λόγω απροόπτου θα απουσιάσει 2026-11-12 και ζήτησε μεταφορά **Παρασκευή 2026-11-13** — απάντηση HotelBrain εκκρεμεί ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-12]]).
+- **Νέο project — HotelBrain Academy:** 2026-11-11 13:13 ο Δήμος έστειλε στη Νίκη προσφορά για **ανασχεδιασμό & ανάπτυξη του website της HotelBrain Academy** (PDF `GROW_HotelBrain_Academy_Offer_GR.pdf`· εργασίες/κόστος μόνο στο PDF) ([[2026-11-11-hotelbrain-academy-prosfora]]).
+
+*Από 2026-11-06:*
 - Στις 2026-11-05 ο Δήμος πρότεινε στη Νίκη **παρουσίαση του design την Πέμπτη** (💭 12/11), και από κοντά· ρώτησε τον Dimitris Giannis πότε γίνεται η **μεταφορά στον νέο server** ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-06]], [[2026-11-03-hotelbrain-new-server-update-2026-11-06]]).
 
 *Από 2026-10-28:*
@@ -35,9 +39,11 @@ updated: 2026-11-11
 - **Επόμενη συνάντηση:** 2026-10-23, 13:00–14:00 (ήταν 15:00· ⚠️ συμπίπτει με [[dominos]]), Microsoft Teams, «Τεχνικές Προδιαγραφές Ιστοσελίδων». Συμμετέχουν η ομάδα HotelBrain και ο gspyridis@aviamos.com. Ο ρόλος της Aviamos είναι ασαφής ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Στείλε ώρες στη Niki για Teams Πέμπτη 2026-11-12 (παρουσίαση design) — Δήμος — **σήμερα** ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-11]])
+- [ ] Νέα ώρα για Teams παρουσίασης design την **Παρασκευή 2026-11-13** — HotelBrain (Νίκη) να προτείνει — ο Δήμος ζήτησε 2026-11-11 13:19 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-12]])
+- [ ] Feedback/έγκριση προσφοράς HotelBrain Academy website — Νίκη/Panos — από 2026-11-11 ([[2026-11-11-hotelbrain-academy-prosfora]])
+- [x] Στείλε ώρες στη Niki για Teams Πέμπτη 2026-11-12 (παρουσίαση design) — Δήμος — ✓ απάντησε 2026-11-11 13:19, αλλά ζήτησε μεταφορά λόγω απουσίας ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-12]])
 - [ ] Απάντηση στον Dimitris Giannis για DDoS always-on / daily offsite backup / isolation — Δήμος (+[[fastpath]]) — από 2026-11-09 ([[2026-11-03-hotelbrain-new-server-update-2026-11-09]])
-- [ ] Design hotelbrain.com έτοιμο για παρουσίαση Πέμπτη — Δήμος ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-06]])
+- [ ] Design hotelbrain.com έτοιμο για παρουσίαση (μεταφέρεται Παρασκευή 2026-11-13) — Δήμος ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-06]])
 - [ ] Timeline πρώτου design hotelbrain.com + αν χρειάζεται υλικό — Δήμος → Νίκη — από 2026-11-03 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-04]])
 - [x] Αφαίρεση Livin Mykonos & My Mykonos (mrandmrswhitehotels.com) και Elion Seaside Resort (anayiaresorts.com) — ζητήθηκε 2026-10-19, reminder 2026-11-02 — ✓ ο Δήμος: «έχει ολοκληρωθεί» 2026-11-02 12:12 ([[2026-11-02-hotelbrain-afairesi-xenodoxeion]])
 - [x] Call για το νέο design hotelbrain.com — Δήμος, Νίκη, Βασίλης, κ. Λεωνίδας — ✓ έγινε 2026-10-27 πρωί ([[2026-10-23-hotelbrain-com-new-design-update-2026-10-28]])
@@ -68,6 +74,7 @@ updated: 2026-11-11
 - 2026-10-27: το go-live του hotelbraingroup.com γίνεται με αλλαγή μόνο των DNS records του site (όχι name servers), από τον διαχειριστή domains της HotelBrain ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]]).
 
 ## Χρονολόγιο
+- 2026-11-11 — Νίκη/Panos προτείνουν Teams 2026-11-12 14:00· ο Δήμος (13:19) θα απουσιάσει λόγω απροόπτου και ζητά μεταφορά Παρασκευή 2026-11-13 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-12]]). 13:13: προσφορά για redesign/ανάπτυξη website **HotelBrain Academy** στη Νίκη ([[2026-11-11-hotelbrain-academy-prosfora]]).
 - 2026-11-10 — Η Niki Daleziou ζητά **Teams την Πέμπτη 2026-11-12** για παρουσίαση του design· περιμένει τις διαθέσιμες ώρες του Δήμου — αναπάντητο ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-11]]).
 - 2026-11-09 — Ο Dimitris Giannis ζητά για τελικό ΟΚ στη μεταφορά: **DDoS always-on** (π.χ. Cloudflare), **καθημερινό offsite backup**, επιβεβαίωση **isolation** (π.χ. CageFS) ([[2026-11-03-hotelbrain-new-server-update-2026-11-09]]).
 - 2026-11-05 — Πρόταση παρουσίασης design Πέμπτη· ερώτηση για ημερομηνία μεταφοράς server ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-06]], [[2026-11-03-hotelbrain-new-server-update-2026-11-06]]).
@@ -101,6 +108,7 @@ updated: 2026-11-11
 - Corporate website: κατασκευή 240 € και hosting 120 €/έτος. Ο ΦΠΑ δεν αναφέρεται. Εγκρίθηκε 2026-09-11 ([[2026-10-12-hotelbrain-corporate-website]]).
 - Δεν είναι σαφές αν έχει εκδοθεί τιμολόγιο.
 - Η αμοιβή για τα hotel websites είναι ασαφής.
+- HotelBrain Academy website (redesign + ανάπτυξη): προσφορά στάλθηκε 2026-11-11· ποσό μόνο στο PDF — ασαφές ([[2026-11-11-hotelbrain-academy-prosfora]]).
 
 ## Σημειώσεις
 - Demo: hotelbrain-group-preview.dimos-5f9.workers.dev ([[2026-10-12-hotelbrain-corporate-website]]).

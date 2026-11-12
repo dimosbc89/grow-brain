@@ -3,7 +3,7 @@ type: admin
 title: "GROW 360 LTD (UK εταιρεία)"
 aliases: [GROW 360, GROW 360 LTD, UK εταιρεία, UK company, βρετανική εταιρεία]
 status: ενεργός
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 # GROW 360 LTD
 > Η βρετανική εταιρεία του Δήμου (μοναδικός director/shareholder, κάτοικος Ελλάδας). Τον Οκτώβριο 2026 πέρασε σε νέο λογιστή, την [[the-accountancy-partnership]], και τον Νοέμβριο 2026 έχει τις πρώτες προθεσμίες της στην Companies House.
@@ -18,6 +18,8 @@ updated: 2026-11-11
 - **Φορολογική κατοικία / μόνιμη εγκατάσταση στην Ελλάδα:** κατά τη DMP είναι εκτός πακέτου UK λογιστή και θέλει Έλληνα φοροτεχνικό ([[2026-10-19-dmp-accountants-grow360-quote]]). Σχετικά: [[forologika-asfalistika]].
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-12: η YCF επιβεβαίωσε 2026-11-11 ότι **έληξαν/ακυρώθηκαν** Registered Office, Director's Service Address, Mail Forwarding και Premium Filing, και ότι **η διεύθυνσή της εμφανίζεται ακόμα στην Companies House** — αν μείνει σε χρήση θα ζητήσει αφαίρεσή της (κίνδυνος **strike-off**). Προσφέρει ανανέωση με **25% loyalty discount**. Απόφαση/νέα διεύθυνση δεν φαίνεται ([[2026-11-11-grow360-ycf-services-expired]], [[2026-11-11-grow360-ycf-address-still-active]]).
+
 Στις 2026-11-03:
 - **YCF (2026-11-02):** νέα υπενθύμιση ότι **όλο** το πακέτο (Registered Office £29, DSA £28, Mail Forwarding £98, Premium Filing £128 = £283 + VAT = **£339.60**) ανανεώνεται **2026-11-10** από την κάρτα. ⚠️ Αντίφαση με το «we don't want to renew» του Δήμου (2026-10-27) — η ακύρωση δεν φαίνεται να καταχωρήθηκε ([[2026-11-03-admin-eidopoiiseis]], [[2026-10-27-grow360-ycf-ananeosi]]).
 - **Revolut (2026-11-02):** η GROW 360 LTD έστειλε στο dimos@growagency.online δύο τιμολόγια **GRGL-4 και GRGL-5, 750 € το καθένα, λήξη 2026-11-09**. 💭 Υπόθεση: τιμολόγηση UK εταιρείας → ελληνική GROW ([[2026-11-03-admin-eidopoiiseis]]).
@@ -34,7 +36,7 @@ updated: 2026-11-11
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Κατέβασμα statements Revolut πριν το κλείσιμο 2026-11-17 — Μαρίνα/Δήμος ([[2026-11-10-revolut-business-kleisimo-grow360]])
-- [ ] Νέα registered office / service address στην Companies House (YCF ακυρώθηκε 2026-11-10) — Δήμος/TAP — **άμεσα** ([[2026-11-10-yourcompanyformations-akyrosi-grow360]])
+- [ ] Νέα registered office / service address στην Companies House (YCF ακυρώθηκε 2026-11-10) ή ανανέωση YCF με 25% έκπτωση — Δήμος/TAP — **άμεσα** (νέες προειδοποιήσεις YCF 2026-11-11: κίνδυνος strike-off) ([[2026-11-10-yourcompanyformations-akyrosi-grow360]], [[2026-11-11-grow360-ycf-services-expired]], [[2026-11-11-grow360-ycf-address-still-active]])
 - [ ] Companies House Auth Code στο Client Hub της Accountancy Partnership — Δήμος — άμεσα ([[2026-11-06-admin-eidopoiiseis]])
 - [ ] Πληρωμή ληξιπρόθεσμων P-388148/9 — Δήμος ([[2026-11-06-admin-eidopoiiseis]])
 - [ ] Πληρωμή/διευθέτηση τιμολογίων Revolut GRGL-4 και GRGL-5 (750 € × 2) της GROW 360 LTD — Δήμος (💭 από την ελληνική GROW) — **έως 2026-11-09** ([[2026-11-03-admin-eidopoiiseis]])
@@ -64,6 +66,7 @@ updated: 2026-11-11
 - 2026-10-02 — Η Μαρίνα αναλαμβάνει να επιλέξει λογιστή και να ρωτήσει αν ακυρώνονται οι υπηρεσίες YCF ([[2026-10-02-grow360-ycf-renewal-accounting]]).
 
 ## Χρονολόγιο
+- 2026-11-11 — YCF: «services expired or cancelled» (10:11) και «Our Address Is Still Active at Companies House» (16:00) με 25% loyalty discount για ανανέωση ή ενημέρωση της Companies House ([[2026-11-11-grow360-ycf-services-expired]], [[2026-11-11-grow360-ycf-address-still-active]]).
 - 2026-11-10 — **Revolut Business:** ο λογαριασμός της GROW 360 LTD κλείνει **2026-11-17** λόγω αρνητικού υπολοίπου (μηδενίζεται, δεν οφείλεται τίποτα) — να κατέβουν statements πριν· ο Δήμος το προώθησε στη Μαρίνα ([[2026-11-10-revolut-business-kleisimo-grow360]]). **YCF:** ακυρώθηκαν Registered Office, Director's Service Address, Mail Forwarding, Premium Filing — προειδοποίηση για κίνδυνο strike-off αν η διεύθυνση μείνει σε χρήση ([[2026-11-10-yourcompanyformations-akyrosi-grow360]]). **Companies House:** υπενθύμιση Confirmation Statement + ID verification έως **2026-11-23** ([[2026-11-10-companies-house-confirmation-statement-grow360]]).
 - 2026-11-06 — Accountancy Partnership ζητά Companies House Auth Code· 2026-11-04 υπενθύμιση ληξιπρόθεσμων P-388148/9 ([[2026-11-06-admin-eidopoiiseis]]).
 - 2026-11-02 — Revolut: τιμολόγια GROW 360 LTD GRGL-4 και GRGL-5 (750 € το καθένα, λήξη 2026-11-09) προς dimos@. YCF: υπενθύμιση ανανέωσης όλου του πακέτου £339.60 στις 2026-11-10 ([[2026-11-03-admin-eidopoiiseis]]).

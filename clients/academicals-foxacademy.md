@@ -1,9 +1,9 @@
 ---
 type: client
 title: "Academicals / Fox Academy"
-aliases: [Academicals, Fox Academy, FoxAcademy, academicals.gr]
+aliases: [Academicals, Fox Academy, FoxAcademy, academicals.gr, ΠΑΠΑΠΕΤΡΟΥ EDUCATIONAL SOLUTIONS Ο.Ε., ΠΑΠΑΠΕΤΡΟΥ ΟΜΗΡΟΣ ΚΑΙ ΣΙΑ Ο.Ε.]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-11-12
 ---
 # Academicals / Fox Academy
 > Δύο brands, Academicals και Fox Academy, με κοινή πλευρά πελάτη (Όμηρος, Αλεξ). Η GROW τρέχει Google Ads και για τα δύο και φιλοξενεί τα websites και τα email τους, που έχουν ξεπεράσει κατά πολύ το πακέτο.
@@ -26,7 +26,10 @@ updated: 2026-10-28
   ([[2026-07-21-academicals-report-feb-2026]], [[2026-07-21-academicals-report-jan-2026]], [[2026-09-01-academicals-foxacademy-email-storage]])
 - **Hosting:** academicals.gr στη [[fastpath]] ([[2026-09-28-fastpath-ticket-ssh-academicals]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **Οικονομικά:** 2026-11-11 το λογιστήριο έστειλε στον Όμηρο (cc Αλεξ) καρτέλα πελάτη με **υπόλοιπο 1.116,00 €** — νομική οντότητα «ΠΑΠΑΠΕΤΡΟΥ ΟΜΗΡΟΣ ΚΑΙ ΣΙΑ Ο.Ε. / ΠΑΠΑΠΕΤΡΟΥ EDUCATIONAL SOLUTIONS Ο.Ε.» ([[2026-11-11-academicals-kartela]]).
+
+*Από 2026-10-20:*
 - **Email storage:**
   - Από 2026-09-01 περιμένουμε την επιλογή του πελάτη για το storage. Τα email φτάνουν περίπου 166 GB, ενώ το πακέτο είναι 25 GB/site, δηλαδή 50 GB για τα 2 domains.
   - Η GROW προτείνει Microsoft Exchange Online Plan 2 ή αρχειοθέτηση. Δεν προτείνει επέκταση στους δικούς της servers ([[2026-09-01-academicals-foxacademy-email-storage]]).
@@ -37,6 +40,7 @@ updated: 2026-10-28
 - Στις 2026-07-21 ο Δήμος προώθησε στον πελάτη μαζεμένα τα reports από Αύγουστο 2025 έως Μάιο 2026. Reports για Ιούνιο 2026 και μετά δεν υπάρχουν στις πηγές ([[2026-07-21-academicals-report-jan-2026]], [[2026-07-21-fox-academy-report-aug-2025]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Εξόφληση υπολοίπου 1.116,00 € — πελάτης (Όμηρος) — από 2026-11-11 ([[2026-11-11-academicals-kartela]])
 - [ ] Επιλογή λύσης για τα email (διαγραφή, τοπική αρχειοθέτηση, Exchange Online Plan 2 ή Google Workspace) — πελάτης — από 2026-09-01 ([[2026-09-01-academicals-foxacademy-email-storage]])
 - [ ] Υλοποίηση της λύσης που θα επιλεγεί, πιθανόν και τοπική αρχειοθέτηση από τη GROW — Δήμος — μετά την επιλογή του πελάτη ([[2026-09-01-academicals-foxacademy-email-storage]])
 - [ ] Πρόσβαση SSH στα mailboxes του academicals.gr — [[fastpath]] — ticket από 2026-09-28 ([[2026-09-28-fastpath-ticket-ssh-academicals]])
@@ -49,6 +53,7 @@ updated: 2026-10-28
 - 2026-09-01: η GROW δεν επεκτείνει storage στους servers της (περίπου 100 €/μήνα επιπλέον) και συστήνει Microsoft ως οικονομικότερη λύση για 2 accounts. Βλ. [[2026-09-01-academicals-email-storage]] ([[2026-09-01-academicals-foxacademy-email-storage]]).
 
 ## Χρονολόγιο
+- 2026-11-11 — Λογιστήριο GROW: καρτέλα πελάτη, υπόλοιπο 1.116,00 € ([[2026-11-11-academicals-kartela]]).
 - 2026-10-28 — Wordfence foxacademy.gr: critical, «The Plus Addons for Elementor» θέλει update (6.4/10)· 18 υπάρχοντα issues ([[2026-10-28-admin-eidopoiiseis]]).
 - 2026-10-27 — Wordfence foxacademy.gr: critical problem, «Really Simple Security» χρειάζεται update (security fixes, 8.8/10)· 18 υπάρχοντα issues βρέθηκαν ξανά ([[2026-10-26-admin-eidopoiiseis]]).
 - 2026-09-28 — Ticket 004632 στη Fastpath για SSH στα mailboxes του academicals.gr ([[2026-09-28-fastpath-ticket-ssh-academicals]]).
@@ -92,6 +97,8 @@ updated: 2026-10-28
 - Επέκταση στους servers της GROW: περίπου 100 €/μήνα επιπλέον.
 
 Η αμοιβή management της GROW είναι ασαφής: δεν υπάρχει στις πηγές.
+
+- Υπόλοιπο καρτέλας 2026-11-11: **1.116,00 €** ([[2026-11-11-academicals-kartela]]).
 
 ## Σημειώσεις
 - 💭 Υπόθεση: στο Academicals, Απρίλιο και Μάιο 2026, τα κλικ σχεδόν τετραπλασιάζονται, το CPC πέφτει στα 0,04–0,05 € και το CR στο 1,65–2,38%. Αυτό μοιάζει με αλλαγή στο μείγμα καμπανιών ή στον ορισμό των conversions. Καλό είναι να το δει ο Nikos πριν μπει σε σύγκριση με τους προηγούμενους μήνες.

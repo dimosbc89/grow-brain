@@ -3,7 +3,7 @@ type: team
 title: "Δέσποινα Βελισσαρίου"
 aliases: [Despina Velissariou, Δέσποινα, Despina, despina@growagency.online]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-12
 ---
 # Δέσποινα Βελισσαρίου
 > Senior Account Manager της GROW. Τρέχει events, χορηγίες ([[hellenic-heritage-evolution]], [[rejuv-collective-solace]]), influencers και το e-shop της [[tandem-concept]]. Είναι και στα meetings των περιπτέρων.
@@ -63,6 +63,8 @@ updated: 2026-11-03
 - 2026-07-24: οδηγία του Δήμου να μπει απονομή βραβείου στο gala στην πρόταση προς Viber ([[2026-07-24-viber-heritage-escape-ideas]]).
 
 ## Χρονολόγιο
+- 2026-11-11 — XENIA: κάτοψη ανάρτησης με Expowork, σχέδιο κρέμασης Expopiece → Expowork 20:54, «ως έχει» στην Audio-Tech ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]], [[2026-11-11-expopiece-kremasi-antemisaris]], [[2026-10-16-audiotech-led-xenia-update-2026-11-12]])· «Προς έγκριση» στο [[barbaggio]] ([[2026-11-11-barbaggio-pros-egkrisi]])· αίτημα αποδεικτικού πληρωμής Print Kong στην [[hellenic-heritage-evolution]] ([[2026-11-11-hhe-timologia-tsiklitiria-printkong]]).
+- 2026-11-11 — Global Foods: η Ελπίδα της ζητά link raw υλικού ZEO, ρωτά «παγκόσμιες ημέρες?» για Global/Unique και της προωθεί επιστολή του Ιταλού Πρέσβη για τον κ. Θανάση Τσάτση — όλα ανοιχτά ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-12]], [[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-unique-pagkosmies-imeres]], [[2026-11-11-globalfoods-epistoli-presvi-italias]]).
 - 2026-11-02 — Επέστρεψε· επιβεβαιώνει στον Botsaris 1 × 75'' για Plastica, στήσιμο 2026-11-05 απόγευμα ([[2026-10-20-enoikiasi-othonon-botsaris-update-2026-11-03]]).
 - 2026-10-27 — Global Foods: reel Unique x Zeo, 6 εκδοχές δισέλιδου, τηλέφωνο με Ελπίδα, raw Πρεσβείας. XENIA: kW προς Audio-tech, κάτοψη 8,5 × 11 προς Expopiece. Barbaggio: ανάπτυγμα κουτιών + αυτοκόλλητα 2 × 2.500. Αποδοχή «ΗΗΕ x Grow» 2026-11-03 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]], [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]], [[2026-10-27-globalfoods-arxeia-italiki-presveia]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]], [[2026-10-27-barbaggio-koutia-anaptygma]], [[2026-10-27-barbaggio-aftokollita]], [[2026-10-27-hhe-meeting-2026-11-03-accepted]]).
 - 2026-10-26 — Posts 28ης Οκτωβρίου Global/Unique προς έγκριση· χρονοδιάγραμμα βίντεο Global Foods· απαντήσεις στην Expopiece για XENIA (διχρωμία, σκαμπό, φωτισμός)· 1 × 75'' για Plastica από Botsaris 450 € ([[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]], [[2026-10-20-enoikiasi-othonon-botsaris-update-2026-10-27]]).

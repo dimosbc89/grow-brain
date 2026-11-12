@@ -3,7 +3,7 @@ type: person
 title: "Δημήτρης Γεωργιάδης"
 aliases: [Dimitris Georgiadis, Georgiadis chef, Hilton σεφ, Dimitris.Georgiadis@hilton.com]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-12
 ---
 # Δημήτρης Γεωργιάδης
 > Executive Chef στα Hilton Garden Inn Athens Syggrou / Chania City και ÉRA Hotel Heraklion· πελάτης της GROW για το προσωπικό του brand και το [[circle-of-dining]].
@@ -24,6 +24,7 @@ updated: 2026-11-03
 - Βλ. [[circle-of-dining]], [[2026-08-11-circle-of-dining-apodoxi-450]].
 
 ## Χρονολόγιο
+- 2026-11-11 — Ο Δήμος προτείνει στη [[global-foods]] χορηγία The Hospitality Jam: 8.000€ για 8+1 επεισόδια, αποκλειστικότητα κατηγορίας 6 μηνών και στο προσωπικό του προφίλ ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]]).
 - 2026-11-03 — Στο ημερολόγιο: «Chef Georgiadis εδώ» 2026-11-06 16:00 ([[2026-11-03_2026-11-10]]).
 - 2026-10-27 — Σε cc στο τιμολόγιο #1292 (μοντάζ 2ου επεισοδίου) προς τον λογιστή του ([[2026-10-27-accounting-timologia-kartelles]]).
 - 2026-09/10 — Στέλνει φωτογραφίες, logos Hilton/Agusta, testimonial· δεν έχει videos ([[2026-10-01-circle-of-dining-redesign]]).

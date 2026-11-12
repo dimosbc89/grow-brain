@@ -3,7 +3,7 @@ type: client
 title: "Greenmart / Antemisaris"
 aliases: [Antemisaris, Αντεμισάρης, Greenmart, greenmart.gr, antemisaris.gr]
 status: ενεργός
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 # Greenmart / Antemisaris
 > Η εταιρεία Antemisaris με το e-shop Greenmart (κήπος/φυτά/εργαλεία, π.χ. βολβοί, Stihl)· η GROW κάνει social posts, γυρίσματα, υποστήριξη σε εκθέσεις (XENIA 2026, Olympic Yacht Show) και τοποθέτηση προϊόντων στο Κορωπί.
@@ -14,7 +14,11 @@ updated: 2026-11-11
 - **Ομάδα GROW:** [[ioanna-chalkiadaki]] (day-to-day)· [[vassiliki-giannopoulou]] (cc)· [[despina-velissariou]] (XENIA forward)· ο Δήμος ([[2026-09-18-greenmart-posts-volvoi-stihl]], [[2026-07-21-antemisaris-expowork-xenia-2026]]).
 - **Τρίτοι:** [[expopiece]] (κατασκευή XENIA)· Audio-tech (LED wall XENIA, [[2026-10-16-audiotech-led-xenia]])· [[expowork]] (αρχική πρόταση περιπτέρου XENIA)· tsougrana.gr (συνάντηση συνεργασίας 2026-10-02)· Kathimerini (συνάντηση 2026-09-23) ([[2026-07-20_2026-11-03]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-06)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- XENIA (2026-11-21 → 23): στις 2026-11-11 η Expowork έστειλε νέα κάτοψη ανάρτησης (περίπτερο 11 × 8,5, Α23-Β25· η επίσημη της οργάνωσης δεν έχει έρθει) και η Δέσποινα της προώθησε 20:54 τα δελτία + σχέδιο κρέμασης της Expopiece — την ημέρα της προθεσμίας· επιβεβαίωση Expowork εκκρεμεί ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]], [[2026-11-11-expopiece-kremasi-antemisaris]]). Audio-Tech: «προχωράμε ως έχει», LED 800 × 400 + πλαϊνά 2 × 50 × 400 ([[2026-10-16-audiotech-led-xenia-update-2026-11-12]]).
+- Εταιρική παρουσίαση: η Ιωάννα έστειλε τιμολόγιο **#1332** με **προεξόφληση** για να ξεκινήσει η εκτύπωση ([[2026-11-11-antemisaris-timologio-parousiasis-proexoflisi]])· η Βάσια έστειλε την ίδια μέρα 15:12 στην Print Kong **αποδεικτικό κατάθεσης όλου του ποσού** ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]). Α5 250 τμχ (Επιλογή): η Ιωάννα ρωτά ώρα παράδοσης, χωρίς απάντηση ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]).
+
+*Από 2026-11-06:*
 - XENIA: ΥΔ Ζάχου υπογράφηκε ✓ (4/11) και στάλθηκε στην Expowork με ΥΔ κατασκευαστή· λείπουν «τα υπόλοιπα έγγραφα». XMAS posts: επιλέχθηκε το 3ο, ανεβαίνουν από 9/11. Hiring post για έγκριση. Η Vassia ζήτησε προσφορά τρίπτυχων Α3 (2.000/5.000) έως 12/11 ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa]]).
 
 *Από 2026-11-03:*
@@ -34,9 +38,14 @@ updated: 2026-11-11
 - Social: εγκρίθηκε το carousel για τους φθινοπωρινούς βολβούς (2026-09-18)· τα posts Stihl χρειάζονταν διορθώσεις ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Έγγραφα Expowork (φόρμα, ΥΔ, στοιχεία, rigging plan) — Δέσποινα — **έως 2026-11-11** ([[2026-11-10-antemisaris-entypa-merch-xenia]])
+- [ ] Επιβεβαίωση Expowork ότι τα έγγραφα ανάρτησης είναι πλήρη + επίσημη κάτοψη οργάνωσης — Expowork — από 2026-11-11 ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]])
+- [ ] Πληρωμή τιμολογίου **#1332** (προεξόφληση εκτύπωσης εταιρικής παρουσίασης) — λογιστήριο Antemisaris — από 2026-11-11 ([[2026-11-11-antemisaris-timologio-parousiasis-proexoflisi]])
+- [ ] Επιβεβαίωση παραγωγής/παράδοσης εντύπου 2.000 τμχ (πληρώθηκε 2026-11-11) — Print Kong — παράδοση **2026-11-19/20** ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]])
+- [ ] Ώρα παράδοσης Α5 250 τμχ στον Αντεμισάρη — Επιλογή — ζητήθηκε 2026-11-11 10:30 ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]])
+- [ ] Στήριξη/σχέδιο video wall μεταξύ Audio-Tech και «Νίκου» (💭 Expopiece) — Audio-Tech / Expopiece — από 2026-11-11 ([[2026-10-16-audiotech-led-xenia-update-2026-11-12]])
+- [x] Έγγραφα Expowork (φόρμα, ΥΔ, στοιχεία, rigging plan) — Δέσποινα — **έως 2026-11-11** ([[2026-11-10-antemisaris-entypa-merch-xenia]]) — ✓ στάλθηκαν 2026-11-11 20:54 (δελτία + σχέδιο κρέμασης Expopiece) ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]])
 - [ ] Γαστρονόμος: επιλογή τεύχους 13/12 ή 27/12 — Ιωάννα — κράτηση έως 2026-11-23 ([[2026-10-20-antemisaris-kathimerini-entoli-update-2026-11-11]])
-- [ ] Επιβεβαίωση Audio-Tech για απεικόνιση video wall — Βάσια — από 2026-11-09 ([[2026-10-16-audiotech-led-xenia-update-2026-11-10]])
+- [x] Επιβεβαίωση Audio-Tech για απεικόνιση video wall — Βάσια — από 2026-11-09 ([[2026-10-16-audiotech-led-xenia-update-2026-11-10]]) — ✓ 2026-11-11 η Δέσποινα: «προχωράμε ως έχει», LED 800 × 400 + πλαϊνά 50 × 400 ([[2026-10-16-audiotech-led-xenia-update-2026-11-12]])
 - [ ] Ποσότητες merch Xenia από Ζάχο → προσφορά — Ιωάννα — από 2026-11-09 ([[2026-11-09-antemisaris-merch-xenia-xorigia]])
 - [ ] Έγκριση παρουσίασης/τριπτύχου + ποσότητες + αγγλική έκδοση — πελάτης (Ζάχος/Αντεμισάρηδες) — εκκρεμεί από 2026-11-06· εκτύπωση πρέπει να είναι έτοιμη **2026-11-19** ([[2026-11-06-antemisaris-parousiasi-tryptyxo-egkrisi]])
 - [ ] Υπόλοιπα έγγραφα XENIA στην Expowork — Ιωάννα ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa]])
@@ -92,6 +101,7 @@ updated: 2026-11-11
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-11-11 — Expowork: νέα κάτοψη ανάρτησης 11 × 8,5 (Α23-Β25)· Expopiece: σχέδιο κρέμασης + δελτία → Expowork 20:54 ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]], [[2026-11-11-expopiece-kremasi-antemisaris]]). Audio-Tech: «προχωράμε ως έχει», LED 800 × 400 + πλαϊνά 2 × 50 ([[2026-10-16-audiotech-led-xenia-update-2026-11-12]]). Τιμολόγιο #1332 με προεξόφληση για την εκτύπωση της εταιρικής παρουσίασης ([[2026-11-11-antemisaris-timologio-parousiasis-proexoflisi]])· αποδεικτικό πληρωμής GROW → Print Kong 15:12· ερώτηση ώρας παράδοσης Α5 προς Επιλογή ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]).
 - 2026-11-10 — Παραγγελίες Print Kong: έντυπο 2.000 τμχ 28σέλ. **3.900 € + ΦΠΑ** (💭 τηλεφωνική συμφωνία· γραπτή προσφορά ήταν 1.450 € για 20σέλ.) και τρίπτυχα 5.000 τμχ **380 € + ΦΠΑ**, παράδοση 19–20/11 — χωρίς επιβεβαίωση. SOS Α5 250 τμχ (Επιλογή) έως 11/11. Expowork: έγγραφα αναρτήσεων κατ' εξαίρεση **έως 11/11** ([[2026-11-10-antemisaris-entypa-merch-xenia]]). Merch: τιμές 1.000 τμχ (στυλό 0,59 – laptop bag 4,28 €), αναμονή ποσοτήτων Ζάχου ([[2026-11-09-antemisaris-merch-xenia-xorigia-update-2026-11-11]]). Γαστρονόμος: παροχές χορηγίας έως 31/12 — επιλογή τεύχους 13/12 (κράτηση έως 23/11) ή 27/12 ([[2026-10-20-antemisaris-kathimerini-entoli-update-2026-11-11]]). Expopiece: τελικά σχέδια + ερώτηση για εκτυπωτικά πλάτης video wall ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-11-11]]).
 - 2026-11-09 — Merch Xenia: η Ιωάννα έστειλε προτάσεις, ο Ζάχος ρωτά τιμές, η Ιωάννα ζητά ποσότητες · χορηγία 5ου Νηπιαγωγείου Αγ. Δημητρίου: η Ιωάννα επιβεβαίωσε πρόθεση και ζητά προγραμματισμό · η Βάσια έστειλε στην Audio-Tech την παρουσίαση περιπτέρου (video wall 850×400) · Asana: μάλλον 3 στάδια παραγωγής αντί 4 ([[2026-11-09-antemisaris-merch-xenia-xorigia]], [[2026-10-16-audiotech-led-xenia-update-2026-11-10]]).
 - 2026-11-09 — Η Ιωάννα ζήτησε από XENIA link εκθέτη → antemisaris-group.gr και στοιχεία Xenia Web App ([[2026-11-09-antemisaris-xenia-katachorisi]]).
@@ -131,6 +141,7 @@ updated: 2026-11-11
 - 2026-07-21 — Ο Ζάχος προωθεί «FYI» την πρόταση της [[expowork]] για XENIA 2026· ο Δήμος στις Ιωάννα και Δέσποινα ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 
 ## Οικονομικά
+- Τιμολόγιο GROW **#1332** (2026-11-11) για την εκτύπωση της εταιρικής παρουσίασης — **προεξόφληση**· ποσό μόνο στο PDF ([[2026-11-11-antemisaris-timologio-parousiasis-proexoflisi]]). Η GROW κατέθεσε «όλο το ποσό» στην Print Kong 2026-11-11 ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]).
 - **XENIA 2026: οικονομική προσφορά GROW 19.000 €** (στάλθηκε 2026-10-30· ποσό από το email του Ζάχου 2026-11-02· ΦΠΑ δεν αναφέρεται). Πέρυσι η αρχική προσφορά ήταν 10.400 € (χωρίς video wall, μικρότερο) ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]]).
 - Τιμές περιπτέρου XENIA μόνο στο PDF της Expowork (πρόταση 2026-07) ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 - LED wall Audio-tech: τιμή μόνο στο PDF, ασαφές ([[2026-10-16-audiotech-led-xenia]]). Qorect Leads Manager (ανταγωνιστική προσφορά στον πελάτη): 240 € + ΦΠΑ ([[2026-10-26-xenia-leads-manager-qorect]]).

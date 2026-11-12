@@ -3,7 +3,7 @@ type: client
 title: "Marketing Coach (Κύπρος)"
 aliases: [Marketing Coach, PG Group of Companies, PG Group, marketingcoach.com.cy, Petros Goulas]
 status: ενεργός
-updated: 2026-11-10
+updated: 2026-11-12
 ---
 # Marketing Coach (Κύπρος)
 > Κυπριακό marketing γραφείο του Petros Goulas (PG Group of Companies). Λειτουργεί ως μεσάζων: φέρνει στη GROW πελάτες στην Κύπρο ([[karmiotissa]], [[poullaides-foundation]]) και έχει δικές του Google Ads καμπάνιες.
@@ -22,7 +22,10 @@ updated: 2026-11-10
 - **Asana:** project «PG Graphics» (δημιουργήθηκε 2026-09-18) με γραφιστικά για social/εταιρικά: Kiss FM, Sfera, Bake & Pack, Recital, Alarm/Brew, γάμοι, nameday posts, products of the week, hiring. Ομάδα: [[vassia-kataki]], [[marianna-vourna]], [[fotini]] ([[2026-10-21-asana-snapshot]]).
 - **Freelancer Google Ads:** [[nikos-moulinos]] ([[2026-10-05-google-ads-freelancer-moulinos]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **Πληρωμές:** 2026-11-11 η Μαρίνα έστειλε καρτέλα πελάτη (PETROS GOULAS LTD) και ρώτησε για τη 2η κατάθεση· ο Petros: «**Μέχρι Παρ.**» → έως **2026-11-13**. Υπόλοιπο μόνο στο PDF ([[2026-11-11-marketing-coach-kartela]]).
+
+*Από 2026-10-20:*
 - Στις 2026-07-27 ο Petros ζήτησε pause για τις Hercules, Sakura και CTL και κράτησε μόνο την Odysseia. Για την Odysseia θα έδινε κατεύθυνση, που δεν φαίνεται στις πηγές ([[2026-09-01-marketing-coach-pause-google]]).
 - Στις 2026-10-01 ο Δήμος είπε στον Nikos να σταματήσει τις «sakura, hercules» και να κλείσει το «campaign a» ([[2026-10-05-google-ads-freelancer-moulinos]]).
 - ⚠️ Αντίφαση: ο πελάτης ζήτησε pause στις 2026-07-27, αλλά ο Δήμος το προώθησε στη Μαρίνα μόλις στις 2026-09-01 ([[2026-09-01-marketing-coach-pause-google]]). Στις 2026-10-01 ο Nikos ρωτούσε ακόμα για τις sakura και hercules ([[2026-10-05-google-ads-freelancer-moulinos]]). Αν πρόκειται για τις ίδιες καμπάνιες, μπορεί να έτρεχαν μέχρι 2026-10-01. Πρέπει να ελεγχθεί αν υπάρχει δαπάνη μετά το αίτημα pause.
@@ -30,6 +33,7 @@ updated: 2026-11-10
 - Το [[karmiotissa]] έφυγε από τη GROW προς Co-Win/admin22 ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] 2η κατάθεση (καρτέλα PETROS GOULAS LTD) — [[petros-goulas]] — **έως 2026-11-13** ([[2026-11-11-marketing-coach-kartela]])
 - [ ] Κατεύθυνση για την καμπάνια Odysseia — Petros Goulas — από 2026-07-27 ([[2026-09-01-marketing-coach-pause-google]])
 - [ ] Επιβεβαίωση ότι οι Hercules, Sakura και CTL είναι σταματημένες και ότι το «campaign a» έκλεισε — [[nikos-moulinos]] — μετά την εντολή της 2026-10-01 ([[2026-10-05-google-ads-freelancer-moulinos]])
 **PG Graphics (Asana, όλα εκπρόθεσμα στις 2026-10-21)**
@@ -45,6 +49,7 @@ updated: 2026-11-10
 - 2026-08-21: ο Petros ζητά ο Δήμος να είναι πάντα σε cc στα θέματα του site της Poullaides ([[2026-08-21-poullaides-website-not-working]]).
 
 ## Χρονολόγιο
+- 2026-11-11 — Μαρίνα: καρτέλα + «πότε η 2η κατάθεση;» → Petros: «Μέχρι Παρ.» (2026-11-13) ([[2026-11-11-marketing-coach-kartela]]).
 - 2026-11-09 — Ο Petros: έγινε η 1η πληρωμή, έρχεται η 2η ([[2026-11-10-admin-omada-mikra]]).
 - 2026-11-03 — Ο Petros προώθησε πρόσβαση στο site buildiaconstructions.com χωρίς αίτημα ([[2026-11-03-marketing-coach-buildia]]).
 - 2026-10-21 — Asana «PG Graphics»: 5 ανοιχτά (όλα εκπρόθεσμα) και 18 ολοκληρωμένα από 2026-09-22 έως 2026-10-16 — π.χ. «Products of the week», «Giveaway», «Hiring», «Recital 3rd Service βάσει template», «Monthly Nameday Posts» Οκτωβρίου και Νοεμβρίου–Δεκεμβρίου, «Brew & Bloom», «Kiss Post», «New Giveaway Flash Kiss FM», «Sfera New Small Giveaway - Home Soda», «New Job Graphic ΖΗΤΕΙΤΑΙ ΔΙΑΝΟΜΕΑΣ – BAKE & PACK», «Product Of The Week» (2026-10-16) ([[2026-10-21-asana-snapshot]]).
@@ -58,7 +63,7 @@ updated: 2026-11-10
 - 2026-07-22 — Ο Petros προωθεί το αίτημα της ΠΗΓΑΣΟΣ για A record στο tickets.karmiotissa.com ([[2026-07-25-karmiotissa-tickets-a-record]]).
 
 ## Οικονομικά
-- Ασαφές: τιμές και τιμολόγια δεν υπάρχουν στις πηγές.
+- Ασαφές: τιμές και τιμολόγια δεν υπάρχουν στις πηγές. Καρτέλα πελάτη PETROS GOULAS LTD στάλθηκε 2026-11-11 (ποσό μόνο στο PDF)· 1η πληρωμή έγινε ~2026-11-09, 2η έως 2026-11-13 ([[2026-11-11-marketing-coach-kartela]], [[2026-11-10-admin-omada-mikra]]).
 - 💭 Υπόθεση: η digest του pause αναφέρει πιθανή σύνδεση με τον «Πέτρο» του πιλότου για γραφιστικές ώρες, όπου ζητείται να μηδενιστεί πρώτα ανοιχτό υπόλοιπο ([[2026-09-01-marketing-coach-pause-google]], [[2026-09-10-petros-graphic-hours-pilot]]). Η εταιρεία του «Πέτρου» στο thread εκείνο δεν είναι σαφής και δεν έχει επιβεβαιωθεί ότι είναι ο Petros Goulas.
 
 ## Σημειώσεις
