@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -23,6 +23,7 @@ updated: 2026-11-11
 - Επόμενο: «The Circle of Dining γύρισμα» 2026-10-22 13:00 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Asana «αποστολή προσκλήσεων dinner» (xenia dinner) — **Δήμος** — ⚠️ εκπρόθεσμο από 2026-11-11· η Ιωάννα ρωτά «Το στείλαμε?» 2026-11-12 και αν μπαίνει το όνομα του Γεωργιάδη στο email ([[2026-11-12-asana-xenia-dinner-proskliseis]])
 - [ ] Asana «google ads» — Δήμος — **2026-11-09** (Asana)
 - [ ] «Chef Georgiadis εδώ» — 2026-11-06 16:00 ([[2026-11-03_2026-11-10]])
 - [ ] Εξόφληση #1292 (μοντάζ 2ου επεισοδίου) — πελάτης — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
@@ -58,6 +59,7 @@ updated: 2026-11-11
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
+- 2026-11-12 — Asana «xenia dinner»: η Ιωάννα ρωτά τον Δήμο αν στάλθηκαν οι προσκλήσεις· προτεινόμενο κείμενο με τον Γεωργιάδη ως έναν από τους τρεις chefs ([[2026-11-12-asana-xenia-dinner-proskliseis]]).
 - 2026-11-10 — Asana: task «website» ανατέθηκε στον Δήμο (λήξη 2026-11-20)· podcast3 (Chef Γεωργιάδης 💭): η Ιωάννα ζητά από τον Δήμο να δει first cut και cover (λήξη 18/11) ([[2026-11-10-asana-omada-mikra]]).
 - 2026-11-02 — Meta receipt **The Dining Society 40,00 €** (από 2026-11-01, χρέωση 22:05) — 💭 Υπόθεση: η πληρωμή του ad account λειτουργεί ξανά μετά τα declined 30–31/10. Τιμολόγια Νοεμβρίου (Circle of Dining + Γεωργιάδης) από το λογιστήριο ([[2026-11-03-admin-eidopoiiseis]]).
 - 2026-10-30/31 — Meta: απορρίφθηκε η πληρωμή του ad account «The Dining Society» — λογαριασμός disabled, ads σε παύση (💭 Υπόθεση: είναι ο λογαριασμός του Circle of Dining) ([[2026-11-02-admin-eidopoiiseis]]).

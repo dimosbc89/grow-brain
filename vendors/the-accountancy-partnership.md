@@ -3,7 +3,7 @@ type: vendor
 title: "The Accountancy Partnership (TAP)"
 aliases: [TAP, The Accountancy Partnership, theaccountancy.co.uk]
 status: ενεργός
-updated: 2026-10-30
+updated: 2026-11-13
 ---
 # The Accountancy Partnership (TAP)
 > Online λογιστικό γραφείο στο UK. Επιλέχθηκε στις 2026-10-14 ως λογιστής της [[grow-360-ltd]]. Το onboarding είναι σε εξέλιξη αλλά μπλοκαρισμένο από ένα απλήρωτο τιμολόγιο.
@@ -27,6 +27,8 @@ updated: 2026-10-30
 - **Ομάδα GROW:** [[marina-papanastasiou]] (επιβεβαίωσε στην TAP ότι προχωράμε· η αναλυτική προσφορά ήρθε 2026-10-12· παίρνει τα forwards). Ο Δήμος, ως director.
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-13: νέο αυτόματο «Missing Setup Information» (03:03) — λείπει ακόμα το Companies House Auth Code της [[grow-360-ltd]]· κίνδυνος HMRC penalties ([[2026-11-12-admin-eidopoiiseis]]).
+
 Στις 2026-10-28:
 - Η Natalie Hughes (Admin Junior) υπενθύμισε 2026-10-27 ότι τα **P-388148** (Reg fee) και **P-388149** (CH ID) είναι πληρωτέα **έως 2026-10-30**· δεν κάνουν υποβολές πριν την πληρωμή ([[2026-10-27-tap-ypenthymisi-p388148-p388149]]).
 
@@ -36,6 +38,7 @@ updated: 2026-10-30
 - Εκκρεμούν και τα έγγραφα AML ([[2026-10-16-accountancy-partnership-aml-check]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Companies House Auth Code στο Client Hub (Account Setup → Submit Changes) — Δήμος — ζητείται από 2026-10-16, νέα υπενθύμιση 2026-11-13 ([[2026-11-12-admin-eidopoiiseis]])
 - [ ] Πληρωμή P-388148 και P-388149 (ποσά μόνο στα PDF) — Δήμος — **έως 2026-10-30** (εκκρεμεί από 2026-10-19) ([[2026-10-19-accountancy-partnership-account-blocked]], [[2026-10-27-tap-ypenthymisi-p388148-p388149]])
 - [ ] Έγγραφα AML: photo ID και αποδεικτικό διεύθυνσης τελευταίου τριμήνου — Δήμος/Μαρίνα — χωρίς ημερομηνία ([[2026-10-16-accountancy-partnership-aml-check]])
 - [ ] Link για initial consultation από τον Jamie — TAP — έως 2026-10-20 (2 εργάσιμες από 2026-10-16) ([[2026-10-16-accountancy-partnership-welcome]])
@@ -48,6 +51,7 @@ updated: 2026-10-30
 - 2026-10-14 → [[2026-10-14-logistis-uk-the-accountancy-partnership]].
 
 ## Χρονολόγιο
+- 2026-11-13 — Αυτόματο «Missing Setup Information»: Companies House Auth Code για Grow 360 Ltd ([[2026-11-12-admin-eidopoiiseis]]).
 - 2026-10-30 — Αυτόματο «Missing Setup Information»: ζητούν Companies House Auth Code μέσω Client Hub. Πληρωμή P-388148/P-388149 λήγει σήμερα 30/10 ([[2026-10-30-tap-client-hub-auth-code]]).
 - 2026-10-27 — Natalie Hughes: «polite reminder» για P-388148 και P-388149, λήξη 2026-10-30 ([[2026-10-27-tap-ypenthymisi-p388148-p388149]]).
 - 2026-10-23 — «Missing Setup Information»: ζητά Companies House auth code για Grow 360 Ltd ([[2026-10-23-accountancy-missing-setup]]).

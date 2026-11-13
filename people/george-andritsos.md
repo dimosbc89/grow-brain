@@ -3,7 +3,7 @@ type: person
 title: "George Andritsos"
 aliases: [Γιώργος Ανδρίτσος, gandritsos.com, george@gandritsos.com]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-13
 ---
 # George Andritsos
 > Εξωτερικός web developer που υλοποιεί το WooCommerce e-shop της [[tandem-concept]] με βάση τα reviews της GROW.
@@ -18,12 +18,14 @@ updated: 2026-11-03
 - Το design review της Tandem έκλεισε στις 2026-10-08· μένει ανοιχτό το στήσιμο της Gift Card ([[2026-10-08-tandem-review-eshop-developer]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Divino: αφαίρεση Άρτας + βίντεο αρχικής σε πλαίσιο· αγγλική εκδοχή μόλις έρθουν τα κείμενα — Γιώργος — από 2026-11-12 ([[2026-10-13-divino-feedback-site-update-2026-11-13]])
 - [ ] Πώς θα στηθεί η Gift Card — George Andritsos — ανοιχτό στις 2026-10-08 ([[2026-10-08-tandem-review-eshop-developer]])
 
 ## Αποφάσεις
 - —
 
 ## Χρονολόγιο
+- 2026-11-12 — Divino: η Βασιλική του ζητά αφαίρεση Άρτας από τον χάρτη + βίντεο αρχικής σε πλαίσιο· θα περάσει και την αγγλική εκδοχή με κείμενα της GROW ([[2026-10-13-divino-feedback-site-update-2026-11-13]]).
 - 2026-11-02 — Divino: περνά Κοζάνη/Θεσσαλονίκη, χάρτη στην Αρχική και νέες φωτογραφίες· δουλεύει mobile, προτείνει ακριβείς διευθύνσεις pins και νέο layout Homepage ([[2026-10-13-divino-feedback-site-update-2026-11-03]]).
 - 2026-11-02 — [[divino]]: χάρτης αντιπροσώπων έτοιμος για έλεγχο από τη Μαρίνα ([[2026-10-13-divino-feedback-site-update-2026-11-02]]).
 - 2026-10-29 — Ολοκλήρωσε email ραντεβού + Brevo για pharmacypan ([[2026-10-20-pharmacypan-auto-emails-update-2026-10-30]]).

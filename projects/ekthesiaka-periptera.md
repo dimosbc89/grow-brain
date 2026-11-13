@@ -3,7 +3,7 @@ type: project
 title: "Εκθεσιακά περίπτερα (booth design & build)"
 aliases: [εκθεσιακά περίπτερα, περίπτερα, booths, expo design & build, expo booths]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 # Εκθεσιακά περίπτερα
 > Γραμμή υπηρεσιών της GROW για σχεδιασμό και κατασκευή custom εκθεσιακών περιπτέρων, μαζί με περιφερειακές υπηρεσίες. Εδώ συγκεντρώνονται όλοι οι πελάτες και τα leads περιπτέρων.
@@ -35,6 +35,9 @@ updated: 2026-11-12
 Από παλαιότερες συνομιλίες: ιδέες περιπτέρου για την Kouvelas S.A. ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-12)
+- XENIA ([[greenmart-antemisaris]]), αργότερα στις 2026-11-12: ανάρτηση **καταχωρήθηκε** στην Expowork (823,36 € + 715,43 €, πλήρωσε ο πελάτης)· η Expopiece έστειλε **νέα προσφορά V2** στον Δήμο (καπέλο, προβολείς, τράσσα· ποσό στο PDF) με νέα προκαταβολή — υπογραφή «άμεσα»· άφιξη ογκωδών 2026-11-16, μελαμίνες ~Τετάρτη 18/11 ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]], [[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]]).
+
+*Νωρίτερα στις 2026-11-12:*
 - **Στις 2026-11-12:** στις 2026-11-11 στάλθηκαν **4 νέες προσφορές περιπτέρου**: [[enersys]] (Agrothessaly 2027, μετά από meeting με τον Δήμο 2026-11-06), [[cryo]] (CosmoEstetica, μετά από συνάντηση 2026-11-10), [[tsianakas-packaging]] (Global Pack 2027, Agency Fee έως 50 τ.μ.) — όλες από τη Μαρίνα — και [[divino]] (HORECA 2027, από τη Βασιλική, απάντηση ζητήθηκε **έως 2026-11-19** λόγω περιορισμένου capacity). Ποσά μόνο στα PDF ([[2026-11-11-enersys-prosfora-periptero]], [[2026-11-11-cryo-prosfora-periptero]], [[2026-11-11-tsianakas-prosfora-periptero]], [[2026-11-11-divino-horeca-2027-prosfora-periptero]]).
 - XENIA ([[greenmart-antemisaris]]): έγγραφα ανάρτησης + σχέδιο κρέμασης Expopiece στάλθηκαν στην Expowork 2026-11-11 20:54· Audio-Tech «ως έχει» ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]], [[2026-10-16-audiotech-led-xenia-update-2026-11-12]]).
 
@@ -51,6 +54,7 @@ updated: 2026-11-12
 - Τρία leads ([[deturbo]], [[primowear]], [[metlen]]) δεν έχουν καταγεγραμμένο επόμενο βήμα μετά τον Σεπτέμβριο.
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] XENIA: υπογραφή Expopiece V2 + νέα προκαταβολή — **Δήμος** — άμεσα, από 2026-11-12 ([[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]])
 - [ ] Απάντηση Divino στην προσφορά HORECA 2027 — Λετκας — **έως 2026-11-19** + call για τις υπόλοιπες προτάσεις — Βασιλική ([[2026-11-11-divino-horeca-2027-prosfora-periptero]])
 - [ ] Follow-up προσφορών Enersys / Cryo / Tsianakas (στάλθηκαν 2026-11-11) — Μαρίνα — χωρίς προθεσμία ([[2026-11-11-enersys-prosfora-periptero]], [[2026-11-11-cryo-prosfora-periptero]], [[2026-11-11-tsianakas-prosfora-periptero]])
 - [x] Argyroplastics: προσφορά κατασκευαστικών — Μαρίνα — ✓ εγκρίθηκε 2026-10-26 ([[2026-10-26-plastica-offer-kataskevastika]])
@@ -73,6 +77,7 @@ updated: 2026-11-12
 - Πρώτα στέλνουμε δημιουργικό πλαίσιο (κάτοψη, φωτορεαλιστικό, activations) και αναλυτική κοστολόγηση μετά το feedback (GameStuff, 2026-09-07) ([[2026-09-07-gamestuff-fantasy-festival-booth]]).
 
 ## Χρονολόγιο
+- 2026-11-12 — XENIA: καταχώρηση ανάρτησης Expowork· Expopiece V2 προσφορά· ηλεκτρολογικό σχέδιο ζητήθηκε ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]], [[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]], [[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]]).
 - 2026-11-11 — Προσφορές περιπτέρου προς [[enersys]] (Agrothessaly 2027), [[cryo]] (CosmoEstetica), [[tsianakas-packaging]] (Global Pack 2027) από τη Μαρίνα και προς [[divino]] (HORECA 2027, απάντηση έως 19/11) από τη Βασιλική. XENIA: έγγραφα ανάρτησης στην Expowork ([[2026-11-11-enersys-prosfora-periptero]], [[2026-11-11-cryo-prosfora-periptero]], [[2026-11-11-tsianakas-prosfora-periptero]], [[2026-11-11-divino-horeca-2027-prosfora-periptero]], [[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]).
 - 2026-11-10 — Η Μαρίνα έστειλε στην ELMON (anthi@elmon.com) προσφορά περιπτέρου **DEFEA 2027** (ποσά στο PDF)· αναμονή ([[2026-11-10-elmon-defea-2027-prosfora-periptero]]). Κριματόγλου: ζήτησε περίπτερο **HORECA 2027**, Hall 3, C22 + C24/D27 = **92,75 τ.μ.**· Meet 17:00 — αποτέλεσμα ασαφές ([[2026-11-10-krimatoglou-horeca-2027-periptero]]) — βλ. [[elmon]], [[krimatoglou]].
 - 2026-11-09 — Το «Ράλλης (περίπτερο) εδώ» μεταφέρθηκε στις 2026-11-10 14:00 ([[2026-11-10_2026-11-17]]).

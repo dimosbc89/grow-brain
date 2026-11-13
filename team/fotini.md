@@ -3,7 +3,7 @@ type: team
 title: "Φωτεινή (fotini@)"
 aliases: [Fotini, Foteini, Φωτεινή, fotini@growagency.online]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-11-13
 ---
 # Φωτεινή (fotini@)
 > Μέλος της ομάδας GROW με email fotini@growagency.online. Ο ρόλος της είναι ασαφής· έχει πάρει RAW φωτογραφίες και brief περιπτέρου.
@@ -20,10 +20,14 @@ updated: 2026-10-21
 - [[argyroplastics]] — της προωθήθηκε το brief του περιπτέρου Plastica 2026 στις 2026-10-19, μαζί με τη Βάσια. Πιθανώς για σχεδιασμό, ασαφές ([[2026-10-20-argyroplastics-plastica-2026]]).
 - Παραλήπτρια του «AI Workshop Vol2 Q3» ([[2026-09-08-ai-workshop-vol2-q3]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- Μοντάρει το **podcast3** (The Hospitality Jam): στις 2026-11-11/12 πήρε από την [[ioanna-chalkiadaki]] δύο γύρους κοψιμάτων, διόρθωση διπλής φωνής από ~7' και φωτογραφίες πιάτου για b-roll ([[2026-11-11-asana-podcast3-first-cut]]).
+
+*Από 2026-10-20:*
 - Τελευταία ανάθεση: το brief της Argyroplastics (2026-10-19) ([[2026-10-20-argyroplastics-plastica-2026]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Νέο cut podcast3 με τις σημειώσεις της Ιωάννας + διόρθωση διπλής φωνής — Φωτεινή — προθεσμία ασαφής (cover due 2026-11-18) ([[2026-11-11-asana-podcast3-first-cut]])
 - [ ] Ποια επεξεργασία χρειάζονται οι RAW φωτογραφίες «episode 1 chef» — ασαφές, από 2026-09-18 ([[2026-09-18-photos-episode-1-chef]])
 - [ ] Τι χρειάζεται από αυτήν για το περίπτερο Argyroplastics — ασαφές, από 2026-10-19 ([[2026-10-20-argyroplastics-plastica-2026]])
 
@@ -31,6 +35,8 @@ updated: 2026-10-21
 - —
 
 ## Χρονολόγιο
+- 2026-11-12 — Λαμβάνει σημειώσεις μοντάζ podcast3 (2η εκδοχή) και Dropbox με φωτό πιάτου για b-roll ([[2026-11-11-asana-podcast3-first-cut]]).
+- 2026-11-11 — 1ος γύρος σημειώσεων στο podcast3 first cut ([[2026-11-11-asana-podcast3-first-cut]]).
 - 2026-10-21 — Asana (ως «Fotini Pournara»): 27 ανοιχτά (22 εκπρόθεσμα, 4 χωρίς due). Κύριος φόρτος: Yiayia (4), Barbaggio (3), Georgiadis chef, Jardin, Chef Tsaparas, Krema (από 2), βίντεο podcast («Podcast2 Edit» due 2026-10-15, «podcast soundtrack» due 2026-09-22), καταστήματα Ιθώμης (Βύρωνας) και Τμώλου. ✓ «banners site» της GROW 2026-10-19, Podcast1 Edit 2026-10-08 ([[2026-10-21-asana-snapshot]]).
 - 2026-10-19 — Παίρνει το brief Argyroplastics ([[2026-10-20-argyroplastics-plastica-2026]]).
 - 2026-09-18 — Παίρνει RAW φωτογραφίες «Photos episode 1 chef» ([[2026-09-18-photos-episode-1-chef]]).

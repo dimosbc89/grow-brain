@@ -3,7 +3,7 @@ type: team
 title: "Δέσποινα Βελισσαρίου"
 aliases: [Despina Velissariou, Δέσποινα, Despina, despina@growagency.online]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 # Δέσποινα Βελισσαρίου
 > Senior Account Manager της GROW. Τρέχει events, χορηγίες ([[hellenic-heritage-evolution]], [[rejuv-collective-solace]]), influencers και το e-shop της [[tandem-concept]]. Είναι και στα meetings των περιπτέρων.
@@ -33,7 +33,13 @@ updated: 2026-11-12
 - Άλλα calls στο ημερολόγιο: «CKBG x Grow Projects» 2026-07-27, «John Miaris x Grow Agency» 2026-08-05, «Grow Agency x Erasmus» 2026-09-03 (με τη [[laurine-erasmus]]), «Δέσποινα κέντρο» 2026-09-14, «Έκθεση αυτοκινήτου- Δέσποινα» 2026-10-09 ([[2026-07-20_2026-11-03]]).
 - **Admin:** της στέλνονται για εκτύπωση τιμολόγια [[metalease]] και αποδείξεις Anthropic/DataForSEO ([[2026-07-22-metalease-timologio-c3c6]], [[2026-10-16-metalease-timologio-dc62]], [[2026-10-16-anthropic-receipt-extra-usage]], [[2026-07-24-dataforseo-receipt]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **Στις 2026-11-12:** XENIA/[[greenmart-antemisaris]] — έκλεισε την ανάρτηση στην Expowork (δελτία υπογραφή/εξόφληση από πελάτη, καταχωρήθηκε)· ζήτησε από την Expopiece ηλεκτρολογικό σχέδιο (5 × 32A / 40A) και ρωτά για ηλεκτρολόγο· εκκρεμεί η παραγγελία ρεύματος στο sales@expowork.gr ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]], [[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-13]], [[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]]).
+
+*Επίσης στις 2026-11-12:*
+- [[global-foods]]: στις 2026-11-12 ξανάστειλε το Dropbox raw ZEO (λήγει 2027-01-31, η Ελπίδα το δέχτηκε) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]])· στο πλάνο Unique περιμένει απάντηση σε 2 posts, ενώ η Εύη ρωτά για αλλαγές στα υπόλοιπα — ανοιχτό ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-13]]). Η Ελπίδα της επανέφερε το Rummo ([[2026-10-08-globalfoods-rummo-saltses-update-2026-11-13]]). Παραλήπτρια (με Δήμο/Μαρίνα) του αιτήματος μετάφρασης FISAN έως 2026-11-18 ([[2026-11-12-globalfoods-fisan-metafrasi]]).
+
+*Από 2026-10-28:*
 - **Στις 2026-10-28:** [[global-foods]] — ✓ reel Unique x Zeo στάλθηκε 2026-10-27· 6 εκδοχές δισέλιδου Οικονομικού Οδηγού, τελικό υποσχέθηκε για **Πέμπτη 2026-10-29**· raw Πρεσβείας στάλθηκαν. XENIA — κάτοψη 8,5 × 11 + αίτημα κατασκευής πίσω από video wall στην [[expopiece]], υποσχέθηκε νέα κάτοψη **Πέμπτη 2026-10-29**· ζήτησε kW από την [[audio-tech]]. [[barbaggio]] — ζήτησε ανάπτυγμα κουτιών και παρήγγειλε αυτοκόλλητα 7 + 10 cm (2.500 το καθένα). Αποδέχθηκε «ΗΗΕ x Grow» 2026-11-03 11:00. ⚠️ Έχει εγκεκριμένη άδεια 2026-10-29/30 ([[2026-09-23-adeia-despina-29-30-10]]) — οι δεσμεύσεις της Πέμπτης (κάτοψη XENIA, δισέλιδο, reel της Μαρίνας) πέφτουν μέσα στην άδεια· για τη XENIA έγραψε «είτε εγώ, είτε τα παιδιά» ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]], [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]], [[2026-10-27-barbaggio-koutia-anaptygma]], [[2026-10-27-barbaggio-aftokollita]], [[2026-10-27-hhe-meeting-2026-11-03-accepted]]).
 - Στις 2026-10-26: [[global-foods]] — posts 28ης Οκτωβρίου εγκρίθηκαν· δεσμεύτηκε για reel ZEO έως 2026-10-27 και 2 εταιρικά βίντεο έως 2026-10-30. XENIA/[[greenmart-antemisaris]] — απάντησε στις ερωτήσεις της [[expopiece]], χρωστά επίσημη κάτοψη + kW video wall. Plastica/[[argyroplastics]] — κλείδωσε 1 οθόνη 75'' (450 €) από Botsaris ([[2026-10-26-globalfoods-28i-oktovriou-posts]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]], [[2026-10-20-enoikiasi-othonon-botsaris-update-2026-10-27]]).
 
@@ -42,6 +48,12 @@ updated: 2026-11-12
 - Meeting με την Argyroplastics σήμερα 14:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Κυνηγά προσφορά [[itqs]] για το δίκτυο του γραφείου (μετά από ραντεβού του Δήμου) — Δέσποινα — email 2026-11-12 18:17 ([[2026-11-12-itqs-prosfora-diktyo-grafeiou]])
+- [ ] XENIA: παραγγελία ρεύματος → sales@expowork.gr — Δέσποινα — από 2026-11-12 ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-13]])
+- [ ] XENIA: φωτισμός — «επανερχόμαστε» προς Expopiece — Δέσποινα — από 2026-11-12 ([[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]])
+- [ ] Global Foods: απάντηση στην Εύη για τις αλλαγές στα υπόλοιπα posts Unique — Δέσποινα — από 2026-11-12 13:35 ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-13]])
+- [ ] Global Foods: φυλλάδιο + video σαλτσών Rummo — Δέσποινα — επαναφορά 2026-11-12 ([[2026-10-08-globalfoods-rummo-saltses-update-2026-11-13]])
+- [ ] Global Foods: μετάφραση παρουσίασης FISAN — ποιος από GROW: ασαφές — **έως 2026-11-18** ([[2026-11-12-globalfoods-fisan-metafrasi]])
 - [ ] Slot ωρών εγκατάστασης οθόνης (2026-11-05) προς Botsaris — Δέσποινα — **2026-11-03** ([[2026-10-20-enoikiasi-othonon-botsaris-update-2026-11-03]])
 - [x] Reel ZEO για [[global-foods]] — Δέσποινα — ✓ στάλθηκε 2026-10-27 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]])
 - [ ] Τελικό δισέλιδο Οικονομικού Οδηγού (μικρή αλλαγή κειμένου) — Δέσποινα — **2026-10-29** (⚠️ μέρα άδειας) ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]])
@@ -63,6 +75,9 @@ updated: 2026-11-12
 - 2026-07-24: οδηγία του Δήμου να μπει απονομή βραβείου στο gala στην πρόταση προς Viber ([[2026-07-24-viber-heritage-escape-ideas]]).
 
 ## Χρονολόγιο
+- 2026-11-12 — Email στην [[itqs]]: αναμένουμε την προσφορά μετά το ραντεβού με τον Δήμο· η δυσλειτουργία του δικτύου επηρεάζει καθημερινά τη δουλειά ([[2026-11-12-itqs-prosfora-diktyo-grafeiou]]).
+- 2026-11-12 — XENIA: δελτία Expowork προς πελάτη (823,36 € + 715,43 €) → υπογραφή/εξόφληση → καταχώρηση ανάρτησης· ηλεκτρολογικά προς Expopiece ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]], [[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-13]], [[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]]).
+- 2026-11-12 — 10:52 / 11:16 Dropbox raw ZEO στην Ελπίδα (WeTransfer καθυστερεί λόγω βλάβης internet) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]]). 13:21 tag στα σχόλια Canva, ζητά απάντηση σε 2 posts Unique ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-13]]).
 - 2026-11-11 — XENIA: κάτοψη ανάρτησης με Expowork, σχέδιο κρέμασης Expopiece → Expowork 20:54, «ως έχει» στην Audio-Tech ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]], [[2026-11-11-expopiece-kremasi-antemisaris]], [[2026-10-16-audiotech-led-xenia-update-2026-11-12]])· «Προς έγκριση» στο [[barbaggio]] ([[2026-11-11-barbaggio-pros-egkrisi]])· αίτημα αποδεικτικού πληρωμής Print Kong στην [[hellenic-heritage-evolution]] ([[2026-11-11-hhe-timologia-tsiklitiria-printkong]]).
 - 2026-11-11 — Global Foods: η Ελπίδα της ζητά link raw υλικού ZEO, ρωτά «παγκόσμιες ημέρες?» για Global/Unique και της προωθεί επιστολή του Ιταλού Πρέσβη για τον κ. Θανάση Τσάτση — όλα ανοιχτά ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-12]], [[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-unique-pagkosmies-imeres]], [[2026-11-11-globalfoods-epistoli-presvi-italias]]).
 - 2026-11-02 — Επέστρεψε· επιβεβαιώνει στον Botsaris 1 × 75'' για Plastica, στήσιμο 2026-11-05 απόγευμα ([[2026-10-20-enoikiasi-othonon-botsaris-update-2026-11-03]]).

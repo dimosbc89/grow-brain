@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -19,6 +19,14 @@ updated: 2026-11-12
 - **Ομάδα GROW:** ο Δήμος (app, Ads report, προτάσεις)· [[marina-papanastasiou]] (συντονισμός event)· [[despina-velissariou]] (event, φυλλάδιο, βιντεογράφος) ([[2026-10-02-globalfoods-live-projector-videographer]], [[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-12)
+**Νέα της 2026-11-12:**
+- Η [[evi-psycha]] ζήτησε **μετάφραση EN→EL της παρουσίασης FISAN**, έτοιμη **έως 2026-11-18** (παρουσίαση στην εταιρεία)· χωρίς απάντηση GROW ακόμα ([[2026-11-12-globalfoods-fisan-metafrasi]]).
+- Tips site: η [[marina-papanastasiou]] απάντησε στο ύφος — μένει η **μορφή FAQ**, έστειλε 7 κείμενα σπασμένα σε σύντομες ερωτοαπαντήσεις· το **Spianata** το ζητά από τη Global Foods ([[2026-10-09-globalfoods-tips-site-update-2026-11-13]]).
+- Πλάνο social Unique: η Εύη «δεν βλέπει τις αλλαγές» και ρωτά αν θα γίνουν και οι αλλαγές «στα άλλα ποστ»· η Δέσποινα ζητά απάντηση σε 2 posts — μένει ανοιχτό ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-13]]).
+- Raw υλικό ZEO: ξαναστάλθηκε το Dropbox link (λήγει 2027-01-31)· η Ελπίδα το δέχτηκε αντί για WeTransfer ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]]).
+- Rummo σάλτσες: η Ελπίδα το επανέφερε («αυτό είναι που λέγαμε… σας το είχα στείλει τον Οκτώβριο»)· ρωτά την Εύη αν στάλθηκε υλικό ([[2026-10-08-globalfoods-rummo-saltses-update-2026-11-13]]).
+
+*Από 2026-11-11:*
 - Στις 2026-11-11 ο Δήμος έστειλε **ανανεωμένη πρόταση The Hospitality Jam: 8.000€ για 8+1 επεισόδια**, ονομαστική χορηγία σειράς, αποκλειστικότητα κατηγορίας 6 μηνών, επεισόδιο με τον κ. Θανάση (γύρισμα Δεκ./αρχές Ιαν., δημοσίευση πριν τη HORECA)· περιμένει σχόλια Ελπίδας ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]]).
 - Το βράδυ της 2026-11-11 η [[elpida-plavou]] έστειλε σειρά αιτημάτων: «Kind reminder» στον Δήμο για το reel Πρεσβείας ~30'' (ζητήθηκε 2026-11-04), link raw υλικού ZEO στη Δέσποινα, «παγκόσμιες ημέρες?» για Global και Unique (μόνο εικόνες), επιστολή του Ιταλού Πρέσβη Paolo Cuculi «να παραδοθεί στον κ. Θανάση Τσάτση» ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-12]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-12]], [[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-unique-pagkosmies-imeres]], [[2026-11-11-globalfoods-epistoli-presvi-italias]]).
 - «SOS ΠΑΡΑΓΓΕΛΙΕΣ» (2026-11-11 14:41) για έναν πελάτη του app: ο Δήμος έστειλε 5 PDF (exports παραγγελιών 2023–2026) μέσα στο απόγευμα ([[2026-11-11-globalfoods-sos-paraggelies]]).
@@ -41,23 +49,29 @@ updated: 2026-11-12
 - Στο ημερολόγιο: «Πρεσβεία Global - Despina» 2026-10-22 16:00 — 💭 Υπόθεση: αφορά τη Global Foods, ασαφές ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-13**
+- [ ] **Μετάφραση παρουσίασης FISAN EN→EL** — GROW (ποιος: ασαφές) — **έως 2026-11-18** ([[2026-11-12-globalfoods-fisan-metafrasi]])
+- [ ] Αλλαγές στα υπόλοιπα posts του πλάνου Unique + απάντηση στην Εύη («θα γίνουν μετά?») — [[despina-velissariou]] — από 2026-11-12 ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-13]])
+- [ ] Spianata σε μορφή FAQ + έγκριση των 7 τροποποιημένων Tips — Global Foods — από 2026-11-12 ([[2026-10-09-globalfoods-tips-site-update-2026-11-13]])
+- [ ] Rummo: υλικό από Rummo (Εύη) → φυλλάδιο deli + video social — Δέσποινα — επαναφορά 2026-11-12 ([[2026-10-08-globalfoods-rummo-saltses-update-2026-11-13]])
+
 **Νέα στις 2026-11-12**
 - [ ] **Reel Πρεσβείας ~30''** (πιο αργές εναλλαγές, λιγότερος κόσμος) — Δήμος — ζητήθηκε 2026-11-04, **kind reminder 2026-11-11** ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-12]])
 - [ ] Σχόλια Ελπίδας στην πρόταση Hospitality Jam 8.000€ — Global Foods — από 2026-11-11 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]])
 - [ ] Δημιουργικές ιδέες προβολής/product placement στα επεισόδια — [[ioanna-chalkiadaki]] — χωρίς ημερομηνία ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]])
-- [ ] Link raw υλικού (ZEO) ξανά στην Ελπίδα — [[despina-velissariou]] — από 2026-11-11 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-12]])
+- [x] Link raw υλικού (ZEO) ξανά στην Ελπίδα — [[despina-velissariou]] — ✓ 2026-11-12 10:52 (Dropbox, λήγει 2027-01-31) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]])
 - [ ] Απάντηση «παγκόσμιες ημέρες?» Global + Unique — Δέσποινα — από 2026-11-11 ([[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-unique-pagkosmies-imeres]])
 - [ ] Επιστολή Πρέσβη Ιταλίας προς κ. Θανάση Τσάτση — τι ζητείται από τη GROW: ασαφές — Δέσποινα — από 2026-11-11 ([[2026-11-11-globalfoods-epistoli-presvi-italias]])
 - [x] «SOS ΠΑΡΑΓΓΕΛΙΕΣ»: exports παραγγελιών — Δήμος — ✓ 2026-11-11 15:14–18:38 (επιβεβαίωση παραλαβής ασαφής) ([[2026-11-11-globalfoods-sos-paraggelies]])
 
 - [ ] **Απάντηση στην Ελπίδα: γύρισμα ταρτάκια Τετάρτη 2026-11-11 10:00;** — Δήμος — έως 2026-11-10 ([[2026-11-09-globalfoods-tartakia-tetarti]])
 - [ ] SOS: πιο έντονη παρουσίαση στο italia.gr — GROW (Δήμος/Δέσποινα/Μαρίνα) — από 2026-11-09 ([[2026-11-09-globalfoods-sos-italiko-epimelitirio]])
-- [ ] Feedback στο ύφος κειμένων Tips — [[despina-velissariou]]/[[marina-papanastasiou]] — από 2026-11-02, υπενθύμιση 2026-11-06 ([[2026-10-09-globalfoods-tips-site-update-2026-11-09]])
+- [x] Feedback στο ύφος κειμένων Tips — [[marina-papanastasiou]] — ✓ 2026-11-12 13:50 (μορφή FAQ, 7 κείμενα διορθωμένα) ([[2026-10-09-globalfoods-tips-site-update-2026-11-13]])
 - [ ] Reel Πρεσβείας ~30'' — Δήμος — βλ. «Νέα στις 2026-11-12» ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-06]])
 - [ ] **Τηλέφωνο στην Ελπίδα** για το reel Πρεσβείας (λιγότερα πρόσωπα, πιάτα/προϊόντα, όνομα event) — Δήμος — από 2026-11-03 18:20 ([[2026-11-03-globalfoods-italiki-presveia-reel]])
 - [ ] Κλείσιμο «παλιών εκκρεμοτήτων» που ζητά η Ελπίδα — Δήμος / Δέσποινα — από 2026-11-03 ([[2026-11-03-globalfoods-custom-folder]])
 - [ ] Πρόταση content για μεριδοποιημένα toppings — Δέσποινα ([[2026-11-03-globalfoods-toppings]])
-- [ ] Feedback στο ύφος των tips (8 Word) — [[despina-velissariou]] / [[marina-papanastasiou]] — από 2026-11-02 ([[2026-10-09-globalfoods-tips-site-update-2026-11-03]])
+- [x] Feedback στο ύφος των tips (8 Word) — [[marina-papanastasiou]] — ✓ 2026-11-12 ([[2026-10-09-globalfoods-tips-site-update-2026-11-13]])
 - [ ] Έγκριση posts εβδομάδας (Canva Global/Unique) — Global Foods — από 2026-11-02 ([[2026-11-02-globalfoods-unique-social-posts]])
 - [ ] «Landing Offer» — προσφορά για εισαγωγική σελίδα στο site τους «όπως Overoll» — Δήμος (Asana, ανάθεση Μαρίνας 2026-10-26, χωρίς προθεσμία) ([[2026-10-29-admin-eidopoiiseis]])
 **Νέα στις 2026-10-28**
@@ -121,6 +135,7 @@ updated: 2026-11-12
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-11-12 — 10:52 Δέσποινα ξαναστέλνει Dropbox raw ZEO· 11:31 η Ελπίδα δέχεται Dropbox αντί WeTransfer. 13:17–13:35 η Εύη δεν βλέπει τις αλλαγές στο πλάνο Unique, ρωτά για τα «άλλα ποστ». 13:50 η Μαρίνα επιστρέφει τα Tips σε μορφή FAQ (εκτός Spianata). 14:57 η Ελπίδα επαναφέρει τις σάλτσες Rummo. 16:59 η Εύη ζητά μετάφραση παρουσίασης FISAN έως 2026-11-18 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]], [[2026-11-02-globalfoods-unique-social-posts-update-2026-11-13]], [[2026-10-09-globalfoods-tips-site-update-2026-11-13]], [[2026-10-08-globalfoods-rummo-saltses-update-2026-11-13]], [[2026-11-12-globalfoods-fisan-metafrasi]]).
 - 2026-11-11 — 14:26 ο Δήμος στέλνει ανανεωμένη πρόταση Hospitality Jam 8.000€ (8+1 επεισόδια, χορηγία σειράς, 6μηνη αποκλειστικότητα, επεισόδιο με κ. Θανάση πριν τη HORECA). 14:41 «SOS ΠΑΡΑΓΓΕΛΙΕΣ» → ο Δήμος στέλνει 5 PDF εξαγωγών παραγγελιών. 19:19 επιστολή Πρέσβη Paolo Cuculi για τον κ. Θανάση Τσάτση. 21:19 kind reminder για το reel Πρεσβείας. 21:29 FW MAVERIX → Δήμος 23:18 «παπατζής». 21:36/21:45 «παγκόσμιες ημέρες?» Global/Unique. 21:49 ζητά link raw υλικού ZEO ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]], [[2026-11-11-globalfoods-sos-paraggelies]], [[2026-11-11-globalfoods-epistoli-presvi-italias]], [[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-12]], [[2026-11-11-globalfoods-maverix-fw]], [[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-unique-pagkosmies-imeres]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-12]]).
 - 2026-11-10 — Η Ελπίδα έστειλε το PDF του demo ταρτάκια (σήμερα 2026-11-11 10:00)· ασαφές αν επιβεβαιώθηκε γύρισμα ([[2026-11-09-globalfoods-tartakia-tetarti-update-2026-11-11]]). Πρόγραμμα FISAN (Felipe) 17–21/11: 18/11 εταιρεία + ΚΑΒΑ ΝΕΚΤΑΡ Κηφισιά, 19/11 ΒΟΝΑΜΑ Γλυφάδα + ΤΟΡΑ Κυψέλη, 20/11 ΜΟΝΤΑΚΙΟΥ Ψυχικό ([[2026-11-10-globalfoods-fisan-presentation]]). Η Μαρίνα έστειλε πρόταση χορηγίας/παρουσίας στο podcast του Chef Γεωργιάδη — τιμές «συζητιούνται με τον Δήμο» ([[2026-11-10-globalfoods-podcast-georgiadis-protasi]]).
 - 2026-11-09 22:22 — Η Ελπίδα: Τετάρτη 2026-11-11 10:00 Ισπανοί προμηθευτές δείχνουν ταρτάκια/συνταγές στους πωλητές — ρωτά αν να τραβήξουμε πλάνα ([[2026-11-09-globalfoods-tartakia-tetarti]]).

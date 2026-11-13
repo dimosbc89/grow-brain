@@ -3,7 +3,7 @@ type: admin
 title: "Συνδρομές & εργαλεία λογισμικού"
 aliases: [subscriptions, SaaS, εργαλεία, Anthropic, Claude, Apify, Asana, HubSpot, DataForSEO, Scrape Creators, Google Workspace, ActiveCampaign]
 status: ενεργός
-updated: 2026-11-06
+updated: 2026-11-13
 ---
 # Συνδρομές & εργαλεία λογισμικού
 > Τα SaaS που πληρώνει η GROW (AI, scraping, SEO data, project management, CRM, email). Οι αποδείξεις και τα τιμολόγια πάνε στη Βασιλική ή στη Δέσποινα για το λογιστήριο.
@@ -26,14 +26,19 @@ updated: 2026-11-06
 - **Ομάδα:** [[vassiliki-giannopoulou]] παίρνει τις περισσότερες αποδείξεις. [[despina-velissariou]] πήρε DataForSEO και Anthropic extra usage («print») ([[2026-07-24-dataforseo-receipt]], [[2026-10-16-anthropic-receipt-extra-usage]]).
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-12:
+- **Apify security incident:** η Apify επιβεβαίωσε 2026-11-12 ότι τρίτος είδε (2026-11-09/10) στοιχεία του λογαριασμού: profile, billing (4 τελευταία ψηφία κάρτας), IP logins, κρυπτογραφημένο password, **ρυθμίσεις 2FA με recovery codes** και Google/GitHub sign-in tokens. Η Apify έκανε rotate API tokens και reset 2FA. Σύσταση: επαναρύθμιση 2FA, έλεγχος GitHub security log, προσοχή σε phishing ([[2026-11-12-admin-eidopoiiseis]]).
+- **Meta «adele»:** 2026-11-13 ξανά disabled — πληρωμή απορρίφθηκε, ads σε παύση ([[2026-11-12-admin-eidopoiiseis]]).
+
 Στις 2026-10-20:
 - Το Claude Max plan 5x τρέχει σε μηνιαίο κύκλο από τις 4 του μήνα (περίοδος 2026-09-04 → 2026-10-04 στην απόδειξη) ([[2026-09-07-anthropic-receipt-max-plan]]). Στις 2026-10-16 αγοράστηκε prepaid extra usage 76,50 € ([[2026-10-16-anthropic-receipt-extra-usage]]).
 - Το Apify χρεώνει με βάση τη χρήση. Τελευταία πληρωμή: 54,35 USD στις 2026-10-19 ([[2026-10-19-apify-invoice-payment]]).
 - Στις 2026-10-05 ήταν κλεισμένο demo για το «Revly Automated Review Growth System» της Axel Services, προωθημένο στη Μαρίνα. Αποτέλεσμα ασαφές ([[2026-09-30-revly-axel-services-appointment]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Apify: επαναρύθμιση 2FA, έλεγχος GitHub security log (αν είναι συνδεδεμένο), ενημέρωση API tokens σε ό,τι χρησιμοποιεί Apify (η Apify τα έκανε rotate) — Δήμος — από 2026-11-12 ([[2026-11-12-admin-eidopoiiseis]])
 - [ ] Reconnect Asana MCP connector πριν 17/11 — Δήμος ([[2026-11-06-admin-eidopoiiseis]])
-- [ ] **Meta: πληρωμή απορρίφθηκε για το ad account «adele»** (2026-11-02 15:26–15:29, disabled) — ποιος πελάτης; ενημέρωση τρόπου πληρωμής — Δήμος ([[2026-11-03-admin-eidopoiiseis]])
+- [ ] **Meta: πληρωμή απορρίφθηκε για το ad account «adele»** (2026-11-02 15:26–15:29, disabled) — ποιος πελάτης; ενημέρωση τρόπου πληρωμής — Δήμος ([[2026-11-03-admin-eidopoiiseis]]) · **ξανά 2026-11-13 06:59** (ID 561002792838183, disabled) ([[2026-11-12-admin-eidopoiiseis]])
 - [ ] **Meta / Facebook Ads: πληρωμή απορρίφθηκε για το ad account του [[grandpas]]** (2026-10-26 22:25) — ενημέρωση τρόπου πληρωμής + εξόφληση οφειλής, αλλιώς σταματούν τα ads· ποσό ασαφές — Δήμος ([[2026-10-26-admin-eidopoiiseis]])
 - [ ] Meta: το «product browsing» είναι **ενεργό από 2026-10-28** στα sales ads του business Antemisaris ([[greenmart-antemisaris]]). Το opt-out πριν την ενεργοποίηση δεν έγινε· κρατάμε ή κλείνουμε από Advantage+ creative / Destination — Δήμος ([[2026-10-26-admin-eidopoiiseis]], [[2026-10-28-admin-eidopoiiseis]])
 - [ ] Meta One στο portfolio KALISPERA Athenian Tapas: ανοίγει αυτόματα **2026-11-10**· κλείσιμο ή όχι από Business info — Δήμος ([[2026-10-28-admin-eidopoiiseis]])
@@ -49,6 +54,7 @@ updated: 2026-11-06
 - —
 
 ## Χρονολόγιο
+- 2026-11-12/13 — Apify: επιβεβαίωση security incident (πρόσβαση σε στοιχεία λογαριασμού/2FA)· Meta: «adele» ξανά disabled ([[2026-11-12-admin-eidopoiiseis]]).
 - 2026-11-04/05 — 3CX ανανέωση· Asana MCP final notice (17/11)· Apify Scale/220,77 USD· Meta payment declined ([[2026-11-06-admin-eidopoiiseis]]).
 - 2026-11-03 — Nord ανεστάλη (αποτυχημένη χρέωση)· Google OAuth clients carrots-website / wishbone διαγράφονται ~2026-12-03 ([[2026-11-04-admin-eidopoiiseis]]).
 - 2026-11-02 — Meta: ad account «adele» declined/disabled (3 ειδοποιήσεις). Receipts The Dining Society 40 € (22:05 — 💭 η πληρωμή δουλεύει ξανά), Koukos The Bar 45 €, Mama's Restaurant 10,97 €. Google Workspace τιμολόγιο 5728019006 (αυτόματη χρέωση) ([[2026-11-03-admin-eidopoiiseis]]).

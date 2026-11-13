@@ -3,7 +3,7 @@ type: team
 title: "Βάσια Κατάκη"
 aliases: [Vassia Kataki, Βάσια, Vassia, Vassia.K, vassia@growagency.online]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 # Βάσια Κατάκη
 > Graphic Designer της GROW. Της πηγαίνουν brand manuals, logo briefs, design e-shop/site, βίντεο και κατόψεις περιπτέρων.
@@ -35,6 +35,7 @@ updated: 2026-11-12
 - Το design του e-shop Tandem έκλεισε στις 2026-10-08· μένουν τελικές αλλαγές ([[2026-10-08-tandem-review-eshop-developer]], [[2026-10-12-tandem-eshop-final-notes]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] [[oggi-gelato]] T-shirts: απάντηση Επιλογής για εκτύπωση στην τιμή → επιλογή μοντέλου — Βάσια — από 2026-11-12 ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]])
 - [ ] Πιο σύντομο «YIAYIA_Meatball_Catcher_Promo.mp4» με άλλο τέλος — Βάσια/Βασιλική — χωρίς ημερομηνία ([[2026-10-16-yiayia-meatball-catcher-promo]])
 - [ ] Brief περιπτέρου Argyroplastics: τι ακριβώς χρειάζεται από αυτήν — ασαφές, από 2026-10-19 ([[2026-10-20-argyroplastics-plastica-2026]])
 - [ ] Κείμενα site Barbaggio: τι πρέπει να γίνει — ασαφές, από 2026-10-08 ([[2026-10-08-barbaggio-keimena-site]])
@@ -43,6 +44,7 @@ updated: 2026-11-12
 - —
 
 ## Χρονολόγιο
+- 2026-11-12 — 17:08 ρωτά την [[epilogin]] αν οι τιμές των μπλουζών Oggi περιλαμβάνουν εκτύπωση ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]]).
 - 2026-11-11 — Print Kong: αποδεικτικό πληρωμής εντύπου Αντεμισάρη ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]), εντολή plexi [[argyroplastics]] 60 € + ΦΠΑ ([[2026-10-19-plexiglass-argyroplastics-printkong-update-2026-11-12]]), παράδοση plexi/αυτοκολλήτων [[yiayia-meatballs]] στη GROW ([[2026-10-16-stand-plexi-printkong-update-2026-11-12]]).
 - 2026-11-02 — Argyroplastics: στέλνει στην Epilogi κάτοψη με μέτρα και τα εκτυπωτικά αρχεία με διαστάσεις/ποσότητες ([[2026-11-02-argyroplastics-katopsi-me-metra]], [[2026-11-02-argyroplastics-ektypotika-arxeia]]).
 - 2026-10-21 — Asana: 59 ανοιχτά (41 εκπρόθεσμα, 8 χωρίς due). Κύριος φόρτος: Yiayia (10), Grow (8: Περίπτερο Deturbo due 2026-10-23, Hotel Brain Rebranding, Δημιουργικό social - Grow, Ribas Logo, TEKTO, studio mockups, τζαμαρίες οδοντίατρος, tasks 20.10), Antemisaris (7), Overoll (5), Barbaggio (4). Κλείνει σχεδόν καθημερινά checklist «tasks DD.MM» από 2026-09-07 (τελευταίο ✓ «tasks 19.10» 2026-10-20) ([[2026-10-21-asana-snapshot]]).

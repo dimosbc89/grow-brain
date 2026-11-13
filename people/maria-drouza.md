@@ -3,7 +3,7 @@ type: person
 title: "Μαρία Δρούζα"
 aliases: [Maria Drouza, Μαρία, «Μ», mariadrouza@gmail.com, maria@yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-13
 ---
 # Μαρία Δρούζα
 > Η πελάτισσα πίσω από την [[yiayia-meatballs]] — κύρια επαφή και αυτή που εγκρίνει site, game, social, μενού και κόστη.
@@ -13,7 +13,10 @@ updated: 2026-11-03
 - **Email:** mariadrouza@gmail.com· από 2026-10 και maria@yiayiameatballs.gr ([[2026-10-09-yiayiameatballs-etairika-emails]]). Υπογράφει «Μ».
 - **Συνεργάζεται με:** [[kostas-tzevelekos]] (σε cc σχεδόν πάντα)· από GROW με [[vassiliki-giannopoulou]] (account), [[ioanna-chalkiadaki]] και τον Δήμο ([[2026-10-07-yiayia-street-activation-content]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- Στις 2026-11-12 ρωτά αν η χρωματική διαφοροποίηση αφορά μόνο τη χαρτοπετσέτα ή τα 2339 U/C και προτείνει **ασπρόμαυρη χαρτοπετσέτα**· η GROW περιμένει την έγκρισή της για σακουλάκια σάντουιτς / λαδόκολλες ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-13]]).
+
+*Από 2026-10-20:*
 - Κάνει review στο νέο site· AnyDesk call με τον Δήμο 2026-10-20 ~14:30 ([[2026-10-20-yiayia-website-new-version]]).
 - Περιμένει από τη Βασιλική το όνομα του επόμενου creator έως 2026-10-21 πρωί ([[2026-10-20-yiayia-website-new-version]]).
 
@@ -26,6 +29,7 @@ updated: 2026-11-03
 - Βλ. [[yiayia-meatballs]].
 
 ## Χρονολόγιο
+- 2026-11-12 — Απαντά για τα Pantone: πρόταση ασπρόμαυρης χαρτοπετσέτας ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-13]]).
 - 2026-11-02 — Απορρίπτει το test video ΤέλοςΠάγγων («κριντζ») και το kung fu concept του Λαγούδη· ζητά απλά σενάρια και follow-up για δημοσίευση της «επιστολής» ([[2026-11-02-yiayia-creators-telospaggon-lagoudis]]).
 - 2026-10-31 — Login failed στα εταιρικά emails· «από Δευτέρα και όποτε βρεις χρόνο» ([[2026-10-09-yiayiameatballs-etairika-emails-update-2026-11-02]]).
 - 2026-10-27 — Λαμβάνει το τιμολόγιο #1291 (γυρίσματα 2026-10-23) ([[2026-10-27-accounting-timologia-kartelles]]).

@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -19,6 +19,8 @@ updated: 2026-11-12
 - **Ομάδα GROW:** ο Δήμος (sites, domains)· [[vassiliki-giannopoulou]] και [[marina-papanastasiou]] σε cc ([[2026-10-14-overoll-websites-domains]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **Overoll Club DNS:** 2026-11-12 10:20 ο Δήμος έστειλε «kind reminder» για τις 5 εγγραφές DNS — καμία απάντηση ακόμα ([[2026-11-09-overoll-dns-loyalty-club-update-2026-11-13]]).
+- **Κριτικές 2–8/11:** η [[vasia-s]] έστειλε 2026-11-12 αρνητικές κριτικές + προτεινόμενες απαντήσεις· η Overoll **ενέκρινε** 13:19 («μπορούν να απαντηθούν») ([[2026-11-12-overoll-kritikes-2-8-11]]).
 - **Overoll US:** 2026-11-11 η Βάσω, για λογαριασμό της Miriam (TS Developments), ζητά να κατοχυρωθούν επιπλέον usernames (X/Pinterest/TikTok/Instagram: @overollus, @overollusa, @overoll, @overoll.usa) και domains **overollusa.com, overollus.com, overollcroissanterie.com** (redirect στο US site όσο εκκρεμεί το overoll.com)· θέλει έλεγχο διαθεσιμότητας, διαδικασία και **δικές μας προτάσεις** — αναπάντητο ([[2026-11-11-overoll-us-social-domains]]).
 - **Τιμολόγιο Κατερίνας Πανδή** (BackToSchool) στάλθηκε από τη Βασιλική στην Overoll 2026-11-11· ποσό μόνο στο PDF ([[2026-11-11-overoll-timologio-pandi-backtoschool]]).
 
@@ -46,7 +48,8 @@ updated: 2026-11-12
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Έλεγχος διαθεσιμότητας usernames/domains ΗΠΑ (overollusa.com, overollus.com, overollcroissanterie.com κ.ά.), διαδικασία κατοχύρωσης + προτάσεις GROW — Δήμος/Βασιλική — ζητήθηκε 2026-11-11 ([[2026-11-11-overoll-us-social-domains]])
 - [ ] Πληρωμή τιμολογίου Κατερίνας Πανδή (BackToSchool) — Overoll — από 2026-11-11 ([[2026-11-11-overoll-timologio-pandi-backtoschool]])
-- [ ] Overoll να περάσει 5 εγγραφές DNS (loyalty, admin.loyalty, resend DKIM, rsend, send) στο Papaki → ο Δήμος κάνει έλεγχο — Overoll / Δήμος — εντός εβδομάδας 2026-11-09 ([[2026-11-09-overoll-dns-loyalty-club]])
+- [ ] Overoll να περάσει 5 εγγραφές DNS (loyalty, admin.loyalty, resend DKIM, rsend, send) στο Papaki → ο Δήμος κάνει έλεγχο — Overoll / Δήμος — εντός εβδομάδας 2026-11-09 ([[2026-11-09-overoll-dns-loyalty-club]])· reminder Δήμου 2026-11-12, αναπάντητο ([[2026-11-09-overoll-dns-loyalty-club-update-2026-11-13]])
+- [ ] Ανάρτηση εγκεκριμένων απαντήσεων στις κριτικές 2–8/11 — [[vasia-s]] — εγκρίθηκαν 2026-11-12 ([[2026-11-12-overoll-kritikes-2-8-11]])
 - [ ] Αναθεώρηση Panettone με ροζ φόντο + αρχείο εκτύπωσης — Βασιλική ([[2026-10-21-overoll-panettone-packaging-update-2026-11-04]])
 - [ ] Πληρωμή τιμολογίων μπαλονιών Αττικής (9 τμχ) και DJ Γλυφάδας — Overoll — από 2026-11-02 ([[2026-11-02-overoll-timologia-mpalonia-attiki]], [[2026-11-02-overoll-timologio-dj-glyfada]])
 - [ ] Εξόφληση υπολοίπου καρτέλας 5.312,80 € (με τιμολόγιο Νοεμβρίου) — Overoll — από 2026-11-02 ([[2026-11-03-admin-eidopoiiseis]])
@@ -90,6 +93,7 @@ updated: 2026-11-12
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-11-12 — Ο Δήμος: «kind reminder» για τις εγγραφές DNS του Overoll Club ([[2026-11-09-overoll-dns-loyalty-club-update-2026-11-13]]). Η Vasia S στέλνει κριτικές 2–8/11 + προτεινόμενες απαντήσεις· η Overoll εγκρίνει ([[2026-11-12-overoll-kritikes-2-8-11]]).
 - 2026-11-11 — Η Βάσω (εκ μέρους Miriam/TS Developments) ζητά κατοχύρωση επιπλέον US usernames και domains (.com) + προτάσεις μας ([[2026-11-11-overoll-us-social-domains]]). Η Βασιλική στέλνει το τιμολόγιο της Κατερίνας Πανδή για BackToSchool ([[2026-11-11-overoll-timologio-pandi-backtoschool]]).
 - 2026-11-10 — Η Βάσω ενέκρινε τις απαντήσεις κριτικών 26/10–1/11 ([[2026-11-04-overoll-gyrisma-social-panettone-update-2026-11-11]]).
 - 2026-11-09 — Ο Δήμος ζήτησε από Overoll (marketing@ + Κίκιρα) 5 εγγραφές DNS στο overoll.gr (Papaki) για το **Overoll Club** (loyalty.overoll.gr σε Cloudflare Pages, admin.loyalty, αποστολή από app@overoll.gr μέσω Resend) «μέσα στην εβδομάδα» ([[2026-11-09-overoll-dns-loyalty-club]]).

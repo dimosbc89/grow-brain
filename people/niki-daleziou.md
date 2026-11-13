@@ -3,7 +3,7 @@ type: person
 title: "Niki Daleziou (Νίκη Δαλέζιου)"
 aliases: [Niki Daleziou, Νίκη, ndaleziou@hotelbrain.com]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 # Niki Daleziou
 > Digital Marketing Manager στη HOTELBRAIN S.A. Είναι η καθημερινή επαφή της GROW για τα hotel websites και για το νέο corporate site της [[hotelbrain]].
@@ -13,12 +13,16 @@ updated: 2026-11-12
 - **Email:** ndaleziou@hotelbrain.com.
 - **Συνεργάζεται με:** [[panos-paleologos]] (εγκρίσεις), Roula Korbou, Dimitris Giannis ([[2026-10-02-hotelbrain-meeting-invite]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- Στις 2026-11-12 12:15 πρότεινε Teams για την παρουσίαση του design hotelbrain.com τη **Δευτέρα 2026-11-16 11:00** — περιμένει επιβεβαίωση του Δήμου ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-13]]). Σε cc στην απάντηση του Δήμου για τον νέο server (2026-11-12) ([[2026-11-03-hotelbrain-new-server-update-2026-11-13]]).
+
+*Από 2026-10-28:*
 - Περιμένει τον Δήμο για το go-live του hotelbraingroup.com (από 2026-10-12). Στις 2026-10-27 απάντησε ότι στο domain υπάρχουν τα hq@ και hotels@ και ζήτησε να αλλάξει μόνο το pointing του site· ο Δήμος θα στείλει DNS records ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]]).
 - Το call για το νέο design του hotelbrain.com έγινε 2026-10-27 (δικό της Teams invite) ([[2026-10-27-hotelbrain-redesign-teams-invite]], [[2026-10-23-hotelbrain-com-new-design-update-2026-10-28]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Νέα ώρα Teams Παρασκευή 2026-11-13 (παρουσίαση design hotelbrain.com) — Νίκη — από 2026-11-11 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-12]])
+- [ ] Επιβεβαίωση Teams Δευτέρα 2026-11-16 11:00 (παρουσίαση design hotelbrain.com) — Δήμος → Νίκη — από 2026-11-12 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-13]])
+- [x] Νέα ώρα Teams (παρουσίαση design hotelbrain.com) — Νίκη — ✓ 2026-11-12: Δευτέρα 2026-11-16 11:00 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-13]])
 - [ ] Feedback στην προσφορά HotelBrain Academy — Νίκη — από 2026-11-11 ([[2026-11-11-hotelbrain-academy-prosfora]])
 - [ ] Αλλαγή NS μαζί με τον Δήμο (εκείνη δίνει τον 2FA κωδικό του papaki) — Δήμος — από 2026-10-12 ([[2026-10-12-hotelbrain-corporate-website]], [[2026-10-12-hotelbrain-corporate-website-update-2026-10-27]])
 - [x] Απάντηση αν υπάρχουν email/υπηρεσίες στο domain — Νίκη — ✓ 2026-10-27 (hq@, hotels@) ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]])
@@ -26,6 +30,7 @@ updated: 2026-11-12
 - [ ] DNS records για το site → HotelBrain (διαχειριστής domains) — Δήμος — από 2026-10-27 08:18 ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]])
 
 ## Χρονολόγιο
+- 2026-11-12 — Προτείνει Teams Δευτέρα 2026-11-16 11:00 για το design ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-13]]).
 - 2026-11-11 — Ρωτά ώρα για Teams 2026-11-12 (πρόταση 14:00)· ο Δήμος ζητά μεταφορά Παρασκευή 2026-11-13 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-12]]). Λαμβάνει προσφορά για το website της HotelBrain Academy ([[2026-11-11-hotelbrain-academy-prosfora]]).
 - 2026-11-10 — Ζητά Teams την Πέμπτη 2026-11-12 για παρουσίαση design ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-11]]).
 - 2026-11-03 — Ρωτά timeline για το πρώτο design ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-04]]).

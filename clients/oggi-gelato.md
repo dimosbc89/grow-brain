@@ -3,7 +3,7 @@ type: client
 title: "Oggi Gelato"
 aliases: [Oggi]
 status: ενεργός
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 # Oggi Gelato
 > Πελάτης Google Ads της GROW (παγωτό)· τον Σεπτέμβριο 2026 ετοιμάστηκε lifetime report της καμπάνιας.
@@ -13,13 +13,17 @@ updated: 2026-11-11
 - **Επαφές:** ασαφές (καμία επαφή πελάτη στις πηγές).
 - **Ομάδα GROW:** ο Δήμος· [[despina-velissariou]] ([[2026-09-10-oggi-google-ads-lifetime-report]])· στο Asana επίσης [[vassia-kataki]], [[marianna-vourna]], [[fotini]] ([[2026-10-21-asana-snapshot]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- T-shirts: η [[epilogin]] έδωσε τιμές ανά μπλούζα 2026-11-10 (11,8–15,8 € + ΦΠΑ)· στις 2026-11-12 η [[vassia-kataki]] ρώτησε αν περιλαμβάνουν εκτύπωση — αναμονή ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]]).
+
+*Από 2026-10-28:*
 - Στις 2026-10-27 η [[despina-velissariou]] έγραψε στο Asana ότι στον πελάτη άρεσαν οι ιδέες του moodboard για τα T-shirts, ειδικά η **πρόσοψη του μαγαζιού**· επόμενο βήμα mockups, «εάν το πιάσετε Παρασκευή» ([[2026-10-27-asana-eidopoiiseis]]).
 
 *Στις 2026-10-20:*
 - Στις 2026-09-10 ο Δήμος έστειλε στη Δέσποινα το «Oggi_Gelato_Google_Ads_Lifetime_Report_GROW_Agency_GR_Final_v3.pptx» ([[2026-09-10-oggi-google-ads-lifetime-report]]). Συναντήσεις «Oggi εδώ» 2026-09-10 και «Oggi εκεί» 2026-09-18 ([[2026-07-20_2026-11-03]]). Τι ακολούθησε: ασαφές.
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Προσφορά T-shirts: αν οι τιμές περιλαμβάνουν εκτύπωση + οδηγοί μεγεθών — [[epilogin]] — από 2026-11-12 ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]])
 - [ ] Κουτιά τιραμισού Oggi — [[despina-velissariou]] — έως 2026-10-09 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
 - [x] Moodboard Oggi T-shirts — [[vassia-kataki]] — ✓ παρουσιάστηκε, ο πελάτης το ενέκρινε (2026-10-27) ([[2026-10-27-asana-eidopoiiseis]])
 - [ ] Mockups T-shirts (με βάση την πρόσοψη του μαγαζιού) — ομάδα σχεδιασμού (💭 Vassia) — 💭 Υπόθεση: Παρασκευή 2026-10-30 ([[2026-10-27-asana-eidopoiiseis]])
@@ -31,6 +35,7 @@ updated: 2026-11-11
 - —
 
 ## Χρονολόγιο
+- 2026-11-12 — Η Βάσια ρωτά την Επιλογή αν οι τιμές (11,8 / 15,8 / 13,8 / 12,8 € + ΦΠΑ, από 2026-11-10) περιλαμβάνουν εκτύπωση ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]]).
 - 2026-11-10 — Η Βάσια ζήτησε προσφορά από Επιλογή για 10 κοντομάνικα + 5+5 μακρυμάνικα (SOL'S, M/L) ([[2026-11-10-oggi-mplouzakia-epilogi]]).
 - 2026-11-05 — Η Βασιλική ζητά άποψη Δήμου στο Asana «marathon creatives sos» (💭 Oggi) ([[2026-11-04-dianoma-pelates-mikra]]).
 - 2026-10-27 — Ο πελάτης ενέκρινε το moodboard T-shirts (αγάπησε την πρόσοψη)· ζητούνται mockups ([[2026-10-27-asana-eidopoiiseis]]).

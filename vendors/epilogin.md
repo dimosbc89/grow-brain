@@ -3,7 +3,7 @@ type: vendor
 title: "Epilogin / Epilogi Digital"
 aliases: [Epilogin, Epilogi Digital, epilogin.gr, epilogidigital@gmail.com]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 # Epilogin / Epilogi Digital
 > Προμηθευτής εκτυπώσεων/menuboards της GROW (επαφή [[iasonas-kolytos]])· χρησιμοποιείται και για κοστολόγηση κατασκευαστικών σε εκθεσιακά περίπτερα.
@@ -24,6 +24,7 @@ updated: 2026-11-12
 - Ο Δήμος περιμένει από τον Ιάσωνα επιβεβαίωση για την άμεση αντικατάσταση των menuboards της Krema (από 2026-09-11)· απάντηση δεν φαίνεται ([[2026-09-11-krema-menuboards-epilogin]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Oggi T-shirts: διευκρίνιση αν η τιμή περιλαμβάνει εκτύπωση — Επιλογή — από 2026-11-12 ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]])
 - [ ] Ώρα παράδοσης SOS Α5 250 τμχ (Αντεμισάρης) — Epilogi — ζητήθηκε 2026-11-11 10:30 ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]])
 - [ ] Έλεγχος/διόρθωση τιμολογίου αυτοκόλλητων Overoll (320 € vs 280 € + ΦΠΑ) — [[iasonas-kolytos]] — από 2026-11-02 ([[2026-11-02-epilogi-timologio-yiayia-overoll]])
 - [ ] Επιβεβαίωση παραλαβής εκτυπωτικών Plastica + παράδοση πριν το στήσιμο 2026-11-05 — Epilogi — από 2026-11-02 ([[2026-11-02-argyroplastics-ektypotika-arxeia]])
@@ -36,6 +37,7 @@ updated: 2026-11-12
 - [[2026-09-11-krema-menuboards-antikatastasi]] — αντικατάσταση χωρίς χρέωση στον πελάτη· πρόταση μοιρασιάς κόστους.
 
 ## Χρονολόγιο
+- 2026-11-12 — Oggi T-shirts: τιμές 2026-11-10 (11,8–15,8 € + ΦΠΑ ανά μπλούζα)· ερώτηση Βάσιας για εκτύπωση ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]]).
 - 2026-11-11 — Η Ιωάννα ρωτά ώρα παράδοσης των Α5 Αντεμισάρη· καμία απάντηση στο thread ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]).
 - 2026-11-03 — Plastica: νέα εκτυπωτικά ρεσεψιόν ([[2026-11-02-argyroplastics-ektypotika-arxeia-update-2026-11-04]]).
 - 2026-11-03 — Η Δέσποινα ζητά τιμή για folder/ντοσιέ έως 6/11 ([[2026-11-03-epilogi-ntosie-ektyposi]]).

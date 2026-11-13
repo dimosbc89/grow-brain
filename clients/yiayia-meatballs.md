@@ -3,7 +3,7 @@ type: client
 title: "Υιάγια (Yiayia Meatballs)"
 aliases: [Υιάγια, Yiayia, Yiayia Meatballs, Υιάγια Home of Meatballs, Γιάγια, yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 # Υιάγια (Yiayia Meatballs)
 > Εστιατόριο με κεφτεδάκια («Home of Meatballs») της [[maria-drouza]]· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influencers, μενού, packaging και γυρίσματα.
@@ -15,7 +15,10 @@ updated: 2026-11-12
 - **Ομάδα GROW:** [[vassiliki-giannopoulou]] (account lead· ανακοινώθηκε στο thread που ξεκίνησε 2026-09-11) ([[2026-10-07-yiayia-street-activation-content]])· [[ioanna-chalkiadaki]] (μενού, packaging, influencers, posting)· ο Δήμος (site, game, email, server)· [[vassia-kataki]] (promo video του game) ([[2026-10-16-yiayia-meatball-catcher-promo]])· [[marina-papanastasiou]] σε cc.
 - **Domains:** yiayiameatballs.gr· foodhugs.gr = άλλο project της Μαρίας ([[2026-10-20-yiayia-website-new-version]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-06)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **Pantone εκτυπωτικών:** στα τελικά αρχεία του τυπογράφου για **σακουλάκια σάντουιτς** και **λαδόκολλες** μπαίνει ακόμη ένας κωδικός Pantone (άλλος προμηθευτής ανά υλικό)· η Βασιλική ζήτησε 2026-11-12 15:31 έγκριση για να προχωρήσει η παραγωγή. Η [[maria-drouza]] (16:36) ρωτά αν η διαφορά αφορά μόνο τη χαρτοπετσέτα ή τα 2339 U/C και **προτείνει ασπρόμαυρη χαρτοπετσέτα** — δεν έχει κλειδώσει ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-13]]).
+
+*Από 2026-11-06:*
 - Pantone: η Μαρία αποφάσισε (5/11) **2339 C σε όλα + 1625 U στη χαρτοπετσέτα** (αλλιώς ασπρόμαυρη)· **street activation Σάββατο 7/11 11:00 Ερμού** ([[2026-11-04-yiayia-pantone-street-activation]]).
 
 *Από 2026-11-03:*
@@ -34,6 +37,7 @@ updated: 2026-11-12
 - Επόμενο γύρισμα: «Υιάγια shooting» 2026-10-23 09:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Διευκρίνιση προς Μαρία (ποια υλικά έχουν διαφορετικό Pantone) + απόφαση ασπρόμαυρης χαρτοπετσέτας + τελική έγκριση χρωμάτων σακουλακιών σάντουιτς / λαδόκολλας για να ξεκινήσει η παραγωγή — Βασιλική ↔ Μαρία — από 2026-11-12 ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-13]])
 - [ ] Παραλαβή plexi stand + αυτοκολλήτων από Print Kong **στη GROW** (όχι πια στο Σταδίου 61) → μεταφορά στο κατάστημα — Βάσια — από 2026-11-11 ([[2026-10-16-stand-plexi-printkong-update-2026-11-12]])
 - [ ] Έγκριση μακετών NAK (σακουλάκια + φύλλο βεζετάλ) — GROW + πελάτης — από 2026-11-09 ([[2026-11-09-yiayia-meta-nak-timologio]])
 - [ ] **Meta ad account Yiayia Food Hugs — πληρωμή απορρίφθηκε, ads σε παύση από 2026-11-09 09:00** — εξόφληση/αλλαγή κάρτας — Δήμος / Βασιλική ([[2026-11-09-yiayia-meta-nak-timologio]])
@@ -102,6 +106,7 @@ updated: 2026-11-12
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- 2026-11-12 — Νέος Pantone σε σακουλάκια σάντουιτς / λαδόκολλες· η Βασιλική ζητά έγκριση· η Μαρία προτείνει ασπρόμαυρη χαρτοπετσέτα ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-13]]).
 - 2026-11-11 — Η Βάσια άλλαξε την παράδοση του plexi stand (45 € + ΦΠΑ) και των αυτοκολλήτων της Print Kong: στη GROW αντί για το κατάστημα ([[2026-10-16-stand-plexi-printkong-update-2026-11-12]]).
 - 2026-11-10 — Meta: η πληρωμή απορρίφθηκε ξανά — το ad account Yiayia Food Hugs είναι **disabled**, ads σε παύση ([[2026-11-10-meta-yiayia-ad-account-plirwmi]]).
 - 2026-11-09 — **Meta: απορρίφθηκε η πληρωμή του ad account Yiayia Food Hugs, οι διαφημίσεις σταμάτησαν** · τιμολόγιο street activation 7/11 στη Μαρία · NAK έστειλε μακέτες σακουλακιών και φύλλου βεζετάλ ([[2026-11-09-yiayia-meta-nak-timologio]]).

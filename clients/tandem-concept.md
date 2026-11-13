@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -19,7 +19,10 @@ updated: 2026-11-11
 - **Τρίτοι:** [[biz-courier]] (αποθήκη/3PL, BOX NOW)· [[epsilon-net]] (ERP, τιμολόγηση, myDATA)· Viva και Klarna ως τρόποι πληρωμής στο footer ([[2026-10-08-tandem-review-eshop-developer]]).
 - **Ομάδα GROW:** ο Δήμος (integrations, Epsilon, προϊόντα, κύρια επικοινωνία)· [[despina-velissariou]] και [[vassia-kataki]] (review design/περιεχομένου με τον developer) ([[2026-10-08-tandem-review-eshop-developer]])· η [[despina-velissariou]] έχει και τον οδηγό της συνέντευξης ([[2026-10-19-tandem-interview-questions]])· [[vassiliki-giannopoulou]] σε cc ([[2026-10-08-tandem-review-eshop-developer]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-06)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **BIZ LiNK auto-sync:** η BIZ (Markos Lesko) ζήτησε 2026-11-05 και ξανά 2026-11-12 (follow-up «δεν έχουμε λάβει απάντηση») να επιβεβαιώσει ο Δήμος ότι το WooCommerce status για fulfillment είναι **Processing** (τρέχουσα ρύθμιση Ready to Ship) και να φτιάξει **νέα test παραγγελία** σε αυτό το status — αναπάντητο ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]]).
+
+*Από 2026-11-06:*
 - Bag hangers: εναλλακτική προσφορά Fun Promotion — hook 3,21 €/τμχ, τσάντα CAMPO DE FIORI 4,26 €/τμχ (+ΦΠΑ, 100 τμχ, 15 εργάσιμες)· posts & holiday inspo στάλθηκαν (4/11)· BizCourier IT απάντησε για BIZ LiNK (5/11) ([[2026-11-04-tandem-posts-hangers-bizlink]]).
 
 *Από 2026-11-03:*
@@ -41,6 +44,7 @@ updated: 2026-11-11
 - Στο ημερολόγιο δεν υπάρχει προγραμματισμένη συνάντηση Tandem μετά τις 2026-10-13 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Απάντηση στη BIZ: επιβεβαίωση status «Processing» για fulfillment + νέα test παραγγελία για έλεγχο automatic order sync — Δήμος — από 2026-11-05, follow-up BIZ 2026-11-12 ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]])
 - [ ] Επιστροφή test αποστολής SWS49373664 — BIZ — η Caroline ενέκρινε 2026-11-02 αλλά το email πήγε στον Δήμο· να επιβεβαιωθεί ότι το έλαβε η BIZ — Δήμος/Caroline ([[2026-11-02-tandem-bizcourier-cancel-test-order]])
 - [ ] Παράδοση/παραλαβή price tags & αυτοκόλλητων Print Kong + εξόφληση 385 € μετρητά — [[despina-velissariou]] — από 2026-11-02 ([[2026-10-20-tandem-price-tags-print-kong-update-2026-11-03]])
 - [ ] Πλάνο pre-Christmas καμπάνιας social + απάντηση για Q&A και test purchase — Δήμος/[[despina-velissariou]] — ζητήθηκε 2026-10-30 ([[2026-10-30-tandem-marketing-plan]])
@@ -116,6 +120,8 @@ updated: 2026-11-11
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-11-12 — Η Δέσποινα έβαλε στο GROW Agency Calendar «Tandem εκεί» **Δευτέρα 2026-11-16 15:00–16:00** ([[2026-11-13_2026-11-20]]).
+- 2026-11-12 — BIZ follow-up: περιμένει επιβεβαίωση WooCommerce status + νέα test παραγγελία (αίτημα από 2026-11-05) ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]]).
 - 2026-11-10 — Fun Promotion: εγκρίθηκαν μακέτες, η παραγγελία μπήκε (813,44 €)· παράδοση Κολωνάκι, ημερομηνία ασαφής ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-11]]).
 - 2026-11-09 — Fun Promotion: εντολή ανάθεσης· Order confirmation 813,44 € (προκαταβολή 406,72 €) — ο George πλήρωσε ✓· η Δέσποινα έστειλε mockups + αρχεία εκτύπωσης ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-10]]).
 - 2026-11-09 — Η Δέσποινα ζήτησε προτιμολόγιο Fun Promotion για προκαταβολή· ο George έστειλε αντίγραφο πληρωμής για το τιμολόγιο της 2/11 ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-09]], [[2026-11-09-admin-eidopoiiseis]]).

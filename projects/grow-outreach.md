@@ -3,7 +3,7 @@ type: project
 title: "GROW outreach & marketing (δικό μας)"
 aliases: [GROW marketing, cold outreach, ActiveCampaign, ΙΕΚ καμπάνια, @grow.agency.online, GROW social]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-13
 ---
 # GROW outreach & marketing
 > Το marketing της ίδιας της [[grow-agency]]: cold email καμπάνιες μέσω ActiveCampaign (ΙΕΚ/εκπαίδευση, εκθεσιακά περίπτερα), υλικό για τα social και τα flyers της GROW, events και press.
@@ -33,6 +33,8 @@ updated: 2026-11-03
 - [ ] **Απάντηση στη Marilena Rentzou (TikTok LIVE) / νέο ραντεβού onboarding** — Δήμος — εκκρεμεί από 2026-11-02 16:07 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-11-03]])
 - [ ] JKD Agency: κλείνουμε call ή όχι (ζητούν booking αντί για γραπτή πρόταση κόστους) — Δήμος — από 2026-10-27, χωρίς προθεσμία ([[2026-10-27-outbound-jkd-lead-gen-pitch]])
 - [ ] Mediterranean College: πρόταση με ή χωρίς αμοιβή — Δήμος / [[despina-velissariou]] — από 2026-10-22 ([[2026-10-22-mediterranean-college-paketo]])
+- [ ] Mediterranean College: έλεγχος της πρότασης (Google Slides) που ανέβασε η [[ioanna-chalkiadaki]] — Δήμος — από 2026-11-12 ([[2026-11-12-asana-mediterranean-college-protasi]])
+- [ ] Podcast3 (Hospitality Jam): νέο cut με σημειώσεις Ιωάννας — [[fotini]] — cover due 2026-11-18 ([[2026-11-11-asana-podcast3-first-cut]])
 - [x] Απόφαση/απάντηση για TikTok LIVE Agency μετά τα 3 έγγραφα — Δήμος — από 2026-10-21· η TikTok ρώτησε ξανά 2026-10-26 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-22]], [[2026-10-19-tiktok-live-agency-protasi-update-2026-10-27]]) — ✓ 2026-10-30: προχωράμε, call 2026-11-02 16:00 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-30]])
 - [ ] Απάντηση στον Paralos για χρέωση συμμετοχής στο Hospitality Jam — [[ioanna-chalkiadaki]] (💭 Υπόθεση: θέλει γραμμή από τον Δήμο)· follow-up για call 2026-10-26, ακόμη αναπάντητο ([[2026-10-20-hospitality-jam-paralos]], [[2026-10-20-hospitality-jam-paralos-update-2026-10-27]])
 - [ ] Παρουσίαση στην Papoutsanis — [[ioanna-chalkiadaki]] ([[2026-10-20-hospitality-jam-papoutsanis]])
@@ -53,6 +55,7 @@ updated: 2026-11-03
 - 2026-10-27 — Θέση του Δήμου για εξωτερικούς lead-gen providers: πληρωμή μόνο με σαφές κόστος/διαδικασία και αφού φέρουν ≥ 2 πελάτες· «We have payed more than 10 times similar services and never received back something worth mentioning.» ([[2026-10-27-outbound-jkd-lead-gen-pitch]])
 
 ## Χρονολόγιο
+- 2026-11-12 — Mediterranean College: η Ιωάννα ανέβασε πρόταση (Slides) και ζητά «check!» από τον Δήμο ([[2026-11-12-asana-mediterranean-college-protasi]]). Podcast3: 2 γύροι σημειώσεων μοντάζ Ιωάννας προς Φωτεινή (2026-11-11/12) ([[2026-11-11-asana-podcast3-first-cut]]).
 - 2026-11-02 — 16:07 TikTok LIVE: η Marilena Rentzou είναι συνδεδεμένη στο call και ρωτά αν ισχύει· καμία απάντηση από GROW ([[2026-10-19-tiktok-live-agency-protasi-update-2026-11-03]]).
 - 2026-10-31 — Ο Δήμος έστειλε SEO/GEO audit στο [[spoudastirio-drosopoulou]] με πρόταση κλήσης 30' ([[2026-10-31-drosopoulou-grow-audit]]).
 - 2026-10-30 — **TikTok LIVE: ο Δήμος αποφάσισε να ξεκινήσει** («θέλουμε να ξεκινήσουμε»)· call Δευτέρα 2026-11-02 16:00 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-30]]).

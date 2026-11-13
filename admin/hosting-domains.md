@@ -3,7 +3,7 @@ type: admin
 title: "Hosting, servers & domains"
 aliases: [hosting, servers, domains, cloud.growagency.online, Plesk, Fastpath, Cretaforce, Papaki, Enartia]
 status: ενεργός
-updated: 2026-11-04
+updated: 2026-11-13
 ---
 # Hosting, servers & domains
 > Οι servers της GROW (Plesk στη [[fastpath]]) και οι registrars ([[papaki]]/[[enartia]], [[cretaforce]]) όπου η GROW κρατά τα domains των πελατών. Κάθε ανανέωση domain ξανατιμολογείται στον πελάτη.
@@ -37,6 +37,7 @@ updated: 2026-11-04
 - Το ticket 004632 για SSH στα mailboxes του academicals.gr περιμένει ακόμη απάντηση ([[2026-09-28-fastpath-ticket-ssh-academicals]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Ανανέωση agapeathens.online ([[papaki]]) — λήξη **2027-01-11** — Δήμος ([[2026-11-12-admin-eidopoiiseis]])
 - [ ] **Εξόφληση Fastpath #61293 (507,78 €)** — Δήμος/λογιστήριο — ληξιπρόθεσμο από 2026-11-01, προθεσμία ≈ **2026-11-08** ([[2026-11-03-admin-eidopoiiseis]])
 - [ ] barolobeach.gr: επανασύνδεση Instagram feed (Smash Balloon → Instagram API) — Δήμος/GROW — από 2026-11-02 ([[2026-11-03-admin-eidopoiiseis]], [[barolo]])
 - [x] ✓ είναι το [[tagora]] ([[2026-11-03-tagora-launch]]) — tagora.online: για ποιο project/πελάτη; (νέα αγορά 2026-11-03) — Δήμος ([[2026-11-03-admin-eidopoiiseis]])
@@ -59,6 +60,7 @@ updated: 2026-11-04
 - Κάθε ανανέωση domain πελάτη ξανατιμολογείται στον πελάτη (π.χ. «Τιμολόγιο Πανόπουλος», «25 + fpa to kathena») ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]], [[2026-09-10-invoice-nikas-barista-domains]]).
 
 ## Χρονολόγιο
+- 2026-11-13 — Papaki: agapeathens.online λήγει σε 60 ημέρες (2027-01-11) ([[2026-11-12-admin-eidopoiiseis]]).
 - 2026-11-03 — machevuoi.gr ανανεώθηκε έως 2028-11-04 ✓· tagora.online = Tagora (Google CSS της GROW), email routing δουλεύει ([[2026-11-04-admin-eidopoiiseis]], [[2026-11-03-tagora-launch]]).
 - 2026-11-02/03 — Fastpath: #61293 ληξιπρόθεσμο (5 ημέρες περιθώριο). FORTH: machevuoi.gr λήγει 2026-11-04. GoDaddy + Cloudflare: νέο tagora.online. Wordfence 3/11: problems σε tsiklitiria, logaraslaw, castrum-milos, baristacademy (Super Forms), lineathens, foxacademy· εβδομαδιαίες αναφορές 14 sites. barolobeach.gr: Instagram feed αποσυνδέθηκε ([[2026-11-03-admin-eidopoiiseis]]).
 - 2026-11-02 — Papaki: goldenvisagreece.online ληγμένο −10 ημέρες (ακόμα ανανεώσιμο)· jerryvasiliki.online λήγει 2026-12-01. Wordfence: castrum-milos increased attack rate, logaraslaw admin login, nomud OBS Speedex update, problems σε 7 sites ([[2026-11-02-admin-eidopoiiseis]]).

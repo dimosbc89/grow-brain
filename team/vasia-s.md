@@ -3,7 +3,7 @@ type: team
 title: "Βάσια Σ. (vasia_s@)"
 aliases: [Vasia S, Vasia S., Βάσια Σ., vasia_s@growagency.online]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-11-13
 ---
 # Βάσια Σ. (vasia_s@)
 > Μέλος της ομάδας GROW με email vasia_s@growagency.online, διαφορετικό πρόσωπο από τη [[vassia-kataki]]. Ο ρόλος της είναι ασαφής· εμφανίζεται σε call με νέο πελάτη gelato και σε media kits.
@@ -19,7 +19,10 @@ updated: 2026-10-21
 - Grand Gelato — «Grand Gelato x Grow (CALL)» 2026-09-15 12:00, μαζί με τον Δήμο (info@grandgelato.gr). Αν έγινε πελάτης: ασαφές ([[2026-07-20_2026-11-03]]).
 - Παραλήπτρια του «AI Workshop Vol2 Q3» ([[2026-09-08-ai-workshop-vol2-q3]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- Στις 2026-11-12 έστειλε σχέδια menu/folders στον Salvatore Andolina (πελάτης ασαφής) ([[2026-11-12-andolina-menu-folders]]).
+
+**Παλαιότερα (στις 2026-10-20)**
 - Δεν φαίνεται άλλη ανάθεση μετά τις 2026-09-30 ([[2026-09-30-makeyourway-media-kit]]).
 
 ## Ανοιχτά & επόμενα βήματα
@@ -29,6 +32,7 @@ updated: 2026-10-21
 - —
 
 ## Χρονολόγιο
+- 2026-11-12 — Στέλνει στον Salvatore Andolina (💭 forodiagnosi) τα σχεδιαστικά νέου menu και folders λογαριασμών ([[2026-11-12-andolina-menu-folders]]).
 - 2026-10-21 — Asana (ως «Vasia Striga»): 10 ανοιχτά (5 εκπρόθεσμα, 2 χωρίς due): ΕΓΚΡΙΣΗ «handmade» (due 2026-10-19), tagline: grandpas (due 2026-10-09), Creators List (due 2026-10-12), autotwins (due 2026-09-14), Ανάκτηση Grand Gelato (due 2026-09-21), ERRORS INFLUENCE LIST, Overoll Κριτικές (2026-10-26, 2026-11-09), Ενδοκοινοτικά Οκτωβρίου (2026-11-03). ✓ Reel Grow 2026-10-20, SEO tsupies 2026-10-09, Ενδοκοινοτικά Σεπτεμβρίου 2026-10-06, RIBAS REEL WEDDING 2026-09-30 ([[2026-10-21-asana-snapshot]]).
 - 2026-09-30 — Της προωθείται το Media Kit του Make Your Way ([[2026-09-30-makeyourway-media-kit]]).
 - 2026-09-15 — Call Grand Gelato ([[2026-07-20_2026-11-03]]).

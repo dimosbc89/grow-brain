@@ -3,7 +3,7 @@ type: person
 title: "Elpida Plavou"
 aliases: [Ελπίδα Πλάβου, Ελπίδα, elpida.plavou@globalfoods.gr]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 # Elpida Plavou
 > Επαφή της [[global-foods]] με ασαφή ρόλο. Λαμβάνει τα Google Ads reports και την πρόταση videography, και είναι σε cc στα event θέματα.
@@ -14,6 +14,7 @@ updated: 2026-11-12
 - **Ομάδα GROW:** ο Δήμος.
 
 ## Τρέχουσα κατάσταση (στις 2026-11-12)
+- Στις 2026-11-12 δέχτηκε το Dropbox link raw ZEO (λήγει 2027-01-31) αντί για WeTransfer ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]])· επανέφερε το project Rummo (φυλλάδιο + video), ρωτώντας την Εύη αν στάλθηκε υλικό ([[2026-10-08-globalfoods-rummo-saltses-update-2026-11-13]]).
 - Στις 2026-11-11 έλαβε από τον Δήμο την ανανεωμένη πρόταση Hospitality Jam (8.000€, 8+1 επεισόδια) — ο Δήμος περιμένει τα σχόλιά της ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]]).
 - Περιμένει από τον Δήμο το reel Πρεσβείας ~30'' (ζητήθηκε 2026-11-04, reminder 2026-11-11)· από τη Δέσποινα link raw υλικού ZEO, απάντηση για «παγκόσμιες ημέρες» Global/Unique και χειρισμό της επιστολής του Πρέσβη (όλα 2026-11-11) ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-12]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-12]], [[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-epistoli-presvi-italias]]).
 
@@ -25,7 +26,7 @@ updated: 2026-11-12
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Σχόλια στην πρόταση Hospitality Jam 8.000€ — Elpida — από 2026-11-11 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]])
 - [ ] Reel Πρεσβείας ~30'' — Δήμος — ζητήθηκε 2026-11-04, reminder 2026-11-11 ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-12]])
-- [ ] Link raw ZEO, «παγκόσμιες ημέρες?», επιστολή Πρέσβη — [[despina-velissariou]] — από 2026-11-11 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-12]], [[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-epistoli-presvi-italias]])
+- [ ] ~~Link raw ZEO~~ (✓ 2026-11-12 [[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]]), «παγκόσμιες ημέρες?», επιστολή Πρέσβη — [[despina-velissariou]] — από 2026-11-11 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-12]], [[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-epistoli-presvi-italias]])
 - [ ] Απάντηση στην πρόταση videography — Elpida — «αρχές Νοεμβρίου» (από 2026-10-08) ([[2026-10-08-globalfoods-videography-proposal]])
 - [x] Παραλαβή reel ZEO — ✓ 2026-10-27 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]])
 - [ ] Reel με τις αλλαγές της + τελικό δισέλιδο Οικονομικού Οδηγού — GROW — **2026-10-29**· 2 εταιρικά βίντεο — GROW — έως 2026-10-30 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]], [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]])
@@ -34,6 +35,7 @@ updated: 2026-11-12
 - —
 
 ## Χρονολόγιο
+- 2026-11-12 — 11:10 ζητά WeTransfer για το raw ZEO (για να το δώσει στη ΖΕΩ), 11:31 δέχεται το Dropbox ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]]). 14:57 «Δέσποινα αυτό είναι που λέγαμε» για τις σάλτσες Rummo ([[2026-10-08-globalfoods-rummo-saltses-update-2026-11-13]]). Σε cc στα Tips (μορφή FAQ) και στο αίτημα μετάφρασης FISAN ([[2026-10-09-globalfoods-tips-site-update-2026-11-13]], [[2026-11-12-globalfoods-fisan-metafrasi]]).
 - 2026-11-11 — «SOS ΠΑΡΑΓΓΕΛΙΕΣ» στον Δήμο (πήρε 5 PDF exports)· λαμβάνει πρόταση Hospitality Jam 8.000€· βράδυ: επιστολή Πρέσβη για κ. Τσάτση, reminder reel Πρεσβείας, FW MAVERIX («Τι είναι αυτό?»), «παγκόσμιες ημέρες?» Global/Unique, link raw ZEO ([[2026-11-11-globalfoods-sos-paraggelies]], [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]], [[2026-11-11-globalfoods-epistoli-presvi-italias]], [[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-12]], [[2026-11-11-globalfoods-maverix-fw]], [[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-12]]).
 - 2026-11-09 — Πρότεινε γύρισμα στο σεμινάριο ταρτακιών 11/11 10:00 ([[2026-11-09-globalfoods-tartakia-tetarti]]).
 - 2026-11-03 — Ενστάσεις στο reel Πρεσβείας, ζητά τηλέφωνο από τον Δήμο· ακύρωσε τα folder ([[2026-11-03-globalfoods-italiki-presveia-reel]], [[2026-11-03-globalfoods-custom-folder]]).

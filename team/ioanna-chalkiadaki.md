@@ -3,7 +3,7 @@ type: team
 title: "Ιωάννα Χαλκιαδάκη"
 aliases: [Ioanna Chalkiadaki, Ιωάννα, Ioanna, ioanna@growagency.online]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 # Ιωάννα Χαλκιαδάκη
 > Account Manager της GROW. Τρέχει social και content για πελάτες εστίασης και λιανικής ([[circle-of-dining]], [[greenmart-antemisaris]], [[yiayia-meatballs]]) και είναι στα calls των [[hellenic-heritage-evolution]] και [[tsu-pies]].
@@ -25,7 +25,14 @@ updated: 2026-11-12
 - Podcast — ερωτήσεις «Podcast_Kyritsis_Bakoulis_Questions.docx» για έλεγχο. Πελάτης/πλαίσιο ασαφές ([[2026-10-12-podcast-kyritsis-bakoulis-check]]).
 - Παραλήπτρια της λίστας δημοσιογράφων και του «AI Workshop Vol2 Q3» ([[2026-10-07-lista-dimosiografon-press]], [[2026-09-08-ai-workshop-vol2-q3]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-27)
+## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **Στις 2026-11-12:** XENIA/[[greenmart-antemisaris]] — έστειλε «SOS ενημέρωση» στον Ζάχο 16:14 (πρώτα «για έγκριση» σε Δήμο/Μαρίνα 12:06 και 13:58· έγκριση δεν φαίνεται) και υποσχέθηκε χρονοδιάγραμμα στησίματος για 2026-11-13· ανέλαβε τα λογότυπα για το BOX22 της Gagos ([[2026-11-12-antemisaris-sos-enimerosi-xenia]], [[2026-11-12-antemisaris-box22-gagos-xorigia]]). Asana «xenia dinner»: ρωτά τον Δήμο «Το στείλαμε?» για τις προσκλήσεις ([[2026-11-12-asana-xenia-dinner-proskliseis]]).
+
+*Επίσης στις 2026-11-12:*
+- Στις 2026-11-11/12 έδωσε στη [[fotini]] αναλυτικές σημειώσεις μοντάζ για το **podcast3** (κοψίματα, διπλή φωνή από ~7', b-roll πιάτου) ([[2026-11-11-asana-podcast3-first-cut]]).
+- Στις 2026-11-12 18:01 ανέβασε στο Asana την **πρόταση Mediterranean College** (Google Slides) και ζήτησε «check!» από τον Δήμο ([[2026-11-12-asana-mediterranean-college-protasi]]).
+
+*Από 2026-10-27:*
 - Overoll Turns 6: παρέδωσε νέα stickers 2026-10-26 12:15 και αναθεωρημένη πρόταση 2 στις 17:06· αναμένει τελική έγκριση ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]]).
 - Σήμερα 2026-10-27: κοινή ανάγνωση με τον Δήμο των ερωτήσεων «Podcast_Giannis_Kikiras_Interview.docx» για αλλαγές ([[2026-10-26-kikiras-questions]]).
 
@@ -33,6 +40,10 @@ updated: 2026-11-12
 - Ανοιχτά: διορθώσεις Stihl για Greenmart, υλικό redesign για Circle of Dining, έλεγχος ερωτήσεων podcast ([[2026-09-18-greenmart-posts-volvoi-stihl]], [[2026-10-01-circle-of-dining-redesign]], [[2026-10-12-podcast-kyritsis-bakoulis-check]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Χρονοδιάγραμμα στησίματος XENIA προς Antemisaris — Ιωάννα — **2026-11-13** ([[2026-11-12-antemisaris-sos-enimerosi-xenia]])
+- [ ] Λογότυπα/links Antemisaris προς Gagos (BOX22) — Ιωάννα — «αμέσως» 2026-11-12 ([[2026-11-12-antemisaris-box22-gagos-xorigia]])
+- [ ] Έλεγχος πρότασης Mediterranean College — Δήμος — από 2026-11-12 ([[2026-11-12-asana-mediterranean-college-protasi]])
+- [ ] Υπόλοιπες σημειώσεις podcast3 («επανέρχομαι με τα υπόλοιπα») — Ιωάννα — από 2026-11-12 ([[2026-11-11-asana-podcast3-first-cut]])
 - [ ] Antemisaris κατάλογος: 3 νέα εξώφυλλα σε ύφος του 1ου + φωτό κατοικίας στα Private Villas — Ιωάννα — «άμεσα» από 2026-11-02 ([[2026-10-30-antemisaris-katalogos-final-comments-update-2026-11-03]])
 - [x] Νέες προτάσεις stickers Overoll Turns 6 — Ιωάννα — ✓ 2026-10-26 ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]])
 - [ ] Εκτυπωτικά sticker μετά την τελική έγκριση της Overoll — Ιωάννα (💭) — πριν 2026-11-01 ([[2026-10-20-overoll-turns-6-event-update-2026-10-27]])
@@ -49,6 +60,9 @@ updated: 2026-11-12
 - 2026-09-18: ο Δήμος της πρότεινε να δώσει στη Greenmart κάτι παραπάνω, «λίγη κίνηση με AI» ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-11-12 — «SOS ενημέρωση» XENIA (draft για έγκριση 12:06 → πελάτης 16:14)· BOX22 Gagos· Asana «Το στείλαμε?» για προσκλήσεις dinner ([[2026-11-12-antemisaris-sos-enimerosi-xenia]], [[2026-11-12-antemisaris-box22-gagos-xorigia]], [[2026-11-12-asana-xenia-dinner-proskliseis]]).
+- 2026-11-12 — Σημειώσεις μοντάζ podcast3 προς Φωτεινή (10:16–16:38) ([[2026-11-11-asana-podcast3-first-cut]]). 18:01 πρόταση Mediterranean College → «check!» στον Δήμο ([[2026-11-12-asana-mediterranean-college-protasi]]).
+- 2026-11-11 — 1ος γύρος σημειώσεων στο podcast3 first cut ([[2026-11-11-asana-podcast3-first-cut]]).
 - 2026-11-11 — Τιμολόγιο #1332 με προεξόφληση στον [[greenmart-antemisaris]] ([[2026-11-11-antemisaris-timologio-parousiasis-proexoflisi]])· ερώτηση ώρας παράδοσης Α5 στην Epilogi ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]).
 - 2026-11-11 — Ο Δήμος δεσμεύει ότι η Ιωάννα θα επανέλθει στη Global Foods με δημιουργικές ιδέες προβολής/product placement για το The Hospitality Jam (χωρίς ημερομηνία) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]]).
 - 2026-11-02 — Antemisaris: μιλά με τον Ζάχο για τα κόστη XENIA (19.000 €)· στέλνει ανανεωμένο video Greenmart· νέο αίτημα για 3 εξώφυλλα καταλόγου ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]], [[2026-10-29-greenmart-video-egkrisi-update-2026-11-03]], [[2026-10-30-antemisaris-katalogos-final-comments-update-2026-11-03]]).
