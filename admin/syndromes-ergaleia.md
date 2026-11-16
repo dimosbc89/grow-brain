@@ -3,7 +3,7 @@ type: admin
 title: "Συνδρομές & εργαλεία λογισμικού"
 aliases: [subscriptions, SaaS, εργαλεία, Anthropic, Claude, Apify, Asana, HubSpot, DataForSEO, Scrape Creators, Google Workspace, ActiveCampaign]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 # Συνδρομές & εργαλεία λογισμικού
 > Τα SaaS που πληρώνει η GROW (AI, scraping, SEO data, project management, CRM, email). Οι αποδείξεις και τα τιμολόγια πάνε στη Βασιλική ή στη Δέσποινα για το λογιστήριο.
@@ -26,6 +26,10 @@ updated: 2026-11-13
 - **Ομάδα:** [[vassiliki-giannopoulou]] παίρνει τις περισσότερες αποδείξεις. [[despina-velissariou]] πήρε DataForSEO και Anthropic extra usage («print») ([[2026-07-24-dataforseo-receipt]], [[2026-10-16-anthropic-receipt-extra-usage]]).
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-16:
+- **Meta «adele»:** disabled ξανά 2026-11-14 09:00 και 2026-11-15 09:01 (πληρωμή απορρίφθηκε)· πελάτης ασαφής ([[2026-11-16-admin-eidopoiiseis]]).
+- **Calendly:** νέο «New call SOS» για Τρίτη 2026-11-17 11:00 CET (12:00 Αθήνα) με «Bayse reformer pilates» ([[2026-11-16-admin-eidopoiiseis]]).
+
 Στις 2026-11-12:
 - **Apify security incident:** η Apify επιβεβαίωσε 2026-11-12 ότι τρίτος είδε (2026-11-09/10) στοιχεία του λογαριασμού: profile, billing (4 τελευταία ψηφία κάρτας), IP logins, κρυπτογραφημένο password, **ρυθμίσεις 2FA με recovery codes** και Google/GitHub sign-in tokens. Η Apify έκανε rotate API tokens και reset 2FA. Σύσταση: επαναρύθμιση 2FA, έλεγχος GitHub security log, προσοχή σε phishing ([[2026-11-12-admin-eidopoiiseis]]).
 - **Meta «adele»:** 2026-11-13 ξανά disabled — πληρωμή απορρίφθηκε, ads σε παύση ([[2026-11-12-admin-eidopoiiseis]]).
@@ -38,7 +42,7 @@ updated: 2026-11-13
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Apify: επαναρύθμιση 2FA, έλεγχος GitHub security log (αν είναι συνδεδεμένο), ενημέρωση API tokens σε ό,τι χρησιμοποιεί Apify (η Apify τα έκανε rotate) — Δήμος — από 2026-11-12 ([[2026-11-12-admin-eidopoiiseis]])
 - [ ] Reconnect Asana MCP connector πριν 17/11 — Δήμος ([[2026-11-06-admin-eidopoiiseis]])
-- [ ] **Meta: πληρωμή απορρίφθηκε για το ad account «adele»** (2026-11-02 15:26–15:29, disabled) — ποιος πελάτης; ενημέρωση τρόπου πληρωμής — Δήμος ([[2026-11-03-admin-eidopoiiseis]]) · **ξανά 2026-11-13 06:59** (ID 561002792838183, disabled) ([[2026-11-12-admin-eidopoiiseis]])
+- [ ] **Meta: πληρωμή απορρίφθηκε για το ad account «adele»** (2026-11-02 15:26–15:29, disabled) — ποιος πελάτης; ενημέρωση τρόπου πληρωμής — Δήμος ([[2026-11-03-admin-eidopoiiseis]]) · **ξανά 2026-11-13 06:59** (ID 561002792838183, disabled) ([[2026-11-12-admin-eidopoiiseis]]) · ξανά 2026-11-14 και 2026-11-15 ([[2026-11-16-admin-eidopoiiseis]])
 - [ ] **Meta / Facebook Ads: πληρωμή απορρίφθηκε για το ad account του [[grandpas]]** (2026-10-26 22:25) — ενημέρωση τρόπου πληρωμής + εξόφληση οφειλής, αλλιώς σταματούν τα ads· ποσό ασαφές — Δήμος ([[2026-10-26-admin-eidopoiiseis]])
 - [ ] Meta: το «product browsing» είναι **ενεργό από 2026-10-28** στα sales ads του business Antemisaris ([[greenmart-antemisaris]]). Το opt-out πριν την ενεργοποίηση δεν έγινε· κρατάμε ή κλείνουμε από Advantage+ creative / Destination — Δήμος ([[2026-10-26-admin-eidopoiiseis]], [[2026-10-28-admin-eidopoiiseis]])
 - [ ] Meta One στο portfolio KALISPERA Athenian Tapas: ανοίγει αυτόματα **2026-11-10**· κλείσιμο ή όχι από Business info — Δήμος ([[2026-10-28-admin-eidopoiiseis]])
@@ -54,6 +58,7 @@ updated: 2026-11-13
 - —
 
 ## Χρονολόγιο
+- 2026-11-14/15 — Meta: «adele» ξανά disabled (×2)· Calendly: νέο call 2026-11-17 με Bayse reformer pilates ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-12/13 — Apify: επιβεβαίωση security incident (πρόσβαση σε στοιχεία λογαριασμού/2FA)· Meta: «adele» ξανά disabled ([[2026-11-12-admin-eidopoiiseis]]).
 - 2026-11-04/05 — 3CX ανανέωση· Asana MCP final notice (17/11)· Apify Scale/220,77 USD· Meta payment declined ([[2026-11-06-admin-eidopoiiseis]]).
 - 2026-11-03 — Nord ανεστάλη (αποτυχημένη χρέωση)· Google OAuth clients carrots-website / wishbone διαγράφονται ~2026-12-03 ([[2026-11-04-admin-eidopoiiseis]]).

@@ -3,7 +3,7 @@ type: team
 title: "Μαρίνα Παπαναστασίου"
 aliases: [Marina Papanastasiou, Μαρίνα, mpapa, mpapa@growagency.online]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 # Μαρίνα Παπαναστασίου
 > Managing Director της GROW. Τρέχει τα περίπτερα (lead στην Argyroplastics), τα admin της UK εταιρείας και τα τιμολόγια που της στέλνει ο Δήμος, και είναι σε cc σχεδόν σε κάθε νέο lead.
@@ -36,6 +36,7 @@ updated: 2026-11-13
   - [[sk-advisors]] ως λογιστές της GROW: ΦΠΑ, ΓΕΜΗ, pass διοδίων ([[2026-07-30-sk-advisors-fpa-v-trimino]], [[2026-08-26-gemi-payments-sk-advisors]], [[2026-08-27-sk-advisors-toll-pass-documents]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **2026-11-13:** έστειλε παρουσίαση/δείγματα στο νέο prospect περιπτέρου [[papavergos]] (πρώτο σχέδιο την εβδομάδα 2026-11-16)· έστησε στο GROW Agency Calendar το **Olympicnature Χ grow Agency Meeting 2026-11-16 11:00** ([[2026-11-13-periptero-papavergos]], [[2026-11-13-olympicnature-meeting]]).
 - [[global-foods]]: στις 2026-11-12 απάντησε στο ύφος των Tips — μορφή FAQ, έστειλε 7 κείμενα σε σύντομες ερωτοαπαντήσεις, το Spianata το ζήτησε από τη Global Foods ([[2026-10-09-globalfoods-tips-site-update-2026-11-13]]). Παραλήπτρια του αιτήματος μετάφρασης FISAN έως 2026-11-18 ([[2026-11-12-globalfoods-fisan-metafrasi]]).
 
 *Από 2026-10-27:*
@@ -46,6 +47,7 @@ updated: 2026-11-13
 - Η UK εταιρεία κάνει onboarding με την The Accountancy Partnership: φόρμα υπογράφηκε 2026-10-15, welcome και AML ήρθαν 2026-10-16 ([[2026-10-15-accountancy-partnership-registration-signed]], [[2026-10-16-accountancy-partnership-welcome]], [[2026-10-16-accountancy-partnership-aml-check]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Πρώτο σχέδιο περιπτέρου [[papavergos]] (μετά την κάτοψη) — Μαρίνα — εβδομάδα 2026-11-16 ([[2026-11-13-periptero-papavergos]])
 - [ ] Plastica: Υπ. Δηλώσεις ηλεκτρολόγου/κατασκευαστή/μηχανικού προς Expowork — Μαρίνα — πριν το στήσιμο 2026-11-05 ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]])
 - [ ] Global Foods: reel Unique x Zeo με τις αλλαγές της Ελπίδας — Μαρίνα (υπόσχεση) — **Πέμπτη 2026-10-29** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]])
 - [ ] Global Foods: ανάρτηση ΔΤ Detroit στο site Global + στήσιμο με φωτό για το site Unique — Μαρίνα — από 2026-10-27 ([[2026-10-09-global-unique-nea-mas-update-2026-10-28]])
@@ -74,6 +76,8 @@ updated: 2026-11-13
 - 2026-09-23: εγκρίνει μαζί με τον Δήμο την άδεια της [[despina-velissariou]] για 29–30/10 ([[2026-09-23-adeia-oktovriou-despina]]).
 
 ## Χρονολόγιο
+- 2026-11-13 — 13:47 email σε κ. Παπαβέργο (περίπτερο)· 13:58 event Olympicnature 16/11 11:00 ([[2026-11-13-periptero-papavergos]], [[2026-11-13-olympicnature-meeting]]).
+- 2026-11-13 — Κάρτα εργασίας: διπλό σκανάρισμα της Βασιλικής, ρώτησε το λογιστήριο για εκπρόθεσμη υποβολή ([[2026-11-13-karta-ergasias-vassiliki-proselefsi]]).
 - 2026-11-12 — 13:50 Tips Global Foods: «Πάμε στη λογική των FAQs», 7 τροποποιημένα Word, Spianata στον πελάτη ([[2026-10-09-globalfoods-tips-site-update-2026-11-13]]).
 - 2026-11-11 — Προσφορές περιπτέρου προς [[enersys]], [[cryo]], [[tsianakas-packaging]] ([[2026-11-11-enersys-prosfora-periptero]], [[2026-11-11-cryo-prosfora-periptero]], [[2026-11-11-tsianakas-prosfora-periptero]])· συνεννόηση με Print Kong για την πληρωμή εντύπου Αντεμισάρη ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]).
 - 2026-11-03 — Κάρτες εργασίας: ξεκίνησε, ερωτήσεις στην SK Advisors· αποδοχή LED Audio-tech· ΥΔ Expowork Plastica ([[2026-11-03-sk-advisors-karta-ergasias]]).

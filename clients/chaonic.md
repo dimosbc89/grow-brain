@@ -3,7 +3,7 @@ type: client
 title: "Chaonic"
 aliases: [CHAONIC, Gatita Maldita, gatitamaldita2026@gmail.com]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 # Chaonic
 > Νέο fashion/street brand· η GROW σχεδίασε το λογότυπο και το visual identity με concept «CHAOS, BUT ICONIC.».
@@ -13,7 +13,10 @@ updated: 2026-11-13
 - **Επαφή:** Ιωάννα (εμφανίζεται ως «Gatita Maldita», gatitamaldita2026@gmail.com) — πελάτισσα· επώνυμο ασαφές ([[2026-08-24-chaonic-logo-presentation]]).
 - **Ομάδα GROW:** ο Δήμος (brief, παρουσίαση)· [[vassia-kataki]] (παραλήπτρια του brief) ([[2026-08-13-chaonic-logo-brief]])· [[marianna-vourna]] (αναθεωρήσεις, τελικά PDF) ([[2026-08-24-chaonic-logo-presentation]], [[2026-09-21-chaonic-logo-pdf]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-12)
+## Τρέχουσα κατάσταση (στις 2026-11-13)
+- **BOX NOW (2026-11-13):** η BOX NOW υπενθύμισε στην πελάτισσα ότι εκκρεμεί **δοκιμαστικό voucher με τα Stage API keys** προς ict@boxnow.gr για το wearechaonic.com· εκείνη το προώθησε στον Δήμο 14:55 χωρίς σχόλιο ([[2026-11-13-chaonic-boxnow-dokimastiko-voucher]]).
+
+*Από 2026-11-12:*
 - **BOX NOW:** 2026-11-12 18:28 η Ιωάννα προώθησε στον Δήμο το email εγγραφής BOX NOW (2026-11-07) — «έχω βάλει και τα λεφτά και τα πάντα». 💭 Υπόθεση: περιμένει από τον Δήμο τη σύνδεση BOX NOW με το e-shop ([[2026-11-12-chaonic-boxnow-eggrafi]]).
 
 *Από 2026-11-03:*
@@ -23,7 +26,7 @@ updated: 2026-11-13
 - Το λογότυπο εγκρίθηκε 2026-08-24 και τα «Chaonic Logo.pdf» / «Chaonic Logo_A4.pdf» στάλθηκαν στην πελάτισσα 2026-09-21 ([[2026-08-24-chaonic-logo-presentation]], [[2026-09-21-chaonic-logo-pdf]]). Επόμενη δουλειά (π.χ. εφαρμογές, social): ασαφές.
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Σύνδεση/ρύθμιση BOX NOW στο e-shop με τα στοιχεία εγγραφής που προώθησε η Ιωάννα — Δήμος — από 2026-11-12 ([[2026-11-12-chaonic-boxnow-eggrafi]])
+- [ ] Σύνδεση/ρύθμιση BOX NOW στο e-shop με τα στοιχεία εγγραφής που προώθησε η Ιωάννα — Δήμος — από 2026-11-12 ([[2026-11-12-chaonic-boxnow-eggrafi]]) — επόμενο βήμα: **δοκιμαστικό voucher (Stage API) → ict@boxnow.gr**, υπενθύμιση BOX NOW 2026-11-13 ([[2026-11-13-chaonic-boxnow-dokimastiko-voucher]])
 - [ ] Feedback σελ. 15 launch campaign — Δήμος → Laurine — από 2026-11-03 ([[2026-11-03-chaonic-launch-campaign]])
 - [ ] Ανέβασμα προϊόντων/τιμών/περιγραφών Chaonic στο e-shop — [[laurine-erasmus]] / [[despina-velissariou]] — από 2026-11-02 ([[2026-11-02-chaonic-eshop-data]])
 - [ ] Υπόλοιπα στοιχεία προϊόντων — πελάτισσα — μετά το τέλος της παραγωγής ([[2026-11-02-chaonic-eshop-data]])
@@ -36,6 +39,7 @@ updated: 2026-11-13
 - 2026-08-13 (brief): δυνατό wordmark χωρίς icon· minimal, bold, fashion/street, premium, «ελεγχόμενο χάος»· όχι graffiti/gaming/heavy metal/generic streetwear· references Daily Paper, Dua Lipa, Kendrick Lamar (για στάση, όχι αντιγραφή)· «Don't over-design it.»· πρώτη παρουσίαση με 3 πραγματικά διαφορετικά routes, το καθένα με primary wordmark, secondary version, typography, color direction, rationale και mockups (signage, bag/packaging, clothing/tag, Instagram) ([[2026-08-13-chaonic-logo-brief]]).
 
 ## Χρονολόγιο
+- 2026-11-13 — BOX NOW: υπενθύμιση για δοκιμαστικό voucher Stage API· η πελάτισσα το προώθησε στον Δήμο ([[2026-11-13-chaonic-boxnow-dokimastiko-voucher]]).
 - 2026-11-12 — Η Ιωάννα προωθεί το email εγγραφής BOX NOW· έχει ήδη πληρώσει/ενεργοποιήσει τον λογαριασμό ([[2026-11-12-chaonic-boxnow-eggrafi]]).
 - 2026-11-06 — Laurine: WeTransfer «Link for Chaonic»· ο Δήμος έστειλε το «WE ARE CHAONIC» manifesto στο gatitamaldita2026@gmail.com (ποιος είναι: ασαφές) ([[2026-11-09-omada-mikra]]).
 - 2026-11-03 — Η Laurine ζητά feedback στη σελ. 15 (launch campaign) ([[2026-11-03-chaonic-launch-campaign]]).

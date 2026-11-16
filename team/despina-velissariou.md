@@ -3,7 +3,7 @@ type: team
 title: "Δέσποινα Βελισσαρίου"
 aliases: [Despina Velissariou, Δέσποινα, Despina, despina@growagency.online]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 # Δέσποινα Βελισσαρίου
 > Senior Account Manager της GROW. Τρέχει events, χορηγίες ([[hellenic-heritage-evolution]], [[rejuv-collective-solace]]), influencers και το e-shop της [[tandem-concept]]. Είναι και στα meetings των περιπτέρων.
@@ -34,6 +34,7 @@ updated: 2026-11-13
 - **Admin:** της στέλνονται για εκτύπωση τιμολόγια [[metalease]] και αποδείξεις Anthropic/DataForSEO ([[2026-07-22-metalease-timologio-c3c6]], [[2026-10-16-metalease-timologio-dc62]], [[2026-10-16-anthropic-receipt-extra-usage]], [[2026-07-24-dataforseo-receipt]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **2026-11-13:** δεσμεύτηκε (με επιφύλαξη) για τη **μετάφραση FISAN έως 2026-11-16 βράδυ** ([[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-16]])· ξεκίνησε επαφές **Heritage Escape 2027** (16–18/4/2027) με Avance και Access Fashion ([[2026-11-13-heritage-escape-2027-avance]], [[2026-11-13-heritage-escape-2027-access-fashion]]).
 - **Στις 2026-11-12:** XENIA/[[greenmart-antemisaris]] — έκλεισε την ανάρτηση στην Expowork (δελτία υπογραφή/εξόφληση από πελάτη, καταχωρήθηκε)· ζήτησε από την Expopiece ηλεκτρολογικό σχέδιο (5 × 32A / 40A) και ρωτά για ηλεκτρολόγο· εκκρεμεί η παραγγελία ρεύματος στο sales@expowork.gr ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]], [[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-13]], [[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]]).
 
 *Επίσης στις 2026-11-12:*
@@ -48,6 +49,8 @@ updated: 2026-11-13
 - Meeting με την Argyroplastics σήμερα 14:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Μετάφραση FISAN EN→EL — Δέσποινα — **2026-11-16** ([[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-16]])
+- [ ] Follow up Heritage Escape 2027 με Avance / Access Fashion — Δέσποινα — από 2026-11-13 ([[2026-11-13-heritage-escape-2027-avance]])
 - [ ] Κυνηγά προσφορά [[itqs]] για το δίκτυο του γραφείου (μετά από ραντεβού του Δήμου) — Δέσποινα — email 2026-11-12 18:17 ([[2026-11-12-itqs-prosfora-diktyo-grafeiou]])
 - [ ] XENIA: παραγγελία ρεύματος → sales@expowork.gr — Δέσποινα — από 2026-11-12 ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-13]])
 - [ ] XENIA: φωτισμός — «επανερχόμαστε» προς Expopiece — Δέσποινα — από 2026-11-12 ([[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]])
@@ -75,6 +78,8 @@ updated: 2026-11-13
 - 2026-07-24: οδηγία του Δήμου να μπει απονομή βραβείου στο gala στην πρόταση προς Viber ([[2026-07-24-viber-heritage-escape-ideas]]).
 
 ## Χρονολόγιο
+- 2026-11-13 — FISAN: «έως Δευτέρα 16/11, με κάθε επιφύλαξη»· emails HE 2027 σε Avance και Access Fashion ([[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-16]], [[2026-11-13-heritage-escape-2027-avance]], [[2026-11-13-heritage-escape-2027-access-fashion]]).
+- 2026-11-13 — Η ITQS απάντησε στο κυνήγι της με την πρόταση για δίκτυο/IT ([[2026-11-12-itqs-prosfora-diktyo-grafeiou-update-2026-11-16]]).
 - 2026-11-12 — Email στην [[itqs]]: αναμένουμε την προσφορά μετά το ραντεβού με τον Δήμο· η δυσλειτουργία του δικτύου επηρεάζει καθημερινά τη δουλειά ([[2026-11-12-itqs-prosfora-diktyo-grafeiou]]).
 - 2026-11-12 — XENIA: δελτία Expowork προς πελάτη (823,36 € + 715,43 €) → υπογραφή/εξόφληση → καταχώρηση ανάρτησης· ηλεκτρολογικά προς Expopiece ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]], [[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-13]], [[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]]).
 - 2026-11-12 — 10:52 / 11:16 Dropbox raw ZEO στην Ελπίδα (WeTransfer καθυστερεί λόγω βλάβης internet) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]]). 13:21 tag στα σχόλια Canva, ζητά απάντηση σε 2 posts Unique ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-13]]).

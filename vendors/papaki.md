@@ -3,7 +3,7 @@ type: vendor
 title: "Papaki (papaki.com)"
 aliases: [papaki, papaki.com, papaki.gr]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 # Papaki
 > Ο κύριος registrar domains της GROW (brand της [[enartia]]). Στον λογαριασμό Papaki της GROW είναι domains πελατών. Τα τιμολόγια έρχονται ως e-invoices της Enartia.
@@ -31,6 +31,7 @@ updated: 2026-11-13
 - —
 
 ## Χρονολόγιο
+- 2026-11-14 — Ειδοποίηση: eventsgreece.online λήγει 2026-12-13 ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-13 — Ειδοποίηση 60 ημερών: agapeathens.online λήγει 2027-01-11 ([[2026-11-12-admin-eidopoiiseis]]).
 - 2026-10-26 — Η Νίκη ([[hotelbrain]]) στέλνει τα στοιχεία του papaki της HotelBrain με απλό email [διαπιστευτήρια παραλείφθηκαν] για το go-live ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-27]]).
 - 2026-10-07 — Τα nameservers του karmiotissa.com άλλαξαν σε Cloudflare και δόθηκε auth code ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).

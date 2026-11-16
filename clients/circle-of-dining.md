@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -14,7 +14,12 @@ updated: 2026-11-13
 - **Ομάδα GROW:** [[ioanna-chalkiadaki]] (day-to-day, υλικό site)· ο Δήμος (πρόταση, design redesign)· [[vassiliki-giannopoulou]] (λίστα καλεσμένων) ([[2026-07-30-lista-kalesmenon-georgiadis]]).
 - **Συνεργάτες πελάτη (logos στο site):** Hilton, Agusta (Κρήτη) ([[2026-10-01-circle-of-dining-redesign]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-16)
+- **XENIA dinner:** στις 2026-11-13 19:37 η [[ioanna-chalkiadaki]] έστειλε στον Δήμο **TEST** της πρόσκλησης (ActiveCampaign): private dinner **Κυριακή 2026-11-22 19:30, Rodopou & Beyond (6ος όροφος Hilton Garden Inn)**, δωρεάν κατόπιν πρόσκλησης, RSVP στην Ιωάννα. Έγκριση/αποστολή: ασαφές ([[2026-11-13-circle-of-dining-dinner-test-prosklisi]]).
+- **Τιμολόγιο #1333** για το **μοντάζ του 3ου επεισοδίου** στάλθηκε 2026-11-16 08:00 στο λογιστήριο του Γεωργιάδη (ποσό μόνο στο PDF) ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]]).
+- Hospitality Jam: επόμενα γυρίσματα 2026-11-25 (Άρης Σκλαβενίτης), 2026-12-01 (Μανώλης Μούτσος/Momentum), 2026-12-05 (Παναγιώτης Νίκας) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]]).
+
+*Από 2026-10-28:*
 - Στις 2026-10-27 το λογιστήριο GROW έστειλε στο λογιστήριο του Γεωργιάδη (finance.askoffice@) το τιμολόγιο **#1292** για το **μοντάζ του δεύτερου επεισοδίου** (ποσό μόνο στο PDF) ([[2026-10-27-accounting-timologia-kartelles]]). 💭 Υπόθεση: αφορά το γύρισμα της 2026-10-22.
 
 *Από 2026-10-20:*
@@ -23,7 +28,8 @@ updated: 2026-11-13
 - Επόμενο: «The Circle of Dining γύρισμα» 2026-10-22 13:00 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Asana «αποστολή προσκλήσεων dinner» (xenia dinner) — **Δήμος** — ⚠️ εκπρόθεσμο από 2026-11-11· η Ιωάννα ρωτά «Το στείλαμε?» 2026-11-12 και αν μπαίνει το όνομα του Γεωργιάδη στο email ([[2026-11-12-asana-xenia-dinner-proskliseis]])
+- [ ] Asana «αποστολή προσκλήσεων dinner» (xenia dinner) — **Δήμος** — ⚠️ εκπρόθεσμο από 2026-11-11· η Ιωάννα ρωτά «Το στείλαμε?» 2026-11-12 και αν μπαίνει το όνομα του Γεωργιάδη στο email ([[2026-11-12-asana-xenia-dinner-proskliseis]])· **test πρόσκλησης στάλθηκε στον Δήμο 2026-11-13** (χωρίς όνομα Γεωργιάδη) — θέλει έγκριση πριν φύγει ([[2026-11-13-circle-of-dining-dinner-test-prosklisi]])
+- [ ] Εξόφληση #1333 (μοντάζ 3ου επεισοδίου) — πελάτης — από 2026-11-16 ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]])
 - [ ] Asana «google ads» — Δήμος — **2026-11-09** (Asana)
 - [ ] «Chef Georgiadis εδώ» — 2026-11-06 16:00 ([[2026-11-03_2026-11-10]])
 - [ ] Εξόφληση #1292 (μοντάζ 2ου επεισοδίου) — πελάτης — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
@@ -59,6 +65,8 @@ updated: 2026-11-13
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
+- 2026-11-16 — Τιμολόγιο #1333 (μοντάζ 3ου επεισοδίου) προς finance.askoffice@ ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]]).
+- 2026-11-13 — 19:37 TEST πρόσκλησης XENIA dinner (22/11 19:30, Rodopou & Beyond) στον Δήμο ([[2026-11-13-circle-of-dining-dinner-test-prosklisi]]).
 - 2026-11-12 — Asana «xenia dinner»: η Ιωάννα ρωτά τον Δήμο αν στάλθηκαν οι προσκλήσεις· προτεινόμενο κείμενο με τον Γεωργιάδη ως έναν από τους τρεις chefs ([[2026-11-12-asana-xenia-dinner-proskliseis]]).
 - 2026-11-10 — Asana: task «website» ανατέθηκε στον Δήμο (λήξη 2026-11-20)· podcast3 (Chef Γεωργιάδης 💭): η Ιωάννα ζητά από τον Δήμο να δει first cut και cover (λήξη 18/11) ([[2026-11-10-asana-omada-mikra]]).
 - 2026-11-02 — Meta receipt **The Dining Society 40,00 €** (από 2026-11-01, χρέωση 22:05) — 💭 Υπόθεση: η πληρωμή του ad account λειτουργεί ξανά μετά τα declined 30–31/10. Τιμολόγια Νοεμβρίου (Circle of Dining + Γεωργιάδης) από το λογιστήριο ([[2026-11-03-admin-eidopoiiseis]]).

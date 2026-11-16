@@ -3,7 +3,7 @@ type: admin
 title: "GROW 360 LTD (UK εταιρεία)"
 aliases: [GROW 360, GROW 360 LTD, UK εταιρεία, UK company, βρετανική εταιρεία]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 # GROW 360 LTD
 > Η βρετανική εταιρεία του Δήμου (μοναδικός director/shareholder, κάτοικος Ελλάδας). Τον Οκτώβριο 2026 πέρασε σε νέο λογιστή, την [[the-accountancy-partnership]], και τον Νοέμβριο 2026 έχει τις πρώτες προθεσμίες της στην Companies House.
@@ -18,6 +18,11 @@ updated: 2026-11-13
 - **Φορολογική κατοικία / μόνιμη εγκατάσταση στην Ελλάδα:** κατά τη DMP είναι εκτός πακέτου UK λογιστή και θέλει Έλληνα φοροτεχνικό ([[2026-10-19-dmp-accountants-grow360-quote]]). Σχετικά: [[forologika-asfalistika]].
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-16:
+- **YCF 2026-11-13 10:14:** «Service Renewal Overdue» — Registered Office, DSA, Mail Forwarding, Premium Filing έχουν λήξει/ακυρωθεί· αν η διεύθυνση μείνει σε χρήση, η YCF θα ζητήσει αφαίρεσή της από την Companies House (κίνδυνος strike-off) ([[2026-11-16-admin-eidopoiiseis]]).
+- **YCF 2026-11-15 21:27:** **Confirmation Statement έως 2026-11-23** (8 ημέρες)· η YCF το προσφέρει £90 ex VAT· χρειάζεται πρώτα PSC personal code (GOV.UK One Login) ([[2026-11-16-admin-eidopoiiseis]]). ⚠️ Ποιος το καταθέτει (TAP, που το έχει στο πακέτο, ή YCF): ασαφές — η TAP δεν έχει ακόμα το Auth Code.
+- Revolut: ο λογαριασμός κλείνει **αύριο 2026-11-17** — statements να έχουν κατέβει ([[2026-11-10-revolut-business-kleisimo-grow360]]).
+
 Στις 2026-11-13: η TAP έστειλε ξανά (03:03) «Missing Setup Information» — το **Companies House Auth Code** της Grow 360 Ltd δεν έχει μπει ακόμα στο Client Hub· προειδοποίηση για HMRC penalties ([[2026-11-12-admin-eidopoiiseis]]).
 
 Στις 2026-11-12: η YCF επιβεβαίωσε 2026-11-11 ότι **έληξαν/ακυρώθηκαν** Registered Office, Director's Service Address, Mail Forwarding και Premium Filing, και ότι **η διεύθυνσή της εμφανίζεται ακόμα στην Companies House** — αν μείνει σε χρήση θα ζητήσει αφαίρεσή της (κίνδυνος **strike-off**). Προσφέρει ανανέωση με **25% loyalty discount**. Απόφαση/νέα διεύθυνση δεν φαίνεται ([[2026-11-11-grow360-ycf-services-expired]], [[2026-11-11-grow360-ycf-address-still-active]]).
@@ -38,7 +43,7 @@ updated: 2026-11-13
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Κατέβασμα statements Revolut πριν το κλείσιμο 2026-11-17 — Μαρίνα/Δήμος ([[2026-11-10-revolut-business-kleisimo-grow360]])
-- [ ] Νέα registered office / service address στην Companies House (YCF ακυρώθηκε 2026-11-10) ή ανανέωση YCF με 25% έκπτωση — Δήμος/TAP — **άμεσα** (νέες προειδοποιήσεις YCF 2026-11-11: κίνδυνος strike-off) ([[2026-11-10-yourcompanyformations-akyrosi-grow360]], [[2026-11-11-grow360-ycf-services-expired]], [[2026-11-11-grow360-ycf-address-still-active]])
+- [ ] Νέα registered office / service address στην Companies House (YCF ακυρώθηκε 2026-11-10) ή ανανέωση YCF με 25% έκπτωση — Δήμος/TAP — **άμεσα** (νέο «Renewal Overdue» 2026-11-13, [[2026-11-16-admin-eidopoiiseis]]) (νέες προειδοποιήσεις YCF 2026-11-11: κίνδυνος strike-off) ([[2026-11-10-yourcompanyformations-akyrosi-grow360]], [[2026-11-11-grow360-ycf-services-expired]], [[2026-11-11-grow360-ycf-address-still-active]])
 - [ ] Companies House Auth Code στο Client Hub της Accountancy Partnership — Δήμος — άμεσα ([[2026-11-06-admin-eidopoiiseis]]) · νέα υπενθύμιση TAP 2026-11-13 ([[2026-11-12-admin-eidopoiiseis]])
 - [ ] Πληρωμή ληξιπρόθεσμων P-388148/9 — Δήμος ([[2026-11-06-admin-eidopoiiseis]])
 - [ ] Πληρωμή/διευθέτηση τιμολογίων Revolut GRGL-4 και GRGL-5 (750 € × 2) της GROW 360 LTD — Δήμος (💭 από την ελληνική GROW) — **έως 2026-11-09** ([[2026-11-03-admin-eidopoiiseis]])
@@ -56,7 +61,7 @@ updated: 2026-11-13
 - [ ] Απάντηση στη YCF: πλήρης ακύρωση ή κράτημα μόνο Registered Office (£29) + Officer's Address (£28) — Δήμος — η YCF ρώτησε 2026-10-27 12:32, πριν τις 2026-11-10· ⚠️ νέα υπενθύμιση 2026-11-02 για ανανέωση όλου του πακέτου (£339.60) — ακύρωση/αλλαγή από «My Services & Renewals» ([[2026-11-03-admin-eidopoiiseis]]) ([[2026-10-27-grow360-ycf-ananeosi]])
 - [ ] Αν ακυρωθεί και η διεύθυνση YCF: νέα registered office / service address στην Companies House (💭 μέσω TAP) — Δήμος/TAP — πριν τις 2026-11-10 ([[2026-10-27-grow360-ycf-ananeosi]])
 - [ ] Ταυτοποίηση PSC στην Companies House και δήλωση personal code — Δήμος — 2026-11-10 έως 2026-11-23 (υπάρχει δυνατότητα παράτασης 14 ημερών· αλλιώς κίνδυνος προστίμου) ([[2026-10-14-companies-house-psc-verification]])
-- [ ] Πρώτο Confirmation Statement. Περιλαμβάνεται στο πακέτο της TAP και προϋποθέτει το ID/PSC verification — TAP/Δήμος — έως 2026-11-23 ([[2026-10-07-grow360-confirmation-statement-uk]], [[2026-09-15-grow360-ltd-supportline-quote]], [[2026-10-14-check-tap-quote-grow360]])
+- [ ] Πρώτο Confirmation Statement. Περιλαμβάνεται στο πακέτο της TAP και προϋποθέτει το ID/PSC verification — TAP/Δήμος — έως 2026-11-23 · νέα υπενθύμιση YCF 2026-11-15 (προσφέρει £90 ex VAT) ([[2026-11-16-admin-eidopoiiseis]]) ([[2026-10-07-grow360-confirmation-statement-uk]], [[2026-09-15-grow360-ltd-supportline-quote]], [[2026-10-14-check-tap-quote-grow360]])
 - [ ] Πρώτη πληρωμή TAP (αρχικό κόστος £616,80 με VAT) — GROW 360 LTD — έως 2026-11-30 («Νοέμβριος 2026») ([[2026-10-14-check-tap-quote-grow360]])
 - [ ] Λήξη της 1ης λογιστικής περιόδου. Μετά στέλνουμε στον λογιστή statements/CSV με επεξήγηση κάθε συναλλαγής (δέσμευση προς DMP· με την TAP ασαφές) — Δήμος — από 2026-11-30 ([[2026-10-19-dmp-accountants-grow360-quote]])
 - [ ] Μηνιαία χρέωση TAP £59,40 με VAT, με τιμολόγιο ή Direct Debit — GROW 360 LTD — από 2026-12-01 ([[2026-10-14-check-tap-quote-grow360]])
@@ -68,6 +73,8 @@ updated: 2026-11-13
 - 2026-10-02 — Η Μαρίνα αναλαμβάνει να επιλέξει λογιστή και να ρωτήσει αν ακυρώνονται οι υπηρεσίες YCF ([[2026-10-02-grow360-ycf-renewal-accounting]]).
 
 ## Χρονολόγιο
+- 2026-11-15 — YCF: Confirmation Statement έως 2026-11-23 (£90 ex VAT αν το αναλάβει η YCF) ([[2026-11-16-admin-eidopoiiseis]]).
+- 2026-11-13 — YCF: «Service Renewal Overdue» — λήξη/ακύρωση όλων των υπηρεσιών, κίνδυνος strike-off αν η διεύθυνση μείνει σε χρήση ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-13 — TAP: ξανά «Missing Setup Information» για Companies House Auth Code ([[2026-11-12-admin-eidopoiiseis]]).
 - 2026-11-11 — YCF: «services expired or cancelled» (10:11) και «Our Address Is Still Active at Companies House» (16:00) με 25% loyalty discount για ανανέωση ή ενημέρωση της Companies House ([[2026-11-11-grow360-ycf-services-expired]], [[2026-11-11-grow360-ycf-address-still-active]]).
 - 2026-11-10 — **Revolut Business:** ο λογαριασμός της GROW 360 LTD κλείνει **2026-11-17** λόγω αρνητικού υπολοίπου (μηδενίζεται, δεν οφείλεται τίποτα) — να κατέβουν statements πριν· ο Δήμος το προώθησε στη Μαρίνα ([[2026-11-10-revolut-business-kleisimo-grow360]]). **YCF:** ακυρώθηκαν Registered Office, Director's Service Address, Mail Forwarding, Premium Filing — προειδοποίηση για κίνδυνο strike-off αν η διεύθυνση μείνει σε χρήση ([[2026-11-10-yourcompanyformations-akyrosi-grow360]]). **Companies House:** υπενθύμιση Confirmation Statement + ID verification έως **2026-11-23** ([[2026-11-10-companies-house-confirmation-statement-grow360]]).

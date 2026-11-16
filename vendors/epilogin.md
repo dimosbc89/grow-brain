@@ -3,7 +3,7 @@ type: vendor
 title: "Epilogin / Epilogi Digital"
 aliases: [Epilogin, Epilogi Digital, epilogin.gr, epilogidigital@gmail.com]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 # Epilogin / Epilogi Digital
 > Προμηθευτής εκτυπώσεων/menuboards της GROW (επαφή [[iasonas-kolytos]])· χρησιμοποιείται και για κοστολόγηση κατασκευαστικών σε εκθεσιακά περίπτερα.
@@ -37,6 +37,7 @@ updated: 2026-11-13
 - [[2026-09-11-krema-menuboards-antikatastasi]] — αντικατάσταση χωρίς χρέωση στον πελάτη· πρόταση μοιρασιάς κόστους.
 
 ## Χρονολόγιο
+- 2026-11-13 — Η [[marianna-vourna]] ζητά προσφορά για έντυπα [[enoteca]] (μενού, φάκελοι αποδείξεων, κατάλογοι κρασιών· ίδιο αίτημα και σε Print Kong) ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong]]).
 - 2026-11-12 — Oggi T-shirts: τιμές 2026-11-10 (11,8–15,8 € + ΦΠΑ ανά μπλούζα)· ερώτηση Βάσιας για εκτύπωση ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]]).
 - 2026-11-11 — Η Ιωάννα ρωτά ώρα παράδοσης των Α5 Αντεμισάρη· καμία απάντηση στο thread ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]).
 - 2026-11-03 — Plastica: νέα εκτυπωτικά ρεσεψιόν ([[2026-11-02-argyroplastics-ektypotika-arxeia-update-2026-11-04]]).

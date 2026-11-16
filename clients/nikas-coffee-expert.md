@@ -3,7 +3,7 @@ type: client
 title: "Panagiotis Nikas / CoffeeXpert / Barista Academy"
 aliases: [Panagiotis Nikas, Νίκας, P. Nikas, Coffee Expert, CoffeeXpert, ΚΟΦΙ ΕΞΠΕΡΤ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ, Barista Academy, baristacademy.gr, barista-academy.gr, baristaexpert.gr, coffeexpert.gr, panagiotisnikas.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-11-09
+updated: 2026-11-16
 ---
 # Panagiotis Nikas / CoffeeXpert / Barista Academy
 > Ο [[panagiotis-nikas]] και οι επιχειρήσεις του (CoffeeXpert, Barista Academy, προσωπικό brand): η GROW τρέχει Meta Ads, κρατά τα sites/domains και λειτουργεί στην πράξη ως το IT/security help desk του — πολλά «copyright» phishing.
@@ -16,7 +16,11 @@ updated: 2026-11-09
 - **Registrar baristacademy.gr:** ENARTIA (papaki.com) → [[papaki]], [[enartia]] ([[2026-08-27-baristacademy-domain-expiration]]).
 - **Σχετικά:** lead [[avek]] (συνάντηση «P. Nikas X AVEK» 2026-10-19)· 2box (kimon@2box.gr, «P. Nikas X 2box» 2026-08-05) ([[2026-07-20_2026-11-03]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-03)
+## Τρέχουσα κατάσταση (στις 2026-11-13)
+- **YouTube freddo video:** η [[vassiliki-giannopoulou]] το έστειλε για έλεγχο 2026-11-13 08:43· ο [[panagiotis-nikas]] απάντησε 22:29 «Πολύ καλό» — να γίνει **tag η Kalko** ή και αίτημα για **colab** ([[2026-11-13-nikas-review-yt-video-freddo]]).
+- **Java Jives:** μετά από τηλέφωνο της Βασιλικής με τον Κώστα (ο Νίκας είναι στην Αιθιοπία), το βίντεο **ανεβαίνει 2026-11-16** ([[2026-11-13-nikas-review-yt-video-freddo]]).
+
+*Από 2026-11-03:*
 - **Καρτέλα:** στις 2026-11-02 13:09 ο [[panagiotis-nikas]] απάντησε στο τιμολόγιο Νοεμβρίου (υπόλοιπο 1.829,00 €) ότι **και τα δύο τιμολόγια πληρώθηκαν 2026-10-15 (961,00 €)** και ζητά διορθωμένη καρτέλα ([[2026-11-02-nikas-kartela-pliromi-15-10]]).
 - **OutIn LattoGo S:** η OutIn ενέκρινε το video 2026-11-02 12:27· launch post OutIn 2026-11-02 16:00, μετά μπορεί να ανέβει το δικό μας με τα επίσημα hashtags ([[2026-11-02-nikas-outin-lattogo-s]]).
 
@@ -26,6 +30,8 @@ updated: 2026-11-09
 - 2026-10-19: νέο «copyright» phishing (Jackson Walker LLP) → «spam» ([[2026-10-19-panagiotisnikas-copyright-spam]])· ίδια μέρα συνάντηση «P. Nikas X AVEK» με Βασιλική και Δήμο ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Ανέβασμα freddo YT video με tag Kalko (+ πιθανό colab) — [[vassiliki-giannopoulou]] — εγκρίθηκε 2026-11-13 ([[2026-11-13-nikas-review-yt-video-freddo]])
+- [ ] Βίντεο Java Jives — ανεβαίνει **2026-11-16** — επιβεβαίωση ότι ανέβηκε — Βασιλική ([[2026-11-13-nikas-review-yt-video-freddo]])
 - [ ] Απάντηση στην Ιωάννα: πότε βλέπουμε το Nikas Podcast (γύρισμα 7/12) — Δήμος ([[2026-11-04-dianoma-pelates-mikra]])
 - [ ] **Έλεγχος πίστωσης 961,00 € (2026-10-15) και επαναποστολή διορθωμένης καρτέλας** — [[sofia-konstantopoulou]] / Δήμος — ο Νίκας περιμένει από 2026-11-02 13:09 ([[2026-11-02-nikas-kartela-pliromi-15-10]])
 - [ ] Ανέβασμα video LattoGo S (μετά 2026-11-02 16:00, hashtags #OutInLattoGoS κ.ά.) — [[vassiliki-giannopoulou]] — ασαφές αν έγινε ([[2026-11-02-nikas-outin-lattogo-s]])
@@ -57,6 +63,7 @@ updated: 2026-11-09
 - Όλα τα «copyright/DMCA» και «Microsoft 365» emails χαρακτηρίστηκαν spam/phishing — καμία ενέργεια ([[2026-08-21-ninja-tune-copyright-spam-nikas]], [[2026-08-31-nikas-copyright-phishing-scam]], [[2026-09-01-coffeexpert-m365-phishing-check]], [[2026-09-15-barista-academy-copyright-spam]], [[2026-10-19-panagiotisnikas-copyright-spam]]).
 
 ## Χρονολόγιο
+- 2026-11-13 — Freddo YT video εγκρίθηκε από τον Νίκα (tag Kalko)· Java Jives video κλείδωσε για 2026-11-16 ([[2026-11-13-nikas-review-yt-video-freddo]]).
 - 2026-11-09 — Νέα προειδοποίηση λήξης domain lucaffe.gr (FORTH) ([[2026-11-09-admin-eidopoiiseis]]).
 - 2026-11-04 — Ιωάννα: πότε βλέπουμε το podcast· γύρισμα 7/12 ([[2026-11-04-dianoma-pelates-mikra]]).
 - 2026-11-02 — Ο Νίκας αμφισβητεί την καρτέλα (1.829,00 €): πλήρωσε 961,00 € για δύο τιμολόγια 2026-10-15. Η OutIn εγκρίνει το video LattoGo S (launch 16:00). baristacademy.gr: Wordfence ξανά Super Forms 6.3.322 → 6.3.323 (3/11) και connection Easy Appointments ληγμένη ([[2026-11-02-nikas-kartela-pliromi-15-10]], [[2026-11-02-nikas-outin-lattogo-s]], [[2026-11-03-admin-eidopoiiseis]]).

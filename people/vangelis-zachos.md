@@ -3,7 +3,7 @@ type: person
 title: "Βαγγέλης Ζάχος"
 aliases: [Zachos V., Vangelis Zachos, zachosv@antemisaris.gr]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 # Βαγγέλης Ζάχος
 > Κύρια επαφή της GROW στην [[greenmart-antemisaris]]: στέλνει αρχεία προϊόντων, προτάσεις εκθέσεων και κάνει τα follow-ups.
@@ -12,7 +12,10 @@ updated: 2026-11-13
 - **Οργανισμός:** [[greenmart-antemisaris]] (antemisaris.gr)· ακριβής ρόλος ασαφής ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 - **Επαφή GROW:** [[ioanna-chalkiadaki]]· ο Δήμος ([[2026-08-13-antemisaris-koropi-range-harmony]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-12)
+## Τρέχουσα κατάσταση (στις 2026-11-16)
+- 2026-11-13 09:39: απάντησε inline στη «SOS ενημέρωση» — **ΝΑΙ στη social καμπάνια leads**, σκαλέτα video wall ΟΚ με «slideshow Έργα must», ρωτά πόσα tablets και **κόστος**, «πότε και σε ποιον» η κάρτα στάθμευσης· λίστες (σειρές γλαστρών, κείμενα σταδίων, συνεργάτες) «σύντομα». 15:15 υπέγραψε την **παραγγελία κλαρκ** για 2026-11-16. Του ζητήθηκαν τα υπόλοιπα **έως 2026-11-16 πρωί** ([[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-16]], [[2026-11-13-expowork-allagi-anartisis-klark-xenia]]).
+
+*Νωρίτερα (στις 2026-11-12):*
 - 2026-11-12: υπέγραψε και εξόφλησε (11:48) τα δελτία ανάρτησης Expowork (823,36 € + 715,43 €) ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]]). Προώθησε στην Ιωάννα το πακέτο χορηγών BOX22 (Gagos) — δίνουν φυτά, «επείγον» ([[2026-11-12-antemisaris-box22-gagos-xorigia]]). Έλαβε 16:14 τη «SOS ενημέρωση» με πολλά ερωτήματα που περιμένουν απάντησή του ([[2026-11-12-antemisaris-sos-enimerosi-xenia]]).
 
 **Παλαιότερα (στις 2026-11-03)**
@@ -24,7 +27,7 @@ updated: 2026-11-13
 - Follow-up καταλόγου με την Ιωάννα μετακινήθηκε στις 2026-10-26 14:00 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Απαντήσεις στη «SOS ενημέρωση» XENIA (σειρές γλαστρών, κείμενα σταδίων, ποσότητες merch, κάρτες QR, λίστα συνεργατών/προσκλήσεις, καμπάνια leads, σκαλέτα video wall) — Ζάχος — από 2026-11-12 16:14 ([[2026-11-12-antemisaris-sos-enimerosi-xenia]])
+- [ ] (μερικώς ✓ 2026-11-13 — [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-16]]· υπόλοιπα έως 2026-11-16 πρωί) Απαντήσεις στη «SOS ενημέρωση» XENIA (σειρές γλαστρών, κείμενα σταδίων, ποσότητες merch, κάρτες QR, λίστα συνεργατών/προσκλήσεις, καμπάνια leads, σκαλέτα video wall) — Ζάχος — από 2026-11-12 16:14 ([[2026-11-12-antemisaris-sos-enimerosi-xenia]])
 - [x] Υπογραφή + εξόφληση δελτίων ανάρτησης Expowork — ✓ 2026-11-12 11:48 ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]])
 - [x] Αν χωρούν οι γλάστρες — ✓ «θα είμαστε ΟΚ» 2026-11-02 ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]])
 - [ ] Έγκριση της προσφοράς XENIA 19.000 € από Lefteris/Theo — ο Ζάχος τη ζήτησε 2026-11-02 ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]])
@@ -36,6 +39,7 @@ updated: 2026-11-13
 - —
 
 ## Χρονολόγιο
+- 2026-11-13 — Inline απαντήσεις στη «SOS ενημέρωση» (καμπάνια leads ΝΑΙ)· υπογράφει παραγγελία κλαρκ ([[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-16]], [[2026-11-13-expowork-allagi-anartisis-klark-xenia]]).
 - 2026-11-12 — Υπογράφει/εξοφλεί ανάρτηση Expowork· προωθεί BOX22 (Gagos) στην Ιωάννα· λαμβάνει «SOS ενημέρωση» XENIA ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]], [[2026-11-12-antemisaris-box22-gagos-xorigia]], [[2026-11-12-antemisaris-sos-enimerosi-xenia]]).
 - 2026-11-11 — Λαμβάνει τιμολόγιο GROW #1332 για την εκτύπωση της εταιρικής παρουσίασης, με αίτημα προεξόφλησης ([[2026-11-11-antemisaris-timologio-parousiasis-proexoflisi]]).
 - 2026-11-02 — Video «ΟΚ» με αλλαγή (ελαιοραβδιστικό)· XENIA: προσφορά GROW 19.000 € προς έγκριση στους ιδιοκτήτες, γλάστρες ΟΚ· κατάλογος: 3 νέα εξώφυλλα + φωτό κατοικίας ([[2026-10-29-greenmart-video-egkrisi-update-2026-11-03]], [[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]], [[2026-10-30-antemisaris-katalogos-final-comments-update-2026-11-03]]).

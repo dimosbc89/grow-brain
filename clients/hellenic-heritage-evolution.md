@@ -3,7 +3,7 @@ type: client
 title: "Hellenic Heritage Evolution (HHE) — Heritage Escape / Τσικλητήρεια"
 aliases: [HHE, ΗΗΕ, Hellenic Heritage Evolution, Heritage Escape, Τσικλητήρεια, Tsiklitiria, hellenicheritageevolution.com, Δ. Καραμπάτσος]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-16
 ---
 # Hellenic Heritage Evolution (HHE): Heritage Escape / Τσικλητήρεια
 > Πελάτης της ομάδας της Δέσποινας με events. Το Heritage Escape ήταν τριήμερο στο Costa Navarino, 18–20/9/2026, και τα Τσικλητήρεια είναι αγώνας με εγγραφές. Η GROW κάνει Meta Ads, αναζήτηση sponsors και συναντήσεις follow-up κάθε 1–2 εβδομάδες. Βασική επαφή είναι ο Δημήτρης Καραμπάτσος.
@@ -23,7 +23,10 @@ updated: 2026-11-12
 - **Ομάδα GROW:** [[despina-velissariou]] (lead), [[ioanna-chalkiadaki]], ο Δήμος ([[2026-07-20_2026-11-03]]).
 - **Σχετικά:** [[karampatsos-law]], με ασαφή σχέση. Βλ. Σημειώσεις.
 
-## Τρέχουσα κατάσταση (στις 2026-11-12)
+## Τρέχουσα κατάσταση (στις 2026-11-16)
+- **Heritage Escape 2027:** στις 2026-11-13 η [[despina-velissariou]] έγραψε σε **Avance** (Marisa Drolapa, Georgia Kalithraka) και **Access Fashion** (7 στελέχη) ότι η GROW ξεκίνησε τις δράσεις και ζητά σύντομο follow up για συμμετοχή/προβολή· **νέες ημερομηνίες 16–18 Απριλίου 2027, Costa Navarino** — επιβεβαιώνει ότι το «16-18 Απριλίου» της AFEA αφορά το 2027. Απαντήσεις: καμία ακόμα ([[2026-11-13-heritage-escape-2027-avance]], [[2026-11-13-heritage-escape-2027-access-fashion]]).
+
+*Από 2026-11-12:*
 - Τιμολόγια Τσικλητήρεια: η Print Kong βλέπει το τιμολόγιο εκτυπώσεων **ανεξόφλητο**· στις 2026-11-11 η Δέσποινα ζήτησε από τον πελάτη αποδεικτικό πληρωμής (θυμάται ότι είχαν πει πως εξοφλήθηκε) ή ημερομηνία εξόφλησης ([[2026-11-11-hhe-timologia-tsiklitiria-printkong]]).
 
 *Από 2026-11-06:*
@@ -38,6 +41,7 @@ updated: 2026-11-12
 - **Τσικλητήρεια:** στις 2026-08-09 η δαπάνη Meta για το 2026 ήταν 332,04 €. Η πρόταση της GROW ήταν τουλάχιστον 700 € έως το event ([[2026-08-09-tsikliteria-meta-campaigns-report]]). Η ημερομηνία του event και η απόφαση του πελάτη: ασαφές.
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Follow up calls Heritage Escape 2027 με Avance και Access Fashion — Δέσποινα — από 2026-11-13 ([[2026-11-13-heritage-escape-2027-avance]], [[2026-11-13-heritage-escape-2027-access-fashion]])
 - [ ] Αποδεικτικό πληρωμής ή ημερομηνία εξόφλησης τιμολογίου Print Kong (Τσικλητήρεια) — HHE (Καραμπάτσος / Νάντια) — από 2026-11-11 ([[2026-11-11-hhe-timologia-tsiklitiria-printkong]])
 - [ ] Meeting «ΗΗΕ x Grow» — Δέσποινα (+ Δήμος) — **2026-11-03 11:00** ([[2026-10-27-hhe-meeting-2026-11-03-accepted]])
 - [ ] Εβδομαδιαίο report πωλήσεων και εγγραφών για το optimization — πελάτης (Δημήτρης) — από 2026-08-09 ([[2026-08-09-tsikliteria-meta-campaigns-report]])
@@ -64,6 +68,7 @@ updated: 2026-11-12
 - Ο πελάτης δεν δέχτηκε την custom πλατφόρμα εγγραφών της GROW και χρησιμοποιεί Reventy ([[2026-08-09-tsikliteria-meta-campaigns-report]]).
 
 ## Χρονολόγιο
+- 2026-11-13 — 12:44/12:46 η Δέσποινα ξεκινά επικοινωνία με Access Fashion και Avance για το Heritage Escape 2027 (16–18/4/2027, Costa Navarino) ([[2026-11-13-heritage-escape-2027-access-fashion]], [[2026-11-13-heritage-escape-2027-avance]]).
 - 2026-11-11 — Η Δέσποινα ζητά αποδεικτικό πληρωμής για το τιμολόγιο Print Kong, που η Print Kong βλέπει εκκρεμές. ⚠️ Αντίφαση: ο πελάτης είχε πει ότι πλήρωσε ([[2026-11-11-hhe-timologia-tsiklitiria-printkong]]).
 - 2026-09-28 — Η Δέσποινα προώθησε τιμολόγια εκτυπώσεων (Print Kong), φωτογράφου (με παρακράτηση) και βιντεογράφου με αιτιολογία «Τσικλητήρεια» για τον ΕΟΤ ([[2026-11-11-hhe-timologia-tsiklitiria-printkong]]).
 - 2026-11-05 — Αρχεία ΕΟΤ + διαβιβαστικό· υπογραφές ([[2026-11-04-hhe-eot-tsiklitiria-arxeia]]).

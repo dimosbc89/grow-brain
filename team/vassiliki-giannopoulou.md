@@ -3,7 +3,7 @@ type: team
 title: "Βασιλική Γιαννοπούλου"
 aliases: [Vassiliki Giannopoulou, Βασιλική, Vassiliki, vassiliki@growagency.online]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-16
 ---
 # Βασιλική Γιαννοπούλου
 > Account Director της GROW. Ο Δήμος της στέλνει τα τιμολόγια και τα admin, τρέχει τα accounts [[yiayia-meatballs]] (από τον Σεπτέμβριο 2026) και Estia, και κάνει calls με νέους πελάτες.
@@ -59,6 +59,7 @@ updated: 2026-11-12
 - 2026-07-28: εγκρίθηκε remote εργασία για τις 2026-08-07 από 11:00 ([[2026-07-28-vassiliki-remote-0708]]).
 
 ## Χρονολόγιο
+- 2026-11-13 — Freddo YT video + Java Jives (16/11) για [[nikas-coffee-expert]]· Pantone Υιάγια κλείδωσε, παρατηρήσεις στη NAK, νέες αλλαγές take away menu· εταιρική παρουσίαση [[nomud]]· πρόταση Divino & Caffè del Doge (follow-up 16/11)· διπλό σκανάρισμα στην κάρτα εργασίας ([[2026-11-13-nikas-review-yt-video-freddo]], [[2026-11-04-yiayia-pantone-street-activation-update-2026-11-16]], [[2026-11-13-yiayia-maketes-pros-ektyposi-nak]], [[2026-11-13-yiayia-take-away-menu-allages-timon]], [[2026-11-13-nomud-etairiki-parousiasi]], [[2026-11-13-divino-caffe-del-doge-protasi-synergasias]], [[2026-11-13-karta-ergasias-vassiliki-proselefsi]]). 2026-11-15: ο Δήμος της προώθησε το τιμολόγιο METALEASE 14374 ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-11 — Προσφορά περιπτέρου HORECA 2027 στη [[divino]], απάντηση έως 2026-11-19 ([[2026-11-11-divino-horeca-2027-prosfora-periptero]]).
 - 2026-10-26 — Προωθεί σε Μαρίνα και Δήμο το υπογεγραμμένο «ιδιωτικό συμφωνητικό παροχής υπηρεσιών προώθησης» με τη Νάσια (έστειλε 2026-10-24, επέστρεψε 2026-10-25· πελάτης ασαφής) ([[2026-10-26-nasia-stamp-symfonitiko]]). Λαμβάνει από τη Μαρίνα το e-παραστατικό ΤΠΥΑ-163496 της ΥΠΗΡΕΣΙΕΣ ΔΙΑΤΑΚΤΙΚΩΝ ΑΕΕ ([[2026-10-26-diataktikon-e-parastatiko]]). Η Σαββούλα ([[knack-and-snack]]) της ζητά ξανά αφίσα + link 11/11 ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-27]]).
 - 2026-10-21 — Asana: 38 ανοιχτά (21 εκπρόθεσμα, 6 χωρίς due). Κύριος φόρτος: Grow (7: crm program, grow websites/ελληνικό, εταιρ. ταυτότητα LASER, Events, Influence), Yiayia (7), Overoll (6), Knack & Snack (5), Nomud (4), συν «εκκρεμότητες πληρωμών». Ανέθεσε στον Δήμο «estia crm» (2026-10-16) και «ενημερώσεις site» (2026-10-19). ⚠️ Αφαιρέθηκε από το Asana workspace 2026-10-19, αλλά σχολιάζει 2026-10-20 («μια χαρά από εμένα», «το θέλω πολύ!») — ⚠️ ασαφές (επαναπροσθήκη ή guest) ([[2026-10-21-asana-snapshot]]).

@@ -1,7 +1,7 @@
 ---
 type: index
 title: "Κατάλογος"
-updated: 2026-11-12
+updated: 2026-11-16
 ---
 # Κατάλογος
 
@@ -70,7 +70,9 @@ updated: 2026-11-12
 - [[yiayia-meatballs|Υιάγια (Yiayia Meatballs)]] · _ενεργός_ — Εστιατόριο με κεφτεδάκια («Home of Meatballs») της maria-drouza· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influe…
 - [[yourclima|Yourclima]] · _ενεργός_ — Πελάτης της GROW για εταιρικά email/hosting στο yourclima.com· επαφές ο christos-tsamis και ο manolis-kalomoiris.
 
-## Leads (25)
+## Leads (27)
+- [[olympicnature|Olympicnature]] · _prospect_ — πρώτη συνάντηση 2026-11-16 11:00 (Meet, από Μαρίνα)· αντικείμενο ασαφές.
+- [[papavergos|Παπαβέργος]] · _prospect_ — εκθεσιακό περίπτερο· η Μαρίνα στέλνει πρώτο σχέδιο εβδομάδα 16–20/11.
 - [[elmon|ELMON SA]] · _prospect_ — περίπτερο DEFEA 2027, προσφορά 2026-11-10.
 - [[krimatoglou|Κριματόγλου ΑΒΕΤΕ]] · _prospect_ — περίπτερο HORECA 2027, 92,75 τ.μ.
 - [[tsianakas-packaging|Tsianakas Packaging]] · _prospect_ — προσφορά Agency Fee (Global Pack 2027) 2026-11-11.
@@ -180,7 +182,8 @@ updated: 2026-11-12
 - [[yousef-ghiami|Yousef Ghiami]] — Partner της tsu-pies, συνιδιοκτήτης του καταστήματος στο Leiden (νέο κατάστημα Amstelveen).
 - [[antony-bebbington|Antony Bebbington]] · _ενεργός_ — Senior Sourcing Manager EMEA & LATAM Marketing, Meetings & Events της Salesforce.
 
-## Συνεργάτες & πάροχοι (18)
+## Συνεργάτες & πάροχοι (19)
+- [[neon-arrow|Neon Arrow]] — Εκτυπώσεις/plexi/αυτοκόλλητα· plexi + αυτοκόλλητα τοίχου για το περίπτερο XENIA της greenmart-antemisaris (430 € + ΦΠΑ, τοποθέτηση 2026-11-19).
 - [[biz-courier|BIZ Courier & Logistics]] — Courier και 3PL (αποθήκη/WMS) που έχει επιλέξει η tandem-concept. Η GROW συνδέει το WooCommerce e-shop της Tandem με τη BIZ μέσω API / BIZ LiNK και ετ…
 - [[cretaforce|CretaForce]] — Registrar και πάροχος domains/hosting. Εκεί η GROW κρατά domains πελατών, όπως το pharmacypan.gr και το argyroplastics.gr.
 - [[enartia|ENARTIA]] — Η εταιρεία πίσω από το papaki. Τιμολογεί τη GROW AGENCY Ε.Ε. με ηλεκτρονικά παραστατικά μέσω Entersoft (PDF + peppol XML) για domains/hosting.

@@ -3,7 +3,7 @@ type: team
 title: "Ιωάννα Χαλκιαδάκη"
 aliases: [Ioanna Chalkiadaki, Ιωάννα, Ioanna, ioanna@growagency.online]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 # Ιωάννα Χαλκιαδάκη
 > Account Manager της GROW. Τρέχει social και content για πελάτες εστίασης και λιανικής ([[circle-of-dining]], [[greenmart-antemisaris]], [[yiayia-meatballs]]) και είναι στα calls των [[hellenic-heritage-evolution]] και [[tsu-pies]].
@@ -26,6 +26,7 @@ updated: 2026-11-13
 - Παραλήπτρια της λίστας δημοσιογράφων και του «AI Workshop Vol2 Q3» ([[2026-10-07-lista-dimosiografon-press]], [[2026-09-08-ai-workshop-vol2-q3]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **2026-11-13 (εκτός XENIA):** έστειλε στη Mediterranean College την παρουσίαση συνεργασίας Hospitality Jam (17:13)· πρότεινε στην Ελπίδα/[[global-foods]] call για συμφωνητικά (17:06, γυρίσματα 25/11, 1/12, 5/12)· έστειλε στον Δήμο **TEST πρόσκλησης** για το Circle of Dining dinner 2026-11-22 19:30 (19:37) ([[2026-10-20-hospitality-jam-mediterranean-college-update-2026-11-16]], [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]], [[2026-11-13-circle-of-dining-dinner-test-prosklisi]]).
 - **Στις 2026-11-12:** XENIA/[[greenmart-antemisaris]] — έστειλε «SOS ενημέρωση» στον Ζάχο 16:14 (πρώτα «για έγκριση» σε Δήμο/Μαρίνα 12:06 και 13:58· έγκριση δεν φαίνεται) και υποσχέθηκε χρονοδιάγραμμα στησίματος για 2026-11-13· ανέλαβε τα λογότυπα για το BOX22 της Gagos ([[2026-11-12-antemisaris-sos-enimerosi-xenia]], [[2026-11-12-antemisaris-box22-gagos-xorigia]]). Asana «xenia dinner»: ρωτά τον Δήμο «Το στείλαμε?» για τις προσκλήσεις ([[2026-11-12-asana-xenia-dinner-proskliseis]]).
 
 *Επίσης στις 2026-11-12:*
@@ -40,6 +41,8 @@ updated: 2026-11-13
 - Ανοιχτά: διορθώσεις Stihl για Greenmart, υλικό redesign για Circle of Dining, έλεγχος ερωτήσεων podcast ([[2026-09-18-greenmart-posts-volvoi-stihl]], [[2026-10-01-circle-of-dining-redesign]], [[2026-10-12-podcast-kyritsis-bakoulis-check]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Έγκριση test πρόσκλησης Circle of Dining dinner (22/11) — Δήμος → Ιωάννα — από 2026-11-13 ([[2026-11-13-circle-of-dining-dinner-test-prosklisi]])
+- [ ] Follow up Mediterranean College / call Global Foods για Hospitality Jam — Ιωάννα — από 2026-11-13 ([[2026-10-20-hospitality-jam-mediterranean-college-update-2026-11-16]], [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]])
 - [ ] Χρονοδιάγραμμα στησίματος XENIA προς Antemisaris — Ιωάννα — **2026-11-13** ([[2026-11-12-antemisaris-sos-enimerosi-xenia]])
 - [ ] Λογότυπα/links Antemisaris προς Gagos (BOX22) — Ιωάννα — «αμέσως» 2026-11-12 ([[2026-11-12-antemisaris-box22-gagos-xorigia]])
 - [ ] Έλεγχος πρότασης Mediterranean College — Δήμος — από 2026-11-12 ([[2026-11-12-asana-mediterranean-college-protasi]])
@@ -60,6 +63,7 @@ updated: 2026-11-13
 - 2026-09-18: ο Δήμος της πρότεινε να δώσει στη Greenmart κάτι παραπάνω, «λίγη κίνηση με AI» ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-11-13 — 17:06 call/συμφωνητικά Global Foods (Hospitality Jam)· 17:13 παρουσίαση Mediterranean College· 19:37 TEST πρόσκλησης dinner Circle of Dining ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]], [[2026-10-20-hospitality-jam-mediterranean-college-update-2026-11-16]], [[2026-11-13-circle-of-dining-dinner-test-prosklisi]]).
 - 2026-11-12 — «SOS ενημέρωση» XENIA (draft για έγκριση 12:06 → πελάτης 16:14)· BOX22 Gagos· Asana «Το στείλαμε?» για προσκλήσεις dinner ([[2026-11-12-antemisaris-sos-enimerosi-xenia]], [[2026-11-12-antemisaris-box22-gagos-xorigia]], [[2026-11-12-asana-xenia-dinner-proskliseis]]).
 - 2026-11-12 — Σημειώσεις μοντάζ podcast3 προς Φωτεινή (10:16–16:38) ([[2026-11-11-asana-podcast3-first-cut]]). 18:01 πρόταση Mediterranean College → «check!» στον Δήμο ([[2026-11-12-asana-mediterranean-college-protasi]]).
 - 2026-11-11 — 1ος γύρος σημειώσεων στο podcast3 first cut ([[2026-11-11-asana-podcast3-first-cut]]).

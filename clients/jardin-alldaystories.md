@@ -3,7 +3,7 @@ type: client
 title: "Jardin All Day Stories"
 aliases: [Jardin, Jardin_Alldaystories, Alldaystories, Jardin All Day Stories]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-11-16
 ---
 # Jardin All Day Stories
 > Πελάτης της GROW (💭 Υπόθεση: all-day εστίαση, με βάση τα tasks για menu, καφέ, σουπλά) για τον οποίο η GROW κάνει social content, μενού, έντυπα αναλώσιμα και χορηγικό υλικό· το Asana project έχει πολλή κίνηση τον Οκτώβριο 2026.
@@ -13,10 +13,15 @@ updated: 2026-10-21
 - **Επαφές:** ασαφές (καμία επαφή πελάτη στις πηγές).
 - **Ομάδα GROW:** [[vasia-s]] (Vasia Striga στο Asana — εγκρίσεις, food blogger)· [[vassia-kataki]]· [[marianna-vourna]]· [[fotini]] (Fotini Pournara)· [[vassiliki-giannopoulou]] (κύριο task αναλωσίμων) ([[2026-10-21-asana-snapshot]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-21)
+## Τρέχουσα κατάσταση (στις 2026-11-13)
+- **Εκτυπώσεις μενού:** η [[vasia-s]] ζήτησε 2026-11-13 από το τυπογραφείο dkagialis.gr **50 κύρια menu** (A4) και **50 special menu για 2026-11-27** (11×25 εκ.) ([[2026-11-13-jardin-ektypotika-menu]]).
+- **Google Business Profile:** νέα κριτική 4★ (μόνο βαθμολογία) 2026-11-14 ([[2026-11-16-admin-eidopoiiseis]]).
+
+*Από 2026-10-21:*
 - Στο Asana 5 ανοιχτά tasks (3 εκπρόθεσμα) και 8 ολοκληρωμένα από 2026-09-11. Τελευταία κίνηση 2026-10-20: «ΕΓΚΡΙΣΗ Mood- Jardin» ✓ και νέο task «ΑΛΛΑΓΕΣ ΣΤΟ MENU» ([[2026-10-21-asana-snapshot]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Εκτύπωση 50 κύριων + 50 special menu (27/11) — dkagialis / [[vasia-s]] — πριν **2026-11-27** ([[2026-11-13-jardin-ektypotika-menu]])
 - [ ] «ΑΛΛΑΓΕΣ ΣΤΟ MENU» — [[vassia-kataki]] — έως 2026-10-22 ([[2026-10-21-asana-snapshot]])
 - [ ] «Φανέλες Χορηγίας Jardin» — [[vassia-kataki]] — έως 2026-10-19 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
 - [ ] «αναλώσιμα εκτυπωτικά» — [[vassiliki-giannopoulou]] — έως 2026-11-16· subtasks «πλαστικά ποτήρια διάφανα» (due 2026-07-10) και «σουπλά» (due 2026-07-14) — [[fotini]] — ⚠️ εκπρόθεσμα, χωρίς κίνηση από 2026-07-24 ([[2026-10-21-asana-snapshot]])
@@ -25,6 +30,8 @@ updated: 2026-10-21
 - —
 
 ## Χρονολόγιο
+- 2026-11-14 — Κριτική 4★ στο Google Business Profile ([[2026-11-16-admin-eidopoiiseis]]).
+- 2026-11-13 — Αίτημα εκτύπωσης κύριου και special menu (27/11) στο dkagialis ([[2026-11-13-jardin-ektypotika-menu]]).
 - 2026-10-21 — Asana: ✓ «ΕΓΚΡΙΣΗ Mood- Jardin» (2026-10-20), «ΕΓΚΡΙΣΗ JARDIN» και «colouring» (2026-10-15), «Coffee Jardin» (2026-10-02), «Colouring» (2026-10-01), «Morning until Night» (2026-09-30), «Εύρεση food blogger» (2026-09-16), «Generic night» (2026-09-11) ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Asana: νέο task «ΑΛΛΑΓΕΣ ΣΤΟ MENU» ([[2026-10-21-asana-snapshot]]).
 - 2026-10-16 — Asana: νέο task «Φανέλες Χορηγίας Jardin» ([[2026-10-21-asana-snapshot]]).

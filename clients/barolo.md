@@ -3,7 +3,7 @@ type: client
 title: "Barolo (Σαντορίνη)"
 aliases: [Barolo Santorini, Barolo restaurant, barolosantorini@gmail.com]
 status: ενεργός
-updated: 2026-11-09
+updated: 2026-11-16
 ---
 # Barolo (Σαντορίνη)
 > Εστιατόριο στη Σαντορίνη· πελάτης της GROW με τιμολόγια από το 2025 και ενδοκοινοτικά παραστατικά (χρεώσεις πλατφορμών), για τα οποία ρωτά η λογίστριά του.
@@ -29,6 +29,7 @@ updated: 2026-11-09
 - 2026-07-24: η Μαρίνα απαντά στη λογίστρια με βάση την οδηγία του Δήμου («Εξήγησε της ότι ένα βίντεο το πόσο που χρεώνει» — διατύπωση ασαφής) ([[2026-07-24-barolo-timologia-endokoinotika]]).
 
 ## Χρονολόγιο
+- 2026-11-14 — barolosantorini.gr: spam trackback σε αναμονή έγκρισης (6 σχόλια σε moderation) ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-08 — Φόρμα Barolo Beach: Lauren Cardona, Σαντορίνη 2027-07-13 (κρουαζιέρα) ([[2026-11-09-admin-eidopoiiseis]]).
 - 2026-11-02 — barolobeach.gr: το Instagram feed (Smash Balloon) δεν συνδέεται με το Instagram API· δείχνει cached posts ([[2026-11-03-admin-eidopoiiseis]]).
 - 2026-10-27 — Δημιουργικά booklet «santorini best life» προς έγκριση ([[2026-10-27-barolo-booklet-santorini-best-life]]).

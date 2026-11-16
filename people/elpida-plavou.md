@@ -3,7 +3,7 @@ type: person
 title: "Elpida Plavou"
 aliases: [Ελπίδα Πλάβου, Ελπίδα, elpida.plavou@globalfoods.gr]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 # Elpida Plavou
 > Επαφή της [[global-foods]] με ασαφή ρόλο. Λαμβάνει τα Google Ads reports και την πρόταση videography, και είναι σε cc στα event θέματα.
@@ -13,7 +13,11 @@ updated: 2026-11-13
 - **Θέματα:** Google Ads report, πρόταση videography, παραγγελίες app ([[2026-08-06-globalfoods-paraggelia-39897]], [[2026-10-08-globalfoods-videography-proposal]]).
 - **Ομάδα GROW:** ο Δήμος.
 
-## Τρέχουσα κατάσταση (στις 2026-11-12)
+## Τρέχουσα κατάσταση (στις 2026-11-16)
+- Στις 2026-11-15 23:36 ζήτησε από τον Δήμο **AI Agent – παραγγελιολήπτη στο app** (έχει demo)· ο Δήμος της ζήτησε να εξηγήσει τι σκέφτεται ([[2026-11-15-globalfoods-ai-agent-app]]). Στις 2026-11-16 00:32 του προώθησε cold πρόταση freelancer για το site (Lorem Ipsum στη σελίδα Brands)· ο Δήμος: «Τι να δούμε ;» ([[2026-11-16-globalfoods-protasi-istoselidas-tsalios]]).
+- Στις 2026-11-13 η Ιωάννα της πρότεινε call για συμφωνητικά Hospitality Jam· δεν έχει απαντήσει ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]]). Ζήτησε «SOS» από την Εύη υλικό για Gnoccho fritto ([[2026-11-13-globalfoods-gnoccho-fritto]]).
+
+*Από 2026-11-12:*
 - Στις 2026-11-12 δέχτηκε το Dropbox link raw ZEO (λήγει 2027-01-31) αντί για WeTransfer ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]])· επανέφερε το project Rummo (φυλλάδιο + video), ρωτώντας την Εύη αν στάλθηκε υλικό ([[2026-10-08-globalfoods-rummo-saltses-update-2026-11-13]]).
 - Στις 2026-11-11 έλαβε από τον Δήμο την ανανεωμένη πρόταση Hospitality Jam (8.000€, 8+1 επεισόδια) — ο Δήμος περιμένει τα σχόλιά της ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]]).
 - Περιμένει από τον Δήμο το reel Πρεσβείας ~30'' (ζητήθηκε 2026-11-04, reminder 2026-11-11)· από τη Δέσποινα link raw υλικού ZEO, απάντηση για «παγκόσμιες ημέρες» Global/Unique και χειρισμό της επιστολής του Πρέσβη (όλα 2026-11-11) ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-12]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-12]], [[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-epistoli-presvi-italias]]).
@@ -24,6 +28,8 @@ updated: 2026-11-13
 - Για την πρόταση videography είπε ότι θα απαντήσει αρχές Νοεμβρίου ([[2026-10-08-globalfoods-videography-proposal-update-2026-10-26]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Εξήγηση ιδέας/demo AI Agent — Elpida → Δήμος — από 2026-11-16 ([[2026-11-15-globalfoods-ai-agent-app]])
+- [ ] Απάντηση για call Hospitality Jam (Ιωάννα) — Elpida — από 2026-11-13 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]])
 - [ ] Σχόλια στην πρόταση Hospitality Jam 8.000€ — Elpida — από 2026-11-11 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]])
 - [ ] Reel Πρεσβείας ~30'' — Δήμος — ζητήθηκε 2026-11-04, reminder 2026-11-11 ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-12]])
 - [ ] ~~Link raw ZEO~~ (✓ 2026-11-12 [[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]]), «παγκόσμιες ημέρες?», επιστολή Πρέσβη — [[despina-velissariou]] — από 2026-11-11 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-12]], [[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-epistoli-presvi-italias]])

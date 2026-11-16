@@ -3,7 +3,7 @@ type: admin
 title: "Hosting, servers & domains"
 aliases: [hosting, servers, domains, cloud.growagency.online, Plesk, Fastpath, Cretaforce, Papaki, Enartia]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 # Hosting, servers & domains
 > Οι servers της GROW (Plesk στη [[fastpath]]) και οι registrars ([[papaki]]/[[enartia]], [[cretaforce]]) όπου η GROW κρατά τα domains των πελατών. Κάθε ανανέωση domain ξανατιμολογείται στον πελάτη.
@@ -27,6 +27,12 @@ updated: 2026-11-13
   - Ο Δήμος: τεχνικά (tickets, DNS).
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-16:
+- **pointer.gr:** Semi Dedicated Platinum για **finders.com.cy λήγει 2026-12-16** (απενεργοποίηση 10 ημέρες μετά)· πελάτης ασαφής ([[2026-11-16-admin-eidopoiiseis]]).
+- **Papaki:** eventsgreece.online λήγει **2026-12-13** ([[2026-11-16-admin-eidopoiiseis]]).
+- **Νέο .gr:** vanessapilates.gr καταχωρήθηκε (υποβολή 2026-11-08, λήξη 2028-11-07, φορέας Grow Agency EE, μέσω [[cretaforce]])· για ποιον: ασαφές ([[2026-11-16-admin-eidopoiiseis]]).
+- **Search Console:** exodikastikos.info — νέος λόγος μη ευρετηρίασης «Duplicate, Google chose different canonical than user» (2026-11-16) ([[exodikastikos]]).
+
 Στις 2026-11-03:
 - **Fastpath #61293 (507,78 €, Νοέμβριος) ληξιπρόθεσμο από 2026-11-01** — εξόφληση εντός 5 ημερών από 2026-11-03 (≈ 2026-11-08), αλλιώς διακοπή του cloud.growagency.online ([[2026-11-03-admin-eidopoiiseis]], [[fastpath]]).
 - **machevuoi.gr λήγει 2026-11-04 23:59 UTC** (νέα προειδοποίηση FORTH 2026-11-02).
@@ -37,6 +43,9 @@ updated: 2026-11-13
 - Το ticket 004632 για SSH στα mailboxes του academicals.gr περιμένει ακόμη απάντηση ([[2026-09-28-fastpath-ticket-ssh-academicals]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Ανανέωση Semi Dedicated Platinum finders.com.cy (pointer.gr) — λήξη **2026-12-16**, απενεργοποίηση ≈ 2026-12-26 — Δήμος· ποιος πελάτης; ([[2026-11-16-admin-eidopoiiseis]])
+- [ ] Ανανέωση eventsgreece.online (Papaki) — λήξη **2026-12-13** — Δήμος ([[2026-11-16-admin-eidopoiiseis]])
+- [ ] vanessapilates.gr (νέο, cretaforce) — για ποιον πελάτη/project; — Δήμος ([[2026-11-16-admin-eidopoiiseis]])
 - [ ] Ανανέωση agapeathens.online ([[papaki]]) — λήξη **2027-01-11** — Δήμος ([[2026-11-12-admin-eidopoiiseis]])
 - [ ] **Εξόφληση Fastpath #61293 (507,78 €)** — Δήμος/λογιστήριο — ληξιπρόθεσμο από 2026-11-01, προθεσμία ≈ **2026-11-08** ([[2026-11-03-admin-eidopoiiseis]])
 - [ ] barolobeach.gr: επανασύνδεση Instagram feed (Smash Balloon → Instagram API) — Δήμος/GROW — από 2026-11-02 ([[2026-11-03-admin-eidopoiiseis]], [[barolo]])
@@ -60,6 +69,7 @@ updated: 2026-11-13
 - Κάθε ανανέωση domain πελάτη ξανατιμολογείται στον πελάτη (π.χ. «Τιμολόγιο Πανόπουλος», «25 + fpa to kathena») ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]], [[2026-09-10-invoice-nikas-barista-domains]]).
 
 ## Χρονολόγιο
+- 2026-11-14/16 — vanessapilates.gr καταχωρήθηκε· eventsgreece.online λήγει 2026-12-13· finders.com.cy hosting λήγει 2026-12-16· Search Console exodikastikos.info canonical ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-13 — Papaki: agapeathens.online λήγει σε 60 ημέρες (2027-01-11) ([[2026-11-12-admin-eidopoiiseis]]).
 - 2026-11-03 — machevuoi.gr ανανεώθηκε έως 2028-11-04 ✓· tagora.online = Tagora (Google CSS της GROW), email routing δουλεύει ([[2026-11-04-admin-eidopoiiseis]], [[2026-11-03-tagora-launch]]).
 - 2026-11-02/03 — Fastpath: #61293 ληξιπρόθεσμο (5 ημέρες περιθώριο). FORTH: machevuoi.gr λήγει 2026-11-04. GoDaddy + Cloudflare: νέο tagora.online. Wordfence 3/11: problems σε tsiklitiria, logaraslaw, castrum-milos, baristacademy (Super Forms), lineathens, foxacademy· εβδομαδιαίες αναφορές 14 sites. barolobeach.gr: Instagram feed αποσυνδέθηκε ([[2026-11-03-admin-eidopoiiseis]]).

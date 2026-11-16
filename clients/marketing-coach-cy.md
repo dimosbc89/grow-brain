@@ -3,7 +3,7 @@ type: client
 title: "Marketing Coach (Κύπρος)"
 aliases: [Marketing Coach, PG Group of Companies, PG Group, marketingcoach.com.cy, Petros Goulas]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-16
 ---
 # Marketing Coach (Κύπρος)
 > Κυπριακό marketing γραφείο του Petros Goulas (PG Group of Companies). Λειτουργεί ως μεσάζων: φέρνει στη GROW πελάτες στην Κύπρο ([[karmiotissa]], [[poullaides-foundation]]) και έχει δικές του Google Ads καμπάνιες.
@@ -22,7 +22,11 @@ updated: 2026-11-12
 - **Asana:** project «PG Graphics» (δημιουργήθηκε 2026-09-18) με γραφιστικά για social/εταιρικά: Kiss FM, Sfera, Bake & Pack, Recital, Alarm/Brew, γάμοι, nameday posts, products of the week, hiring. Ομάδα: [[vassia-kataki]], [[marianna-vourna]], [[fotini]] ([[2026-10-21-asana-snapshot]]).
 - **Freelancer Google Ads:** [[nikos-moulinos]] ([[2026-10-05-google-ads-freelancer-moulinos]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-12)
+## Τρέχουσα κατάσταση (στις 2026-11-16)
+- **Buildia Constructions website:** στις 2026-11-13 ο [[petros-goulas]] ζήτησε από τον «Παναγιώτη» (panos_ar@outlook.com) να στείλει link/admin πρόσβαση ώστε ο Δήμος («web developer μας») να κάνει **δομικές αλλαγές**· ο Δήμος μπήκε στο thread («Καλησπέρα και από εμένα»). Πρόσβαση δεν έχει έρθει ακόμα ([[2026-11-13-buildia-website-admin-prosvasi]]).
+- 2η κατάθεση «μέχρι Παρ.» 2026-11-13: αν έγινε δεν φαίνεται στα threads αυτού του ingest (ασαφές) ([[2026-11-11-marketing-coach-kartela]]).
+
+*Από 2026-11-12:*
 - **Πληρωμές:** 2026-11-11 η Μαρίνα έστειλε καρτέλα πελάτη (PETROS GOULAS LTD) και ρώτησε για τη 2η κατάθεση· ο Petros: «**Μέχρι Παρ.**» → έως **2026-11-13**. Υπόλοιπο μόνο στο PDF ([[2026-11-11-marketing-coach-kartela]]).
 
 *Από 2026-10-20:*
@@ -33,6 +37,8 @@ updated: 2026-11-12
 - Το [[karmiotissa]] έφυγε από τη GROW προς Co-Win/admin22 ([[2026-10-09-karmiotissa-metafora-domain-cloudflare]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Πρόσβαση admin site Buildia — Παναγιώτης (panos_ar@) → Δήμος — από 2026-11-13 ([[2026-11-13-buildia-website-admin-prosvasi]])
+- [ ] Δομικές αλλαγές site Buildia Constructions — Δήμος — μετά την πρόσβαση, χωρίς ημερομηνία ([[2026-11-13-buildia-website-admin-prosvasi]])
 - [ ] 2η κατάθεση (καρτέλα PETROS GOULAS LTD) — [[petros-goulas]] — **έως 2026-11-13** ([[2026-11-11-marketing-coach-kartela]])
 - [ ] Κατεύθυνση για την καμπάνια Odysseia — Petros Goulas — από 2026-07-27 ([[2026-09-01-marketing-coach-pause-google]])
 - [ ] Επιβεβαίωση ότι οι Hercules, Sakura και CTL είναι σταματημένες και ότι το «campaign a» έκλεισε — [[nikos-moulinos]] — μετά την εντολή της 2026-10-01 ([[2026-10-05-google-ads-freelancer-moulinos]])
@@ -49,6 +55,7 @@ updated: 2026-11-12
 - 2026-08-21: ο Petros ζητά ο Δήμος να είναι πάντα σε cc στα θέματα του site της Poullaides ([[2026-08-21-poullaides-website-not-working]]).
 
 ## Χρονολόγιο
+- 2026-11-13 — Ο Petros ζητά admin πρόσβαση στο site Buildia για δομικές αλλαγές από τον Δήμο ([[2026-11-13-buildia-website-admin-prosvasi]]).
 - 2026-11-11 — Μαρίνα: καρτέλα + «πότε η 2η κατάθεση;» → Petros: «Μέχρι Παρ.» (2026-11-13) ([[2026-11-11-marketing-coach-kartela]]).
 - 2026-11-09 — Ο Petros: έγινε η 1η πληρωμή, έρχεται η 2η ([[2026-11-10-admin-omada-mikra]]).
 - 2026-11-03 — Ο Petros προώθησε πρόσβαση στο site buildiaconstructions.com χωρίς αίτημα ([[2026-11-03-marketing-coach-buildia]]).

@@ -3,7 +3,7 @@ type: team
 title: "Μαριάννα Βούρνα"
 aliases: [Marianna Vourna, Μαριάννα, Marianna, marianna@growagency.online]
 status: ενεργός
-updated: 2026-10-27
+updated: 2026-11-16
 ---
 # Μαριάννα Βούρνα
 > Graphic Designer της GROW. Κάνει video edit, λογότυπα και κατόψεις/φωτορεαλιστικά περιπτέρων.
@@ -32,6 +32,7 @@ updated: 2026-10-27
 - 2026-09-02: δεν χρησιμοποιήθηκε επί πληρωμή AI upscaling (Magnific, 47.000 credits). Το βίντεο βελτιώθηκε όσο γινόταν ([[2026-09-02-sk-video-2-edit-feedback]]).
 
 ## Χρονολόγιο
+- 2026-11-13 — Αίτημα προσφοράς εντύπων [[enoteca]] σε Epilogi και Print Kong ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong]]).
 - 2026-10-26 — Επείγουσα προσφορά αυτοκόλλητων 8 × 8 πλαστικοποιημένων από Epilogi: 220 € (2.000) / 280 € (3.000) ([[2026-10-26-epilogi-aftokollita-prosfora]]).
 - 2026-10-21 — Asana: 24 ανοιχτά (19 εκπρόθεσμα, 3 χωρίς due). Κύριος φόρτος: Antemisaris, Overoll, Global Foods, PG Graphics (από 3), TSU Pies (Reel δρομέας, Roll Up banner Catering services, due 2026-10-20). Στο «Grow»: «Ribas Logo M» και «Έρευνα Ξενοδοχείων» (Hotel Brain). ✓ «Nuevo Pasaje» 2026-10-09 ([[2026-10-21-asana-snapshot]]).
 - 2026-09-21 — Στέλνει «Chaonic Logo.pdf» και «Chaonic Logo_A4.pdf»· ο Δήμος τα προωθεί στην πελάτισσα σε 5 λεπτά ([[2026-09-21-chaonic-logo-pdf]]).

@@ -3,7 +3,7 @@ type: client
 title: "Nomud"
 aliases: [NOMUD, Nomud O.E., nomud.de]
 status: ενεργός
-updated: 2026-11-06
+updated: 2026-11-16
 ---
 # Nomud
 > Πελάτης με video shootings και Google Ads· η GROW χρειάζεται τον λογαριασμό Viva και τους κωδικούς του για κάποια ρύθμιση πληρωμών (σκοπός ασαφής).
@@ -13,12 +13,17 @@ updated: 2026-11-06
 - **Επαφή:** Eleni Korakianitou (ek@nomud.de) — Greece coordinator, Nomud O.E. ([[2026-08-07-nomud-logariasmos-viva]]).
 - **Ομάδα GROW:** [[vassiliki-giannopoulou]]· ο Δήμος· [[nikos-moulinos]] (Google Ads) ([[2026-08-07-nomud-logariasmos-viva]], [[2026-10-05-google-ads-freelancer-moulinos]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-13)
+- **Εταιρική παρουσίαση:** η [[vassiliki-giannopoulou]] έστειλε 2026-11-13 15:58 στην Ελένη Κορακιανίτου (ek@nomud.de / ek@nomud.gr) την εταιρική παρουσίαση (PDF) για σχόλια/τροποποιήσεις ([[2026-11-13-nomud-etairiki-parousiasi]]).
+- **Google Ads:** ο [[nikos-moulinos]] έστειλε 2026-11-13 3η υπενθύμιση — περιμένει ακόμα το brief ([[2026-10-30-nikos-moulinos-timologio-a1014-update-2026-11-16]]).
+
+*Από 2026-10-20:*
 - Σειρά από shootings τον Σεπτέμβριο 2026 (2026-09-08, 09-16, 09-21 «kiosky's», 09-30) ([[2026-07-20_2026-11-03]]).
 - Ο λογαριασμός Google Ads πέρασε στη λίστα του freelancer [[nikos-moulinos]] (από 2026-09-25) ([[2026-10-05-google-ads-freelancer-moulinos]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Brief Google Ads για τον [[nikos-moulinos]] — Δήμος — υπόσχεση για 2026-10-21 ([[2026-10-05-google-ads-freelancer-moulinos-update-2026-10-22]])
+- [ ] Feedback στην εταιρική παρουσίαση — Ελένη (Nomud) — από 2026-11-13 ([[2026-11-13-nomud-etairiki-parousiasi]])
+- [ ] Brief Google Ads για τον [[nikos-moulinos]] — Δήμος — υπόσχεση για 2026-10-21 ([[2026-10-05-google-ads-freelancer-moulinos-update-2026-10-22]]) — ⚠️ εκπρόθεσμο· 3η υπενθύμιση Νίκου 2026-11-13 ([[2026-10-30-nikos-moulinos-timologio-a1014-update-2026-11-16]])
 **Από Asana (στις 2026-10-21)**
 - [ ] «δημιουργία google shop» — Δήμος (ανάθεση από Βασιλική 2026-09-08) — ⚠️ εκπρόθεσμο από 2026-09-16 ([[2026-10-21-asana-snapshot]])
 - [ ] Site (+ «δίκτυο συνεργατών») — [[vassiliki-giannopoulou]] — ⚠️ εκπρόθεσμο από 2026-09-24 / 2026-09-30 ([[2026-10-21-asana-snapshot]])
@@ -31,6 +36,7 @@ updated: 2026-11-06
 - 2026-08-07: χρειάζονται και οι κωδικοί Viva (ο Δήμος: «nai») ([[2026-08-07-nomud-logariasmos-viva]]).
 
 ## Χρονολόγιο
+- 2026-11-13 — Στάλθηκε η εταιρική παρουσίαση στην Ελένη· νέα υπενθύμιση Μουλινού για brief ([[2026-11-13-nomud-etairiki-parousiasi]], [[2026-10-30-nikos-moulinos-timologio-a1014-update-2026-11-16]]).
 - 2026-11-04 — Αίτηση στο Tagora μέσω plugin, 0 προϊόντα ([[2026-11-03-tagora-launch-update-2026-11-06]]).
 - 2026-11-03 — Ο Νίκος Μουλίνος ξαναζητά το brief ([[2026-10-30-nikos-moulinos-timologio-a1014-update-2026-11-04]]).
 - 2026-10-30 — Ο Νίκος Μουλίνος ξαναζητά το brief (από 2026-10-21) ([[2026-10-30-nikos-moulinos-timologio-a1014]]).
