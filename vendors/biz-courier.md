@@ -3,7 +3,7 @@ type: vendor
 title: "BIZ Courier & Logistics"
 aliases: [BIZ Courier, Biz, ebiz, BIZ Courier & Logistics S.A., bizcourier.eu, BIZ LiNK]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-17
 ---
 # BIZ Courier & Logistics
 > Courier και 3PL (αποθήκη/WMS) που έχει επιλέξει η [[tandem-concept]]. Η GROW συνδέει το WooCommerce e-shop της Tandem με τη BIZ μέσω API / BIZ LiNK και ετοιμάζει το BOX NOW.
@@ -14,7 +14,8 @@ updated: 2026-11-13
 - **Επαφές:** [[aliki-theochari]] (Director of Customer Success· κύρια επαφή για integration και BOX NOW)· [[jose-fernando-trujillo-heron]] (Business Development and Marketing Specialist· εμπορικά, τιμοκατάλογος Box Now)· itsupport@ (BIZ IT Helpdesk· Markos Lesko, Application Support Rep, m.lesko@bizcourier.eu)· customersupport@, georgia@, i.gorobets@ ([[2026-09-14-tandem-bizcourier-it-coordination]], [[2026-10-12-bizcourier-bizlink-fix-boxnow]], [[2026-08-26-online-appointment-bizcourier-tandem]]).
 - **Ομάδα GROW:** ο Δήμος.
 
-## Τρέχουσα κατάσταση (στις 2026-11-12)
+## Τρέχουσα κατάσταση (στις 2026-11-17)
+- 2026-11-13/16: η αποθήκη GR παρέλαβε 3 κιβώτια [[tandem-concept]] (Christian Villa) 2026-11-11 χωρίς packing list· η Caroline ζητά από τον Δήμο να απαντήσει ([[2026-11-16-tandem-biz-packing-list]]).
 - Automatic order sync ([[tandem-concept]]): η BIZ ζητά από 2026-11-05 (follow-up 2026-11-12) επιβεβαίωση ότι το Ready to Ship status είναι **Processing** + νέα test παραγγελία — αναμένει τον Δήμο ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]]).
 
 *Από 2026-10-27:*
@@ -25,6 +26,7 @@ updated: 2026-11-13
 - Ο Δήμος ζήτησε ενεργοποίηση του BOX NOW και τα αρχεία, αφού πήρε τον οδηγό Scribe (2026-10-12) ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Packing list Tandem (3 κιβώτια) — Δήμος — από 2026-11-16 ([[2026-11-16-tandem-biz-packing-list]])
 - [ ] Επιβεβαίωση status «Processing» + νέα test παραγγελία στο tandemconcept.gr — Δήμος → BIZ IT — από 2026-11-05 ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]])
 - [x] Απάντηση στις ερωτήσεις αναβάθμισης: η νέα έκδοση περιέχει τη διόρθωση, δεν χρειάζεται ειδική προσαρμογή — BIZ itsupport@ — ✓ 2026-10-26 (οι ερωτήσεις για neworder, payload/SOAP, mapping δεν απαντήθηκαν ρητά) ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]])
 - [x] Αναβάθμιση BIZ LiNK σε 1.3.2 — BIZ — ✓ 2026-10-26 ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]])

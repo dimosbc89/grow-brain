@@ -3,7 +3,7 @@ type: admin
 title: "Συνδρομές & εργαλεία λογισμικού"
 aliases: [subscriptions, SaaS, εργαλεία, Anthropic, Claude, Apify, Asana, HubSpot, DataForSEO, Scrape Creators, Google Workspace, ActiveCampaign]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 # Συνδρομές & εργαλεία λογισμικού
 > Τα SaaS που πληρώνει η GROW (AI, scraping, SEO data, project management, CRM, email). Οι αποδείξεις και τα τιμολόγια πάνε στη Βασιλική ή στη Δέσποινα για το λογιστήριο.
@@ -58,6 +58,7 @@ updated: 2026-11-16
 - —
 
 ## Χρονολόγιο
+- 2026-11-16 — Google Workspace στο 92% του pooled storage · Meta: ξανά «ad account disabled» (💭 adele) ([[2026-11-17-admin-eidopoiiseis]]).
 - 2026-11-14/15 — Meta: «adele» ξανά disabled (×2)· Calendly: νέο call 2026-11-17 με Bayse reformer pilates ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-12/13 — Apify: επιβεβαίωση security incident (πρόσβαση σε στοιχεία λογαριασμού/2FA)· Meta: «adele» ξανά disabled ([[2026-11-12-admin-eidopoiiseis]]).
 - 2026-11-04/05 — 3CX ανανέωση· Asana MCP final notice (17/11)· Apify Scale/220,77 USD· Meta payment declined ([[2026-11-06-admin-eidopoiiseis]]).

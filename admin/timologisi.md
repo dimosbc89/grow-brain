@@ -3,7 +3,7 @@ type: admin
 title: "Τιμολόγηση: πώς ρέουν τα τιμολόγια"
 aliases: [τιμολόγια, invoices, λογιστήριο, accounting@growagency.online, παραστατικά]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-17
 ---
 # Τιμολόγηση
 > Πώς κινούνται τα τιμολόγια στη GROW: τι στέλνουν οι προμηθευτές, ποιος από την ομάδα τα παίρνει, και πώς φεύγουν τα τιμολόγια προς τους πελάτες.
@@ -45,6 +45,7 @@ updated: 2026-11-13
 - Τα τιμολόγια του Γεωργιάδη κόβονται πλέον στα νέα στοιχεία που έστειλε στις 2026-08-18 ([[2026-08-26-hilton-georgiadis-stoixeia-timologisis]]).
 
 ## Χρονολόγιο
+- 2026-11-16 — Η Βασιλική έστειλε στη Σοφία (SK Advisors) τα τιμολόγια εξωτερικού Οκτωβρίου · Metalease τιμολόγιο 8371 219,00 € ([[2026-11-17-admin-eidopoiiseis]]).
 - 2026-11-12 — Καρτέλα πελάτη στο [[il-punto-gelato]] (λογιστήριο, ίδια μέρα) ([[2026-11-12-il-punto-gelato-kartela]]). e-παραστατικό ΤΑΛΙΜΑ ΕΛΚΑ ΠΑΡΚΙΝΓΚ 1Μ0ΤΠΥ-2582 μέσω Κ. Ρέλλου ([[2026-11-12-admin-eidopoiiseis]]).
 - 2026-11-11 — Καρτέλες πελατών από το λογιστήριο: [[knack-and-snack]] 1.436,00 €, [[academicals-foxacademy]] 1.116,00 €, [[marketing-coach-cy]] (Μαρίνα· 2η κατάθεση «μέχρι Παρ.» 2026-11-13)· τιμολόγιο creator Κατερίνας Πανδή προς [[overoll]] (BackToSchool) ([[2026-11-11-knack-snack-kartela]], [[2026-11-11-academicals-kartela]], [[2026-11-11-marketing-coach-kartela]], [[2026-11-11-overoll-timologio-pandi-backtoschool]]).
 - 2026-11-03 — Τιμολόγιο #1324 Antemisaris (προκαταβολή XENIA), #1325/#1326 Global/Unique· e-παραστατικά Elise και Enartia προς GROW ([[2026-11-03-antemisaris-xenia-timologio-prokatavolis]], [[2026-11-03-globalfoods-timologia-kartelas]], [[2026-11-04-admin-eidopoiiseis]]).

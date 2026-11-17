@@ -3,7 +3,7 @@ type: vendor
 title: "Forum SA (διοργανωτής XENIA)"
 aliases: [Forum, forumsa.gr, XENIA]
 status: ενεργός
-updated: 2026-10-27
+updated: 2026-11-17
 ---
 # Forum SA
 > Διοργανωτής της έκθεσης XENIA· μέσω αυτού κλείνει ο χώρος του περιπτέρου [[greenmart-antemisaris]].
@@ -16,4 +16,5 @@ updated: 2026-10-27
 - 2026-10-26 πρόσφερε νησίδα HALL 2 A23-B25/A26-B27, 8,5×11 = 93,5 m² (από ακύρωση)· ο Ζάχος επιβεβαίωσε, αναμένονται επόμενα βήματα ([[2026-10-26-antemisaris-xenia-katopsi-forum]]).
 
 ## Χρονολόγιο
+- 2026-11-16 — Μαζικό email XENIA 2026 «Κωδικός Δωρεάν Εισόδου» στον Δήμο (21–23/11, Metropolitan Expo) ([[2026-11-16-asana-xenia-video-wall-leads-landing]]).
 - 2026-10-26 — νέα θέση νησίδα 93,5 m²· επιβεβαίωση [[vangelis-zachos]].

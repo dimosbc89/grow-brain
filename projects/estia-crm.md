@@ -3,7 +3,7 @@ type: project
 title: "Estia (estiagreekhome.online) & Estia CRM"
 aliases: [Estia, Estia CRM, estiagreekhome.online, crm.estiagreekhome.online, Estia Greek Home]
 status: ενεργός
-updated: 2026-10-21
+updated: 2026-11-17
 ---
 # Estia (estiagreekhome.online) & Estia CRM
 > Δικό project του Δήμου: η υπηρεσία Estia (estiagreekhome.online — φροντίδα/έλεγχος ακινήτων στην Ελλάδα για ιδιοκτήτες που ζουν στο εξωτερικό, κατά το πρώτο inquiry) και το web app Estia CRM.
@@ -15,11 +15,14 @@ updated: 2026-10-21
 - **Ομάδα GROW:** ο Δήμος (ιδιοκτήτης)· [[vassiliki-giannopoulou]] (πλάνο, inquiries, απαντήσεις) ([[2026-09-18-estia-proto-inquiry-lamia]], [[2026-09-12-estia-plano-video-gyrismata]]).
 - **Social:** Estia social library (estia-social-library.pages.dev) ([[2026-09-23-estia-social-library]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-17)
+- **Νέος πελάτης Daniel (2026-11-16):** η [[vassiliki-giannopoulou]] ετοίμασε email: **Premium Property Care Plan — 4 επισκέψεις/μήνα, 249 €/μήνα + ΦΠΑ, onboarding 100 € + ΦΠΑ**, οπτικός έλεγχος ανακαίνισης με φωτογραφίες, καθαρισμός 2×/μήνα (πρώτος την εβδομάδα 2026-11-23, κόστος θα σταλεί). Ο Δήμος πρόσθεσε: «we are waiting about the excel with the whole planning». Αν στάλθηκε στον Daniel: ασαφές ([[2026-11-16-estia-daniel-premium-care]]).
 - Το πρώτο inquiry ήρθε 2026-09-13 (Nicolette Ladoulis, El Paso Texas, διαμέρισμα στη Λαμία)· ο Δήμος ενέκρινε την απάντηση της Βασιλικής 2026-09-18· ασαφές αν στάλθηκε και αν έγινε call ([[2026-09-18-estia-proto-inquiry-lamia]]).
 - Πρόοδος του CRM προς live: ασαφές ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Email στον Daniel (Premium Care) + στοιχεία εργολάβων, excel planning, κόστος καθαρισμού, επισημοποίηση συνεργασίας — Βασιλική — από 2026-11-16 ([[2026-11-16-estia-daniel-premium-care]])
+- [ ] Πρώτος καθαρισμός στο ακίνητο του Daniel — ESTIA — εβδομάδα 2026-11-23 ([[2026-11-16-estia-daniel-premium-care]])
 - [ ] Δικηγόρος για την υπόθεση Home Watch Athens + ενημέρωση Μαρίνας — Δήμος — **άμεσα** ([[2026-10-20-homewatch-athens-estia-mhnysh]])
 - [ ] ⚠️ Αντίφαση: 2026-05 «θα αλλάξουμε brand και domain asap» — το estiagreekhome.online είναι ακόμη σε χρήση· ρώτα τον Δήμο ([[2026-10-20-homewatch-athens-estia-mhnysh]])
 - [ ] Αποστολή απάντησης στη Nicolette Ladoulis και call πριν φύγει για ΗΠΑ — [[vassiliki-giannopoulou]] — ημερομηνία αναχώρησης ασαφής ([[2026-09-18-estia-proto-inquiry-lamia]])
@@ -34,6 +37,7 @@ updated: 2026-10-21
 - Θα γυριστούν βίντεο για το Estia με τον Δήμο ([[2026-09-12-estia-plano-video-gyrismata]]).
 
 ## Χρονολόγιο
+- 2026-11-16 — Νέος πελάτης Daniel: Premium Property Care 249 €/μήνα + ΦΠΑ, onboarding 100 € + ΦΠΑ ([[2026-11-16-estia-daniel-premium-care]]).
 - 2026-10-21 — Asana: task «estia crm» ανατέθηκε στον Δήμο από τη Βασιλική 2026-10-16, χωρίς σχόλια και due. «estia» ✓ από [[vassia-kataki]] 2026-10-01 ([[2026-10-21-asana-snapshot]]).
 - 2026-10-21 — Asana: task «crm program» (Βασιλική, από 2026-08-21, due 2026-09-30 ⚠️ εκπρόθεσμο). 2026-08-24 ο Δήμος προς Βασιλική, Μαρίνα, Δέσποινα: «Περιμένω άμεσες τις παρατηρήσεις σας». 2026-09-04 ο Δήμος άνοιξε subtasks-ερωτήσεις («Το P&L δεν φορτώνει», «Γιατί κάνει μόνο του log out?», «Πώς φαίνονται τα Subtasks», «Δεν καταλαβαίνω μια λειτουργία»)· επίσης «Περιγραφές στο Elorus» (mod 2026-08-28) και «Daily Tasks» (2026-10-12). Όλα ανοιχτά ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Ο Yanis Zisis (Home Watch Athens) δηλώνει ότι κατέθεσε μήνυση στο ΑΤ Αμαρουσίου για χρήση brand/κειμένων στο estiagreekhome.online, κατά του Δήμου και της [[marina-papanastasiou]]· 2026-10-19 ο Δήμος απάντησε ότι δεν αποδέχεται τους ισχυρισμούς και ζήτησε επικοινωνία μέσω δικηγόρου ([[2026-10-20-homewatch-athens-estia-mhnysh]]).

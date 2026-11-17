@@ -3,7 +3,7 @@ type: client
 title: "TSU Greek Pies and Coffee"
 aliases: [TSU, TSU Pies, TSUPIES, TSU Pies BV, TSU Pies SARL, Grandpas SARL-s, tsupies.com]
 status: ενεργός
-updated: 2026-11-11
+updated: 2026-11-17
 ---
 # TSU Greek Pies and Coffee
 > Αλυσίδα ελληνικής πίτας και καφέ με 3 καταστήματα στο Λουξεμβούργο· ήρθε ως lead τον Αύγουστο 2026 και από τον Σεπτέμβριο έχει τακτικές συναντήσεις με τη GROW, μαζί και «Kick-off call».
@@ -14,7 +14,8 @@ updated: 2026-11-11
 - **Ομάδα GROW:** ο Δήμος· [[vassiliki-giannopoulou]] (αρχικός συντονισμός)· [[ioanna-chalkiadaki]] και [[marina-papanastasiou]] (από Σεπτέμβριο) ([[2026-08-10-tsu-pies-briefing-call]], [[2026-07-20_2026-11-03]]).
 - **Υπηρεσίες:** ασαφές — ο Δήμος πρότεινε briefing για «στόχους και επόμενο στάδιο ανάπτυξης» ([[2026-08-10-tsu-pies-briefing-call]]). Από το Asana: social content (posts, reels, giveaway), Google Business Profile, έντυπα (poster, roll-up) ([[2026-10-21-asana-snapshot]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-06)
+## Τρέχουσα κατάσταση (στις 2026-11-17)
+- 2026-11-16: η [[rahma-addeh]] απάντησε στην εισαγωγή (Leiden + άνοιγμα Amstelveen)· η Μαρίνα ζήτησε διαθεσιμότητα για **call 2026-11-17 ή 2026-11-18** ([[2026-10-27-tsu-pies-intro-leiden-amstelveen-update-2026-11-17]]).
 - Στις 2026-11-05 η Vicky έστειλε το υπάρχον packaging· θέλουν πρώτα νέα **χαρτοσακούλα** ([[2026-11-05-tsu-pies-packaging]]).
 
 *Από 2026-10-28:*
@@ -29,7 +30,7 @@ updated: 2026-11-11
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Πρόταση χαρτοσακούλας — Μαρίνα ([[2026-11-05-tsu-pies-packaging]])
 - [ ] **Meta: απορρίφθηκε η πληρωμή του ad account Tsu Pies — λογαριασμός απενεργοποιημένος, ads σε παύση** (2026-11-02 07:40) — ενημέρωση στοιχείων πληρωμής — Δήμος — σήμερα ([[2026-11-02-admin-eidopoiiseis]])
-- [ ] Πρώτη επαφή/call με Rahma & Yousef (Leiden / Amstelveen): ιδέες και προτεραιότητες — Μαρίνα/Δήμος — από 2026-10-27 ([[2026-10-27-tsu-pies-intro-leiden-amstelveen]])
+- [ ] Call με Rahma & Yousef (Leiden / Amstelveen) — Μαρίνα/Δήμος — η Μαρίνα πρότεινε 2026-11-17/18, αναμονή διαθεσιμότητας ([[2026-10-27-tsu-pies-intro-leiden-amstelveen-update-2026-11-17]])
 - [ ] Να ξεκαθαριστεί εύρος/τιμή για τη δουλειά Leiden/Amstelveen (ξεχωριστή συμφωνία ή μέρος της TSU) — Δήμος — χωρίς ημερομηνία ([[2026-10-27-tsu-pies-intro-leiden-amstelveen]])
 - [x] Απάντηση στον Βασίλη (Looxi): επιλογή Β + 8 σφραγίδες ✓ 2026-10-30 (ενεργό) — εκκρεμεί μόνο το κείμενο birthday push — [[marina-papanastasiou]] (με τη Βίκη για το κείμενο) — από 2026-10-26 ([[2026-10-23-tsu-pies-looxi-refer-birthday-update-2026-10-27]], [[2026-10-26-tsu-pies-halloween-looxi-logo]])
 - [ ] Εξόφληση Invoice_2 και Invoice_3 + αποδεικτικό — TSU (Κώστας/Βίκη) — ζητήθηκε 2026-10-26 ([[2026-10-26-tsu-pies-timologia-accounting]])
@@ -51,6 +52,7 @@ updated: 2026-11-11
 - 2026-08: briefing call μέσω Google Meet στις 16:00 ώρα Ελλάδας (15:00 Λουξεμβούργου), invite από τη Βασιλική ([[2026-08-10-tsu-pies-briefing-call]]).
 
 ## Χρονολόγιο
+- 2026-11-16 — Rahma ↔ Μαρίνα: προς call 17–18/11 για Leiden/Amstelveen ([[2026-10-27-tsu-pies-intro-leiden-amstelveen-update-2026-11-17]]).
 - 2026-11-10 — Ο Κώστας Γιαννόπουλος: marketing σε αναμονή μέχρι να εξοφληθεί το **πρώτο τιμολόγιο** («πολύ άμεσα», χωρίς ημερομηνία)· μπήκαν στο Foozo (15 παραγγελίες), συζητά με επενδυτές — αναπάντητο ([[2026-11-10-tsu-grandpas-moodboards]]).
 - 2026-11-09 — Στάλθηκαν δύο τιμολόγια μηνιαίας συνεργασίας στον Κώστα ([[2026-11-10-admin-omada-mikra]]).
 - 2026-11-05 — Brief packaging/χαρτοσακούλα ([[2026-11-05-tsu-pies-packaging]]).

@@ -3,7 +3,7 @@ type: admin
 title: "Hosting, servers & domains"
 aliases: [hosting, servers, domains, cloud.growagency.online, Plesk, Fastpath, Cretaforce, Papaki, Enartia]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 # Hosting, servers & domains
 > Οι servers της GROW (Plesk στη [[fastpath]]) και οι registrars ([[papaki]]/[[enartia]], [[cretaforce]]) όπου η GROW κρατά τα domains των πελατών. Κάθε ανανέωση domain ξανατιμολογείται στον πελάτη.
@@ -69,6 +69,7 @@ updated: 2026-11-16
 - Κάθε ανανέωση domain πελάτη ξανατιμολογείται στον πελάτη (π.χ. «Τιμολόγιο Πανόπουλος», «25 + fpa to kathena») ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]], [[2026-09-10-invoice-nikas-barista-domains]]).
 
 ## Χρονολόγιο
+- 2026-11-17 — Fastpath #62689 Δεκεμβρίου 507,78 € (λήξη 01/12) · FORTH: koalacoffee.gr καταχωρήθηκε ([[2026-11-17-admin-eidopoiiseis]]).
 - 2026-11-14/16 — vanessapilates.gr καταχωρήθηκε· eventsgreece.online λήγει 2026-12-13· finders.com.cy hosting λήγει 2026-12-16· Search Console exodikastikos.info canonical ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-13 — Papaki: agapeathens.online λήγει σε 60 ημέρες (2027-01-11) ([[2026-11-12-admin-eidopoiiseis]]).
 - 2026-11-03 — machevuoi.gr ανανεώθηκε έως 2028-11-04 ✓· tagora.online = Tagora (Google CSS της GROW), email routing δουλεύει ([[2026-11-04-admin-eidopoiiseis]], [[2026-11-03-tagora-launch]]).

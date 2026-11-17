@@ -3,7 +3,7 @@ type: vendor
 title: "Expopiece"
 aliases: [Expopiece, expopiece.gr]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 # Expopiece
 > Κατασκευαστής περιπτέρων με τον οποίο η GROW κοστολογεί κατασκευαστικά για τα εκθεσιακά της projects ([[ekthesiaka-periptera]]).
@@ -13,7 +13,10 @@ updated: 2026-11-16
 - **Επαφές:** Νίκος Λάττας (info@expopiece.gr)· Ρινέτα Μπέρνς (info@, [[2026-11-13-expopiece-pros-symplirosi-reuma-xenia]])· Ισαβέλλα Παραβατού (προσφορές, [[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]]) ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]])· expopiece@icloud.com ([[2026-09-07-cocomat-xenia-booth-offer]]).
 - **Ομάδα GROW:** ο Δήμος (τους στέλνει τα σχέδια για κοστολόγηση) ([[2026-09-07-cocomat-xenia-booth-offer]])· [[despina-velissariou]] (Plastica, XENIA 2026) ([[2026-10-23-antemisaris-xenia-expopiece]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-16)
+## Τρέχουσα κατάσταση (στις 2026-11-17)
+- **XENIA, στις 2026-11-16:** 10:02 η Δέσποινα τους ζήτησε «άμεσα, έως τις 11» απάντηση για το ρεύμα — γραπτή απάντηση δεν φαίνεται· 12:08 η παραγγελία ρεύματος πήγε στην Expowork «σε συνέχεια τηλεφωνικής επικοινωνίας» (893,84 €, εξοφλήθηκε) ([[2026-11-13-expopiece-pros-symplirosi-reuma-xenia-update-2026-11-17]], [[2026-11-16-xenia-reuma-paraggelia-exoflisi]]). Ηλεκτρολόγος: SG LIGHT / Γεωργακόπουλος έστειλε δήλωση. **Υπογραφή V2 + νέα προκαταβολή από τον Δήμο: ακόμα δεν φαίνεται.**
+
+*Νωρίτερα (στις 2026-11-16):*
 - **XENIA, στις 2026-11-13:** έστειλαν νέα συμπληρωμένα δελτία ανάρτησης «ΝΕΟ» (12:49) και το **νέο σχέδιο κρέμασης** (14:16, Ρινέτα Μπέρνς) → Expowork. Η Δέσποινα περιμένει **σύνολο kW** του περιπτέρου (δωρεάν 3,11 kW) και **σχέδιο θέσης πίνακα**· τους έστειλε τις ανάγκες Audio-Tech (τριφασική 5 × 32A / 40A) ([[2026-11-13-expopiece-pros-symplirosi-reuma-xenia]]). Σύμφωνα με τη Δέσποινα «δεν μας παραδίδουν το καπέλο» → κρέμαση σε 2 σημεία ([[2026-11-13-expowork-allagi-anartisis-klark-xenia]]). Μελαμίνες στο περίπτερο Τετάρτη 2026-11-18 βράδυ ([[2026-11-13-neonarrow-koptika-xenia]]). Υπογραφή V2 από τον Δήμο: δεν φαίνεται.
 - ⚠️ Αντίφαση: η V2 (2026-11-12) περιλάμβανε **φωτιζόμενο καπέλο**, ενώ στις 2026-11-13 «δεν μας παραδίδουν το καπέλο» — ποια προσφορά ισχύει;
 
@@ -33,10 +36,10 @@ updated: 2026-11-16
 - **Plastica / [[argyroplastics]]:** ο πελάτης ενέκρινε τα κατασκευαστικά 2026-10-26· αν τα κατασκευάζει η Expopiece: ασαφές ([[2026-10-26-plastica-offer-kataskevastika]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Σύνολο kW + σχέδιο θέσης πίνακα XENIA — Expopiece — από 2026-11-13 14:45 ([[2026-11-13-expopiece-pros-symplirosi-reuma-xenia]])
+- [x] ✓ 2026-11-16 (💭 τηλεφωνικά· παραγγελία ρεύματος στάλθηκε, [[2026-11-16-xenia-reuma-paraggelia-exoflisi]]) — Σύνολο kW + σχέδιο θέσης πίνακα XENIA — Expopiece — από 2026-11-13 14:45 ([[2026-11-13-expopiece-pros-symplirosi-reuma-xenia]])
 - [x] Νέο σχέδιο κρέμασης για Expowork — ✓ 2026-11-13 14:16 ([[2026-11-13-expopiece-pros-symplirosi-reuma-xenia]])
 - [ ] Υπογραφή προσφοράς V2 + νέα προκαταβολή XENIA — **Δήμος** — «άμεσα», από 2026-11-12 19:43 ([[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]])
-- [ ] Ηλεκτρολογικό σχέδιο XENIA + πρόταση ηλεκτρολόγου (ή πάλι Χρήστος Γεωργακόπουλος) — Expopiece — από 2026-11-12 ([[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]])
+- [x] ✓ 2026-11-16 δήλωση ηλεκτρολόγου SG LIGHT/Γεωργακόπουλος ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]]) — Ηλεκτρολογικό σχέδιο XENIA + πρόταση ηλεκτρολόγου (ή πάλι Χρήστος Γεωργακόπουλος) — Expopiece — από 2026-11-12 ([[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]])
 - [ ] Τιμή κατασκευής περιπτέρου Plastica — Expopiece — **άμεσα**· τιμή δεν φαίνεται, ενώ η GROW έδωσε ήδη προσφορά στον πελάτη (εγκρίθηκε 2026-10-26) — ασαφές αν η Expopiece είναι ο κατασκευαστής ([[2026-10-21-plastica-expopiece-3d-update-2026-10-23]], [[2026-10-26-plastica-offer-kataskevastika]])
 - [ ] Κοστολόγηση XENIA (3 επιλογές για τα στάδια παραγωγής + πρόταση υλικού για καμπύλες) — Expopiece — μετά την επίσημη κάτοψη ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-27]])
 - [ ] Τελική κάτοψη/προσαρμογή (κάτοψη 8,5 × 11 ✓ στάλθηκε 2026-10-27) — Δέσποινα — **Πέμπτη 2026-10-29**· kW/γραμμές video wall — αναμονή Audio-tech ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]])
@@ -46,6 +49,7 @@ updated: 2026-11-16
 - —
 
 ## Χρονολόγιο
+- 2026-11-16 — XENIA: η Δέσποινα πιέζει για ρεύμα «έως τις 11»· η παραγγελία ρεύματος πάει στην Expowork 12:08 ([[2026-11-13-expopiece-pros-symplirosi-reuma-xenia-update-2026-11-17]]).
 - 2026-11-13 — XENIA: νέα δελτία ανάρτησης + σχέδιο κρέμασης (2 σημεία)· η Δέσποινα ζητά σύνολο kW και σχέδιο πίνακα ([[2026-11-13-expopiece-pros-symplirosi-reuma-xenia]]).
 - 2026-11-12 — XENIA: σφραγισμένα έντυπα ανάρτησης· ζητήθηκε ηλεκτρολογικό σχέδιο· **νέα οικονομική προσφορά V2** προς Δήμο ([[2026-11-11-expopiece-kremasi-antemisaris-update-2026-11-13]], [[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]], [[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]]).
 - 2026-11-11 — Σχέδιο κρέμασης + δελτία για XENIA → Δέσποινα → Expowork ([[2026-11-11-expopiece-kremasi-antemisaris]]).

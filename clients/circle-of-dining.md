@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -28,6 +28,7 @@ updated: 2026-11-16
 - Επόμενο: «The Circle of Dining γύρισμα» 2026-10-22 13:00 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Google Ads Circle of Dining — **Δήμος** — ⚠️ εκπρόθεσμο από 2026-11-09· νέα υπενθύμιση Ιωάννας στο Asana 2026-11-16 ([[2026-11-16-asana-circle-of-dining-google-ads-reminder]])
 - [ ] Asana «αποστολή προσκλήσεων dinner» (xenia dinner) — **Δήμος** — ⚠️ εκπρόθεσμο από 2026-11-11· η Ιωάννα ρωτά «Το στείλαμε?» 2026-11-12 και αν μπαίνει το όνομα του Γεωργιάδη στο email ([[2026-11-12-asana-xenia-dinner-proskliseis]])· **test πρόσκλησης στάλθηκε στον Δήμο 2026-11-13** (χωρίς όνομα Γεωργιάδη) — θέλει έγκριση πριν φύγει ([[2026-11-13-circle-of-dining-dinner-test-prosklisi]])
 - [ ] Εξόφληση #1333 (μοντάζ 3ου επεισοδίου) — πελάτης — από 2026-11-16 ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]])
 - [ ] Asana «google ads» — Δήμος — **2026-11-09** (Asana)
@@ -65,6 +66,7 @@ updated: 2026-11-16
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
+- 2026-11-16 — Asana «google ads»: η Ιωάννα υπενθυμίζει ξανά στον Δήμο (task εκπρόθεσμο από 9/11) ([[2026-11-16-asana-circle-of-dining-google-ads-reminder]]).
 - 2026-11-16 — Τιμολόγιο #1333 (μοντάζ 3ου επεισοδίου) προς finance.askoffice@ ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]]).
 - 2026-11-13 — 19:37 TEST πρόσκλησης XENIA dinner (22/11 19:30, Rodopou & Beyond) στον Δήμο ([[2026-11-13-circle-of-dining-dinner-test-prosklisi]]).
 - 2026-11-12 — Asana «xenia dinner»: η Ιωάννα ρωτά τον Δήμο αν στάλθηκαν οι προσκλήσεις· προτεινόμενο κείμενο με τον Γεωργιάδη ως έναν από τους τρεις chefs ([[2026-11-12-asana-xenia-dinner-proskliseis]]).

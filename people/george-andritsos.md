@@ -3,7 +3,7 @@ type: person
 title: "George Andritsos"
 aliases: [Γιώργος Ανδρίτσος, gandritsos.com, george@gandritsos.com]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 # George Andritsos
 > Εξωτερικός web developer που υλοποιεί το WooCommerce e-shop της [[tandem-concept]] με βάση τα reviews της GROW.
@@ -13,7 +13,8 @@ updated: 2026-11-16
 - **Άλλα projects:** εμφανίζεται και στο «PharmacyPan review» της 2026-09-30 με τη [[vassiliki-giannopoulou]] → [[pharmacypan]] ([[2026-07-20_2026-11-03]]).
 - 💭 Υπόθεση: συνεργάτης/υπεργολάβος της GROW για development, ασαφές.
 
-## Τρέχουσα κατάσταση (στις 2026-11-16)
+## Τρέχουσα κατάσταση (στις 2026-11-17)
+- 2026-11-16: ολοκλήρωσε το πλαίσιο βίντεο (εγκρίθηκε), ξεκίνησε την αγγλική εκδοχή, ζήτησε favicon ([[2026-10-13-divino-feedback-site-update-2026-11-17]]).
 - [[divino]]: στις 2026-11-13 έκανε τις 2 τελευταίες αλλαγές του ελληνικού site· περιμένει feedback για το πλαίσιο του βίντεο και τα αγγλικά κείμενα από τη [[vassiliki-giannopoulou]] ([[2026-10-13-divino-feedback-site-update-2026-11-16]]).
 
 *Από 2026-10-28:*
@@ -28,6 +29,7 @@ updated: 2026-11-16
 - —
 
 ## Χρονολόγιο
+- 2026-11-16 — Βίντεο ✓ · αγγλική εκδοχή · favicon ([[2026-10-13-divino-feedback-site-update-2026-11-17]]).
 - 2026-11-13 — Divino: αλλαγές Άρτα + βίντεο σε πλαίσιο έγιναν· περιμένει αγγλικά ([[2026-10-13-divino-feedback-site-update-2026-11-16]]).
 - 2026-11-12 — Divino: η Βασιλική του ζητά αφαίρεση Άρτας από τον χάρτη + βίντεο αρχικής σε πλαίσιο· θα περάσει και την αγγλική εκδοχή με κείμενα της GROW ([[2026-10-13-divino-feedback-site-update-2026-11-13]]).
 - 2026-11-02 — Divino: περνά Κοζάνη/Θεσσαλονίκη, χάρτη στην Αρχική και νέες φωτογραφίες· δουλεύει mobile, προτείνει ακριβείς διευθύνσεις pins και νέο layout Homepage ([[2026-10-13-divino-feedback-site-update-2026-11-03]]).

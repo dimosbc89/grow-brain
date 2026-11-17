@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-17
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -46,6 +46,7 @@ updated: 2026-11-13
 - Ο Δήμος ζήτησε διαθεσιμότητες για call στις 2026-10-14· ημερομηνία call δεν υπάρχει στο ημερολόγιο ([[2026-10-14-overoll-websites-domains]], [[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Απόφαση Overoll για 2 αρνητικές κριτικές 8–15/11 (η Πραξιτέλους 15/11 εγκρίθηκε) — Overoll / [[vasia-s]] — από 2026-11-16 ([[2026-11-16-overoll-kritikes-8-15-11]])
 - [ ] Έλεγχος διαθεσιμότητας usernames/domains ΗΠΑ (overollusa.com, overollus.com, overollcroissanterie.com κ.ά.), διαδικασία κατοχύρωσης + προτάσεις GROW — Δήμος/Βασιλική — ζητήθηκε 2026-11-11 ([[2026-11-11-overoll-us-social-domains]])
 - [ ] Πληρωμή τιμολογίου Κατερίνας Πανδή (BackToSchool) — Overoll — από 2026-11-11 ([[2026-11-11-overoll-timologio-pandi-backtoschool]])
 - [ ] Overoll να περάσει 5 εγγραφές DNS (loyalty, admin.loyalty, resend DKIM, rsend, send) στο Papaki → ο Δήμος κάνει έλεγχο — Overoll / Δήμος — εντός εβδομάδας 2026-11-09 ([[2026-11-09-overoll-dns-loyalty-club]])· reminder Δήμου 2026-11-12, αναπάντητο ([[2026-11-09-overoll-dns-loyalty-club-update-2026-11-13]])
@@ -93,6 +94,7 @@ updated: 2026-11-13
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-11-16 — Vasia: report αρνητικών κριτικών 8–15/11 + προτεινόμενες απαντήσεις· Overoll: να απαντηθεί μόνο η Πραξιτέλους 15/11, τις άλλες δύο τις βλέπουν εσωτερικά ([[2026-11-16-overoll-kritikes-8-15-11]]).
 - 2026-11-12 — Ο Δήμος: «kind reminder» για τις εγγραφές DNS του Overoll Club ([[2026-11-09-overoll-dns-loyalty-club-update-2026-11-13]]). Η Vasia S στέλνει κριτικές 2–8/11 + προτεινόμενες απαντήσεις· η Overoll εγκρίνει ([[2026-11-12-overoll-kritikes-2-8-11]]).
 - 2026-11-11 — Η Βάσω (εκ μέρους Miriam/TS Developments) ζητά κατοχύρωση επιπλέον US usernames και domains (.com) + προτάσεις μας ([[2026-11-11-overoll-us-social-domains]]). Η Βασιλική στέλνει το τιμολόγιο της Κατερίνας Πανδή για BackToSchool ([[2026-11-11-overoll-timologio-pandi-backtoschool]]).
 - 2026-11-10 — Η Βάσω ενέκρινε τις απαντήσεις κριτικών 26/10–1/11 ([[2026-11-04-overoll-gyrisma-social-panettone-update-2026-11-11]]).

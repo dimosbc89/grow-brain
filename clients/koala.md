@@ -3,7 +3,7 @@ type: client
 title: "Koala"
 aliases: [koala, Koala, koala ads, koalacoffee.gr]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-17
 ---
 # Koala
 > Πελάτης (💭 Υπόθεση: καφέ, από τα tasks «coffee day», «coffee AI») για τον οποίο η GROW κάνει social, giveaways, Google Ads και promoters· όλα τα τρέχει η Ιωάννα.
@@ -26,6 +26,7 @@ updated: 2026-11-12
 - —
 
 ## Χρονολόγιο
+- 2026-11-17 — FORTH: επιβεβαίωση καταχώρησης koalacoffee.gr ([[2026-11-17-admin-eidopoiiseis]]).
 - 2026-11-12 — Καταχώρηση **koalacoffee.gr** (CretaForce, 2 έτη, 13,28 credits, λήξη 2028-11-10)· Cloudflare: domain active (Free plan). 💭 Υπόθεση: για την εφαρμογή/site Koala Club ([[2026-11-12-koala-domain-security-mikra]]).
 - 2026-11-09 — Ο Δήμος έστειλε σε Βασιλική & Ιωάννα PDF «Koala Club — πώς δουλεύει η εφαρμογή» (💭 εφαρμογή loyalty) ([[2026-11-09-koala-app-pdf]]).
 - 2026-10-07 — Asana: ✓ «coffee AI», «fast reel», «κλήρωση διαγωνισμού» ([[2026-10-21-asana-snapshot]]).

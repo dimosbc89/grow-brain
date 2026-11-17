@@ -3,7 +3,7 @@ type: project
 title: "Εκθεσιακά περίπτερα (booth design & build)"
 aliases: [εκθεσιακά περίπτερα, περίπτερα, booths, expo design & build, expo booths]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 # Εκθεσιακά περίπτερα
 > Γραμμή υπηρεσιών της GROW για σχεδιασμό και κατασκευή custom εκθεσιακών περιπτέρων, μαζί με περιφερειακές υπηρεσίες. Εδώ συγκεντρώνονται όλοι οι πελάτες και τα leads περιπτέρων.
@@ -35,6 +35,7 @@ updated: 2026-11-16
 Από παλαιότερες συνομιλίες: ιδέες περιπτέρου για την Kouvelas S.A. ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-12)
+- **XENIA ([[greenmart-antemisaris]]), στις 2026-11-16:** ρεύμα παραγγέλθηκε (893,84 €) και εξοφλήθηκε μετά από «URGENT» του Ζάχου· δήλωση ηλεκτρολόγου SG LIGHT· tablets DK Rental επιβεβαιώθηκαν (325 € + ΦΠΑ)· νέα προσφορά αυτοκόλλητων ζητήθηκε από Neon Arrow· Expopiece V2: υπογραφή Δήμου ακόμα δεν φαίνεται ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]], [[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-17]], [[2026-11-13-neonarrow-koptika-xenia-update-2026-11-17]]).
 - **Νέο prospect — [[papavergos]]:** στις 2026-11-13 13:47 η [[marina-papanastasiou]] έστειλε στον κ. Παπαβέργο (μετά από τηλέφωνο) εταιρική παρουσίαση + δείγματα (XENIA 2026 ως 3D renders)· ζητά **κάτοψη** και θα στείλει **πρώτο σχέδιο περιπτέρου την εβδομάδα 2026-11-16** ([[2026-11-13-periptero-papavergos]]).
 - XENIA ([[greenmart-antemisaris]]), αργότερα στις 2026-11-12: ανάρτηση **καταχωρήθηκε** στην Expowork (823,36 € + 715,43 €, πλήρωσε ο πελάτης)· η Expopiece έστειλε **νέα προσφορά V2** στον Δήμο (καπέλο, προβολείς, τράσσα· ποσό στο PDF) με νέα προκαταβολή — υπογραφή «άμεσα»· άφιξη ογκωδών 2026-11-16, μελαμίνες ~Τετάρτη 18/11 ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]], [[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]]).
 
@@ -79,6 +80,7 @@ updated: 2026-11-16
 - Πρώτα στέλνουμε δημιουργικό πλαίσιο (κάτοψη, φωτορεαλιστικό, activations) και αναλυτική κοστολόγηση μετά το feedback (GameStuff, 2026-09-07) ([[2026-09-07-gamestuff-fantasy-festival-booth]]).
 
 ## Χρονολόγιο
+- 2026-11-16 — XENIA: ρεύμα 893,84 € (υπόλοιπο 318,40 € εξοφλήθηκε), δήλωση ηλεκτρολόγου, tablets 325 € + ΦΠΑ, αίτημα αυτοκόλλητων Neon Arrow ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]], [[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-17]], [[2026-11-13-neonarrow-koptika-xenia-update-2026-11-17]]).
 - 2026-11-13 — Μαρίνα → κ. Παπαβέργος: παρουσίαση + δείγματα, αίτημα κάτοψης, πρώτο σχέδιο την επόμενη εβδομάδα ([[2026-11-13-periptero-papavergos]]).
 - 2026-11-12 — XENIA: καταχώρηση ανάρτησης Expowork· Expopiece V2 προσφορά· ηλεκτρολογικό σχέδιο ζητήθηκε ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]], [[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]], [[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]]).
 - 2026-11-11 — Προσφορές περιπτέρου προς [[enersys]] (Agrothessaly 2027), [[cryo]] (CosmoEstetica), [[tsianakas-packaging]] (Global Pack 2027) από τη Μαρίνα και προς [[divino]] (HORECA 2027, απάντηση έως 19/11) από τη Βασιλική. XENIA: έγγραφα ανάρτησης στην Expowork ([[2026-11-11-enersys-prosfora-periptero]], [[2026-11-11-cryo-prosfora-periptero]], [[2026-11-11-tsianakas-prosfora-periptero]], [[2026-11-11-divino-horeca-2027-prosfora-periptero]], [[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]).

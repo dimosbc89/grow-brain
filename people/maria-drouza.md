@@ -3,7 +3,7 @@ type: person
 title: "Μαρία Δρούζα"
 aliases: [Maria Drouza, Μαρία, «Μ», mariadrouza@gmail.com, maria@yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-17
 ---
 # Μαρία Δρούζα
 > Η πελάτισσα πίσω από την [[yiayia-meatballs]] — κύρια επαφή και αυτή που εγκρίνει site, game, social, μενού και κόστη.
@@ -29,6 +29,7 @@ updated: 2026-11-13
 - Βλ. [[yiayia-meatballs]].
 
 ## Χρονολόγιο
+- 2026-11-16 — Σχόλια στο τελικό βίντεο Τέλος Πάγγων: «η πρόβα ήταν καλύτερη», να κοπεί η εισαγωγή και ατάκες ([[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-17]]).
 - 2026-11-12 — Απαντά για τα Pantone: πρόταση ασπρόμαυρης χαρτοπετσέτας ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-13]]).
 - 2026-11-02 — Απορρίπτει το test video ΤέλοςΠάγγων («κριντζ») και το kung fu concept του Λαγούδη· ζητά απλά σενάρια και follow-up για δημοσίευση της «επιστολής» ([[2026-11-02-yiayia-creators-telospaggon-lagoudis]]).
 - 2026-10-31 — Login failed στα εταιρικά emails· «από Δευτέρα και όποτε βρεις χρόνο» ([[2026-10-09-yiayiameatballs-etairika-emails-update-2026-11-02]]).
