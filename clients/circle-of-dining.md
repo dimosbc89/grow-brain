@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -28,10 +28,10 @@ updated: 2026-11-17
 - Επόμενο: «The Circle of Dining γύρισμα» 2026-10-22 13:00 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Google Ads Circle of Dining — **Δήμος** — ⚠️ εκπρόθεσμο από 2026-11-09· νέα υπενθύμιση Ιωάννας στο Asana 2026-11-16 ([[2026-11-16-asana-circle-of-dining-google-ads-reminder]])
+- [x] ✓ Google Ads Circle of Dining — **Δήμος** — έκλεισε στο Asana 2026-11-17 18:00 (ήταν εκπρόθεσμο από 2026-11-09)· νέα υπενθύμιση Ιωάννας στο Asana 2026-11-16 ([[2026-11-16-asana-circle-of-dining-google-ads-reminder]])
 - [ ] Asana «αποστολή προσκλήσεων dinner» (xenia dinner) — **Δήμος** — ⚠️ εκπρόθεσμο από 2026-11-11· η Ιωάννα ρωτά «Το στείλαμε?» 2026-11-12 και αν μπαίνει το όνομα του Γεωργιάδη στο email ([[2026-11-12-asana-xenia-dinner-proskliseis]])· **test πρόσκλησης στάλθηκε στον Δήμο 2026-11-13** (χωρίς όνομα Γεωργιάδη) — θέλει έγκριση πριν φύγει ([[2026-11-13-circle-of-dining-dinner-test-prosklisi]])
 - [ ] Εξόφληση #1333 (μοντάζ 3ου επεισοδίου) — πελάτης — από 2026-11-16 ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]])
-- [ ] Asana «google ads» — Δήμος — **2026-11-09** (Asana)
+- [x] ✓ Asana «google ads» — Δήμος — έκλεισε 2026-11-17 (Asana)
 - [ ] «Chef Georgiadis εδώ» — 2026-11-06 16:00 ([[2026-11-03_2026-11-10]])
 - [ ] Εξόφληση #1292 (μοντάζ 2ου επεισοδίου) — πελάτης — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
 - [ ] Εξόφληση εκκρεμών τιμολογίων (Circle + ατομική) — πελάτης (λογιστής Ακριώτης) — από 2026-10-19· ποσά μόνο στα PDF ([[2026-10-19-georgiadis-ypoloipo-timologia]])

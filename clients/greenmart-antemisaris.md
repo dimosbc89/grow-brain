@@ -67,8 +67,8 @@ updated: 2026-11-18
 - Social: εγκρίθηκε το carousel για τους φθινοπωρινούς βολβούς (2026-09-18)· τα posts Stihl χρειάζονταν διορθώσεις ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] **«leads ad» (social καμπάνια leads XENIA)** — **Δήμος** (Asana, ανάθεση Ιωάννας) — λήξη **2026-11-16**, εκπρόθεσμο ([[2026-11-16-asana-xenia-video-wall-leads-landing]])
-- [ ] **«landing page πωλητών»** — **Δήμος** (Asana) — λήξη **2026-11-16**, εκπρόθεσμο ([[2026-11-16-asana-xenia-video-wall-leads-landing]])
+- [x] ✓ **«leads ad» (social καμπάνια leads XENIA)** — **Δήμος** — έκλεισε στο Asana 2026-11-18 13:24 ([[2026-11-16-asana-xenia-video-wall-leads-landing]])
+- [x] ✓ **«landing page πωλητών»** — **Δήμος** — έκλεισε στο Asana 2026-11-18 10:03 ([[2026-11-16-asana-xenia-video-wall-leads-landing]])
 - [ ] Video wall video — Βάσια (+ Δήμος σε mention) — λήξη 2026-11-16 ([[2026-11-16-asana-xenia-video-wall-leads-landing]])
 - [x] ✓ 2026-11-17 Προσφορά για 15 αυτοκόλλητα 10 × 18 + κοπτικά — Neon Arrow 180 € + 75 € + ΦΠΑ, «προχωράμε» Βάσια ([[2026-11-17-neonarrow-prosfora-koptika-lefka]])
 - [ ] Τοποθέτηση 6 κοπτικών + 15 αυτοκόλλητων στα βάθρα — Neon Arrow — **2026-11-19**· όνομα + κινητό υπεύθυνου στο περίπτερο το πρωί — Βάσια/Ιωάννα ([[2026-11-17-neonarrow-prosfora-koptika-lefka]])
