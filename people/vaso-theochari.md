@@ -3,7 +3,7 @@ type: person
 title: "Βάσω Θεοχάρη"
 aliases: [Βάσω, Vaso Theochari, marketing@overoll.gr]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-18
 ---
 # Βάσω Θεοχάρη
 > Marketing της [[overoll]]· η επαφή για τα τρία νέα websites και τα domains.
@@ -12,7 +12,8 @@ updated: 2026-11-12
 - **Οργανισμός:** [[overoll]] (Overoll Croissanterie A.E.), Marketing ([[2026-10-14-overoll-websites-domains]]).
 - **Ομάδα GROW:** ο Δήμος· [[vassiliki-giannopoulou]] και [[marina-papanastasiou]] σε cc.
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+- 2026-11-17: ζήτησε Christmas teasers (Panettone), posts από 23/11, concept/μοντέλα για shooting 27/11 και πλάνο σε mail ([[2026-11-17-overoll-christmas-teasers-plan]]).
 - Κύρια επαφή για το «Overoll Turns 6»: στις 2026-10-27 διάλεξε sticker (πρόταση 1, 3.000 τμχ), ενέκρινε την κάρτα PR boxes (θα την τυπώσει η Overoll) και ζήτησε διανομή stickers στα καταστήματα 2026-10-30/31 ([[2026-10-20-overoll-turns-6-event-update-2026-10-28]]).
 - Θα στείλει feedback για τα 3 sites και διαθεσιμότητες για call ([[2026-10-14-overoll-websites-domains]]).
 
@@ -25,6 +26,7 @@ updated: 2026-11-12
 - —
 
 ## Χρονολόγιο
+- 2026-11-17 — Overoll Christmas teasers/shooting/πλάνο ([[2026-11-17-overoll-christmas-teasers-plan]]).
 - 2026-11-11 — Προωθεί πρόταση της Miriam (TS Developments) για επιπλέον US usernames/domains, ζητά έλεγχο διαθεσιμότητας και προτάσεις GROW ([[2026-11-11-overoll-us-social-domains]]).
 - 2026-10-27 — Turns 6: επιλογή sticker πρόταση 1, 3.000 τμχ· έγκριση κάρτας PR· ρωτά ποια promoter πάει σε ποιο κατάστημα ([[2026-10-20-overoll-turns-6-event-update-2026-10-28]], [[2026-10-26-overoll-pinakes-promoters-27-10-update-2026-10-28]]).
 - 2026-10-14 — Ζητά call για τη δομή/τα links και φθηνότερες εναλλακτικές .com ([[2026-10-14-overoll-websites-domains]]).

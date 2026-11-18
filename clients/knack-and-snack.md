@@ -3,7 +3,7 @@ type: client
 title: "Knack & Snack"
 aliases: [Knack, Knack and Snack, Knack & Snack, @knackandsnack, knackandsnack@gmail.com]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 # Knack & Snack
 > Πελάτης εστίασης της GROW για σχεδόν έναν χρόνο (στις 2026-08): Google Ads, social media management και γυρίσματα· από εδώ βγήκε ο κανόνας του Δήμου για τα κείμενα διαφημίσεων.
@@ -14,7 +14,12 @@ updated: 2026-11-17
 - **Ομάδα GROW:** ο Δήμος· [[vassiliki-giannopoulou]] (cc, Reels/TikTok γυρίσματα) ([[2026-08-06-knack-snack-organosi-synergasias]]).
 - **IG:** @knackandsnack ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-12)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+- **Ένταση για deadlines:** στις 2026-11-17 17:37 η [[vassiliki-giannopoulou]] απάντησε στα πρακτικά της 10/11: website update **χωρίς επιπλέον κόστος** (στη δομή του reference site), **live demo έως 2026-11-24**· **performance report** και **ενιαίο στρατηγικό πλάνο** Social/Content Δεκ–Μάρ (μαζί Open Matter) **έως 2026-11-23**· media monitoring **δεν ανανεώνεται**· λίστα event agencies/catering· «στο εξής τα deadlines να συμφωνούνται από κοινού». Ο Σπήλιος (21:21) απάντησε ότι η GROW είχε πει «θα τα έχουμε μέχρι Παρασκευή» (13/11) και ότι ο Δήμος στις 10/11 είχε πει πως δεν χρειάζεται να ετοιμάσει παρουσίαση. **Ο Δήμος (21:30): «αύριο μετά το γύρισμα μπορούμε να συζητήσουμε… δεν καταλαβαίνω την δυναμική και πού θες να καταλήξεις»** ([[2026-11-17-knack-follow-up-next-steps]]).
+- Γύρισμα chef **2026-11-18 16:00–17:00** (GROW Agency Calendar).
+- Ο πελάτης προώθησε στον Δήμο 2 εισερχόμενα: ζωγράφο για έκθεση (Ηλιάννα Κουτσούμπα) και αίτημα προσφοράς live pizza catering για βάπτιση (ADS Solutions, 100–150 άτομα, Απρ–Μάι) — τι αναμένεται: ασαφές ([[2026-11-17-knack-fwd-ekthesi-catering]]).
+
+*Από 2026-11-12:*
 - **Οικονομικά:** 2026-11-11 το λογιστήριο έστειλε ανανεωμένη καρτέλα με **υπόλοιπο 1.436,00 €** (από 1.215,20 € στις 2026-10-27) ([[2026-11-11-knack-snack-kartela]]).
 
 *Από 2026-11-03:*
@@ -29,7 +34,12 @@ updated: 2026-11-17
 - Google Ads: στρατηγική split του PMax σε walk-ins (πρώτα, για τουρίστες) και delivery/pickup ([[2026-10-20-prohgoumenes-synomilies-claude]]). Αν έχει υλοποιηθεί: ασαφές.
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Πρακτικά συνάντησης 10/11 (PDF Βίκυ) — ανάγνωση και απευθείας επικοινωνία με Vicky Fili & Vasiliki Niassou — GROW — από 2026-11-16 ([[2026-11-16-knack-snack-praktika-synantisis]])
+- [ ] Συζήτηση με Σπήλιο για ημερομηνίες/deadlines — Δήμος — **2026-11-18 μετά το γύρισμα** ([[2026-11-17-knack-follow-up-next-steps]])
+- [ ] Performance report — Βασιλική — **2026-11-23** ([[2026-11-17-knack-follow-up-next-steps]])
+- [ ] Ενιαίο στρατηγικό πλάνο Social/Content Δεκ 2026–Μάρ 2027 + προτάσεις Open Matter — GROW — **2026-11-23** ([[2026-11-17-knack-follow-up-next-steps]])
+- [ ] Website update — πρώτο live demo — GROW — **2026-11-24** ([[2026-11-17-knack-follow-up-next-steps]])
+- [ ] Τι κάνουμε με τα forwards (ζωγράφος / pizza catering) — Δήμος — ασαφές ([[2026-11-17-knack-fwd-ekthesi-catering]])
+- [x] ✓ (απάντηση Βασιλικής 2026-11-17) Πρακτικά συνάντησης 10/11 (PDF Βίκυ) — ανάγνωση και απευθείας επικοινωνία με Vicky Fili & Vasiliki Niassou — GROW — από 2026-11-16 ([[2026-11-16-knack-snack-praktika-synantisis]])
 - [ ] Επιλογή ανταποδοτικών creators Νοεμβρίου (comments στο Sheet) — Knack and Snack (Σπήλιος) — από 2026-11-02 ([[2026-11-02-knack-snack-creators-noemvriou]])
 - [ ] Συνάντηση «Knack εδώ» — 2026-11-10 13:00 ([[2026-11-03_2026-11-10]])
 - [ ] Διορθωμένη αφίσα 11/11 («Stand up στο μπαλκόνι» πάνω, «Unpopular Opinion» κεντρικό από κάτω, χωρίς «stand up comedy show», Μαίρη σε ίδια κλίμακα, οι δύο Γιώργοι όχι δίπλα) + link κρατήσεων — Μαρίνα — **έως 2026-10-29** ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-29]])
@@ -56,6 +66,7 @@ updated: 2026-11-17
 - Προτεινόμενη δομή παραδοτέων (2026-08-06, αναμένει αποδοχή): Meta 3–4 posts/εβδ. + 7 Stories/εβδ.· TikTok 3–4 posts/εβδ.· 1–2 επαγγελματικά γυρίσματα/μήνα με τη Σήλια (14–16 προϊοντικά βίντεο + 20–25 φωτογραφίες ανά γύρισμα)· 1–2 γυρίσματα Reels/TikTok/μήνα από GROW ([[2026-08-06-knack-snack-organosi-synergasias]]).
 
 ## Χρονολόγιο
+- 2026-11-17 — Follow-up Βασιλικής (deadlines 23–24/11, χωρίς media monitoring) → Σπήλιος: «είπατε μέχρι Παρασκευή» → Δήμος: «αύριο μετά το γύρισμα να συζητήσουμε» · 2 forwards (ζωγράφος, pizza catering) ([[2026-11-17-knack-follow-up-next-steps]], [[2026-11-17-knack-fwd-ekthesi-catering]]).
 - 2026-11-16 — Ο Σπήλιος Φράγκος προώθησε τα πρακτικά της συνάντησης 10/11 και ζήτησε η GROW να μιλά απευθείας με Βίκυ Φίλη και Βασιλική Νιάσσου ([[2026-11-16-knack-snack-praktika-synantisis]]).
 - 2026-11-11 — Λογιστήριο: ανανεωμένη καρτέλα, υπόλοιπο 1.436,00 € ([[2026-11-11-knack-snack-kartela]]).
 - 2026-11-10 — «Knack εδώ» μετακινήθηκε 15:00–16:00 ([[2026-11-10-asana-omada-mikra]]).
@@ -80,6 +91,7 @@ updated: 2026-11-17
 - Υπόλοιπο καρτέλας 2026-10-27: **1.215,20 €**, μετά από πίστωση 248 € (200 € + ΦΠΑ) για την πληρωμή της Σήλιας (φωτογράφιση «Yιάγια») ([[2026-10-27-accounting-timologia-kartelles]]).
 
 ## Σημειώσεις
+- Ο Σπήλιος πιέζει με χρόνους και θυμίζει προφορικές δεσμεύσεις («μας είπατε θα τα έχουμε μέχρι την Παρασκευή»)· η GROW ζητά deadlines «από κοινού» — προτίμηση: γραπτές ημερομηνίες μετά από κάθε συνάντηση ([[2026-11-17-knack-follow-up-next-steps]]).
 - 💭 Υπόθεση: το Knack & Snack οργανώνει events (stand-up comedy, «bashment» 27.10) για τα οποία η GROW κάνει posters/μενού — από τους τίτλους των Asana tasks ([[2026-10-21-asana-snapshot]]).
 - Σωστό όνομα: «Knack & Snack» (όχι «Snack & Knack») ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 - Ύφος Δήμου προς Σπήλιο: επίσημο-ζεστό, δομημένο («θεωρώ ότι είναι η κατάλληλη στιγμή να οργανώσουμε ακόμα καλύτερα τη συνολική μας συνεργασία», «Καλή συνέχεια!») ([[2026-08-06-knack-snack-organosi-synergasias]]).

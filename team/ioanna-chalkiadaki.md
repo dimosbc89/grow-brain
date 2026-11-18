@@ -3,7 +3,7 @@ type: team
 title: "Ιωάννα Χαλκιαδάκη"
 aliases: [Ioanna Chalkiadaki, Ιωάννα, Ioanna, ioanna@growagency.online]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-18
 ---
 # Ιωάννα Χαλκιαδάκη
 > Account Manager της GROW. Τρέχει social και content για πελάτες εστίασης και λιανικής ([[circle-of-dining]], [[greenmart-antemisaris]], [[yiayia-meatballs]]) και είναι στα calls των [[hellenic-heritage-evolution]] και [[tsu-pies]].
@@ -25,7 +25,8 @@ updated: 2026-11-16
 - Podcast — ερωτήσεις «Podcast_Kyritsis_Bakoulis_Questions.docx» για έλεγχο. Πελάτης/πλαίσιο ασαφές ([[2026-10-12-podcast-kyritsis-bakoulis-check]]).
 - Παραλήπτρια της λίστας δημοσιογράφων και του «AI Workshop Vol2 Q3» ([[2026-10-07-lista-dimosiografon-press]], [[2026-09-08-ai-workshop-vol2-q3]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-12)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+- **Στις 2026-11-17** ζήτησε άδεια 2 ημερών για τα Χριστούγεννα (2026-12-23 & 24, εναλλακτικά 24 & 28/12) από Δήμο/Μαρίνα/Βασιλική — απάντηση δεν φαίνεται ([[2026-11-17-ioanna-aitisi-adeias-xristougenna]]).
 - **2026-11-13 (εκτός XENIA):** έστειλε στη Mediterranean College την παρουσίαση συνεργασίας Hospitality Jam (17:13)· πρότεινε στην Ελπίδα/[[global-foods]] call για συμφωνητικά (17:06, γυρίσματα 25/11, 1/12, 5/12)· έστειλε στον Δήμο **TEST πρόσκλησης** για το Circle of Dining dinner 2026-11-22 19:30 (19:37) ([[2026-10-20-hospitality-jam-mediterranean-college-update-2026-11-16]], [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]], [[2026-11-13-circle-of-dining-dinner-test-prosklisi]]).
 - **Στις 2026-11-12:** XENIA/[[greenmart-antemisaris]] — έστειλε «SOS ενημέρωση» στον Ζάχο 16:14 (πρώτα «για έγκριση» σε Δήμο/Μαρίνα 12:06 και 13:58· έγκριση δεν φαίνεται) και υποσχέθηκε χρονοδιάγραμμα στησίματος για 2026-11-13· ανέλαβε τα λογότυπα για το BOX22 της Gagos ([[2026-11-12-antemisaris-sos-enimerosi-xenia]], [[2026-11-12-antemisaris-box22-gagos-xorigia]]). Asana «xenia dinner»: ρωτά τον Δήμο «Το στείλαμε?» για τις προσκλήσεις ([[2026-11-12-asana-xenia-dinner-proskliseis]]).
 

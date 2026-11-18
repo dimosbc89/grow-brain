@@ -3,7 +3,7 @@ type: client
 title: "Oggi Gelato"
 aliases: [Oggi]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-18
 ---
 # Oggi Gelato
 > Πελάτης Google Ads της GROW (παγωτό)· τον Σεπτέμβριο 2026 ετοιμάστηκε lifetime report της καμπάνιας.
@@ -13,7 +13,9 @@ updated: 2026-11-13
 - **Επαφές:** ασαφές (καμία επαφή πελάτη στις πηγές).
 - **Ομάδα GROW:** ο Δήμος· [[despina-velissariou]] ([[2026-09-10-oggi-google-ads-lifetime-report]])· στο Asana επίσης [[vassia-kataki]], [[marianna-vourna]], [[fotini]] ([[2026-10-21-asana-snapshot]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-12)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+- **Στις 2026-11-17** η [[despina-velissariou]] ζήτησε **προσφορές εκτύπωσης T-shirts** (3 σχέδια· 10 μαύρες κοντομάνικες + 5 + 5 μακρυμάνικες) από **Print Kong** (στάλθηκαν ανοιχτά αρχεία) και **Fratelli** («άμεσα»)· η Fratelli υποσχέθηκε προτάσεις μέσα στην ημέρα — τιμές δεν έχουν φανεί ([[2026-11-17-tshirts-prosfores-fratelli-printkong]]).
+
 - T-shirts: η [[epilogin]] έδωσε τιμές ανά μπλούζα 2026-11-10 (11,8–15,8 € + ΦΠΑ)· στις 2026-11-12 η [[vassia-kataki]] ρώτησε αν περιλαμβάνουν εκτύπωση — αναμονή ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]]).
 
 *Από 2026-10-28:*
@@ -23,6 +25,7 @@ updated: 2026-11-13
 - Στις 2026-09-10 ο Δήμος έστειλε στη Δέσποινα το «Oggi_Gelato_Google_Ads_Lifetime_Report_GROW_Agency_GR_Final_v3.pptx» ([[2026-09-10-oggi-google-ads-lifetime-report]]). Συναντήσεις «Oggi εδώ» 2026-09-10 και «Oggi εκεί» 2026-09-18 ([[2026-07-20_2026-11-03]]). Τι ακολούθησε: ασαφές.
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Προσφορές εκτύπωσης T-shirts — Print Kong / Fratelli → Δέσποινα — από 2026-11-17 ([[2026-11-17-tshirts-prosfores-fratelli-printkong]])
 - [ ] Προσφορά T-shirts: αν οι τιμές περιλαμβάνουν εκτύπωση + οδηγοί μεγεθών — [[epilogin]] — από 2026-11-12 ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]])
 - [ ] Κουτιά τιραμισού Oggi — [[despina-velissariou]] — έως 2026-10-09 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
 - [x] Moodboard Oggi T-shirts — [[vassia-kataki]] — ✓ παρουσιάστηκε, ο πελάτης το ενέκρινε (2026-10-27) ([[2026-10-27-asana-eidopoiiseis]])
@@ -35,6 +38,7 @@ updated: 2026-11-13
 - —
 
 ## Χρονολόγιο
+- 2026-11-17 — Αιτήματα προσφοράς εκτύπωσης T-shirts σε Print Kong & Fratelli ([[2026-11-17-tshirts-prosfores-fratelli-printkong]]).
 - 2026-11-12 — Η Βάσια ρωτά την Επιλογή αν οι τιμές (11,8 / 15,8 / 13,8 / 12,8 € + ΦΠΑ, από 2026-11-10) περιλαμβάνουν εκτύπωση ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]]).
 - 2026-11-10 — Η Βάσια ζήτησε προσφορά από Επιλογή για 10 κοντομάνικα + 5+5 μακρυμάνικα (SOL'S, M/L) ([[2026-11-10-oggi-mplouzakia-epilogi]]).
 - 2026-11-05 — Η Βασιλική ζητά άποψη Δήμου στο Asana «marathon creatives sos» (💭 Oggi) ([[2026-11-04-dianoma-pelates-mikra]]).

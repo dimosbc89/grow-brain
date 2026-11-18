@@ -3,7 +3,7 @@ type: person
 title: "Βαγγέλης Ζάχος"
 aliases: [Zachos V., Vangelis Zachos, zachosv@antemisaris.gr]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 # Βαγγέλης Ζάχος
 > Κύρια επαφή της GROW στην [[greenmart-antemisaris]]: στέλνει αρχεία προϊόντων, προτάσεις εκθέσεων και κάνει τα follow-ups.
@@ -12,7 +12,10 @@ updated: 2026-11-17
 - **Οργανισμός:** [[greenmart-antemisaris]] (antemisaris.gr)· ακριβής ρόλος ασαφής ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 - **Επαφή GROW:** [[ioanna-chalkiadaki]]· ο Δήμος ([[2026-08-13-antemisaris-koropi-range-harmony]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-17)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+- 2026-11-17: 08:42 **ενέκρινε το video «5 Things»** («ΟΚ, προχωράμε») και ρώτησε για το post XENIA· 08:43 προώθησε το τέλος διαφήμισης της Forum («Spam?/New?»)· 12:06 έστειλε τη λίστα email για προσκλήσεις· 17:15 στις προτάσεις post: «2-3 ακόμα… σαν το περσινό… με έργο». Εκκρεμούν: feedback στις 4 νέες προτάσεις, ταμπελάκια γλαστρών, πεδία app πωλητών ([[2026-11-16-antemisaris-video-5-things-egkrisi-update-2026-11-18]], [[2026-11-17-forum-telos-diafimisis-xenia]], [[2026-11-17-antemisaris-lista-email-proskliseis]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-18]], [[2026-11-17-antemisaris-app-politon-stoixeia]]).
+
+*Νωρίτερα (στις 2026-11-17):*
 - 2026-11-16: 11:03 έστειλε **«URGENT!!!»** στην Ιωάννα (cc Lefteris, Thodoris, Δήμος) το reminder της Expowork για τη μη σταλμένη παραγγελία ρεύματος — «εφόσον είπαμε να τρέξετε εσείς όλο το project, μην αφήνετε τέτοιες εκκρεμότητες». 12:00 επέστρεψε υπογεγραμμένη τη φόρμα ρεύματος, 12:18 έστειλε **«Pots Xenia Final.xlsx»**, 15:37 PDF (💭 αποδεικτικό πληρωμής 318,40 €) ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]], [[2026-11-16-antemisaris-sfragida-ypografi-pots]]).
 
 *Νωρίτερα (στις 2026-11-16):*
@@ -42,6 +45,7 @@ updated: 2026-11-17
 - —
 
 ## Χρονολόγιο
+- 2026-11-17 — Έγκριση video «5 Things»· λίστα email προσκλήσεων XENIA· ζητά νέες προτάσεις post «με έργο» ([[2026-11-16-antemisaris-video-5-things-egkrisi-update-2026-11-18]], [[2026-11-17-antemisaris-lista-email-proskliseis]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-18]]).
 - 2026-11-16 — «URGENT» για ρεύμα XENIA· υπογραφή φόρμας ρεύματος· τελική λίστα γλαστρών (Pots Xenia Final) ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]], [[2026-11-16-antemisaris-sfragida-ypografi-pots]]).
 - 2026-11-13 — Inline απαντήσεις στη «SOS ενημέρωση» (καμπάνια leads ΝΑΙ)· υπογράφει παραγγελία κλαρκ ([[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-16]], [[2026-11-13-expowork-allagi-anartisis-klark-xenia]]).
 - 2026-11-12 — Υπογράφει/εξοφλεί ανάρτηση Expowork· προωθεί BOX22 (Gagos) στην Ιωάννα· λαμβάνει «SOS ενημέρωση» XENIA ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]], [[2026-11-12-antemisaris-box22-gagos-xorigia]], [[2026-11-12-antemisaris-sos-enimerosi-xenia]]).

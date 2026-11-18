@@ -74,7 +74,10 @@ updated: 2026-11-16
 - [[olympicnature|Olympicnature]] · _prospect_ — πρώτη συνάντηση 2026-11-16 11:00 (Meet, από Μαρίνα)· αντικείμενο ασαφές.
 - [[papavergos|Παπαβέργος]] · _prospect_ — εκθεσιακό περίπτερο· η Μαρίνα στέλνει πρώτο σχέδιο εβδομάδα 16–20/11.
 - [[elmon|ELMON SA]] · _prospect_ — περίπτερο DEFEA 2027, προσφορά 2026-11-10.
-- [[krimatoglou|Κριματόγλου ΑΒΕΤΕ]] · _prospect_ — περίπτερο HORECA 2027, 92,75 τ.μ.
+- [[krimatoglou|Κριματόγλου ΑΒΕΤΕ]] · _prospect_ — περίπτερο HORECA 2027, 92,75 τ.μ.· προσφορά Agency Fee στάλθηκε 2026-11-17.
+- [[euronet-epay|Euronet epay]] · _prospect_ — Meet 2026-11-18 11:30 (από Μαρίνα)· αντικείμενο ασαφές.
+- [[tria-delta|Τρία Δέλτα]] · _prospect_ — Meet 2026-11-18 14:00 (από Μαρίνα)· αντικείμενο ασαφές.
+- [[prisma-electronics|Prisma Electronics]] · _prospect_ — Meet 2026-11-18 15:00 (από Μαρίνα)· αντικείμενο ασαφές.
 - [[tsianakas-packaging|Tsianakas Packaging]] · _prospect_ — προσφορά Agency Fee (Global Pack 2027) 2026-11-11.
 - [[cryo|Cryo]] · _prospect_ — περίπτερο CosmoEstetica, προσφορά 2026-11-11.
 - [[enersys|Enersys]] · _prospect_ — περίπτερο Agrothessaly 2027, προσφορά 2026-11-11.

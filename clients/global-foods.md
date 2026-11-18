@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -18,7 +18,13 @@ updated: 2026-11-17
 - **Επαφές:** [[elpida-plavou]] (ρόλος ασαφής· παραλήπτρια report και πρότασης videography) ([[2026-10-08-globalfoods-videography-proposal]])· [[evi-psycha]] (Marketing, marketing@globalfoods.gr) ([[2026-10-02-globalfoods-live-projector-videographer]])· commercial@globalfoods.gr σε cc ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 - **Ομάδα GROW:** ο Δήμος (app, Ads report, προτάσεις)· [[marina-papanastasiou]] (συντονισμός event)· [[despina-velissariou]] (event, φυλλάδιο, βιντεογράφος) ([[2026-10-02-globalfoods-live-projector-videographer]], [[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-17)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+**Νέα 2026-11-17:**
+- **Reel Πρεσβείας ✓:** η Δέσποινα έστειλε το ανανεωμένο reel 12:06 και η Ελπίδα απάντησε 16:25 **«Είμαστε οκ»** — εγκρίθηκε ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-18]]).
+- **FISAN ✓:** μεταφρασμένη παρουσίαση 14:21 → η [[evi-psycha]] «είμαστε οκ» + ζήτησε QR → η Δέσποινα έστειλε 20:07 QR png, A5 και link PDF στο globalfoods.gr ([[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-18]]).
+- **CCTV policy (νέο αίτημα):** η Ελπίδα ζητά από Δήμο + Μαρίνα διόρθωση του **σημείου 4.1 (κάμερες)** στο globalfoods.gr/cctv-policy με νέο κείμενο (CCTV final.docx), ίδια μορφοποίηση με το υπόλοιπο — αναπάντητο ([[2026-11-17-globalfoods-cctv-policy]]).
+
+*Νωρίτερα (στις 2026-11-17):*
 **Νέα 2026-11-16 (μετά τις 08:10):**
 - **AI Agent στο app:** η [[elpida-plavou]] ζήτησε τηλέφωνο· ο Δήμος πρότεινε **μετά τις 16:00 στις 2026-11-16** και εκείνη δέχτηκε («Ναι κάλεσέ με»). Αν έγινε το call: ασαφές ([[2026-11-15-globalfoods-ai-agent-app-update-2026-11-17]]).
 - **Τσάλιος / Lorem Ipsum:** η Ελπίδα διευκρίνισε ότι η πρόταση εννοεί κείμενο Lorem Ipsum στη σελίδα Brands· ο Δήμος: «AI τα στέλνει αυτά… προφανώς διαβάζει κάποια κρυφή σελίδα που δεν έχουμε public», θα το δούμε μαζί με τις αλλαγές ([[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]]).
@@ -61,8 +67,13 @@ updated: 2026-11-17
 - Στο ημερολόγιο: «Πρεσβεία Global - Despina» 2026-10-22 16:00 — 💭 Υπόθεση: αφορά τη Global Foods, ασαφές ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-18**
+- [ ] Διόρθωση σημείου 4.1 (κάμερες) στη σελίδα CCTV policy, χωρίς διαφορετική μορφοποίηση — Δήμος / Μαρίνα — από 2026-11-17 ([[2026-11-17-globalfoods-cctv-policy]])
+- [x] ✓ Reel Πρεσβείας εγκρίθηκε («Είμαστε οκ») — 2026-11-17 ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-18]])
+- [x] ✓ Παρουσίαση FISAN GR + QR + A5 — Δέσποινα — 2026-11-17 ([[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-18]])
+
 **Νέα στις 2026-11-17**
-- [ ] Νέα εκδοχή reel Πρεσβείας (v2_2: πιο αργή αρχή, ομαλό τέλος, σαφής «εβδομάδα ιταλικής κουζίνας») → Ελπίδα — Δέσποινα — από 2026-11-16 ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-17]])
+- [x] ✓ (εγκρίθηκε 2026-11-17) Νέα εκδοχή reel Πρεσβείας (v2_2: πιο αργή αρχή, ομαλό τέλος, σαφής «εβδομάδα ιταλικής κουζίνας») → Ελπίδα — Δέσποινα — από 2026-11-16 ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-17]])
 - [ ] Lorem Ipsum στη σελίδα Brands — έλεγχος/διόρθωση μαζί με τις αλλαγές site — Δήμος — χωρίς ημερομηνία ([[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]])
 
 **Νέα στις 2026-11-16**
@@ -72,7 +83,7 @@ updated: 2026-11-17
 - [ ] Υλικό Gnoccho fritto (Εύη) → posts social — GROW — «SOS» 2026-11-13 ([[2026-11-13-globalfoods-gnoccho-fritto]])
 
 **Νέα στις 2026-11-13**
-- [ ] **Μετάφραση παρουσίασης FISAN EN→EL** — [[despina-velissariou]] — **στόχος 2026-11-16 βράδυ** (με επιφύλαξη· η Global Foods τη θέλει για 2026-11-18) ([[2026-11-12-globalfoods-fisan-metafrasi]], [[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-16]])
+- [x] ✓ (παραδόθηκε 2026-11-17) **Μετάφραση παρουσίασης FISAN EN→EL** — [[despina-velissariou]] — **στόχος 2026-11-16 βράδυ** (με επιφύλαξη· η Global Foods τη θέλει για 2026-11-18) ([[2026-11-12-globalfoods-fisan-metafrasi]], [[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-16]])
 - [ ] Αλλαγές στα υπόλοιπα posts του πλάνου Unique + απάντηση στην Εύη («θα γίνουν μετά?») — [[despina-velissariou]] — από 2026-11-12 ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-13]])
 - [ ] Spianata σε μορφή FAQ + έγκριση των 7 τροποποιημένων Tips — Global Foods — από 2026-11-12 ([[2026-10-09-globalfoods-tips-site-update-2026-11-13]])
 - [ ] Rummo: υλικό από Rummo (Εύη) → φυλλάδιο deli + video social — Δέσποινα — επαναφορά 2026-11-12 ([[2026-10-08-globalfoods-rummo-saltses-update-2026-11-13]])
@@ -157,6 +168,7 @@ updated: 2026-11-17
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-11-17 — Reel Πρεσβείας: ανανεωμένο 12:06 → Ελπίδα «Είμαστε οκ» 16:25 ✓ · FISAN: παρουσίαση GR 14:21 → Εύη οκ + QR → QR/A5/link 20:07 ✓ · νέο αίτημα CCTV policy 4.1 (14:58) ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-18]], [[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-18]], [[2026-11-17-globalfoods-cctv-policy]]).
 - 2026-11-16 — AI Agent: συμφωνήθηκε τηλέφωνο Δήμου–Ελπίδας μετά τις 16:00 (αν έγινε: ασαφές) · Lorem Ipsum Brands: «θα το δούμε» · reel Πρεσβείας: νέο βίντεο, νέα σχόλια, v2_2 στο Asana ([[2026-11-15-globalfoods-ai-agent-app-update-2026-11-17]], [[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]], [[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-17]]).
 - 2026-11-16 — 00:26 ο Δήμος απαντά στο AI Agent («εξήγησέ μου τι σκέφτεσαι»)· 00:32 η Ελπίδα προωθεί το email Τσάλιου (Lorem Ipsum στη σελίδα Brands)· 02:14 Δήμος: «Τι να δούμε ;» ([[2026-11-15-globalfoods-ai-agent-app]], [[2026-11-16-globalfoods-protasi-istoselidas-tsalios]]).
 - 2026-11-15 — 23:36 η Ελπίδα ρωτά για AI Agent – παραγγελιολήπτη στο app ([[2026-11-15-globalfoods-ai-agent-app]]).

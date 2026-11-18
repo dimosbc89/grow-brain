@@ -3,7 +3,7 @@ type: client
 title: "Enoteca"
 aliases: [Enoteca, ENOTECA, Website Enoteca]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 # Enoteca
 > Πελάτης εστίασης/κρασιού (💭 Υπόθεση από το όνομα και τα tasks μενού) με Asana project από 2025-09-26: social content, reels, νέο μενού και site map για website.
@@ -13,7 +13,10 @@ updated: 2026-11-17
 - **Επαφές:** ασαφές.
 - **Ομάδα GROW:** [[vasia-s]] (Vasia Striga στο Asana — account, εγκρίσεις, report)· [[fotini]] (μενού)· [[marianna-vourna]] (QR)· ο Δήμος (χορηγούμενο) ([[2026-10-21-asana-snapshot]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-13)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+- **Έντυπα:** στις 2026-11-17 13:19 η [[marianna-vourna]] ζήτησε από DK Agialis, [[epilogin]] και Print Kong την προσφορά **μέσα στη μέρα** — καμία απάντηση στα threads ως 2026-11-18 πρωί ([[2026-11-16-enoteca-prosfora-entypon-dkagialis-update-2026-11-18]]).
+
+*Από 2026-11-13:*
 - **Έντυπα:** στις 2026-11-13 η [[marianna-vourna]] ζήτησε προσφορά από [[epilogin]] και Print Kong για 30 EN + 50 GR μενού (50×30 εκ., δίπλωμα), 50 φακέλους αποδείξεων 21×15 εκ. με θήκη, 30 καταλόγους κρασιών 15×35 εκ. 8 σελ.· χαρτί ~170 γρ., ματ πλαστικοποίηση, στρογγυλεμένες γωνίες ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong]]).
 
 *Από 2026-10-21:*
@@ -21,6 +24,7 @@ updated: 2026-11-17
 - Στο ημερολόγιο: «Enoteca EKEI (+Γύρισμα)» 2026-09-10 14:00 και «Enoteca Εκει Q&A» 2026-09-29 15:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Προσφορές τυπογράφων για μενού/φακέλους/καταλόγους (ζητήθηκαν «μέσα στη μέρα» 2026-11-17) — DK Agialis / Epilogi / Print Kong → Μαριάννα ([[2026-11-16-enoteca-prosfora-entypon-dkagialis-update-2026-11-18]])
 - [ ] Προσφορά εντύπων (80 μενού 50×30, 50 φάκελοι αποδείξεων, 30 κατάλογοι κρασιών 8σέλ., 170γρ ματ) — dkagialis — από 2026-11-16 ([[2026-11-16-enoteca-prosfora-entypon-dkagialis]])
 - [ ] Προσφορές εκτύπωσης μενού/φακέλων/καταλόγων κρασιών — Epilogi + Print Kong — ζητήθηκαν 2026-11-13 ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong]])
 - [ ] «χορηγουμενο Sara - creatos / enoteca» — Δήμος (ανάθεση από Vasia Striga 2026-10-16) — due 2026-10-20 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
@@ -30,6 +34,7 @@ updated: 2026-11-17
 - —
 
 ## Χρονολόγιο
+- 2026-11-17 — Η Μαριάννα πιέζει 3 τυπογράφους για προσφορά εντός ημέρας ([[2026-11-16-enoteca-prosfora-entypon-dkagialis-update-2026-11-18]]).
 - 2026-11-16 — Η Μαριάννα ζήτησε προσφορά εντύπων και από το dkagialis.gr (30 EN + 50 GR μενού, 50 φάκελοι αποδείξεων, 30 κατάλογοι κρασιών) ([[2026-11-16-enoteca-prosfora-entypon-dkagialis]]).
 - 2026-11-13 — Αίτημα προσφοράς εντύπων (μενού EN/GR, φάκελοι αποδείξεων, κατάλογοι κρασιών) σε Epilogi και Print Kong ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong]]).
 - 2026-10-21 — Asana: ✓ «ΕΓΚΡΙΣΗ Enoteca 3to1» (2026-10-20), «ΕΓΚΡΙΣΗ ΕΝΟΤΕCA» (2026-10-16), «Fast reel» (2026-10-06), «Enoteca new» (2026-10-02), «Ζύμη», «Νέο μενού», «mockup μενού» (2026-09-17), «QR social media» και «Enoteca Report & Questions» (2026-09-11), «ψάρι» (2026-09-09) ([[2026-10-21-asana-snapshot]]).

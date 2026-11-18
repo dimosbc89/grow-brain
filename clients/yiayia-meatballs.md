@@ -3,7 +3,7 @@ type: client
 title: "Υιάγια (Yiayia Meatballs)"
 aliases: [Υιάγια, Yiayia, Yiayia Meatballs, Υιάγια Home of Meatballs, Γιάγια, yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 # Υιάγια (Yiayia Meatballs)
 > Εστιατόριο με κεφτεδάκια («Home of Meatballs») της [[maria-drouza]]· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influencers, μενού, packaging και γυρίσματα.
@@ -15,7 +15,11 @@ updated: 2026-11-17
 - **Ομάδα GROW:** [[vassiliki-giannopoulou]] (account lead· ανακοινώθηκε στο thread που ξεκίνησε 2026-09-11) ([[2026-10-07-yiayia-street-activation-content]])· [[ioanna-chalkiadaki]] (μενού, packaging, influencers, posting)· ο Δήμος (site, game, email, server)· [[vassia-kataki]] (promo video του game) ([[2026-10-16-yiayia-meatball-catcher-promo]])· [[marina-papanastasiou]] σε cc.
 - **Domains:** yiayiameatballs.gr· foodhugs.gr = άλλο project της Μαρίας ([[2026-10-20-yiayia-website-new-version]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-13)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+- **2026-11-17:** η Βασιλική έστειλε (10:17) στη [[maria-drouza]] το **νέο μοντάζ Τέλος Πάγγων** με τις κοπές της 16/11 και (14:14) στον [[kostas-tzevelekos]] τα **ανανεωμένα take away menu** EN/GR για έλεγχο — αναμονή σχολίων ([[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-18]], [[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-18]]).
+- **NAK — τυπωμένα μπωλ:** η NAK έστειλε 11:57 μακέτες για **μπωλ 750 ml και 500 ml** (jpg)· η Βασιλική ζήτησε ανοιχτό PDF και στο εξής όλες οι μακέτες σε PDF ([[2026-11-17-yiayia-ektypomena-mpol-nak]]).
+
+*Από 2026-11-13:*
 - **Pantone — κλείδωσε (2026-11-13 10:52):** η [[maria-drouza]] ενέκρινε **2339 U και C** και **ασπρόμαυρη χαρτοπετσέτα**, μετά την εξήγηση της Βασιλικής (08:12) ότι U/C διαφέρουν ελάχιστα· η Βασιλική σημείωσε ότι ο κίνδυνος απόκλισης θα ξαναβγεί σε μελλοντικά εκτυπωτικά ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-16]]).
 - **Μακέτες NAK (2026-11-13 12:28):** η Βασιλική έστειλε παρατηρήσεις στη NAK — φύλλο βεζετάλ μεγεθυμένο/λείπει το κάτω σχεδιαστικό, τσάντα χωρίς στοιχεία στο σεμεδάκι· χαρτοπετσέτα (ασπρόμαυρη) και σακουλάκι εντάξει. Απάντηση NAK: καμία ακόμα ([[2026-11-13-yiayia-maketes-pros-ektyposi-nak]]).
 - **Take away menu (2026-11-13 17:13):** ο [[kostas-tzevelekos]] έστειλε νέες τιμές (κεφτεδάκια 6 τμχ 7,70–8,60 €, On a diet 7,90/8,40 €), συνοδευτικά με επιπλέον χρέωση, νέα διάταξη, αφαίρεση «χειροποίητα» από κεφτεδάκια, νέα ψιλά γράμματα (φρέσκα υλικά/παραλαμβάνονται κατεψυγμένα) και νέα λίστα αναψυκτικών ([[2026-11-13-yiayia-take-away-menu-allages-timon]]).
@@ -42,12 +46,15 @@ updated: 2026-11-17
 - Επόμενο γύρισμα: «Υιάγια shooting» 2026-10-23 09:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Νέο μοντάζ Τέλος Πάγγων (κόψιμο εισαγωγής, «το νου σου στον ΚΕΦΤΕ», «Έχει επιτυχία;…», Γιώργος νωρίτερα) — Βασιλική — από 2026-11-16 ([[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-17]])
+- [ ] Ανοιχτό PDF μακέτας μπωλ 750/500 ml → έλεγχος/έγκριση — NAK → Βασιλική — από 2026-11-17 ([[2026-11-17-yiayia-ektypomena-mpol-nak]])
+- [ ] Σχόλια/έγκριση νέου μοντάζ Τέλος Πάγγων — Μαρία Δρούζα — από 2026-11-17 ([[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-18]])
+- [ ] Έλεγχος ανανεωμένου take away menu — Τζεβελέκος — από 2026-11-17 ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-18]])
+- [x] ✓ (στάλθηκε 2026-11-17, αναμονή σχολίων Μαρίας) Νέο μοντάζ Τέλος Πάγγων (κόψιμο εισαγωγής, «το νου σου στον ΚΕΦΤΕ», «Έχει επιτυχία;…», Γιώργος νωρίτερα) — Βασιλική — από 2026-11-16 ([[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-17]])
 - [ ] Street activation vid.1: αφαίρεση κυρίας που απέσυρε την έγκριση + σκορ μέσα στα safe areas — Μαριάννα ανέβασε νέα έκδοση 2026-11-16, έγκριση Βασιλικής — ([[2026-11-16-asana-yiayia-street-activation-timologisi]])
 - [ ] Τιμολόγηση review stand & stickers — Λογιστήριο — η Μαρίνα το ξαναζητά 2026-11-16 ([[2026-11-16-asana-yiayia-street-activation-timologisi]])
 - [ ] Τελική έγκριση προς τον τυπογράφο για παραγωγή (σακουλάκια σάντουιτς, λαδόκολλες, σακούλες) με 2339 U/C — Βασιλική — από 2026-11-13 ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-16]])
 - [ ] Απάντηση NAK στις παρατηρήσεις (κλίμακα + κάτω σχεδιαστικό φύλλου βεζετάλ, σεμεδάκι στην τσάντα) — NAK — από 2026-11-13 ([[2026-11-13-yiayia-maketes-pros-ektyposi-nak]])
-- [ ] Ενσωμάτωση αλλαγών Τζεβελέκου στο take away menu + νέα μακέτα προς έγκριση — GROW (Βασιλική) — από 2026-11-13 ([[2026-11-13-yiayia-take-away-menu-allages-timon]])
+- [x] ✓ (στάλθηκε 2026-11-17) Ενσωμάτωση αλλαγών Τζεβελέκου στο take away menu + νέα μακέτα προς έγκριση — GROW (Βασιλική) — από 2026-11-13 ([[2026-11-13-yiayia-take-away-menu-allages-timon]])
 - [x] ✓ 2026-11-13: 2339 U/C + ασπρόμαυρη χαρτοπετσέτα ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-16]]) — Διευκρίνιση προς Μαρία (ποια υλικά έχουν διαφορετικό Pantone) + απόφαση ασπρόμαυρης χαρτοπετσέτας + τελική έγκριση χρωμάτων σακουλακιών σάντουιτς / λαδόκολλας για να ξεκινήσει η παραγωγή — Βασιλική ↔ Μαρία — από 2026-11-12 ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-13]])
 - [ ] Παραλαβή plexi stand + αυτοκολλήτων από Print Kong **στη GROW** (όχι πια στο Σταδίου 61) → μεταφορά στο κατάστημα — Βάσια — από 2026-11-11 ([[2026-10-16-stand-plexi-printkong-update-2026-11-12]])
 - [ ] Έγκριση μακετών NAK (σακουλάκια + φύλλο βεζετάλ) — GROW + πελάτης — από 2026-11-09 ([[2026-11-09-yiayia-meta-nak-timologio]])
@@ -118,6 +125,7 @@ updated: 2026-11-17
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- 2026-11-17 — Νέο μοντάζ Τέλος Πάγγων στη Μαρία · ανανεωμένα take away menu στον Τζεβελέκο · NAK: μακέτες μπωλ 750/500 ml, η Βασιλική ζητά PDF ([[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-18]], [[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-18]], [[2026-11-17-yiayia-ektypomena-mpol-nak]]).
 - 2026-11-16 — Τελικό βίντεο Τέλος Πάγγων· η Μαρία Δρούζα ζητά κοπές (μεγάλη εισαγωγή, ατάκες) ([[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-17]]). Asana: street activation — μια συμμετέχουσα ζήτησε να αφαιρεθεί· νέα έκδοση από Μαριάννα· Μαρίνα ξαναζητά τιμολόγηση review stand & stickers ([[2026-11-16-asana-yiayia-street-activation-timologisi]]).
 - 2026-11-13 — Pantone κλειδώνει: 2339 U/C + ασπρόμαυρη χαρτοπετσέτα (Μαρία 10:52)· παρατηρήσεις στη NAK για βεζετάλ/τσάντα (12:28)· αλλαγές τιμών/περιεχομένου take away menu από Τζεβελέκο (17:13) ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-16]], [[2026-11-13-yiayia-maketes-pros-ektyposi-nak]], [[2026-11-13-yiayia-take-away-menu-allages-timon]]).
 - 2026-11-12 — Νέος Pantone σε σακουλάκια σάντουιτς / λαδόκολλες· η Βασιλική ζητά έγκριση· η Μαρία προτείνει ασπρόμαυρη χαρτοπετσέτα ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-13]]).

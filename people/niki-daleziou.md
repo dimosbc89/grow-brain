@@ -3,7 +3,7 @@ type: person
 title: "Niki Daleziou (Νίκη Δαλέζιου)"
 aliases: [Niki Daleziou, Νίκη, ndaleziou@hotelbrain.com]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 # Niki Daleziou
 > Digital Marketing Manager στη HOTELBRAIN S.A. Είναι η καθημερινή επαφή της GROW για τα hotel websites και για το νέο corporate site της [[hotelbrain]].
@@ -13,7 +13,8 @@ updated: 2026-11-17
 - **Email:** ndaleziou@hotelbrain.com.
 - **Συνεργάζεται με:** [[panos-paleologos]] (εγκρίσεις), Roula Korbou, Dimitris Giannis ([[2026-10-02-hotelbrain-meeting-invite]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-17)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+- 2026-11-17: ολοκλήρωσε τις DNS εγγραφές hotelbraingroup.com, ζητά από τον Δήμο SSL + τις 3 αλλαγές Παλαιολόγου· meli meli GHH → MMW (Δήμος «Ready») ([[2026-11-17-hotelbraingroup-domain-ssl]], [[2026-11-17-hotelbrain-meli-meli-mrmrswhite]]).
 - 2026-11-16: μετά το Teams έστειλε οδηγίες design (παλ, 3 sections, χωρίς προσφορές, transparent logo)· για τον server «προχωράμε έως 2026-11-17» και ζητά επιβεβαίωση αλλαγών Παλαιολόγου + Cloudflare DNS ([[2026-11-16-hotelbrain-design-odigies-niki]], [[2026-11-03-hotelbrain-new-server-update-2026-11-17]]).
 - Ο Δήμος επιβεβαίωσε 2026-11-13 12:38 το Teams **2026-11-16 11:00**· η Νίκη ξαναρώτησε 2026-11-15 08:50 και έστειλε invite Teams (με [[panos-paleologos]]) ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-16]], [[2026-11-15-hotelbrain-teams-new-design]]).
 
@@ -35,6 +36,7 @@ updated: 2026-11-17
 - [ ] DNS records για το site → HotelBrain (διαχειριστής domains) — Δήμος — από 2026-10-27 08:18 ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]])
 
 ## Χρονολόγιο
+- 2026-11-17 — DNS hotelbraingroup.com έτοιμο, «δες το SSL»· meli meli → MMW ([[2026-11-17-hotelbraingroup-domain-ssl]], [[2026-11-17-hotelbrain-meli-meli-mrmrswhite]]).
 - 2026-11-16 — Οδηγίες design + New Server «έως αύριο» ([[2026-11-16-hotelbrain-design-odigies-niki]], [[2026-11-03-hotelbrain-new-server-update-2026-11-17]]).
 - 2026-11-15 — 08:50 ξαναρωτά για Δευτέρα 11:00· 08:53 invite Teams «new design hotelbrain.com» ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-16]], [[2026-11-15-hotelbrain-teams-new-design]]).
 - 2026-11-13 — Ο Δήμος επιβεβαιώνει το Teams 2026-11-16 11:00 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-16]]).

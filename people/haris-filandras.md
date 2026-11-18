@@ -3,7 +3,7 @@ type: person
 title: "Χάρης Φιλάνδρας"
 aliases: [Χάρης Φιλανδράς, Harris Filandras, harrisfilandras1@gmail.com]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-11-18
 ---
 # Χάρης Φιλάνδρας
 > Πελάτης website της GROW ([[filandras]])· ζητά αλλαγές στα σημεία λιανικής πώλησης και τις υπηρεσίες του site του.
@@ -22,6 +22,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-11-17 — Ζήτησε αλλαγή στην υπογραφή email (χωρίς «Ενοικίαση») ([[2026-11-17-filandras-ypografi-email]]).
 - 2026-10-10 — Υπενθύμιση για τις αλλαγές ([[2026-10-14-filandras-allages-site-f3df]]).
 - 2026-09-23 — Έστειλε τη λίστα αλλαγών σε ξεχωριστό email ([[2026-09-23-filandras-allages-site]]).
 - 2026-09-18 — Πρώτο αίτημα ([[2026-09-23-filandras-allages-site]]).

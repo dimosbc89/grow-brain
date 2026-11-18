@@ -3,7 +3,7 @@ type: client
 title: "HotelBrain"
 aliases: [HOTELBRAIN S.A., Hotelbrain, Hotel Brain, hotelbrain.com, hotelbraingroup.com]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 # HotelBrain
 > Η HOTELBRAIN S.A. είναι η πλευρά πελάτη για τα hotel websites που φτιάχνει και υποστηρίζει τεχνικά η GROW ([[mr-mrs-white]], [[anayia]], September City Living, GHH) και τώρα για το νέο corporate site της ίδιας της HotelBrain.
@@ -16,7 +16,12 @@ updated: 2026-11-17
 - **Ομάδα GROW:** ο Δήμος (τεχνικό και εμπορικό σκέλος) και η [[marina-papanastasiou]], που πήρε forward το invite της 2026-10-02 ([[2026-10-02-hotelbrain-meeting-invite]]).
 - **Vendor:** [[webhotelier]], η πηγή των δεδομένων των ξενοδοχείων και το booking engine ([[2026-09-14-hotelbrain-webhotelier-api]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-17)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+**Νέα 2026-11-17:**
+- **hotelbraingroup.com:** η [[niki-daleziou]] ξανάστειλε 12:59 τις 3 αλλαγές του [[panos-paleologos]] (all our hotels δεξιά · loyalty club σε όλες τις επιμέρους σελίδες · B2B button στο footer + icon πάνω δεξιά στην κεντρική) και 13:25 ενημέρωσε ότι **ολοκληρώθηκαν οι εγγραφές στο domain** — ζητά από τον Δήμο να δει το **SSL**· απάντηση Δήμου δεν φαίνεται ([[2026-11-17-hotelbraingroup-domain-ssl]]).
+- **meli meli:** η Νίκη ζήτησε να φύγει από το site των GHH (ghh.gr/hotels) και να μπει στα [[mr-mrs-white]] — ο Δήμος 17:53 **«Ready»** ✓ ([[2026-11-17-hotelbrain-meli-meli-mrmrswhite]]).
+
+*Νωρίτερα (στις 2026-11-17):*
 **Νέα 2026-11-16 (μετά το Teams):**
 - Η [[niki-daleziou]] έστειλε οδηγίες για τη νέα πρόταση design: **παλ παλέτα**, landing με 3 sections (**hotels per cluster / per destination / hotelbrain community**), χωρίς πεδία προσφορών, **λογότυπο transparent μέσα στο hero** — ζητά να δει την πρόταση και τις φωτογραφίες ([[2026-11-16-hotelbrain-design-odigies-niki]]).
 - **New Server:** «Θα προχωρήσουμε **έως αύριο (2026-11-17)**». Ζητά από τον Δήμο επιβεβαίωση των αλλαγών του [[panos-paleologos]] (all our hotels δεξιά στο μενού, loyalty club σε όλες τις σελίδες, b2b button) και **Cloudflare DNS** (σύσταση Δημήτρη)· μετά κάνουν τις εγγραφές στο domain για live ([[2026-11-03-hotelbrain-new-server-update-2026-11-17]]).
@@ -50,6 +55,10 @@ updated: 2026-11-17
 - **Επόμενη συνάντηση:** 2026-10-23, 13:00–14:00 (ήταν 15:00· ⚠️ συμπίπτει με [[dominos]]), Microsoft Teams, «Τεχνικές Προδιαγραφές Ιστοσελίδων». Συμμετέχουν η ομάδα HotelBrain και ο gspyridis@aviamos.com. Ο ρόλος της Aviamos είναι ασαφής ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-18**
+- [ ] **SSL hotelbraingroup.com** (οι DNS εγγραφές έγιναν) + υλοποίηση 3 αλλαγών Παλαιολόγου + απάντηση στη Νίκη — Δήμος — από 2026-11-17 ([[2026-11-17-hotelbraingroup-domain-ssl]])
+- [x] ✓ meli meli: αφαίρεση από GHH, ένταξη στα Mr & Mrs White — Δήμος «Ready» 2026-11-17 ([[2026-11-17-hotelbrain-meli-meli-mrmrswhite]])
+
 **Νέα στις 2026-11-17**
 - [ ] **Επιβεβαίωση 3 αλλαγών Παλαιολόγου** (all our hotels, loyalty club παντού, b2b button) + **Cloudflare DNS** → ενημέρωση Νίκης για DNS records — Δήμος — από 2026-11-16 (HotelBrain προχωρά «έως 2026-11-17») ([[2026-11-03-hotelbrain-new-server-update-2026-11-17]])
 - [ ] Νέα πρόταση design hotelbrain.com (παλ, 3 sections, χωρίς προσφορές, transparent logo στο hero) → Νίκη — Δήμος — χωρίς ημερομηνία ([[2026-11-16-hotelbrain-design-odigies-niki]])
@@ -92,6 +101,7 @@ updated: 2026-11-17
 - 2026-10-27: το go-live του hotelbraingroup.com γίνεται με αλλαγή μόνο των DNS records του site (όχι name servers), από τον διαχειριστή domains της HotelBrain ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]]).
 
 ## Χρονολόγιο
+- 2026-11-17 — Νίκη: 3 αλλαγές Παλαιολόγου γραπτώς + DNS εγγραφές hotelbraingroup.com ολοκληρώθηκαν, «δες το SSL» · meli meli GHH → MMW, Δήμος «Ready» ([[2026-11-17-hotelbraingroup-domain-ssl]], [[2026-11-17-hotelbrain-meli-meli-mrmrswhite]]).
 - 2026-11-16 — Teams new design 11:00 (έγινε — η Νίκη γράφει «όπως είπαμε στο κολ»)· οδηγίες design· New Server: προχωρούν έως 2026-11-17, θέλουν Cloudflare DNS ([[2026-11-16-hotelbrain-design-odigies-niki]], [[2026-11-03-hotelbrain-new-server-update-2026-11-17]]).
 - 2026-11-15 — 08:50 η Νίκη ξαναρωτά για Δευτέρα 11:00 και 08:53 στέλνει invite Teams (Νίκη, Panos, Δήμος) ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-16]], [[2026-11-15-hotelbrain-teams-new-design]]).
 - 2026-11-13 — 12:38 ο Δήμος: «επιβεβαιώνω» το Teams 2026-11-16 11:00 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-16]]).

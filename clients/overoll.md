@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -18,7 +18,10 @@ updated: 2026-11-17
 - **Επαφές:** [[vaso-theochari]] (Marketing, marketing@overoll.gr) ([[2026-10-14-overoll-websites-domains]])· Kikiras_john@yahoo.gr σε cc, ρόλος ασαφής ([[2026-10-14-overoll-websites-domains]], [[2026-07-23-overoll-akinito-xanthi]]).
 - **Ομάδα GROW:** ο Δήμος (sites, domains)· [[vassiliki-giannopoulou]] και [[marina-papanastasiou]] σε cc ([[2026-10-14-overoll-websites-domains]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-12)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+- **Χριστούγεννα (νέο, 2026-11-17 11:33):** η [[vaso-theochari]] ζητά teasers με υλικό **Panettone Chocolate** (το Christmas Croissant είναι νέο προϊόν)· δημοσιεύσεις **23–25/11** και κάτι Panettone **μέσα στο Σ/Κ 21–22/11**· **photoshooting με τον Κωνσταντίνο Παρασκευή 2026-11-27**. Ζητά: δημιουργικές προτάσεις + concept shooting (αυθεντικό, ανθρώπινη παρουσία), αν θα υπάρχουν μοντέλα (προφίλ + κόστος), και **πλάνο χριστουγεννιάτικης επικοινωνίας σε mail (όχι παρουσίαση)** από 23/11 ως τέλος Δεκεμβρίου. Απάντηση GROW δεν φαίνεται ([[2026-11-17-overoll-christmas-teasers-plan]]).
+
+*Από 2026-11-12:*
 - **Overoll Club DNS:** 2026-11-12 10:20 ο Δήμος έστειλε «kind reminder» για τις 5 εγγραφές DNS — καμία απάντηση ακόμα ([[2026-11-09-overoll-dns-loyalty-club-update-2026-11-13]]).
 - **Κριτικές 2–8/11:** η [[vasia-s]] έστειλε 2026-11-12 αρνητικές κριτικές + προτεινόμενες απαντήσεις· η Overoll **ενέκρινε** 13:19 («μπορούν να απαντηθούν») ([[2026-11-12-overoll-kritikes-2-8-11]]).
 - **Overoll US:** 2026-11-11 η Βάσω, για λογαριασμό της Miriam (TS Developments), ζητά να κατοχυρωθούν επιπλέον usernames (X/Pinterest/TikTok/Instagram: @overollus, @overollusa, @overoll, @overoll.usa) και domains **overollusa.com, overollus.com, overollcroissanterie.com** (redirect στο US site όσο εκκρεμεί το overoll.com)· θέλει έλεγχο διαθεσιμότητας, διαδικασία και **δικές μας προτάσεις** — αναπάντητο ([[2026-11-11-overoll-us-social-domains]]).
@@ -46,6 +49,9 @@ updated: 2026-11-17
 - Ο Δήμος ζήτησε διαθεσιμότητες για call στις 2026-10-14· ημερομηνία call δεν υπάρχει στο ημερολόγιο ([[2026-10-14-overoll-websites-domains]], [[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Ημερομηνία έναρξης teasers + υλικό Panettone για Σ/Κ 21–22/11 — Βασιλική / Ιωάννα — από 2026-11-17 ([[2026-11-17-overoll-christmas-teasers-plan]])
+- [ ] Δημιουργικές προτάσεις + concept shooting 27/11, απόφαση για μοντέλα (προφίλ + κόστος) — Βασιλική / Ιωάννα — πριν 2026-11-27 ([[2026-11-17-overoll-christmas-teasers-plan]])
+- [ ] Πλάνο χριστουγεννιάτικης επικοινωνίας σε mail (ροή posts 23/11 → Δεκέμβριος) — GROW — πριν 2026-11-23 ([[2026-11-17-overoll-christmas-teasers-plan]])
 - [ ] Απόφαση Overoll για 2 αρνητικές κριτικές 8–15/11 (η Πραξιτέλους 15/11 εγκρίθηκε) — Overoll / [[vasia-s]] — από 2026-11-16 ([[2026-11-16-overoll-kritikes-8-15-11]])
 - [ ] Έλεγχος διαθεσιμότητας usernames/domains ΗΠΑ (overollusa.com, overollus.com, overollcroissanterie.com κ.ά.), διαδικασία κατοχύρωσης + προτάσεις GROW — Δήμος/Βασιλική — ζητήθηκε 2026-11-11 ([[2026-11-11-overoll-us-social-domains]])
 - [ ] Πληρωμή τιμολογίου Κατερίνας Πανδή (BackToSchool) — Overoll — από 2026-11-11 ([[2026-11-11-overoll-timologio-pandi-backtoschool]])
@@ -94,6 +100,7 @@ updated: 2026-11-17
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-11-17 — Βάσω: Christmas teasers (Panettone), posts 23–25/11, shooting 27/11, ζητά concept/μοντέλα/πλάνο σε mail ([[2026-11-17-overoll-christmas-teasers-plan]]).
 - 2026-11-16 — Vasia: report αρνητικών κριτικών 8–15/11 + προτεινόμενες απαντήσεις· Overoll: να απαντηθεί μόνο η Πραξιτέλους 15/11, τις άλλες δύο τις βλέπουν εσωτερικά ([[2026-11-16-overoll-kritikes-8-15-11]]).
 - 2026-11-12 — Ο Δήμος: «kind reminder» για τις εγγραφές DNS του Overoll Club ([[2026-11-09-overoll-dns-loyalty-club-update-2026-11-13]]). Η Vasia S στέλνει κριτικές 2–8/11 + προτεινόμενες απαντήσεις· η Overoll εγκρίνει ([[2026-11-12-overoll-kritikes-2-8-11]]).
 - 2026-11-11 — Η Βάσω (εκ μέρους Miriam/TS Developments) ζητά κατοχύρωση επιπλέον US usernames και domains (.com) + προτάσεις μας ([[2026-11-11-overoll-us-social-domains]]). Η Βασιλική στέλνει το τιμολόγιο της Κατερίνας Πανδή για BackToSchool ([[2026-11-11-overoll-timologio-pandi-backtoschool]]).
@@ -137,6 +144,7 @@ updated: 2026-11-17
 - Ακίνητο Ξάνθης (όχι δουλειά της GROW): μίσθωμα 1.000€/μήνα απευθείας από ιδιοκτήτη, με ευελιξία rent-free period για την κατασκευή ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Σημειώσεις
+- Για πλάνα επικοινωνίας προτιμά **mail, όχι παρουσίαση**· θέλει αισθητική αυθεντική/ζωντανή, όχι στημένη ([[2026-11-17-overoll-christmas-teasers-plan]]).
 - Στις παρουσιάσεις ο Δήμος γράφει μακροσκελή, δομημένα κείμενα με αρίθμηση· στα follow-up σύντομα («Καλημέρα οπότε θέλετε πείτε μου διαθεσιμότητες.») ([[2026-10-14-overoll-websites-domains]]).
 - Ακίνητο Ξάνθης: ισόγειο 90, πατάρι 30, υπόγειο 30, πρασιά 30 τ.μ., εξαερισμός, χωρίς κοινόχρηστα ([[2026-07-23-overoll-akinito-xanthi]]).
 - 💭 Υπόθεση: ο Γιάννης Κίκιρας (Kikiras_john@yahoo.gr) είναι πρόσωπο της Overoll που θα δώσει συνέντευξη σε podcast — βλ. «Podcast_Giannis_Kikiras_Interview.docx» ([[2026-10-26-kikiras-questions]]).

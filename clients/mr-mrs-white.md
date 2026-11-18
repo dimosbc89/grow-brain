@@ -3,7 +3,7 @@ type: client
 title: "Mr & Mrs White Hotels"
 aliases: [Mr & Mrs White, Mr and Mrs White, mrandmrswhitehotels.com]
 status: ενεργός
-updated: 2026-11-03
+updated: 2026-11-18
 ---
 # Mr & Mrs White Hotels
 > Ξενοδοχειακό brand με B2C site (mrandmrswhitehotels.com) στο χαρτοφυλάκιο της [[hotelbrain]]. Η GROW έχει το website.
@@ -17,11 +17,16 @@ updated: 2026-11-03
 - **Ομάδα GROW:** ο Δήμος και η [[vassia-kataki]] (vassia@), που πήρε το brand manual ([[2026-07-24-mr-mrs-white-brand-manual]]).
 - **Vendor:** [[webhotelier]].
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+- **meli meli:** στις 2026-11-17 η [[niki-daleziou]] ζήτησε να μεταφερθεί από το site των GHH στο Mr & Mrs White· ο Δήμος «Ready» 17:53 ([[2026-11-17-hotelbrain-meli-meli-mrmrswhite]]).
+- **Σχόλια Βάσιας στο site (MMW), 2026-11-17 16:31:** header — οι προορισμοί απλωμένοι, βγαίνουν εκτός γραμμής · meli meli santorini — εικόνα χαμηλής ανάλυσης · meli meli santorini — σπασμένο gallery ([[2026-11-17-mmw-site-allages-vassia]]).
+
+*Από 2026-10-20:*
 - Το site είναι στο σχέδιο read-only sync δεδομένων από τη WebHotelier. Αναμένονται το mapping από τον Δήμο και η έκδοση API account ([[2026-09-14-hotelbrain-webhotelier-api]]).
 - Η αρχική ιδέα ήταν να εμφανίζεται «from price» στα δωμάτια. Χρειαζόταν τα Availability APIs (BAR), που η WebHotelier αρνήθηκε να ανοίξει τον Μάρτιο 2026. Από τις 16/3 δεν υπάρχουν νέα ([[2026-09-14-hotelbrain-webhotelier-api]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Διορθώσεις MMW: header προορισμών, εικόνα + gallery meli meli santorini — Δήμος (σχόλια Βάσιας) — από 2026-11-17 ([[2026-11-17-mmw-site-allages-vassia]])
 - [ ] Ένταξη του mrandmrswhitehotels.com στο API sync (mapping, credentials) — Δήμος / [[webhotelier]] — βλ. [[hotelbrain]] ([[2026-09-14-hotelbrain-webhotelier-api]])
 - [ ] «From price» στα δωμάτια — εκκρεμεί η πρόσβαση στα Availability APIs της WebHotelier, που αρνήθηκε τον Μάρτιο 2026 ([[2026-09-14-hotelbrain-webhotelier-api]])
 - [ ] Αξιοποίηση του Brand Manual 2026 — [[vassia-kataki]] — ο σκοπός είναι ασαφής ([[2026-07-24-mr-mrs-white-brand-manual]])
@@ -30,6 +35,7 @@ updated: 2026-11-03
 - Read-only sync των static data, όχι scraping. Βλ. [[2026-09-14-hotelbrain-webhotelier-api-sync]] ([[2026-09-14-hotelbrain-webhotelier-api]]).
 
 ## Χρονολόγιο
+- 2026-11-17 — meli meli από GHH → MMW (Δήμος «Ready»)· η Βάσια στέλνει 3 σχόλια για header/meli meli santorini ([[2026-11-17-hotelbrain-meli-meli-mrmrswhite]], [[2026-11-17-mmw-site-allages-vassia]]).
 - 2026-11-02 — Αφαιρέθηκαν τα Livin Mykonos και My Mykonos (λήξη μίσθωσης· αίτημα 2026-10-19) ([[2026-11-02-hotelbrain-afairesi-xenodoxeion]]).
 - 2026-09-14 — Το site μπαίνει στο συνολικό αίτημα read-only API για 4 sites ([[2026-09-14-hotelbrain-webhotelier-api]]).
 - 2026-07-24 — Ο Yiannis Korbos στέλνει WeTransfer και το PDF «Mr_Mrs_White_Brand_Manual_2026». Ο Δήμος το προωθεί στη Βάσια ([[2026-07-24-mr-mrs-white-brand-manual]]).

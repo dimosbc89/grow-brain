@@ -3,7 +3,7 @@ type: client
 title: "Divino"
 aliases: [Divino]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 # Divino
 > Πελάτης web της GROW· ο freelancer [[george-andritsos]] κάνει τις διορθώσεις στο site.
@@ -12,7 +12,8 @@ updated: 2026-11-17
 - Υπηρεσίες: εκθεσιακό περίπτερο HORECA 2027 (προσφορά 2026-11-11 → [[ekthesiaka-periptera]], [[2026-11-11-divino-horeca-2027-prosfora-periptero]])· website (διορθώσεις, νέος διαδραστικός χάρτης αντιπροσώπων) ([[2026-10-13-divino-feedback-site]]).
 - Ομάδα GROW: [[marina-papanastasiou]] · developer [[george-andritsos]].
 
-## Τρέχουσα κατάσταση (στις 2026-11-17)
+## Τρέχουσα κατάσταση (στις 2026-11-18)
+- 2026-11-17: **favicon ✓** (η Βάσια το ομαδοποίησε στο Figma, ο Γιώργος «Έγινε» 16:41)· 18:56 ο [[george-andritsos]] ζήτησε μία μέρα για σωστά URLs πριν το transfer στο domain· **21:27 έτοιμη η ελληνική εκδοχή** με σωστά slugs/links — συνεχίζει τα αγγλικά και ρωτά **πότε πάει live** ([[2026-10-13-divino-feedback-site-update-2026-11-18]]).
 - 2026-11-16: το **βίντεο αρχικής κλείδωσε** («Είμαστε οκ τώρα με το βίντεο»)· η Βασιλική έστειλε τα **αγγλικά κείμενα** και ο [[george-andritsos]] ξεκίνησε την αγγλική εκδοχή· **favicon** θα φτιάξει η GROW. Η Βασιλική ανέθεσε στον Δήμο στο Asana **«check divino» (due 2026-11-18)**: έλεγχος του divino.growagency.online και, αν δεν χρειάζεται κάτι, live ([[2026-10-13-divino-feedback-site-update-2026-11-17]]).
 - **Site (ελληνική εκδοχή):** στις 2026-11-13 13:06 ο [[george-andritsos]] έκανε τις 2 τελευταίες αλλαγές (Άρτα εκτός χάρτη, βίντεο αρχικής σε πλαίσιο) — δεν είναι σίγουρος για το πλαίσιο· περιμένει feedback και τα **αγγλικά κείμενα** από τη Βασιλική ([[2026-10-13-divino-feedback-site-update-2026-11-16]]).
 - **Πρόταση συνεργασίας Divino & Caffè del Doge:** στις 2026-11-13 15:54 η [[vassiliki-giannopoulou]] έστειλε στον [[dimitris-letkas]] (cc Τσέλιος, Παφίλης, Κουκουβίνος, Δήμος, Μαρίνα) την πρόταση της GROW για τα δύο brands + **μετάφραση του ιταλικού site στα ελληνικά** (ποσά μόνο στο PDF). Θα τους ξαναπάρει **Δευτέρα 2026-11-16** για call ([[2026-11-13-divino-caffe-del-doge-protasi-synergasias]]).
@@ -31,8 +32,9 @@ updated: 2026-11-17
 - Οι διορθώσεις ολοκληρώθηκαν· εκκρεμούν εικόνες από τη Divino. Συμφωνήθηκε νέος διαδραστικός χάρτης αντιπροσώπων, στα πρότυπα του globalfoods.gr ([[2026-10-13-divino-feedback-site]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Απόφαση/ενημέρωση Γιώργου **πότε πάει live** (ελληνική εκδοχή έτοιμη, transfer στο domain) — Δήμος / Βασιλική — από 2026-11-17 ([[2026-10-13-divino-feedback-site-update-2026-11-18]])
 - [ ] **Check divino.growagency.online και ΟΚ για live** — Δήμος — **έως 2026-11-18** ([[2026-10-13-divino-feedback-site-update-2026-11-17]])
-- [ ] Favicon για το site (τετράγωνο) — GROW γραφιστικό → Γιώργος — από 2026-11-16 ([[2026-10-13-divino-feedback-site-update-2026-11-17]])
+- [x] ✓ (2026-11-17) Favicon για το site (τετράγωνο) — GROW γραφιστικό → Γιώργος — από 2026-11-16 ([[2026-10-13-divino-feedback-site-update-2026-11-17]])
 - [ ] Follow-up στον Λετκα για call πάνω στην πρόταση Divino & Caffè del Doge — Βασιλική — **2026-11-16** ([[2026-11-13-divino-caffe-del-doge-protasi-synergasias]])
 - [ ] Απάντηση στην προσφορά περιπτέρου HORECA 2027 — Divino (Λετκας) — **έως 2026-11-19** ([[2026-11-11-divino-horeca-2027-prosfora-periptero]])
 - [ ] Call για τις υπόλοιπες προτάσεις συνεργασίας — Λετκας προτείνει ώρα → Βασιλική — από 2026-11-11 ([[2026-11-11-divino-horeca-2027-prosfora-periptero]])
@@ -49,6 +51,7 @@ updated: 2026-11-17
 - [x] Χάρτης αντιπροσώπων — George Andritsos — ✓ έτοιμος για έλεγχο 2026-11-02 ([[2026-10-13-divino-feedback-site-update-2026-10-28]])
 
 ## Χρονολόγιο
+- 2026-11-17 — Favicon ✓ · ελληνική εκδοχή έτοιμη με σωστά slugs (21:27) · ο Γιώργος ρωτά πότε live ([[2026-10-13-divino-feedback-site-update-2026-11-18]]).
 - 2026-11-16 — Βίντεο αρχικής ✓, αγγλικά κείμενα στον Γιώργο, favicon ανοιχτό· Asana «check divino» στον Δήμο (due 18/11) ([[2026-10-13-divino-feedback-site-update-2026-11-17]]).
 - 2026-11-13 — 13:06 ο Γιώργος Ανδρίτσος: έγιναν οι 2 αλλαγές (αβέβαιος για το πλαίσιο)· περιμένει feedback και στοιχεία για τα αγγλικά ([[2026-10-13-divino-feedback-site-update-2026-11-16]]).
 - 2026-11-13 — Στάλθηκε η πρόταση συνεργασίας Divino & Caffè del Doge (+ μετάφραση ιταλικού site) στον Λετκα· follow-up 2026-11-16 ([[2026-11-13-divino-caffe-del-doge-protasi-synergasias]]).
