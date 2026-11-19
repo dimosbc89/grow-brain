@@ -3,7 +3,7 @@ type: team
 title: "Δέσποινα Βελισσαρίου"
 aliases: [Despina Velissariou, Δέσποινα, Despina, despina@growagency.online]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-19
 ---
 # Δέσποινα Βελισσαρίου
 > Senior Account Manager της GROW. Τρέχει events, χορηγίες ([[hellenic-heritage-evolution]], [[rejuv-collective-solace]]), influencers και το e-shop της [[tandem-concept]]. Είναι και στα meetings των περιπτέρων.
@@ -33,7 +33,11 @@ updated: 2026-11-16
 - Άλλα calls στο ημερολόγιο: «CKBG x Grow Projects» 2026-07-27, «John Miaris x Grow Agency» 2026-08-05, «Grow Agency x Erasmus» 2026-09-03 (με τη [[laurine-erasmus]]), «Δέσποινα κέντρο» 2026-09-14, «Έκθεση αυτοκινήτου- Δέσποινα» 2026-10-09 ([[2026-07-20_2026-11-03]]).
 - **Admin:** της στέλνονται για εκτύπωση τιμολόγια [[metalease]] και αποδείξεις Anthropic/DataForSEO ([[2026-07-22-metalease-timologio-c3c6]], [[2026-10-16-metalease-timologio-dc62]], [[2026-10-16-anthropic-receipt-extra-usage]], [[2026-07-24-dataforseo-receipt]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-12)
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- 2026-11-18: Circle of Dining dinner — έστειλε μετά από τηλέφωνο προσκλήσεις σε **Variety Cruises (κ. Δράκος, 16:53)** και **Istion (16:43)**· το κείμενο υπογράφει η Ιωάννα, στάλθηκε από το δικό της email ([[2026-11-18-circle-of-dining-prosklisi-variety-cruises]], [[2026-11-18-circle-of-dining-prosklisi-istion]], [[2026-11-18-circle-of-dining-contact-report-proteraiotites]]).
+- 2026-11-18 (Global Foods): έστειλε το 4σέλιδο Ατζέντας 2027 (Αθήνα, 2 εκδοχές) → απορρίφθηκε από την Ελπίδα, τηλέφωνο το πρωί 2026-11-19· έστειλε plan Νοε–Δεκ Unique για έγκριση ([[2026-11-18-globalfoods-4selido-atzenta-2027]], [[2026-11-18-unique-posting-plan-noe-dek]]).
+
+*Νωρίτερα (στις 2026-11-12):*
 - **2026-11-13:** δεσμεύτηκε (με επιφύλαξη) για τη **μετάφραση FISAN έως 2026-11-16 βράδυ** ([[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-16]])· ξεκίνησε επαφές **Heritage Escape 2027** (16–18/4/2027) με Avance και Access Fashion ([[2026-11-13-heritage-escape-2027-avance]], [[2026-11-13-heritage-escape-2027-access-fashion]]).
 - **Στις 2026-11-12:** XENIA/[[greenmart-antemisaris]] — έκλεισε την ανάρτηση στην Expowork (δελτία υπογραφή/εξόφληση από πελάτη, καταχωρήθηκε)· ζήτησε από την Expopiece ηλεκτρολογικό σχέδιο (5 × 32A / 40A) και ρωτά για ηλεκτρολόγο· εκκρεμεί η παραγγελία ρεύματος στο sales@expowork.gr ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]], [[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-13]], [[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]]).
 
@@ -78,6 +82,8 @@ updated: 2026-11-16
 - 2026-07-24: οδηγία του Δήμου να μπει απονομή βραβείου στο gala στην πρόταση προς Viber ([[2026-07-24-viber-heritage-escape-ideas]]).
 
 ## Χρονολόγιο
+- 2026-11-18 — Προσκλήσεις Circle of Dining dinner σε Variety Cruises και Istion ([[2026-11-18-circle-of-dining-prosklisi-variety-cruises]], [[2026-11-18-circle-of-dining-prosklisi-istion]]).
+- 2026-11-18 — Global Foods: 4σέλιδο Ατζέντας 2027 (απορρίφθηκε), plan Unique Νοε–Δεκ ([[2026-11-18-globalfoods-4selido-atzenta-2027]], [[2026-11-18-unique-posting-plan-noe-dek]]).
 - 2026-11-13 — FISAN: «έως Δευτέρα 16/11, με κάθε επιφύλαξη»· emails HE 2027 σε Avance και Access Fashion ([[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-16]], [[2026-11-13-heritage-escape-2027-avance]], [[2026-11-13-heritage-escape-2027-access-fashion]]).
 - 2026-11-13 — Η ITQS απάντησε στο κυνήγι της με την πρόταση για δίκτυο/IT ([[2026-11-12-itqs-prosfora-diktyo-grafeiou-update-2026-11-16]]).
 - 2026-11-12 — Email στην [[itqs]]: αναμένουμε την προσφορά μετά το ραντεβού με τον Δήμο· η δυσλειτουργία του δικτύου επηρεάζει καθημερινά τη δουλειά ([[2026-11-12-itqs-prosfora-diktyo-grafeiou]]).

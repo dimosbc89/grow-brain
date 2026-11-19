@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -19,7 +19,10 @@ updated: 2026-11-17
 - **Τρίτοι:** [[biz-courier]] (αποθήκη/3PL, BOX NOW)· [[epsilon-net]] (ERP, τιμολόγηση, myDATA)· Viva και Klarna ως τρόποι πληρωμής στο footer ([[2026-10-08-tandem-review-eshop-developer]]).
 - **Ομάδα GROW:** ο Δήμος (integrations, Epsilon, προϊόντα, κύρια επικοινωνία)· [[despina-velissariou]] και [[vassia-kataki]] (review design/περιεχομένου με τον developer) ([[2026-10-08-tandem-review-eshop-developer]])· η [[despina-velissariou]] έχει και τον οδηγό της συνέντευξης ([[2026-10-19-tandem-interview-questions]])· [[vassiliki-giannopoulou]] σε cc ([[2026-10-08-tandem-review-eshop-developer]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-17)
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Packing list Christian Villa (2026-11-18):** η BIZ ξαναρώτησε 11:54 (το έγγραφο «βρίσκεται στο C:\BIZ\Labels» του EasyBiz)· ο Δήμος απάντησε 23:53 ότι το booking έγινε **2026-10-21 μέσω BIZ LiNK** (όχι EasyBiz), το PDF δεν αποθηκεύτηκε· ζητά από τη BIZ να **ξαναβγάλει το packing list από το υπάρχον booking** — όχι νέο booking (κίνδυνος διπλού inbound) ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]).
+
+*Νωρίτερα (στις 2026-11-17):*
 - 2026-11-16: η [[caroline-hafouri]] προώθησε αίτημα της BIZ (2026-11-13): η αποθήκη παρέλαβε **3 κιβώτια Christian Villa (2026-11-11) χωρίς BIZ packing list**· ζητά από τον Δήμο να απαντήσει ([[2026-11-16-tandem-biz-packing-list]]).
 - **BIZ LiNK auto-sync:** η BIZ (Markos Lesko) ζήτησε 2026-11-05 και ξανά 2026-11-12 (follow-up «δεν έχουμε λάβει απάντηση») να επιβεβαιώσει ο Δήμος ότι το WooCommerce status για fulfillment είναι **Processing** (τρέχουσα ρύθμιση Ready to Ship) και να φτιάξει **νέα test παραγγελία** σε αυτό το status — αναπάντητο ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]]).
 
@@ -45,7 +48,8 @@ updated: 2026-11-17
 - Στο ημερολόγιο δεν υπάρχει προγραμματισμένη συνάντηση Tandem μετά τις 2026-10-13 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] **Packing list για τα 3 κιβώτια Christian Villa** → BIZ (inbound) — Δήμος — από 2026-11-16 (αίτημα BIZ 2026-11-13) ([[2026-11-16-tandem-biz-packing-list]])
+- [ ] Επανέκδοση/αποστολή BIZ packing list από το booking της 2026-10-21 (3 κιβώτια Christian Villa FW 2026) — BIZ — από 2026-11-18 ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]])
+- [x] ✓ ο Δήμος απάντησε 2026-11-18 23:53 ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]) — **Packing list για τα 3 κιβώτια Christian Villa** → BIZ (inbound) — Δήμος — από 2026-11-16 (αίτημα BIZ 2026-11-13) ([[2026-11-16-tandem-biz-packing-list]])
 - [ ] Απάντηση στη BIZ: επιβεβαίωση status «Processing» για fulfillment + νέα test παραγγελία για έλεγχο automatic order sync — Δήμος — από 2026-11-05, follow-up BIZ 2026-11-12 ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]])
 - [ ] Επιστροφή test αποστολής SWS49373664 — BIZ — η Caroline ενέκρινε 2026-11-02 αλλά το email πήγε στον Δήμο· να επιβεβαιωθεί ότι το έλαβε η BIZ — Δήμος/Caroline ([[2026-11-02-tandem-bizcourier-cancel-test-order]])
 - [ ] Παράδοση/παραλαβή price tags & αυτοκόλλητων Print Kong + εξόφληση 385 € μετρητά — [[despina-velissariou]] — από 2026-11-02 ([[2026-10-20-tandem-price-tags-print-kong-update-2026-11-03]])
@@ -122,6 +126,7 @@ updated: 2026-11-17
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- 2026-11-18 — BIZ follow-up για packing list· ο Δήμος εξηγεί ότι το booking έγινε μέσω BIZ LiNK 21/10 και ζητά επανέκδοση ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]).
 - 2026-11-16 — BIZ: λείπει packing list για 3 κιβώτια Christian Villa· Caroline → Δήμος ([[2026-11-16-tandem-biz-packing-list]]).
 - 2026-11-12 — Η Δέσποινα έβαλε στο GROW Agency Calendar «Tandem εκεί» **Δευτέρα 2026-11-16 15:00–16:00** ([[2026-11-13_2026-11-20]]).
 - 2026-11-12 — BIZ follow-up: περιμένει επιβεβαίωση WooCommerce status + νέα test παραγγελία (αίτημα από 2026-11-05) ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]]).

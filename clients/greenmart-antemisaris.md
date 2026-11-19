@@ -3,7 +3,7 @@ type: client
 title: "Greenmart / Antemisaris"
 aliases: [Antemisaris, Αντεμισάρης, Greenmart, greenmart.gr, antemisaris.gr]
 status: ενεργός
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 # Greenmart / Antemisaris
 > Η εταιρεία Antemisaris με το e-shop Greenmart (κήπος/φυτά/εργαλεία, π.χ. βολβοί, Stihl)· η GROW κάνει social posts, γυρίσματα, υποστήριξη σε εκθέσεις (XENIA 2026, Olympic Yacht Show) και τοποθέτηση προϊόντων στο Κορωπί.
@@ -14,7 +14,13 @@ updated: 2026-11-18
 - **Ομάδα GROW:** [[ioanna-chalkiadaki]] (day-to-day)· [[vassiliki-giannopoulou]] (cc)· [[despina-velissariou]] (XENIA forward)· ο Δήμος ([[2026-09-18-greenmart-posts-volvoi-stihl]], [[2026-07-21-antemisaris-expowork-xenia-2026]]).
 - **Τρίτοι:** [[expopiece]] (κατασκευή XENIA)· [[neon-arrow]] (plexi + αυτοκόλλητα τοίχου XENIA)· Audio-tech (LED wall XENIA, [[2026-10-16-audiotech-led-xenia]])· [[expowork]] (αρχική πρόταση περιπτέρου XENIA)· tsougrana.gr (συνάντηση συνεργασίας 2026-10-02)· Kathimerini (συνάντηση 2026-09-23) ([[2026-07-20_2026-11-03]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-18)
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **App πωλητών ✓ οριστικοποιήθηκε:** ο Ζάχος 2026-11-18 09:29 ζήτησε fine tuning (βγαίνουν Προτεραιότητα & Επόμενες ενέργειες· μπαίνουν Γεωγραφική περιοχή, Πωλητής με 11 ονόματα, «Επαγγελματικός Χώρος» και «Άλλο»)· ο Δήμος 09:55 «έτοιμο» ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]]).
+- **Στήσιμο περιπτέρου 2026-11-19:** ο Ζάχος ρώτησε αν μπορούν να έρθουν 14:00· η Ιωάννα (και στον Γιάννη Μπουρνά, Viber): **μετά τις 15:00**, γιατί πριν στήνεται το video wall ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]]).
+- **Post συμμετοχής XENIA ✓ δημοσιεύτηκε** 2026-11-18 12:23 (FB/LinkedIn/IG) — «ίδιο με πέρυσι με τα φετινά στοιχεία»· **προσκλήσεις συνεργατών ✓ στάλθηκαν** μέσω της πλατφόρμας XENIA ([[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]]).
+- **Video wall video:** η Ιωάννα 2026-11-18 23:22 έδωσε αναλυτικά σχόλια στο Asana (εγκαταστάσεις όχι «φυτώριο», λιγότερο ριζωτήριο, περισσότερος χρόνος/κίνηση στα έργα, selling points 500+ στρέμματα / 5 σημεία / 5000+ έργα / 5 χώρες) — διορθώσεις πριν την XENIA ([[2026-11-18-asana-video-wall-sxolia]]).
+
+*Νωρίτερα (στις 2026-11-18):*
 - **Αυτοκόλλητα XENIA ✓ ανατέθηκαν:** η [[neon-arrow]] έδωσε 2026-11-17 18:26 **180 €** (6 κοπτικά λευκά γράμματα σε μελαμίνη) + **75 €** (15 ψηφιακά 10 × 18, ματ) **+ ΦΠΑ**, με τοποθέτηση **Πέμπτη 2026-11-19**· η Βάσια «προχωράμε» 18:43 με αρχεία. Θέλουν την Πέμπτη πρωί όνομα + κινητό ατόμου στο περίπτερο. Το παράλληλο αίτημα στην Print Kong περιορίστηκε σε **μόνο φυλλάδια** ([[2026-11-17-neonarrow-prosfora-koptika-lefka]], [[2026-11-17-printkong-aftokollita-xenia]]).
 - **Tablets ✓ κλειδωμένα:** DK Rental δέσμευσε τον εξοπλισμό, η Ιωάννα δήλωσε ότι η **κατάθεση έγινε** και ότι **παραλαμβάνει ο Δήμος** — **2026-11-20 πρωί, Διονύσου 34 Χαλάνδρι, με ταυτότητα**· επιστροφή 2026-11-24 ([[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-18]]).
 - **App πωλητών:** η Ιωάννα έστειλε στον Ζάχο τα πεδία (στοιχεία με σάρωση κάρτας, κατηγορία καταλύματος, ιδιότητα, Hot/Warm/Cold, επόμενη ενέργεια, notes) + live link (Cloudflare Workers) — αναμονή σχολίων ([[2026-11-17-antemisaris-app-politon-stoixeia]]).
@@ -73,8 +79,10 @@ updated: 2026-11-18
 - [x] ✓ 2026-11-17 Προσφορά για 15 αυτοκόλλητα 10 × 18 + κοπτικά — Neon Arrow 180 € + 75 € + ΦΠΑ, «προχωράμε» Βάσια ([[2026-11-17-neonarrow-prosfora-koptika-lefka]])
 - [ ] Τοποθέτηση 6 κοπτικών + 15 αυτοκόλλητων στα βάθρα — Neon Arrow — **2026-11-19**· όνομα + κινητό υπεύθυνου στο περίπτερο το πρωί — Βάσια/Ιωάννα ([[2026-11-17-neonarrow-prosfora-koptika-lefka]])
 - [ ] **Παραλαβή tablets DK Rental (Χαλάνδρι, με ταυτότητα)** — **Δήμος** — **2026-11-20 πρωί**· επιστροφή 2026-11-24 ([[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-18]])
-- [ ] Feedback στις 4 νέες προτάσεις post συμμετοχής XENIA + ΟΚ ταμπελάκια γλαστρών + stand καταλόγων — Ζάχος — από 2026-11-17 ([[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-18]])
-- [ ] Σχόλια στα πεδία του app πωλητών — Ζάχος — από 2026-11-17 17:43 ([[2026-11-17-antemisaris-app-politon-stoixeia]])
+- [ ] (μερικώς ✓ 2026-11-18: post «όπως πέρυσι» → δημοσιεύτηκε 12:23, [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]]) ΟΚ ταμπελάκια γλαστρών + stand καταλόγων — Ζάχος — από 2026-11-17 ([[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-18]])
+- [x] ✓ 2026-11-18 09:29 σχόλια Ζάχου → Δήμος «έτοιμο» 09:55 — Σχόλια στα πεδία του app πωλητών — Ζάχος — από 2026-11-17 17:43 ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]])
+- [ ] Διορθώσεις video wall video (κείμενα τοποθεσιών, ρυθμός ριζωτηρίου/έργων, transitions, selling points) + απόφαση για δοκιμές κίνησης στις φωτό έργων — Vassia Kataki / Marianna Vourna (σχόλια Ιωάννας) — πριν την XENIA 2026-11-21 ([[2026-11-18-asana-video-wall-sxolia]])
+- [ ] Άφιξη ομάδας πελάτη στο περίπτερο **μετά τις 15:00** (μετά το στήσιμο video wall) — Ζάχος/Μπουρνάς — **2026-11-19** ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]])
 - [ ] Τιμολόγιο Homestores (σκαμπό) → εξόφληση — Homestores/Ιωάννα ([[2026-11-16-homestores-andreadis-skampo-update-2026-11-18]])
 - [ ] Κατέβασμα WeTransfer «Photos» του Lefteris πριν λήξει (2026-11-18) — Ιωάννα ([[2026-11-17-antemisaris-wetransfer-photos]])
 - [ ] Inputs πελάτη για εκτύπωση (σειρές γλαστρών, κείμενα σταδίων, λίστα συνεργατών, κάρτες QR, ποσότητες merch) — Ζάχος — **2026-11-16 πρωί** ([[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-16]])
@@ -160,6 +168,7 @@ updated: 2026-11-18
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-11-18 — XENIA: app πωλητών οριστικό (σχόλια Ζάχου 09:29 → Δήμος «έτοιμο» 09:55)· άφιξη πελάτη 19/11 μετά τις 15:00 (Ιωάννα)· post συμμετοχής δημοσιεύτηκε 12:23· προσκλήσεις μέσω πλατφόρμας XENIA· σχόλια Ιωάννας στο video wall video (Asana 23:22) ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]], [[2026-11-18-asana-video-wall-sxolia]]).
 - 2026-11-17 — XENIA: Neon Arrow 180 € + 75 € + ΦΠΑ για κοπτικά/αυτοκόλλητα → «προχωράμε» (Print Kong μόνο φυλλάδια)· DK Rental δέσμευση + κατάθεση, παραλαβή από Δήμο 20/11· app πωλητών (πεδία + live link)· video «5 Things» εγκρίθηκε· post XENIA 3+4 προτάσεις· λίστα email προσκλήσεων· τέλος διαφήμισης 1% Forum ([[2026-11-17-neonarrow-prosfora-koptika-lefka]], [[2026-11-17-printkong-aftokollita-xenia]], [[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-18]], [[2026-11-17-antemisaris-app-politon-stoixeia]], [[2026-11-16-antemisaris-video-5-things-egkrisi-update-2026-11-18]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-18]], [[2026-11-17-antemisaris-lista-email-proskliseis]], [[2026-11-17-forum-telos-diafimisis-xenia]]).
 - 2026-11-16 — XENIA: «URGENT» Ζάχου για ρεύμα → υπογραφή φόρμας, παραγγελία στην Expowork (893,84 €), εξόφληση υπολοίπου 318,40 €· δήλωση ηλεκτρολόγου SG LIGHT· «Pots Xenia Final.xlsx»· DK Rental επιβεβαιώθηκε (325 € + ΦΠΑ με router 5G)· νέο αίτημα προσφοράς αυτοκόλλητων στη Neon Arrow· Asana: «leads ad» + «landing page πωλητών» στον Δήμο ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]], [[2026-11-16-antemisaris-sfragida-ypografi-pots]], [[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-17]], [[2026-11-13-neonarrow-koptika-xenia-update-2026-11-17]], [[2026-11-16-asana-xenia-video-wall-leads-landing]]).
 - 2026-11-14 — Ο Thodoris στέλνει φωτογραφίες για XENIA («ΠΑΡΑΓΩΓΗ-ΕΓΚΑΤΑΣΤΑΣΕΙΣ», «ΕΡΓΑ») ([[2026-11-14-antemisaris-fotografies-xenia]]).

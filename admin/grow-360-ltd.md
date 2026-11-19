@@ -3,7 +3,7 @@ type: admin
 title: "GROW 360 LTD (UK εταιρεία)"
 aliases: [GROW 360, GROW 360 LTD, UK εταιρεία, UK company, βρετανική εταιρεία]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-19
 ---
 # GROW 360 LTD
 > Η βρετανική εταιρεία του Δήμου (μοναδικός director/shareholder, κάτοικος Ελλάδας). Τον Οκτώβριο 2026 πέρασε σε νέο λογιστή, την [[the-accountancy-partnership]], και τον Νοέμβριο 2026 έχει τις πρώτες προθεσμίες της στην Companies House.
@@ -18,6 +18,9 @@ updated: 2026-11-16
 - **Φορολογική κατοικία / μόνιμη εγκατάσταση στην Ελλάδα:** κατά τη DMP είναι εκτός πακέτου UK λογιστή και θέλει Έλληνα φοροτεχνικό ([[2026-10-19-dmp-accountants-grow360-quote]]). Σχετικά: [[forologika-asfalistika]].
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-19:
+- **YCF 2026-11-18 16:01:** «Director Action Required» — 7 ημέρες μετά τη λήξη του address service η διεύθυνση της YCF εμφανίζεται ακόμη στην Companies House· ως director ο Δήμος πρέπει να ανανεώσει την υπηρεσία ή να αλλάξει registered office (Companies Act 2006). Ενέργεια: δεν φαίνεται ([[2026-11-18-grow360-ycf-director-action-required]]).
+
 Στις 2026-11-16:
 - **YCF 2026-11-13 10:14:** «Service Renewal Overdue» — Registered Office, DSA, Mail Forwarding, Premium Filing έχουν λήξει/ακυρωθεί· αν η διεύθυνση μείνει σε χρήση, η YCF θα ζητήσει αφαίρεσή της από την Companies House (κίνδυνος strike-off) ([[2026-11-16-admin-eidopoiiseis]]).
 - **YCF 2026-11-15 21:27:** **Confirmation Statement έως 2026-11-23** (8 ημέρες)· η YCF το προσφέρει £90 ex VAT· χρειάζεται πρώτα PSC personal code (GOV.UK One Login) ([[2026-11-16-admin-eidopoiiseis]]). ⚠️ Ποιος το καταθέτει (TAP, που το έχει στο πακέτο, ή YCF): ασαφές — η TAP δεν έχει ακόμα το Auth Code.
@@ -43,7 +46,7 @@ updated: 2026-11-16
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Κατέβασμα statements Revolut πριν το κλείσιμο 2026-11-17 — Μαρίνα/Δήμος ([[2026-11-10-revolut-business-kleisimo-grow360]])
-- [ ] Νέα registered office / service address στην Companies House (YCF ακυρώθηκε 2026-11-10) ή ανανέωση YCF με 25% έκπτωση — Δήμος/TAP — **άμεσα** (νέο «Renewal Overdue» 2026-11-13, [[2026-11-16-admin-eidopoiiseis]]) (νέες προειδοποιήσεις YCF 2026-11-11: κίνδυνος strike-off) ([[2026-11-10-yourcompanyformations-akyrosi-grow360]], [[2026-11-11-grow360-ycf-services-expired]], [[2026-11-11-grow360-ycf-address-still-active]])
+- [ ] Νέα registered office / service address στην Companies House (YCF ακυρώθηκε 2026-11-10) ή ανανέωση YCF με 25% έκπτωση — Δήμος/TAP — **άμεσα** (νέο «Renewal Overdue» 2026-11-13, [[2026-11-16-admin-eidopoiiseis]]; «Director Action Required» 2026-11-18, [[2026-11-18-grow360-ycf-director-action-required]]) (νέες προειδοποιήσεις YCF 2026-11-11: κίνδυνος strike-off) ([[2026-11-10-yourcompanyformations-akyrosi-grow360]], [[2026-11-11-grow360-ycf-services-expired]], [[2026-11-11-grow360-ycf-address-still-active]])
 - [ ] Companies House Auth Code στο Client Hub της Accountancy Partnership — Δήμος — άμεσα ([[2026-11-06-admin-eidopoiiseis]]) · νέα υπενθύμιση TAP 2026-11-13 ([[2026-11-12-admin-eidopoiiseis]])
 - [ ] Πληρωμή ληξιπρόθεσμων P-388148/9 — Δήμος ([[2026-11-06-admin-eidopoiiseis]])
 - [ ] Πληρωμή/διευθέτηση τιμολογίων Revolut GRGL-4 και GRGL-5 (750 € × 2) της GROW 360 LTD — Δήμος (💭 από την ελληνική GROW) — **έως 2026-11-09** ([[2026-11-03-admin-eidopoiiseis]])
@@ -73,6 +76,7 @@ updated: 2026-11-16
 - 2026-10-02 — Η Μαρίνα αναλαμβάνει να επιλέξει λογιστή και να ρωτήσει αν ακυρώνονται οι υπηρεσίες YCF ([[2026-10-02-grow360-ycf-renewal-accounting]]).
 
 ## Χρονολόγιο
+- 2026-11-18 — YCF: «Director Action Required — Our Address Is Still Displayed» (7 ημέρες μετά τη λήξη) ([[2026-11-18-grow360-ycf-director-action-required]]).
 - 2026-11-15 — YCF: Confirmation Statement έως 2026-11-23 (£90 ex VAT αν το αναλάβει η YCF) ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-13 — YCF: «Service Renewal Overdue» — λήξη/ακύρωση όλων των υπηρεσιών, κίνδυνος strike-off αν η διεύθυνση μείνει σε χρήση ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-13 — TAP: ξανά «Missing Setup Information» για Companies House Auth Code ([[2026-11-12-admin-eidopoiiseis]]).

@@ -3,7 +3,7 @@ type: vendor
 title: "BIZ Courier & Logistics"
 aliases: [BIZ Courier, Biz, ebiz, BIZ Courier & Logistics S.A., bizcourier.eu, BIZ LiNK]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 # BIZ Courier & Logistics
 > Courier και 3PL (αποθήκη/WMS) που έχει επιλέξει η [[tandem-concept]]. Η GROW συνδέει το WooCommerce e-shop της Tandem με τη BIZ μέσω API / BIZ LiNK και ετοιμάζει το BOX NOW.
@@ -14,7 +14,10 @@ updated: 2026-11-17
 - **Επαφές:** [[aliki-theochari]] (Director of Customer Success· κύρια επαφή για integration και BOX NOW)· [[jose-fernando-trujillo-heron]] (Business Development and Marketing Specialist· εμπορικά, τιμοκατάλογος Box Now)· itsupport@ (BIZ IT Helpdesk· Markos Lesko, Application Support Rep, m.lesko@bizcourier.eu)· customersupport@, georgia@, i.gorobets@ ([[2026-09-14-tandem-bizcourier-it-coordination]], [[2026-10-12-bizcourier-bizlink-fix-boxnow]], [[2026-08-26-online-appointment-bizcourier-tandem]]).
 - **Ομάδα GROW:** ο Δήμος.
 
-## Τρέχουσα κατάσταση (στις 2026-11-17)
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- 2026-11-18: follow-up BIZ (Natalia) για packing list [[tandem-concept]] → ο Δήμος: booking 2026-10-21 μέσω BIZ LiNK, PDF δεν κρατήθηκε· ζητά επανέκδοση από το υπάρχον booking, όχι νέο ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]).
+
+*Νωρίτερα (στις 2026-11-17):*
 - 2026-11-13/16: η αποθήκη GR παρέλαβε 3 κιβώτια [[tandem-concept]] (Christian Villa) 2026-11-11 χωρίς packing list· η Caroline ζητά από τον Δήμο να απαντήσει ([[2026-11-16-tandem-biz-packing-list]]).
 - Automatic order sync ([[tandem-concept]]): η BIZ ζητά από 2026-11-05 (follow-up 2026-11-12) επιβεβαίωση ότι το Ready to Ship status είναι **Processing** + νέα test παραγγελία — αναμένει τον Δήμο ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]]).
 
@@ -26,7 +29,8 @@ updated: 2026-11-17
 - Ο Δήμος ζήτησε ενεργοποίηση του BOX NOW και τα αρχεία, αφού πήρε τον οδηγό Scribe (2026-10-12) ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Packing list Tandem (3 κιβώτια) — Δήμος — από 2026-11-16 ([[2026-11-16-tandem-biz-packing-list]])
+- [ ] Επανέκδοση packing list Tandem από το υπάρχον booking (2026-10-21) — BIZ customer support — από 2026-11-18 ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]])
+- [x] ✓ απάντηση Δήμου 2026-11-18 ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]) — Packing list Tandem (3 κιβώτια) — Δήμος — από 2026-11-16 ([[2026-11-16-tandem-biz-packing-list]])
 - [ ] Επιβεβαίωση status «Processing» + νέα test παραγγελία στο tandemconcept.gr — Δήμος → BIZ IT — από 2026-11-05 ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]])
 - [x] Απάντηση στις ερωτήσεις αναβάθμισης: η νέα έκδοση περιέχει τη διόρθωση, δεν χρειάζεται ειδική προσαρμογή — BIZ itsupport@ — ✓ 2026-10-26 (οι ερωτήσεις για neworder, payload/SOAP, mapping δεν απαντήθηκαν ρητά) ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]])
 - [x] Αναβάθμιση BIZ LiNK σε 1.3.2 — BIZ — ✓ 2026-10-26 ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]])
@@ -47,6 +51,7 @@ updated: 2026-11-17
 - Τα χαμένα δέματα αποζημιώνονται με βάση το τιμολόγιο αγοράς του προϊόντος (θέση BIZ) ([[2026-08-26-online-appointment-bizcourier-tandem]]).
 
 ## Χρονολόγιο
+- 2026-11-18 — Packing list Tandem: follow-up BIZ 11:54 · απάντηση Δήμου 23:53 ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]).
 - 2026-11-12 — Follow-up BIZ IT (Markos Lesko) για status + test παραγγελία· 2026-11-05 το αρχικό αίτημα ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]]).
 - 2026-10-26 — 13:24 υπενθύμιση του Δήμου· 18:20 BIZ IT: η νέα έκδοση έχει τη διόρθωση· 18:24 ο Δήμος εγκρίνει την αναβάθμιση· 19:47 αναβάθμιση σε 1.3.2, το booking λειτουργεί· 20:27 ο Δήμος ρωτά για BOX NOW (υπηρεσία, service code 166/167, sender CRM, αντικαταβολή)· 20:37 BIZ: ενεργό με 167, οδηγός, «Pay on the Go» ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
 - 2026-10-12 — Fix στο Add Supply και ερωτήσεις για BOX NOW ([[2026-10-12-bizcourier-bizlink-fix-boxnow]])· οδηγός Scribe για BOX NOW Locker Delivery ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]]).

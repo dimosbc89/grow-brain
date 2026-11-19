@@ -3,7 +3,7 @@ type: admin
 title: "Hosting, servers & domains"
 aliases: [hosting, servers, domains, cloud.growagency.online, Plesk, Fastpath, Cretaforce, Papaki, Enartia]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 # Hosting, servers & domains
 > Οι servers της GROW (Plesk στη [[fastpath]]) και οι registrars ([[papaki]]/[[enartia]], [[cretaforce]]) όπου η GROW κρατά τα domains των πελατών. Κάθε ανανέωση domain ξανατιμολογείται στον πελάτη.
@@ -27,6 +27,9 @@ updated: 2026-11-17
   - Ο Δήμος: τεχνικά (tickets, DNS).
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-19:
+- **lucaffe.gr λήγει 2026-11-24 23:59 UTC** (FORTH, 2026-11-19)· registrar ENARTIA/papaki· φορέας Νίκας ([[nikas-coffee-expert]]) ([[2026-11-19-lucaffe-domain-lixi]]).
+
 Στις 2026-11-16:
 - **pointer.gr:** Semi Dedicated Platinum για **finders.com.cy λήγει 2026-12-16** (απενεργοποίηση 10 ημέρες μετά)· πελάτης ασαφής ([[2026-11-16-admin-eidopoiiseis]]).
 - **Papaki:** eventsgreece.online λήγει **2026-12-13** ([[2026-11-16-admin-eidopoiiseis]]).
@@ -55,7 +58,7 @@ updated: 2026-11-17
 - [ ] **Wordfence 2026-10-27/28: castrum-milos.com «JetEngine» 3.8.4.1 → 3.9.0.1 (Critical 9.8/10)** + Yoast 26.9 → 28.8 + UpdraftPlus· bikos-derma.gr Yoast 20.5 → 28.8· barolobeach.gr Safe SVG 2.4.0 → 2.5.2· foxacademy.gr The Plus Addons 6.4.16 → 6.6.0· logaraslaw.com CookieYes 3.4.2 → 3.5.8· baristacademy.gr WPBakery + Ultimate Addons αποτυγχάνουν στο auto-update (ξανά) — Δήμος/τεχνικός — castrum **άμεσα** ([[2026-10-28-admin-eidopoiiseis]])
 - [ ] Wordfence: update «Really Simple Security» στο foxacademy.gr (9.6.0 → 9.8.4, **High 8.8/10**) και στο pagopolis.gr (9.8.3 → 9.8.4)· «Super Forms» στο baristacademy.gr (6.3.322 → 6.3.323) — Δήμος — από 2026-10-27 ([[2026-10-26-admin-eidopoiiseis]])
 - [ ] goldenvisagreece.online **έληξε 2026-10-21** (Papaki) — ανανέωση ή όχι; — Δήμος ([[2026-10-24-admin-eidopoiiseis]])
-- [ ] lucaffe.gr: προειδοποίηση λήξης (FORTH, 2026-10-25) — [[nikas-coffee-expert]] — ημερομηνία ασαφής ([[2026-10-24-admin-eidopoiiseis]])
+- [ ] **lucaffe.gr: ανανέωση μέσω papaki/ENARTIA — λήξη 2026-11-24 23:59 UTC** — [[nikas-coffee-expert]] — ποιος ανανεώνει: ασαφές ([[2026-10-24-admin-eidopoiiseis]], [[2026-11-19-lucaffe-domain-lixi]])
 - [x] ✓ ανανεώθηκε 2026-11-03, λήξη 2028-11-04 ([[2026-11-04-admin-eidopoiiseis]]) — Ανανέωση machevuoi.gr ή όχι — Δήμος — **έως 2026-11-04 23:59 UTC** (νέα προειδοποίηση FORTH 2026-11-02) ([[2026-10-20-machevuoi-gr-lixi-domain]], [[2026-11-03-admin-eidopoiiseis]])
 - [ ] **Εξόφληση Fastpath #58712: 507,78 €**. Αλλιώς διακόπτεται το cloud.growagency.online και ό,τι φιλοξενεί (ποια sites: ασαφές) — Δήμος — **άμεσα**: η Fastpath δεν έδωσε προθεσμία, η διακοπή είναι ήδη προγραμματισμένη· ο Δήμος υποσχέθηκε έως 2026-10-23 ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]])
 - [ ] Απάντηση της Fastpath στο ticket 004632: το SSH key δεν έχει πρόσβαση στα mailboxes του academicals.gr (χρειάζεται για backup και διαγραφή παλιών email) — Fastpath — ανοιχτό από 2026-09-28 ([[2026-09-28-fastpath-ticket-ssh-academicals]]). Σχετικά: [[academicals-foxacademy]]
@@ -69,6 +72,7 @@ updated: 2026-11-17
 - Κάθε ανανέωση domain πελάτη ξανατιμολογείται στον πελάτη (π.χ. «Τιμολόγιο Πανόπουλος», «25 + fpa to kathena») ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]], [[2026-09-10-invoice-nikas-barista-domains]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — FORTH: lucaffe.gr λήγει 2026-11-24 23:59 UTC ([[2026-11-19-lucaffe-domain-lixi]]).
 - 2026-11-17 — Fastpath #62689 Δεκεμβρίου 507,78 € (λήξη 01/12) · FORTH: koalacoffee.gr καταχωρήθηκε ([[2026-11-17-admin-eidopoiiseis]]).
 - 2026-11-14/16 — vanessapilates.gr καταχωρήθηκε· eventsgreece.online λήγει 2026-12-13· finders.com.cy hosting λήγει 2026-12-16· Search Console exodikastikos.info canonical ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-13 — Papaki: agapeathens.online λήγει σε 60 ημέρες (2027-01-11) ([[2026-11-12-admin-eidopoiiseis]]).

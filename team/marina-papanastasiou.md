@@ -3,7 +3,7 @@ type: team
 title: "Μαρίνα Παπαναστασίου"
 aliases: [Marina Papanastasiou, Μαρίνα, mpapa, mpapa@growagency.online]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-19
 ---
 # Μαρίνα Παπαναστασίου
 > Managing Director της GROW. Τρέχει τα περίπτερα (lead στην Argyroplastics), τα admin της UK εταιρείας και τα τιμολόγια που της στέλνει ο Δήμος, και είναι σε cc σχεδόν σε κάθε νέο lead.
@@ -35,7 +35,10 @@ updated: 2026-11-16
   - [[dypa-programma]]: ανάρτηση Ιουλίου και επιμήκυνση, μαζί με τη Βασιλική ([[2026-08-10-dypa-anartisi-iouliou]], [[2026-08-18-dypa-programma-30plus-epimikynsi]]).
   - [[sk-advisors]] ως λογιστές της GROW: ΦΠΑ, ΓΕΜΗ, pass διοδίων ([[2026-07-30-sk-advisors-fpa-v-trimino]], [[2026-08-26-gemi-payments-sk-advisors]], [[2026-08-27-sk-advisors-toll-pass-documents]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-12)
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Στις 2026-11-18:** έστειλε παρουσίαση + δείγματα στην [[tria-delta]] (το Meet δεν έγινε, ζητά νέο ραντεβού)· η [[afrokoptiki]] της ζήτησε λεπτομέρειες κατασκευής/υλικών/πατώματος — απάντηση εκκρεμεί· έβαλε το Calendly «Abbie Browne» 18:00 και πήρε forward το email του Δήμου προς την [[abi-browne]] ([[2026-11-18-periptero-tria-delta-aivaliotis]], [[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]], [[2026-11-18-booking-app-abi-browne-call]]).
+
+*Νωρίτερα (στις 2026-11-12):*
 - **2026-11-13:** έστειλε παρουσίαση/δείγματα στο νέο prospect περιπτέρου [[papavergos]] (πρώτο σχέδιο την εβδομάδα 2026-11-16)· έστησε στο GROW Agency Calendar το **Olympicnature Χ grow Agency Meeting 2026-11-16 11:00** ([[2026-11-13-periptero-papavergos]], [[2026-11-13-olympicnature-meeting]]).
 - [[global-foods]]: στις 2026-11-12 απάντησε στο ύφος των Tips — μορφή FAQ, έστειλε 7 κείμενα σε σύντομες ερωτοαπαντήσεις, το Spianata το ζήτησε από τη Global Foods ([[2026-10-09-globalfoods-tips-site-update-2026-11-13]]). Παραλήπτρια του αιτήματος μετάφρασης FISAN έως 2026-11-18 ([[2026-11-12-globalfoods-fisan-metafrasi]]).
 
@@ -47,6 +50,7 @@ updated: 2026-11-16
 - Η UK εταιρεία κάνει onboarding με την The Accountancy Partnership: φόρμα υπογράφηκε 2026-10-15, welcome και AML ήρθαν 2026-10-16 ([[2026-10-15-accountancy-partnership-registration-signed]], [[2026-10-16-accountancy-partnership-welcome]], [[2026-10-16-accountancy-partnership-aml-check]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Απάντηση στην Afrokoptiki (κατασκευή, υλικά, πάτωμα) — Μαρίνα — από 2026-11-18 ([[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]])
 - [ ] Πρώτο σχέδιο περιπτέρου [[papavergos]] (μετά την κάτοψη) — Μαρίνα — εβδομάδα 2026-11-16 ([[2026-11-13-periptero-papavergos]])
 - [ ] Plastica: Υπ. Δηλώσεις ηλεκτρολόγου/κατασκευαστή/μηχανικού προς Expowork — Μαρίνα — πριν το στήσιμο 2026-11-05 ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]])
 - [ ] Global Foods: reel Unique x Zeo με τις αλλαγές της Ελπίδας — Μαρίνα (υπόσχεση) — **Πέμπτη 2026-10-29** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]])
@@ -76,6 +80,7 @@ updated: 2026-11-16
 - 2026-09-23: εγκρίνει μαζί με τον Δήμο την άδεια της [[despina-velissariou]] για 29–30/10 ([[2026-09-23-adeia-oktovriou-despina]]).
 
 ## Χρονολόγιο
+- 2026-11-18 — Τρία Δέλτα παρουσίαση· ερωτήσεις Afrokoptiki· Calendly Abbie Browne ([[2026-11-18-periptero-tria-delta-aivaliotis]], [[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]], [[2026-11-18-booking-app-abi-browne-call]]).
 - 2026-11-13 — 13:47 email σε κ. Παπαβέργο (περίπτερο)· 13:58 event Olympicnature 16/11 11:00 ([[2026-11-13-periptero-papavergos]], [[2026-11-13-olympicnature-meeting]]).
 - 2026-11-13 — Κάρτα εργασίας: διπλό σκανάρισμα της Βασιλικής, ρώτησε το λογιστήριο για εκπρόθεσμη υποβολή ([[2026-11-13-karta-ergasias-vassiliki-proselefsi]]).
 - 2026-11-12 — 13:50 Tips Global Foods: «Πάμε στη λογική των FAQs», 7 τροποποιημένα Word, Spianata στον πελάτη ([[2026-10-09-globalfoods-tips-site-update-2026-11-13]]).

@@ -1,7 +1,7 @@
 ---
 type: index
 title: "Κατάλογος"
-updated: 2026-11-16
+updated: 2026-11-19
 ---
 # Κατάλογος
 
@@ -70,13 +70,15 @@ updated: 2026-11-16
 - [[yiayia-meatballs|Υιάγια (Yiayia Meatballs)]] · _ενεργός_ — Εστιατόριο με κεφτεδάκια («Home of Meatballs») της maria-drouza· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influe…
 - [[yourclima|Yourclima]] · _ενεργός_ — Πελάτης της GROW για εταιρικά email/hosting στο yourclima.com· επαφές ο christos-tsamis και ο manolis-kalomoiris.
 
-## Leads (27)
+## Leads (29)
 - [[olympicnature|Olympicnature]] · _prospect_ — πρώτη συνάντηση 2026-11-16 11:00 (Meet, από Μαρίνα)· αντικείμενο ασαφές.
 - [[papavergos|Παπαβέργος]] · _prospect_ — εκθεσιακό περίπτερο· η Μαρίνα στέλνει πρώτο σχέδιο εβδομάδα 16–20/11.
 - [[elmon|ELMON SA]] · _prospect_ — περίπτερο DEFEA 2027, προσφορά 2026-11-10.
 - [[krimatoglou|Κριματόγλου ΑΒΕΤΕ]] · _prospect_ — περίπτερο HORECA 2027, 92,75 τ.μ.· προσφορά Agency Fee στάλθηκε 2026-11-17.
 - [[euronet-epay|Euronet epay]] · _prospect_ — Meet 2026-11-18 11:30 (από Μαρίνα)· αντικείμενο ασαφές.
-- [[tria-delta|Τρία Δέλτα]] · _prospect_ — Meet 2026-11-18 14:00 (από Μαρίνα)· αντικείμενο ασαφές.
+- [[tria-delta|Τρία Δέλτα]] · _prospect_ — εκθεσιακό περίπτερο (κ. Αϊβαλιώτης)· το Meet 2026-11-18 δεν έγινε, η Μαρίνα έστειλε παρουσίαση και ζητά νέο ραντεβού.
+- [[afrokoptiki|Afrokoptiki (Χάρης)]] · _prospect_ — εκθεσιακό περίπτερο· 2026-11-18 ρωτά για κατασκευή, υλικά, πάτωμα.
+- [[abi-browne|Abi Browne (Booking App UK)]] · _prospect_ — call με Δήμο 2026-11-18· αναμονή στοιχείων για ακριβή πρόταση.
 - [[prisma-electronics|Prisma Electronics]] · _prospect_ — Meet 2026-11-18 15:00 (από Μαρίνα)· αντικείμενο ασαφές.
 - [[tsianakas-packaging|Tsianakas Packaging]] · _prospect_ — προσφορά Agency Fee (Global Pack 2027) 2026-11-11.
 - [[cryo|Cryo]] · _prospect_ — περίπτερο CosmoEstetica, προσφορά 2026-11-11.

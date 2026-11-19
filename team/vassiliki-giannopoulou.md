@@ -3,7 +3,7 @@ type: team
 title: "Βασιλική Γιαννοπούλου"
 aliases: [Vassiliki Giannopoulou, Βασιλική, Vassiliki, vassiliki@growagency.online]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-19
 ---
 # Βασιλική Γιαννοπούλου
 > Account Director της GROW. Ο Δήμος της στέλνει τα τιμολόγια και τα admin, τρέχει τα accounts [[yiayia-meatballs]] (από τον Σεπτέμβριο 2026) και Estia, και κάνει calls με νέους πελάτες.
@@ -37,7 +37,10 @@ updated: 2026-11-16
   - [[dypa-programma]]: ανάρτηση Ιουλίου· έγραψε το draft για την επιμήκυνση ([[2026-08-10-dypa-anartisi-iouliou]], [[2026-08-18-dypa-programma-30plus-epimikynsi]]).
   - Αποστολή του τιμολογίου ΑΑ 1166 στον [[kostas-tzevelekos]] ([[2026-07-29-timologio-1166-tzevelekos]]). Draft του Δήμου προς [[speedex]] ([[2026-08-28-speedex-web-services-demo-test]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- 2026-11-18 (Knack & Snack): review του demo site προς τον Δήμο (λογότυπα, scroll, σελίδα pizza, studio, «more») + έστειλε τα σωστά λογότυπα ([[2026-11-18-knack-review-site]]).
+
+*Νωρίτερα (στις 2026-10-20):*
 - Είναι η κύρια επαφή της Μαρίας (Yiayia). Απάντησε σημείο-σημείο στις 2026-10-20 και ανέλαβε το post της 28ης Οκτωβρίου («I'm on it») ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Ανοιχτά & επόμενα βήματα
@@ -59,6 +62,7 @@ updated: 2026-11-16
 - 2026-07-28: εγκρίθηκε remote εργασία για τις 2026-08-07 από 11:00 ([[2026-07-28-vassiliki-remote-0708]]).
 
 ## Χρονολόγιο
+- 2026-11-18 — Review site Knack & Snack προς Δήμο ([[2026-11-18-knack-review-site]]).
 - 2026-11-13 — Freddo YT video + Java Jives (16/11) για [[nikas-coffee-expert]]· Pantone Υιάγια κλείδωσε, παρατηρήσεις στη NAK, νέες αλλαγές take away menu· εταιρική παρουσίαση [[nomud]]· πρόταση Divino & Caffè del Doge (follow-up 16/11)· διπλό σκανάρισμα στην κάρτα εργασίας ([[2026-11-13-nikas-review-yt-video-freddo]], [[2026-11-04-yiayia-pantone-street-activation-update-2026-11-16]], [[2026-11-13-yiayia-maketes-pros-ektyposi-nak]], [[2026-11-13-yiayia-take-away-menu-allages-timon]], [[2026-11-13-nomud-etairiki-parousiasi]], [[2026-11-13-divino-caffe-del-doge-protasi-synergasias]], [[2026-11-13-karta-ergasias-vassiliki-proselefsi]]). 2026-11-15: ο Δήμος της προώθησε το τιμολόγιο METALEASE 14374 ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-11 — Προσφορά περιπτέρου HORECA 2027 στη [[divino]], απάντηση έως 2026-11-19 ([[2026-11-11-divino-horeca-2027-prosfora-periptero]]).
 - 2026-10-26 — Προωθεί σε Μαρίνα και Δήμο το υπογεγραμμένο «ιδιωτικό συμφωνητικό παροχής υπηρεσιών προώθησης» με τη Νάσια (έστειλε 2026-10-24, επέστρεψε 2026-10-25· πελάτης ασαφής) ([[2026-10-26-nasia-stamp-symfonitiko]]). Λαμβάνει από τη Μαρίνα το e-παραστατικό ΤΠΥΑ-163496 της ΥΠΗΡΕΣΙΕΣ ΔΙΑΤΑΚΤΙΚΩΝ ΑΕΕ ([[2026-10-26-diataktikon-e-parastatiko]]). Η Σαββούλα ([[knack-and-snack]]) της ζητά ξανά αφίσα + link 11/11 ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-27]]).

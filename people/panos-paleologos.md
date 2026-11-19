@@ -3,7 +3,7 @@ type: person
 title: "Panos Paleologos"
 aliases: [Panos, panos@hotelbrain.com]
 status: ενεργός
-updated: 2026-11-12
+updated: 2026-11-19
 ---
 # Panos Paleologos
 > Στέλεχος της [[hotelbrain]] που εγκρίνει τις προσφορές της GROW. Ενέκρινε το νέο corporate website.
@@ -13,10 +13,14 @@ updated: 2026-11-12
 - **Email:** panos@hotelbrain.com.
 - **Ρόλος:** ο ακριβής τίτλος είναι ασαφής. Στην πράξη εγκρίνει ([[2026-10-12-hotelbrain-corporate-website]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- 2026-11-18 15:42: ο Δήμος του έστειλε **οικονομική προσφορά social media** (`HotelBrain-Collection-Social-Media-Proposal.pdf`, ποσό μόνο στο PDF) — αναμένεται feedback ([[2026-11-18-hotelbrain-social-media-prosfora]]).
+
+*Νωρίτερα (στις 2026-10-20):*
 - Συμμετέχει στη συνάντηση «Τεχνικές Προδιαγραφές Ιστοσελίδων» στις 2026-10-23 ([[2026-07-20_2026-11-03]]).
 
 ## Χρονολόγιο
+- 2026-11-18 — Λαμβάνει προσφορά social media (HotelBrain Collection) από τον Δήμο ([[2026-11-18-hotelbrain-social-media-prosfora]]).
 - 2026-11-11 — Προτείνει 14:00 για το Teams της 2026-11-12 (παρουσίαση design hotelbrain.com)· ο Δήμος ζητά μεταφορά Παρασκευή 2026-11-13 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-12]]).
 - 2026-10-20 — Ζήτησε τη συνάντηση Teams «Τεχνικές Προδιαγραφές Ιστοσελίδων» (2026-10-23) ([[2026-10-20-hotelbrain-call-meeting-teams]]).
 - 2026-10-08 — Συμμετέχει στη συνάντηση στα γραφεία της HotelBrain ([[2026-07-20_2026-11-03]]).

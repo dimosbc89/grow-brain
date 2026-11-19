@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -18,7 +18,10 @@ updated: 2026-11-18
 - **Επαφές:** [[vaso-theochari]] (Marketing, marketing@overoll.gr) ([[2026-10-14-overoll-websites-domains]])· Kikiras_john@yahoo.gr σε cc, ρόλος ασαφής ([[2026-10-14-overoll-websites-domains]], [[2026-07-23-overoll-akinito-xanthi]]).
 - **Ομάδα GROW:** ο Δήμος (sites, domains)· [[vassiliki-giannopoulou]] και [[marina-papanastasiou]] σε cc ([[2026-10-14-overoll-websites-domains]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-18)
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **GTA reel (εσωτερικό, 2026-11-18):** η [[marianna-vourna]] έστειλε 8 εικόνες σε ύφος «GTA 6» με Overoll· ο Δήμος απάντησε με **Overoll_GTA_Reel_v2.mp4** (Drive). Αν στάλθηκε στην Overoll: ασαφές ([[2026-11-18-overoll-gta-reel]]).
+
+*Νωρίτερα (στις 2026-11-18):*
 - **Χριστούγεννα (νέο, 2026-11-17 11:33):** η [[vaso-theochari]] ζητά teasers με υλικό **Panettone Chocolate** (το Christmas Croissant είναι νέο προϊόν)· δημοσιεύσεις **23–25/11** και κάτι Panettone **μέσα στο Σ/Κ 21–22/11**· **photoshooting με τον Κωνσταντίνο Παρασκευή 2026-11-27**. Ζητά: δημιουργικές προτάσεις + concept shooting (αυθεντικό, ανθρώπινη παρουσία), αν θα υπάρχουν μοντέλα (προφίλ + κόστος), και **πλάνο χριστουγεννιάτικης επικοινωνίας σε mail (όχι παρουσίαση)** από 23/11 ως τέλος Δεκεμβρίου. Απάντηση GROW δεν φαίνεται ([[2026-11-17-overoll-christmas-teasers-plan]]).
 
 *Από 2026-11-12:*
@@ -100,6 +103,7 @@ updated: 2026-11-18
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-11-18 — Εσωτερικά: εικόνες «GTA 6 – Overoll» (Μαριάννα) → Overoll_GTA_Reel_v2 (Δήμος) ([[2026-11-18-overoll-gta-reel]]).
 - 2026-11-17 — Βάσω: Christmas teasers (Panettone), posts 23–25/11, shooting 27/11, ζητά concept/μοντέλα/πλάνο σε mail ([[2026-11-17-overoll-christmas-teasers-plan]]).
 - 2026-11-16 — Vasia: report αρνητικών κριτικών 8–15/11 + προτεινόμενες απαντήσεις· Overoll: να απαντηθεί μόνο η Πραξιτέλους 15/11, τις άλλες δύο τις βλέπουν εσωτερικά ([[2026-11-16-overoll-kritikes-8-15-11]]).
 - 2026-11-12 — Ο Δήμος: «kind reminder» για τις εγγραφές DNS του Overoll Club ([[2026-11-09-overoll-dns-loyalty-club-update-2026-11-13]]). Η Vasia S στέλνει κριτικές 2–8/11 + προτεινόμενες απαντήσεις· η Overoll εγκρίνει ([[2026-11-12-overoll-kritikes-2-8-11]]).

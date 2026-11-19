@@ -3,7 +3,7 @@ type: person
 title: "Niki Daleziou (Νίκη Δαλέζιου)"
 aliases: [Niki Daleziou, Νίκη, ndaleziou@hotelbrain.com]
 status: ενεργός
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 # Niki Daleziou
 > Digital Marketing Manager στη HOTELBRAIN S.A. Είναι η καθημερινή επαφή της GROW για τα hotel websites και για το νέο corporate site της [[hotelbrain]].
@@ -13,7 +13,10 @@ updated: 2026-11-18
 - **Email:** ndaleziou@hotelbrain.com.
 - **Συνεργάζεται με:** [[panos-paleologos]] (εγκρίσεις), Roula Korbou, Dimitris Giannis ([[2026-10-02-hotelbrain-meeting-invite]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-18)
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- 2026-11-18: screenshot hotelbraingroup.com → Δήμος «Resolved!»· ζήτησε 5 αλλαγές (+ αφαίρεση Instagram icon, info@hotelbraingroup.com) → Δήμος «Ready» 11:34. Το βράδυ (23:32) ο Δήμος της έστειλε αναθεωρημένη προσφορά **Academy 1.150 € + ΦΠΑ** μετά από τηλέφωνο — περιμένει απάντησή της ([[2026-11-18-hotelbraingroup-ssl-allages]], [[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-19]]).
+
+*Νωρίτερα (στις 2026-11-18):*
 - 2026-11-17: ολοκλήρωσε τις DNS εγγραφές hotelbraingroup.com, ζητά από τον Δήμο SSL + τις 3 αλλαγές Παλαιολόγου· meli meli GHH → MMW (Δήμος «Ready») ([[2026-11-17-hotelbraingroup-domain-ssl]], [[2026-11-17-hotelbrain-meli-meli-mrmrswhite]]).
 - 2026-11-16: μετά το Teams έστειλε οδηγίες design (παλ, 3 sections, χωρίς προσφορές, transparent logo)· για τον server «προχωράμε έως 2026-11-17» και ζητά επιβεβαίωση αλλαγών Παλαιολόγου + Cloudflare DNS ([[2026-11-16-hotelbrain-design-odigies-niki]], [[2026-11-03-hotelbrain-new-server-update-2026-11-17]]).
 - Ο Δήμος επιβεβαίωσε 2026-11-13 12:38 το Teams **2026-11-16 11:00**· η Νίκη ξαναρώτησε 2026-11-15 08:50 και έστειλε invite Teams (με [[panos-paleologos]]) ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-16]], [[2026-11-15-hotelbrain-teams-new-design]]).
@@ -26,6 +29,7 @@ updated: 2026-11-18
 - Το call για το νέο design του hotelbrain.com έγινε 2026-10-27 (δικό της Teams invite) ([[2026-10-27-hotelbrain-redesign-teams-invite]], [[2026-10-23-hotelbrain-com-new-design-update-2026-10-28]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Απάντηση στην αναθεωρημένη προσφορά Academy 1.150 € + ΦΠΑ — Νίκη — από 2026-11-18 ([[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-19]])
 - [ ] Περιμένει από τον Δήμο: επιβεβαίωση αλλαγών + Cloudflare DNS, και τη νέα πρόταση design — από 2026-11-16 ([[2026-11-03-hotelbrain-new-server-update-2026-11-17]])
 - [x] Επιβεβαίωση Teams Δευτέρα 2026-11-16 11:00 (παρουσίαση design hotelbrain.com) — Δήμος → Νίκη — ✓ 2026-11-13 12:38 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-16]])
 - [x] Νέα ώρα Teams (παρουσίαση design hotelbrain.com) — Νίκη — ✓ 2026-11-12: Δευτέρα 2026-11-16 11:00 ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-13]])
@@ -33,9 +37,10 @@ updated: 2026-11-18
 - [ ] Αλλαγή NS μαζί με τον Δήμο (εκείνη δίνει τον 2FA κωδικό του papaki) — Δήμος — από 2026-10-12 ([[2026-10-12-hotelbrain-corporate-website]], [[2026-10-12-hotelbrain-corporate-website-update-2026-10-27]])
 - [x] Απάντηση αν υπάρχουν email/υπηρεσίες στο domain — Νίκη — ✓ 2026-10-27 (hq@, hotels@) ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]])
 - [x] Call νέο design hotelbrain.com — ✓ 2026-10-27 ([[2026-10-23-hotelbrain-com-new-design-update-2026-10-28]])
-- [ ] DNS records για το site → HotelBrain (διαχειριστής domains) — Δήμος — από 2026-10-27 08:18 ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]])
+- [x] ✓ οι DNS εγγραφές έγιναν 2026-11-17, SSL λύθηκε 2026-11-18 ([[2026-11-18-hotelbraingroup-ssl-allages]]) — DNS records για το site → HotelBrain (διαχειριστής domains) — Δήμος — από 2026-10-27 08:18 ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]])
 
 ## Χρονολόγιο
+- 2026-11-18 — SSL hotelbraingroup.com λύθηκε, 5 αλλαγές «Ready»· Academy → 1.150 € + ΦΠΑ ([[2026-11-18-hotelbraingroup-ssl-allages]], [[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-19]]).
 - 2026-11-17 — DNS hotelbraingroup.com έτοιμο, «δες το SSL»· meli meli → MMW ([[2026-11-17-hotelbraingroup-domain-ssl]], [[2026-11-17-hotelbrain-meli-meli-mrmrswhite]]).
 - 2026-11-16 — Οδηγίες design + New Server «έως αύριο» ([[2026-11-16-hotelbrain-design-odigies-niki]], [[2026-11-03-hotelbrain-new-server-update-2026-11-17]]).
 - 2026-11-15 — 08:50 ξαναρωτά για Δευτέρα 11:00· 08:53 invite Teams «new design hotelbrain.com» ([[2026-10-23-hotelbrain-com-new-design-update-2026-11-16]], [[2026-11-15-hotelbrain-teams-new-design]]).

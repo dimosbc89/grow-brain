@@ -3,7 +3,7 @@ type: project
 title: "Εκθεσιακά περίπτερα (booth design & build)"
 aliases: [εκθεσιακά περίπτερα, περίπτερα, booths, expo design & build, expo booths]
 status: ενεργός
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 # Εκθεσιακά περίπτερα
 > Γραμμή υπηρεσιών της GROW για σχεδιασμό και κατασκευή custom εκθεσιακών περιπτέρων, μαζί με περιφερειακές υπηρεσίες. Εδώ συγκεντρώνονται όλοι οι πελάτες και τα leads περιπτέρων.
@@ -34,7 +34,10 @@ updated: 2026-11-18
 
 Από παλαιότερες συνομιλίες: ιδέες περιπτέρου για την Kouvelas S.A. ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-18)
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Στις 2026-11-18:** [[afrokoptiki]] (Χάρης) ζητά λεπτομέρειες για **κατασκευή, υλικά και αν το περίπτερο έχει δικό του πάτωμα** — απάντηση GROW εκκρεμεί ([[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]]). [[tria-delta]]: το Meet 14:00 δεν έγινε· η Μαρίνα έστειλε παρουσίαση + δείγματα και ζητά νέο ραντεβού ([[2026-11-18-periptero-tria-delta-aivaliotis]]).
+
+*Νωρίτερα (στις 2026-11-18):*
 - **Στις 2026-11-17 η Μαρίνα έστειλε 3 προσφορές/επαφές περιπτέρων:** [[krimatoglou]] HoReCa 2027 (προσφορά Agency Fee) · **Σγουρομάλλης — Souvenir Expo Greece 2027** (προσφορά Agency Fee, [[2026-11-17-periptero-prosfora-sgouromallis]]) · **Afrokoptiki / Χάρης** (παρουσίαση, αναμονή διαθεσιμοτήτων για video call, [[2026-11-17-periptero-afrokoptiki-xaris]]). Και στις τρεις: XENIA 2026 δείχνεται μόνο σε 3D renders.
 
 - **XENIA ([[greenmart-antemisaris]]), στις 2026-11-16:** ρεύμα παραγγέλθηκε (893,84 €) και εξοφλήθηκε μετά από «URGENT» του Ζάχου· δήλωση ηλεκτρολόγου SG LIGHT· tablets DK Rental επιβεβαιώθηκαν (325 € + ΦΠΑ)· νέα προσφορά αυτοκόλλητων ζητήθηκε από Neon Arrow· Expopiece V2: υπογραφή Δήμου ακόμα δεν φαίνεται ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]], [[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-17]], [[2026-11-13-neonarrow-koptika-xenia-update-2026-11-17]]).
@@ -58,6 +61,8 @@ updated: 2026-11-18
 - Τρία leads ([[deturbo]], [[primowear]], [[metlen]]) δεν έχουν καταγεγραμμένο επόμενο βήμα μετά τον Σεπτέμβριο.
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] [[afrokoptiki]]: απάντηση για κατασκευή / υλικά / πάτωμα — Μαρίνα (cc Δήμος) — από 2026-11-18 ([[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]])
+- [ ] [[tria-delta]]: επαναπρογραμματισμός συνάντησης — Μαρίνα / κ. Αϊβαλιώτης — από 2026-11-18 ([[2026-11-18-periptero-tria-delta-aivaliotis]])
 - [ ] [[papavergos]]: κάτοψη σημείου (πελάτης) → πρώτο σχέδιο περιπτέρου — Μαρίνα — εβδομάδα 2026-11-16 ([[2026-11-13-periptero-papavergos]])
 - [ ] XENIA: υπογραφή Expopiece V2 + νέα προκαταβολή — **Δήμος** — άμεσα, από 2026-11-12 ([[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]])
 - [ ] Απάντηση Divino στην προσφορά HORECA 2027 — Λετκας — **έως 2026-11-19** + call για τις υπόλοιπες προτάσεις — Βασιλική ([[2026-11-11-divino-horeca-2027-prosfora-periptero]])
@@ -82,6 +87,7 @@ updated: 2026-11-18
 - Πρώτα στέλνουμε δημιουργικό πλαίσιο (κάτοψη, φωτορεαλιστικό, activations) και αναλυτική κοστολόγηση μετά το feedback (GameStuff, 2026-09-07) ([[2026-09-07-gamestuff-fantasy-festival-booth]]).
 
 ## Χρονολόγιο
+- 2026-11-18 — Afrokoptiki ζητά λεπτομέρειες κατασκευής/πατώματος· Τρία Δέλτα: Meet δεν έγινε, παρουσίαση από Μαρίνα ([[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]], [[2026-11-18-periptero-tria-delta-aivaliotis]]).
 - 2026-11-17 — Προσφορές Agency Fee σε Κριματόγλου (HoReCa 2027) και Σγουρομάλλη (Souvenir Expo 2027)· παρουσίαση σε Afrokoptiki (Χάρης) ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-18]], [[2026-11-17-periptero-prosfora-sgouromallis]], [[2026-11-17-periptero-afrokoptiki-xaris]]).
 - 2026-11-16 — XENIA: ρεύμα 893,84 € (υπόλοιπο 318,40 € εξοφλήθηκε), δήλωση ηλεκτρολόγου, tablets 325 € + ΦΠΑ, αίτημα αυτοκόλλητων Neon Arrow ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]], [[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-17]], [[2026-11-13-neonarrow-koptika-xenia-update-2026-11-17]]).
 - 2026-11-13 — Μαρίνα → κ. Παπαβέργος: παρουσίαση + δείγματα, αίτημα κάτοψης, πρώτο σχέδιο την επόμενη εβδομάδα ([[2026-11-13-periptero-papavergos]]).

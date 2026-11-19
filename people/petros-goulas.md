@@ -3,7 +3,7 @@ type: person
 title: "Petros Goulas"
 aliases: [Petros Goulas, PG, Πέτρος Γκούλας, pg@marketingcoach.com.cy]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-19
 ---
 # Petros Goulas
 > Ιδρυτής του [[marketing-coach-cy]] (PG Group of Companies, Κύπρος). Φέρνει στη GROW κυπριακούς πελάτες και δίνει εντολές για Google Ads.
@@ -15,11 +15,12 @@ updated: 2026-11-16
 - Ο τίτλος «Ιδρυτής» είναι ασαφής. Οι πηγές τον γράφουν «Marketing Coach (PG Group)».
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Πρόσβαση admin Buildia (μέσω Παναγιώτη) για δομικές αλλαγές από τον Δήμο — από 2026-11-13 ([[2026-11-13-buildia-website-admin-prosvasi]])
+- [ ] Πρόσβαση admin Buildia (μέσω Παναγιώτη) για δομικές αλλαγές από τον Δήμο — από 2026-11-13· reminder 2026-11-18 ([[2026-11-13-buildia-website-admin-prosvasi-update-2026-11-19]]) ([[2026-11-13-buildia-website-admin-prosvasi]])
 - [ ] 2η κατάθεση προς GROW — ο ίδιος — **έως 2026-11-13** ([[2026-11-11-marketing-coach-kartela]])
 - [ ] Κατεύθυνση για την καμπάνια Odysseia — ο ίδιος — από 2026-07-27 ([[2026-09-01-marketing-coach-pause-google]])
 
 ## Χρονολόγιο
+- 2026-11-18 — «Friendly Reminder» στον Παναγιώτη για την πρόσβαση Buildia ([[2026-11-13-buildia-website-admin-prosvasi-update-2026-11-19]]).
 - 2026-11-13 — Ζητά από τον Παναγιώτη admin πρόσβαση στο site Buildia για τον Δήμο ([[2026-11-13-buildia-website-admin-prosvasi]]).
 - 2026-11-11 — Στην ερώτηση της Μαρίνας για τη 2η κατάθεση: «Μέχρι Παρ.» ([[2026-11-11-marketing-coach-kartela]]).
 - 2026-09-17 — «PG X Grow Meeting» ([[2026-07-20_2026-11-03]]).

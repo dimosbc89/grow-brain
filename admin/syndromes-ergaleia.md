@@ -3,7 +3,7 @@ type: admin
 title: "Συνδρομές & εργαλεία λογισμικού"
 aliases: [subscriptions, SaaS, εργαλεία, Anthropic, Claude, Apify, Asana, HubSpot, DataForSEO, Scrape Creators, Google Workspace, ActiveCampaign]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 # Συνδρομές & εργαλεία λογισμικού
 > Τα SaaS που πληρώνει η GROW (AI, scraping, SEO data, project management, CRM, email). Οι αποδείξεις και τα τιμολόγια πάνε στη Βασιλική ή στη Δέσποινα για το λογιστήριο.
@@ -26,6 +26,10 @@ updated: 2026-11-17
 - **Ομάδα:** [[vassiliki-giannopoulou]] παίρνει τις περισσότερες αποδείξεις. [[despina-velissariou]] πήρε DataForSEO και Anthropic extra usage («print») ([[2026-07-24-dataforseo-receipt]], [[2026-10-16-anthropic-receipt-extra-usage]]).
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-19:
+- **AWS Budgets 2026-11-19:** «GrowCRM-Monthly-Cost» — πραγματικό κόστος μήνα **$25,20**, πάνω από το όριο ειδοποίησης $25 (budget $100/μήνα)· ενημερωτικό. 💭 Υπόθεση: αφορά το [[estia-crm]] ή άλλο CRM της GROW — ασαφές ([[2026-11-19-aws-budget-growcrm]]).
+- **3CX:** απόδειξη 368487 2026-11-18 → Βασιλική ([[2026-11-18-3cx-apodeiksi-368487]]).
+
 Στις 2026-11-16:
 - **Meta «adele»:** disabled ξανά 2026-11-14 09:00 και 2026-11-15 09:01 (πληρωμή απορρίφθηκε)· πελάτης ασαφής ([[2026-11-16-admin-eidopoiiseis]]).
 - **Calendly:** νέο «New call SOS» για Τρίτη 2026-11-17 11:00 CET (12:00 Αθήνα) με «Bayse reformer pilates» ([[2026-11-16-admin-eidopoiiseis]]).
@@ -58,6 +62,7 @@ updated: 2026-11-17
 - —
 
 ## Χρονολόγιο
+- 2026-11-18/19 — 3CX: απόδειξη 368487 → Βασιλική· AWS Budgets: GrowCRM-Monthly-Cost $25,20 > όριο $25 (budget $100) ([[2026-11-18-3cx-apodeiksi-368487]], [[2026-11-19-aws-budget-growcrm]]).
 - 2026-11-16 — Google Workspace στο 92% του pooled storage · Meta: ξανά «ad account disabled» (💭 adele) ([[2026-11-17-admin-eidopoiiseis]]).
 - 2026-11-14/15 — Meta: «adele» ξανά disabled (×2)· Calendly: νέο call 2026-11-17 με Bayse reformer pilates ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-12/13 — Apify: επιβεβαίωση security incident (πρόσβαση σε στοιχεία λογαριασμού/2FA)· Meta: «adele» ξανά disabled ([[2026-11-12-admin-eidopoiiseis]]).

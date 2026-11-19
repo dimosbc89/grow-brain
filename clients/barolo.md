@@ -3,7 +3,7 @@ type: client
 title: "Barolo (Σαντορίνη)"
 aliases: [Barolo Santorini, Barolo restaurant, barolosantorini@gmail.com]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-19
 ---
 # Barolo (Σαντορίνη)
 > Εστιατόριο στη Σαντορίνη· πελάτης της GROW με τιμολόγια από το 2025 και ενδοκοινοτικά παραστατικά (χρεώσεις πλατφορμών), για τα οποία ρωτά η λογίστριά του.
@@ -13,7 +13,10 @@ updated: 2026-11-16
 - **Επαφές:** barolosantorini@gmail.com / barolorestaurant@gmail.com (πελάτης)· Ελένη Περσίδου (e.persidou@hotmail.com) — λογίστρια πελάτη· aggelos.manousakiss@gmail.com — πλευρά πελάτη, ρόλος ασαφής ([[2026-07-24-barolo-timologia-endokoinotika]]).
 - **Ομάδα GROW:** [[marina-papanastasiou]] (τιμολόγια/επικοινωνία)· [[vassiliki-giannopoulou]], [[despina-velissariou]] ([[2026-07-24-barolo-timologia-endokoinotika]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Στις 2026-11-18:** ο aggelos.manousakiss@ (Άγγελος Μανουσάκης, πλευρά πελάτη) προώθησε στον Δήμο promo της WiAct (προσωπικό σεζόν 2027 από Νεπάλ) και μετά έστειλε στον Δήμο «Nai» — 💭 Υπόθεση: προοριζόταν για τη WiAct. Τι ζητά από τη GROW: ασαφές ([[2026-11-18-barolo-manousakis-wiact-prosopiko]]).
+
+*Νωρίτερα (στις 2026-10-28):*
 - **Στις 2026-10-28:** στις 2026-10-27 13:50 η [[marina-papanastasiou]] έστειλε στο aggelos.manousakiss@gmail.com (cc τα emails του Barolo, Βασιλική) **τα δημιουργικά του booklet «santorini best life» προς έγκριση**· απάντηση δεν φαίνεται. Τι είναι το «santorini best life»: ασαφές ([[2026-10-27-barolo-booklet-santorini-best-life]]).
 
 **Παλαιότερα (στις 2026-10-21)**
@@ -21,6 +24,7 @@ updated: 2026-11-16
 - Στις 2026-10-21 το Asana δείχνει ότι η συνεργασία συνεχίζεται: «video aesthetic» ✓ 2026-10-16 και «day to night reel» ✓ 2026-10-19 (Βασιλική, Μαριάννα). Η κατάσταση άλλαξε από «σε αναμονή» σε «ενεργός» ([[2026-10-21-asana-snapshot]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Διευκρίνιση με τον Μανουσάκη για το «Nai» (WiAct, προσωπικό 2027) — Δήμος — από 2026-11-18 ([[2026-11-18-barolo-manousakis-wiact-prosopiko]])
 - [ ] Έγκριση δημιουργικών booklet «santorini best life» — πελάτης (aggelos.manousakiss@) — από 2026-10-27 ([[2026-10-27-barolo-booklet-santorini-best-life]])
 - [ ] «ενημέρωση bio» — Δήμος — due 2026-03-12 ⚠️ εκπρόθεσμο, χωρίς κίνηση από 2026-07-01 ([[2026-10-21-asana-snapshot]])
 - [ ] Εξήγηση στη λογίστρια Περσίδου για τις ενδοκοινοτικές του Ιουνίου — [[marina-papanastasiou]] — από 2026-07-24, ασαφές αν έγινε ([[2026-07-24-barolo-timologia-endokoinotika]])
@@ -29,6 +33,7 @@ updated: 2026-11-16
 - 2026-07-24: η Μαρίνα απαντά στη λογίστρια με βάση την οδηγία του Δήμου («Εξήγησε της ότι ένα βίντεο το πόσο που χρεώνει» — διατύπωση ασαφής) ([[2026-07-24-barolo-timologia-endokoinotika]]).
 
 ## Χρονολόγιο
+- 2026-11-18 — Μανουσάκης: forward WiAct (προσωπικό 2027) + «Nai» στον Δήμο ([[2026-11-18-barolo-manousakis-wiact-prosopiko]]).
 - 2026-11-14 — barolosantorini.gr: spam trackback σε αναμονή έγκρισης (6 σχόλια σε moderation) ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-08 — Φόρμα Barolo Beach: Lauren Cardona, Σαντορίνη 2027-07-13 (κρουαζιέρα) ([[2026-11-09-admin-eidopoiiseis]]).
 - 2026-11-02 — barolobeach.gr: το Instagram feed (Smash Balloon) δεν συνδέεται με το Instagram API· δείχνει cached posts ([[2026-11-03-admin-eidopoiiseis]]).
