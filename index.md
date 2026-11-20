@@ -258,6 +258,7 @@ updated: 2026-11-20
 
 ## Δουλειές Chief of Staff
 - [[README|jobs/README]] — λίστα leads (Δευτέρα), posts (Παρασκευή), αναφορά (Παρασκευή) · οδηγίες: [[leads]], [[posts]], [[report]]
+- [[reminders]] — υπενθυμίσεις του Δήμου (R-ids)· τις κυνηγά ο Remember agent κάθε μέρα 08:43 & 14:43 · οδηγίες: [[remember]]
 
 ## Πηγές
 - `raw/email/` — 580 digests από Gmail (απεσταλμένα από 2026-07-20)
