@@ -3,7 +3,7 @@ type: vendor
 title: "The Accountancy Partnership (TAP)"
 aliases: [TAP, The Accountancy Partnership, theaccountancy.co.uk]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-20
 ---
 # The Accountancy Partnership (TAP)
 > Online λογιστικό γραφείο στο UK. Επιλέχθηκε στις 2026-10-14 ως λογιστής της [[grow-360-ltd]]. Το onboarding είναι σε εξέλιξη αλλά μπλοκαρισμένο από ένα απλήρωτο τιμολόγιο.
@@ -22,11 +22,16 @@ updated: 2026-11-13
   - Freyja Buckley, Admin Assistant: welcome, AML.
   - **Jamie McColl**: ο λογιστής που ανατέθηκε.
   - Megan Sprakes και Christina (admin): το θέμα του μπλοκαρισμένου λογαριασμού.
+  - Natalie Hughes (Admin Junior: υπενθυμίσεις τιμολογίων)· Jennifer Atherton (Sales Executive: CT authorisation) ([[2026-11-20-grow360-tap-corporation-tax-authorisation]]).
   - asktheaccountant@theaccountancy.co.uk.
   - Πηγές: [[2026-10-14-check-tap-quote-grow360]], [[2026-10-15-accountancy-partnership-registration-signed]], [[2026-10-16-accountancy-partnership-welcome]], [[2026-10-16-accountancy-partnership-aml-check]], [[2026-10-19-accountancy-partnership-account-blocked]].
 - **Ομάδα GROW:** [[marina-papanastasiou]] (επιβεβαίωσε στην TAP ότι προχωράμε· η αναλυτική προσφορά ήρθε 2026-10-12· παίρνει τα forwards). Ο Δήμος, ως director.
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-20:
+- 2026-11-19 13:02 «Overdue invoices» (Natalie Hughes): καμία δουλειά/εκπροσώπηση στην HMRC μέχρι την πληρωμή → ο Δήμος πλήρωσε μέσω Pandle **P-388148 £72** και **P-388149 £24** (13:07–13:08)· η TAP: έως 24 ώρες για να καταγραφεί ([[2026-11-19-grow360-tap-overdue-p388148-p388149]], [[2026-11-19-grow360-pandle-pliromes-tap]]).
+- 2026-11-20 00:42 Jennifer Atherton (Sales Executive): ζήτησαν **CT authorisation** από την HMRC· ο κωδικός «CT» φτάνει στο registered office σε ~2 εβδομάδες, ισχύει 1 μήνα, να σταλεί **με email** (όχι Client Hub) ([[2026-11-20-grow360-tap-corporation-tax-authorisation]]).
+
 Στις 2026-11-13: νέο αυτόματο «Missing Setup Information» (03:03) — λείπει ακόμα το Companies House Auth Code της [[grow-360-ltd]]· κίνδυνος HMRC penalties ([[2026-11-12-admin-eidopoiiseis]]).
 
 Στις 2026-10-28:
@@ -38,8 +43,10 @@ updated: 2026-11-13
 - Εκκρεμούν και τα έγγραφα AML ([[2026-10-16-accountancy-partnership-aml-check]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Επιβεβαίωση είσπραξης + ενημέρωση λογαριασμού — TAP — έως ~2026-11-20 ([[2026-11-19-grow360-tap-overdue-p388148-p388149]])
+- [ ] Κωδικός «CT» της HMRC → email στην Jennifer Atherton — Δήμος — μόλις φτάσει (~έως 2026-12-04), ισχύς 1 μήνα ([[2026-11-20-grow360-tap-corporation-tax-authorisation]])
 - [ ] Companies House Auth Code στο Client Hub (Account Setup → Submit Changes) — Δήμος — ζητείται από 2026-10-16, νέα υπενθύμιση 2026-11-13 ([[2026-11-12-admin-eidopoiiseis]])
-- [ ] Πληρωμή P-388148 και P-388149 (ποσά μόνο στα PDF) — Δήμος — **έως 2026-10-30** (εκκρεμεί από 2026-10-19) ([[2026-10-19-accountancy-partnership-account-blocked]], [[2026-10-27-tap-ypenthymisi-p388148-p388149]])
+- [x] ✓ 2026-11-19: £72 + £24 μέσω Pandle ([[2026-11-19-grow360-pandle-pliromes-tap]]) — Πληρωμή P-388148 και P-388149 (ποσά μόνο στα PDF) — Δήμος — **έως 2026-10-30** (εκκρεμεί από 2026-10-19) ([[2026-10-19-accountancy-partnership-account-blocked]], [[2026-10-27-tap-ypenthymisi-p388148-p388149]])
 - [ ] Έγγραφα AML: photo ID και αποδεικτικό διεύθυνσης τελευταίου τριμήνου — Δήμος/Μαρίνα — χωρίς ημερομηνία ([[2026-10-16-accountancy-partnership-aml-check]])
 - [ ] Link για initial consultation από τον Jamie — TAP — έως 2026-10-20 (2 εργάσιμες από 2026-10-16) ([[2026-10-16-accountancy-partnership-welcome]])
 - [ ] Ο κωδικός «CT» της HMRC (έρχεται ταχυδρομικά σε ~2 εβδομάδες) και το authentication code της Companies House πρέπει να σταλούν στην TAP — Δήμος — ~έως 2026-10-30 ([[2026-10-16-accountancy-partnership-welcome]])
@@ -51,6 +58,8 @@ updated: 2026-11-13
 - 2026-10-14 → [[2026-10-14-logistis-uk-the-accountancy-partnership]].
 
 ## Χρονολόγιο
+- 2026-11-20 — Jennifer Atherton: CT authorisation ζητήθηκε από HMRC ([[2026-11-20-grow360-tap-corporation-tax-authorisation]]).
+- 2026-11-19 — Natalie Hughes: overdue P-388148/9 → πληρωμή £72 + £24 μέσω Pandle, απάντηση Δήμου ([[2026-11-19-grow360-tap-overdue-p388148-p388149]], [[2026-11-19-grow360-pandle-pliromes-tap]]).
 - 2026-11-13 — Αυτόματο «Missing Setup Information»: Companies House Auth Code για Grow 360 Ltd ([[2026-11-12-admin-eidopoiiseis]]).
 - 2026-10-30 — Αυτόματο «Missing Setup Information»: ζητούν Companies House Auth Code μέσω Client Hub. Πληρωμή P-388148/P-388149 λήγει σήμερα 30/10 ([[2026-10-30-tap-client-hub-auth-code]]).
 - 2026-10-27 — Natalie Hughes: «polite reminder» για P-388148 και P-388149, λήξη 2026-10-30 ([[2026-10-27-tap-ypenthymisi-p388148-p388149]]).
@@ -63,6 +72,7 @@ updated: 2026-11-13
 - 2026-10-12 — Η TAP στέλνει την αναλυτική προσφορά, μετά την επιβεβαίωση της Μαρίνας ([[2026-10-14-check-tap-quote-grow360]]).
 
 ## Οικονομικά
+- **Πληρώθηκαν 2026-11-19:** P-388148 (Reg fee) **£72**, P-388149 (CH ID) **£24** — σύνολο £96 ([[2026-11-19-grow360-pandle-pliromes-tap]]).
 - **Αρχικό κόστος:** £616,80 με VAT ([[2026-10-14-check-tap-quote-grow360]]):
   - Accounts & CT 1ου έτους: £474 + VAT = £568,80.
   - Registered Office Οκτ–Νοε 2026: £24 με VAT.

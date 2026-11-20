@@ -3,7 +3,7 @@ type: client
 title: "Υιάγια (Yiayia Meatballs)"
 aliases: [Υιάγια, Yiayia, Yiayia Meatballs, Υιάγια Home of Meatballs, Γιάγια, yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Υιάγια (Yiayia Meatballs)
 > Εστιατόριο με κεφτεδάκια («Home of Meatballs») της [[maria-drouza]]· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influencers, μενού, packaging και γυρίσματα.
@@ -15,7 +15,10 @@ updated: 2026-11-19
 - **Ομάδα GROW:** [[vassiliki-giannopoulou]] (account lead· ανακοινώθηκε στο thread που ξεκίνησε 2026-09-11) ([[2026-10-07-yiayia-street-activation-content]])· [[ioanna-chalkiadaki]] (μενού, packaging, influencers, posting)· ο Δήμος (site, game, email, server)· [[vassia-kataki]] (promo video του game) ([[2026-10-16-yiayia-meatball-catcher-promo]])· [[marina-papanastasiou]] σε cc.
 - **Domains:** yiayiameatballs.gr· foodhugs.gr = άλλο project της Μαρίας ([[2026-10-20-yiayia-website-new-version]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- **Take away menu (2026-11-19):** ο [[kostas-tzevelekos]] έστειλε 14:27 **3 μικρές διορθώσεις** (κεφτεδάκια μπακαλιάρου μερίδα + «με πουρέ πατάτας»· όχι «ξυλόφουρνος» στα σάντουιτς· κεντράρισμα τιμών FUZE)· στην ερώτηση της Βασιλικής διευκρίνισε 15:49 ότι ο **πουρές μένει 1,00 €** παντού («δικό μου λάθος» το 1,20 €). Επόμενο: νέα έκδοση για τελική έγκριση ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]]).
+
+*Από 2026-11-19:*
 - **NAK — παραγγελίες (2026-11-18):** μετά από τηλέφωνο, η Βασιλική ενέκρινε τη **μακέτα σακουλακιών** και παρήγγειλε **150 κιλά** (15:51) και την **ασπρόμαυρη χαρτοπετσέτα 24×24 1φ** με παραγγελία **10 κιβωτίων** (16:11)· στις 16:29/16:30 διόρθωσε ότι η παράδοση γίνεται βάσει της προκαθορισμένης συμφωνίας, όχι στο κατάστημα. Ημερομηνία παράδοσης: αναμονή NAK. Φύλλο βεζετάλ: εκκρεμεί ([[2026-11-09-yiayia-meta-nak-timologio-update-2026-11-19]], [[2026-11-18-yiayia-nak-xartopetseta-paraggelia]]).
 
 *Από 2026-11-18:*
@@ -49,10 +52,11 @@ updated: 2026-11-19
 - Επόμενο γύρισμα: «Υιάγια shooting» 2026-10-23 09:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Ενσωμάτωση 3 διορθώσεων take away menu (πουρές 1,00 € στον μπακαλιάρο, «ξυλόφουρνος» εκτός, κεντράρισμα FUZE) + τελική έκδοση προς έγκριση — Βασιλική — από 2026-11-19 ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]])
 - [ ] Ημερομηνία παράδοσης: σακουλάκια 150 κιλά + χαρτοπετσέτες 24×24 ασπρόμαυρες 10 κιβώτια — NAK → Βασιλική — από 2026-11-18 ([[2026-11-09-yiayia-meta-nak-timologio-update-2026-11-19]], [[2026-11-18-yiayia-nak-xartopetseta-paraggelia]])
 - [ ] Ανοιχτό PDF μακέτας μπωλ 750/500 ml → έλεγχος/έγκριση — NAK → Βασιλική — από 2026-11-17 ([[2026-11-17-yiayia-ektypomena-mpol-nak]])
 - [ ] Σχόλια/έγκριση νέου μοντάζ Τέλος Πάγγων — Μαρία Δρούζα — από 2026-11-17 ([[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-18]])
-- [ ] Έλεγχος ανανεωμένου take away menu — Τζεβελέκος — από 2026-11-17 ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-18]])
+- [x] ✓ Έλεγχος ανανεωμένου take away menu — Τζεβελέκος — απάντησε 2026-11-19 με 3 μικρές διορθώσεις ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-18]], [[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]])
 - [x] ✓ (στάλθηκε 2026-11-17, αναμονή σχολίων Μαρίας) Νέο μοντάζ Τέλος Πάγγων (κόψιμο εισαγωγής, «το νου σου στον ΚΕΦΤΕ», «Έχει επιτυχία;…», Γιώργος νωρίτερα) — Βασιλική — από 2026-11-16 ([[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-17]])
 - [ ] Street activation vid.1: αφαίρεση κυρίας που απέσυρε την έγκριση + σκορ μέσα στα safe areas — Μαριάννα ανέβασε νέα έκδοση 2026-11-16, έγκριση Βασιλικής — ([[2026-11-16-asana-yiayia-street-activation-timologisi]])
 - [ ] Τιμολόγηση review stand & stickers — Λογιστήριο — η Μαρίνα το ξαναζητά 2026-11-16 ([[2026-11-16-asana-yiayia-street-activation-timologisi]])
@@ -119,6 +123,7 @@ updated: 2026-11-19
 - [x] Design site σε PDF (web/mobile, 2 εκδοχές footer & playlist) — Ιωάννα — 2026-08-12 ([[2026-08-12-yiayia-updated-website-pdf]])
 
 ## Αποφάσεις
+- 2026-11-19 — Πουρές ως συνοδευτικό στο take away menu: **1,00 €** παντού (όχι 1,20 €) — Τζεβελέκος ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]]).
 - 2026-11-13 — Εκτυπωτικά: 2339 C/U, χαρτοπετσέτα ασπρόμαυρη (έγκριση [[maria-drouza]]) ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-16]]).
 - [[2026-08-12-yiayia-ksekinima-site]] — ο Δήμος ξεκινά development πριν το τελικό feedback.
 - [[2026-09-11-yiayia-account-vassiliki]] — το account περνά στη Βασιλική.
@@ -129,6 +134,7 @@ updated: 2026-11-19
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — Take away menu: 3 μικρές διορθώσεις από Τζεβελέκο· πουρές παραμένει 1,00 € ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]]).
 - 2026-11-18 — NAK: έγκριση + παραγγελία σακουλακιών (150 κιλά) και ασπρόμαυρης χαρτοπετσέτας 24×24 (10 κιβώτια)· διόρθωση για τον τόπο παράδοσης ([[2026-11-09-yiayia-meta-nak-timologio-update-2026-11-19]], [[2026-11-18-yiayia-nak-xartopetseta-paraggelia]]).
 - 2026-11-17 — Νέο μοντάζ Τέλος Πάγγων στη Μαρία · ανανεωμένα take away menu στον Τζεβελέκο · NAK: μακέτες μπωλ 750/500 ml, η Βασιλική ζητά PDF ([[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-18]], [[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-18]], [[2026-11-17-yiayia-ektypomena-mpol-nak]]).
 - 2026-11-16 — Τελικό βίντεο Τέλος Πάγγων· η Μαρία Δρούζα ζητά κοπές (μεγάλη εισαγωγή, ατάκες) ([[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-17]]). Asana: street activation — μια συμμετέχουσα ζήτησε να αφαιρεθεί· νέα έκδοση από Μαριάννα· Μαρίνα ξαναζητά τιμολόγηση review stand & stickers ([[2026-11-16-asana-yiayia-street-activation-timologisi]]).

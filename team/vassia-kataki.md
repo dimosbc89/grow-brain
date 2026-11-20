@@ -3,7 +3,7 @@ type: team
 title: "Βάσια Κατάκη"
 aliases: [Vassia Kataki, Βάσια, Vassia, Vassia.K, vassia@growagency.online]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-20
 ---
 # Βάσια Κατάκη
 > Graphic Designer της GROW. Της πηγαίνουν brand manuals, logo briefs, design e-shop/site, βίντεο και κατόψεις περιπτέρων.
@@ -31,10 +31,14 @@ updated: 2026-11-13
 - Call «Kostas Gardikis x Grow Agency (Int)» 2026-10-05 με τη Μαρίνα. Σκοπός ασαφής ([[2026-07-20_2026-11-03]]).
 - Της προωθήθηκε (μαζί με τη Μαρίνα) και το email της ΔΥΠΑ για την επιμήκυνση ([[2026-08-18-dypa-programma-30plus-epimikynsi]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19: η [[niki-daleziou]] της ζήτησε να αντικαταστήσει την εικόνα της σελίδας Tinos στο [[mr-mrs-white]] λόγω αξίωσης COPYTRACK (Case 668D3B) ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).
+
+*Από 2026-10-20:*
 - Το design του e-shop Tandem έκλεισε στις 2026-10-08· μένουν τελικές αλλαγές ([[2026-10-08-tandem-review-eshop-developer]], [[2026-10-12-tandem-eshop-final-notes]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] ⚠️ Αντικατάσταση εικόνας Tinos στο mrandmrswhitehotels.com (COPYTRACK) — άμεσα, από 2026-11-19 ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]])
 - [ ] [[oggi-gelato]] T-shirts: απάντηση Επιλογής για εκτύπωση στην τιμή → επιλογή μοντέλου — Βάσια — από 2026-11-12 ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]])
 - [ ] Πιο σύντομο «YIAYIA_Meatball_Catcher_Promo.mp4» με άλλο τέλος — Βάσια/Βασιλική — χωρίς ημερομηνία ([[2026-10-16-yiayia-meatball-catcher-promo]])
 - [ ] Brief περιπτέρου Argyroplastics: τι ακριβώς χρειάζεται από αυτήν — ασαφές, από 2026-10-19 ([[2026-10-20-argyroplastics-plastica-2026]])
@@ -44,6 +48,7 @@ updated: 2026-11-13
 - —
 
 ## Χρονολόγιο
+- 2026-11-19 — Αίτημα Νίκης (HotelBrain) για αντικατάσταση εικόνας Tinos λόγω COPYTRACK ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).
 - 2026-11-12 — 17:08 ρωτά την [[epilogin]] αν οι τιμές των μπλουζών Oggi περιλαμβάνουν εκτύπωση ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]]).
 - 2026-11-11 — Print Kong: αποδεικτικό πληρωμής εντύπου Αντεμισάρη ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]), εντολή plexi [[argyroplastics]] 60 € + ΦΠΑ ([[2026-10-19-plexiglass-argyroplastics-printkong-update-2026-11-12]]), παράδοση plexi/αυτοκολλήτων [[yiayia-meatballs]] στη GROW ([[2026-10-16-stand-plexi-printkong-update-2026-11-12]]).
 - 2026-11-02 — Argyroplastics: στέλνει στην Epilogi κάτοψη με μέτρα και τα εκτυπωτικά αρχεία με διαστάσεις/ποσότητες ([[2026-11-02-argyroplastics-katopsi-me-metra]], [[2026-11-02-argyroplastics-ektypotika-arxeia]]).

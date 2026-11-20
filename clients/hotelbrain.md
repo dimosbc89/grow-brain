@@ -3,7 +3,7 @@ type: client
 title: "HotelBrain"
 aliases: [HOTELBRAIN S.A., Hotelbrain, Hotel Brain, hotelbrain.com, hotelbraingroup.com]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # HotelBrain
 > Η HOTELBRAIN S.A. είναι η πλευρά πελάτη για τα hotel websites που φτιάχνει και υποστηρίζει τεχνικά η GROW ([[mr-mrs-white]], [[anayia]], September City Living, GHH) και τώρα για το νέο corporate site της ίδιας της HotelBrain.
@@ -16,7 +16,11 @@ updated: 2026-11-19
 - **Ομάδα GROW:** ο Δήμος (τεχνικό και εμπορικό σκέλος) και η [[marina-papanastasiou]], που πήρε forward το invite της 2026-10-02 ([[2026-10-02-hotelbrain-meeting-invite]]).
 - **Vendor:** [[webhotelier]], η πηγή των δεδομένων των ξενοδοχείων και το booking engine ([[2026-09-14-hotelbrain-webhotelier-api]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+**Νέα 2026-11-19:**
+- ⚠️ **Πιθανή αξίωση copyright (COPYTRACK, Case 668D3B):** η COPYTRACK (για τον δικαιούχο **RAWF8**, επικράτεια Γερμανίας) έγραψε 2026-11-19 11:08 στο info@mrandmrswhitehotels.gr για εικόνα χωρίς άδεια στη σελίδα **/destinations/tinos/** του [[mr-mrs-white]] (online από 2026-03-14). Ζητά απόδειξη άδειας **έως 2026-11-29**, αλλιώς **άδεια 481,50 €** (προηγ. χρήση + 1 έτος) ή **αποζημίωση 350,00 €** (προηγ. χρήση + διαγραφή), **πληρωμή έως 2026-11-28**, με απειλή παραπομπής σε δικηγόρους. Η [[niki-daleziou]] (14:21) ζήτησε από τη [[vassia-kataki]] (cc Δήμος) να **αντικαταστήσει τη φωτογραφία** με δική τους από τα χωριά της Τήνου (συνημμένη). Απάντηση GROW: δεν φαίνεται ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).
+
+*Νωρίτερα (στις 2026-11-19):*
 **Νέα 2026-11-18:**
 - **hotelbraingroup.com live με SSL:** 10:58 η [[niki-daleziou]] έστειλε screenshot του site (💭 σφάλμα SSL)· ο Δήμος 11:15 «Resolved!». Η Νίκη ζήτησε 5 αλλαγές (all our hotels δεξιά · loyalty club σε όλες τις σελίδες · B2B button footer + icon πάνω δεξιά · **αφαίρεση Instagram icon** homepage/footer · email **info@hotelbraingroup.com** αντί info@hotelbrain.com)· ο Δήμος 11:24 «μέσα στην ημέρα» → **11:34 «Ready»** ✓. Επιβεβαίωση Νίκης δεν φαίνεται ([[2026-11-18-hotelbraingroup-ssl-allages]]).
 - **HotelBrain Academy:** μετά από τηλέφωνο, ο Δήμος (23:32) **αναπροσάρμοσε την προσφορά σε 1.150 € + ΦΠΑ** «λαμβάνοντας υπόψη όλη τη συνεργασία» — «αναμένω την απάντησή σας για να ξεκινήσουμε» ([[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-19]]).
@@ -61,6 +65,8 @@ updated: 2026-11-19
 - **Επόμενη συνάντηση:** 2026-10-23, 13:00–14:00 (ήταν 15:00· ⚠️ συμπίπτει με [[dominos]]), Microsoft Teams, «Τεχνικές Προδιαγραφές Ιστοσελίδων». Συμμετέχουν η ομάδα HotelBrain και ο gspyridis@aviamos.com. Ο ρόλος της Aviamos είναι ασαφής ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] ⚠️ Αντικατάσταση εικόνας στο mrandmrswhitehotels.com/destinations/tinos/ με τη φωτογραφία της HotelBrain (drz-tinos) — [[vassia-kataki]] / Δήμος — **άμεσα** (αίτημα 2026-11-19) ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]])
+- [ ] ⚠️ COPYTRACK Case 668D3B: απόδειξη άδειας ή απόφαση (άδεια 481,50 € / αποζημίωση 350 € / αμφισβήτηση) — HotelBrain, με τη GROW να ξεκαθαρίσει **προέλευση της εικόνας** (ποιος την ανέβασε, αν υπάρχει άδεια) — **απάντηση έως 2026-11-29, πληρωμή έως 2026-11-28** ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]])
 **Νέα στις 2026-11-19**
 - [ ] Έγκριση αναθεωρημένης προσφοράς **HotelBrain Academy 1.150 € + ΦΠΑ** — Νίκη/HotelBrain — από 2026-11-18 ([[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-19]])
 - [ ] Feedback στην προσφορά **social media (HotelBrain Collection)** — [[panos-paleologos]] — από 2026-11-18 ([[2026-11-18-hotelbrain-social-media-prosfora]])
@@ -111,6 +117,7 @@ updated: 2026-11-19
 - 2026-10-27: το go-live του hotelbraingroup.com γίνεται με αλλαγή μόνο των DNS records του site (όχι name servers), από τον διαχειριστή domains της HotelBrain ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — COPYTRACK (Case 668D3B, RAWF8): ύποπτη μη αδειοδοτημένη εικόνα στη σελίδα Tinos του MMW (481,50 € άδεια / 350 € αποζημίωση)· η Νίκη ζητά αντικατάσταση φωτογραφίας από τη Βάσια ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).
 - 2026-11-18 — hotelbraingroup.com: SSL «Resolved!» + 5 αλλαγές «Ready»· Academy αναθεώρηση σε 1.150 € + ΦΠΑ· προσφορά social media στον Panos ([[2026-11-18-hotelbraingroup-ssl-allages]], [[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-19]], [[2026-11-18-hotelbrain-social-media-prosfora]]).
 - 2026-11-17 — Νίκη: 3 αλλαγές Παλαιολόγου γραπτώς + DNS εγγραφές hotelbraingroup.com ολοκληρώθηκαν, «δες το SSL» · meli meli GHH → MMW, Δήμος «Ready» ([[2026-11-17-hotelbraingroup-domain-ssl]], [[2026-11-17-hotelbrain-meli-meli-mrmrswhite]]).
 - 2026-11-16 — Teams new design 11:00 (έγινε — η Νίκη γράφει «όπως είπαμε στο κολ»)· οδηγίες design· New Server: προχωρούν έως 2026-11-17, θέλουν Cloudflare DNS ([[2026-11-16-hotelbrain-design-odigies-niki]], [[2026-11-03-hotelbrain-new-server-update-2026-11-17]]).
@@ -148,6 +155,7 @@ updated: 2026-11-19
 - 2026-03 — Πρώτο αίτημα της GROW προς τη WebHotelier για API (from price στο Mr & Mrs White). Η WebHotelier αρνήθηκε ([[2026-09-14-hotelbrain-webhotelier-api]]).
 
 ## Οικονομικά
+- 2026-11-19 — ⚠️ Αξίωση COPYTRACK (Case 668D3B) για εικόνα Tinos στο MMW: άδεια 481,50 € ή αποζημίωση 350,00 €, πληρωμή έως 2026-11-28 — ποιος βαρύνεται: ασαφές ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).
 - Corporate website: κατασκευή 240 € και hosting 120 €/έτος. Ο ΦΠΑ δεν αναφέρεται. Εγκρίθηκε 2026-09-11 ([[2026-10-12-hotelbrain-corporate-website]]).
 - Δεν είναι σαφές αν έχει εκδοθεί τιμολόγιο.
 - Η αμοιβή για τα hotel websites είναι ασαφής.

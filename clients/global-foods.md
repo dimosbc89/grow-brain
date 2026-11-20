@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -18,7 +18,12 @@ updated: 2026-11-19
 - **Επαφές:** [[elpida-plavou]] (ρόλος ασαφής· παραλήπτρια report και πρότασης videography) ([[2026-10-08-globalfoods-videography-proposal]])· [[evi-psycha]] (Marketing, marketing@globalfoods.gr) ([[2026-10-02-globalfoods-live-projector-videographer]])· commercial@globalfoods.gr σε cc ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 - **Ομάδα GROW:** ο Δήμος (app, Ads report, προτάσεις)· [[marina-papanastasiou]] (συντονισμός event)· [[despina-velissariou]] (event, φυλλάδιο, βιντεογράφος) ([[2026-10-02-globalfoods-live-projector-videographer]], [[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+**Νέα 2026-11-19:**
+- **The Hospitality Jam — συμφωνητικό στάλθηκε:** 13:11 η [[marina-papanastasiou]] έστειλε στην [[elpida-plavou]] το συμφωνητικό **8+1 sponsored episodes** «όπως το συνεννοηθήκαμε» — αναμένει συμπλήρωση στοιχείων, **σφραγίδα και υπογραφή**. Ποσό στο docx: ασαφές (πρόταση 8.000€) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]).
+- **4σέλιδο Ατζέντας 2027:** 17:26 η Ελπίδα έστειλε docx «GLOBAL FOODS GROUP» — πρώτα να συμφωνήσουμε στο **κείμενο**, μετά design με **καθαρή σύγχρονη εταιρική αισθητική, μεγάλες φωτό, περισσότερο λευκό χώρο**, χωρίς πολλά χρώματα/έντονα γράμματα. Αν έγινε το πρωινό τηλεφώνημα: ασαφές ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]]).
+- **Νέα προϊόντα για social:** η [[evi-psycha]] έστειλε (13:59) τη σειρά **Coati TOPPING PIZZA** (4 κωδικοί, βραβείο Καλύτερου Προϊόντος Cateringross Food Summit 13/11 Ρίμινι)· στην ερώτηση της Μαρίνας «έχουμε **αποκλειστικότητα**;» → «Ναι ναι» (14:59). Και (16:35) τον νέο κωδικό **Gnocco Fritto di Modena 20-909** (1.7kg×6, κατάψυξη) με φωτό προμηθευτή ([[2026-11-19-globalfoods-coati-topping-pizza]], [[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos]]).
+
 **Νέα 2026-11-18:**
 - **4σέλιδο Ατζέντας 2027 — απορρίφθηκε η κατεύθυνση:** η Δέσποινα έστειλε 17:45 2 εκδοχές (μόνο Αθήνα, μετά Σαντορίνη)· η [[elpida-plavou]] 23:07: «Δεν είμαστε παραγωγή» (όχι φωτό παραγωγής πρώτη), όχι bold τεράστια γράμματα, όχι τίτλος «η δύναμη του ομίλου», «ο όμιλος λέγεται Global Foods», «πολύ busy, χωρίς συνοχή» → «Κάλεσέ με το πρωί» ([[2026-11-18-globalfoods-4selido-atzenta-2027]]).
 - **Posting plans για έγκριση:** Global Δεκέμβριος (Μαρίνα 12:56, και posts για Ιανουάριο από slide 15) · Unique Νοε–Δεκ έως 2026-12-20 (Δέσποινα 15:24, έναρξη 2026-11-19 με όσα εγκριθούν) ([[2026-11-18-globalfoods-posting-plan-dekemvrios]], [[2026-11-18-unique-posting-plan-noe-dek]]).
@@ -72,6 +77,12 @@ updated: 2026-11-19
 - Στο ημερολόγιο: «Πρεσβεία Global - Despina» 2026-10-22 16:00 — 💭 Υπόθεση: αφορά τη Global Foods, ασαφές ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-20**
+- [ ] Υπογραφή/σφραγίδα + συμπλήρωση στοιχείων στο συμφωνητικό Hospitality Jam (8+1 επεισόδια) — [[elpida-plavou]] — από 2026-11-19 13:11 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]])
+- [ ] Συμφωνία στο κείμενο 4σέλιδου («GLOBAL FOODS GROUP.docx») → νέα εκδοχή με καθαρή εταιρική αισθητική, μεγάλες φωτό, λευκό χώρο — [[despina-velissariou]] — από 2026-11-19 17:26 ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]])
+- [ ] Social posts σειράς Coati TOPPING PIZZA (βραβείο Ρίμινι, αποκλειστικότητα) — Δέσποινα — από 2026-11-19 ([[2026-11-19-globalfoods-coati-topping-pizza]])
+- [ ] Social post(s) Gnocco Fritto 20-909 με φωτό προμηθευτή (περισσότερο υλικό θα έρθει) — Δέσποινα — από 2026-11-19 ([[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos]])
+
 **Νέα στις 2026-11-19**
 - [ ] Τηλέφωνο στην Ελπίδα για το 4σέλιδο Ατζέντας 2027 + νέα κατεύθυνση (χωρίς φωτό παραγωγής, χωρίς bold τεράστια γράμματα, όχι «η δύναμη του ομίλου», όμιλος = Global Foods, λιγότερο busy) — [[despina-velissariou]] — **2026-11-19 πρωί** ([[2026-11-18-globalfoods-4selido-atzenta-2027]])
 - [ ] 4σέλιδο Σαντορίνης (μετά την έγκριση κατεύθυνσης Αθήνας) — Δέσποινα ([[2026-11-18-globalfoods-4selido-atzenta-2027]])
@@ -91,8 +102,8 @@ updated: 2026-11-19
 **Νέα στις 2026-11-16**
 - [ ] Εξήγηση ιδέας / demo AI Agent παραγγελιολήπτη — τηλέφωνο Δήμου 2026-11-16 μετά τις 16:00 (αν έγινε: ασαφές)· μετά πρόταση/λύση από Δήμο ([[2026-11-15-globalfoods-ai-agent-app-update-2026-11-17]])
 - [x] ✓ Διευκρίνιση «τι να δούμε» για το email Τσάλιου — Ελπίδα — 2026-11-16 ([[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]])
-- [ ] Call Ιωάννας–Ελπίδας για διαδικαστικά/συμφωνητικά Hospitality Jam — Global Foods — από 2026-11-13 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]])
-- [ ] Υλικό Gnoccho fritto (Εύη) → posts social — GROW — «SOS» 2026-11-13 ([[2026-11-13-globalfoods-gnoccho-fritto]])
+- [x] ✓ (ξεπεράστηκε: συμφωνητικό στάλθηκε 2026-11-19, [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]) Call Ιωάννας–Ελπίδας για διαδικαστικά/συμφωνητικά Hospitality Jam — Global Foods — από 2026-11-13 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]])
+- [x] ✓ υλικό ήρθε 2026-11-19 16:35 ([[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos]]) — Υλικό Gnoccho fritto (Εύη) → posts social — GROW — «SOS» 2026-11-13 ([[2026-11-13-globalfoods-gnoccho-fritto]])
 
 **Νέα στις 2026-11-13**
 - [x] ✓ (παραδόθηκε 2026-11-17) **Μετάφραση παρουσίασης FISAN EN→EL** — [[despina-velissariou]] — **στόχος 2026-11-16 βράδυ** (με επιφύλαξη· η Global Foods τη θέλει για 2026-11-18) ([[2026-11-12-globalfoods-fisan-metafrasi]], [[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-16]])
@@ -102,7 +113,7 @@ updated: 2026-11-19
 
 **Νέα στις 2026-11-12**
 - [ ] **Reel Πρεσβείας ~30''** (πιο αργές εναλλαγές, λιγότερος κόσμος) — Δήμος — ζητήθηκε 2026-11-04, **kind reminder 2026-11-11** ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-12]])
-- [ ] Σχόλια Ελπίδας στην πρόταση Hospitality Jam 8.000€ — Global Foods — από 2026-11-11 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]])
+- [x] ✓ «όπως το συνεννοηθήκαμε» — συμφωνητικό 2026-11-19 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]) — Σχόλια Ελπίδας στην πρόταση Hospitality Jam 8.000€ — Global Foods — από 2026-11-11 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]])
 - [ ] Δημιουργικές ιδέες προβολής/product placement στα επεισόδια — [[ioanna-chalkiadaki]] — χωρίς ημερομηνία ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]])
 - [x] Link raw υλικού (ZEO) ξανά στην Ελπίδα — [[despina-velissariou]] — ✓ 2026-11-12 10:52 (Dropbox, λήγει 2027-01-31) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]])
 - [ ] Απάντηση «παγκόσμιες ημέρες?» Global + Unique — Δέσποινα — από 2026-11-11 ([[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-unique-pagkosmies-imeres]])
@@ -180,6 +191,7 @@ updated: 2026-11-19
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — 13:11 Μαρίνα: συμφωνητικό Hospitality Jam 8+1 για υπογραφή · 13:59 Εύη: σειρά Coati TOPPING PIZZA (αποκλειστικότητα ✓ 14:59) · 16:35 νέος κωδικός Gnocco Fritto · 17:26 Ελπίδα: πρώτα κείμενο 4σέλιδου, μετά καθαρή εταιρική αισθητική ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]], [[2026-11-19-globalfoods-coati-topping-pizza]], [[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos]], [[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]]).
 - 2026-11-18 — Tips: 8 τελικά κείμενα από Γεωργία Τσάτση 08:57 · posting plan Δεκ. Global (Μαρίνα 12:56) και Νοε–Δεκ Unique (Δέσποινα 15:24) για έγκριση · 4σέλιδο Ατζέντας 2027 (Δέσποινα 17:45) → η Ελπίδα το απορρίπτει 23:07, ζητά τηλέφωνο το πρωί ([[2026-10-09-globalfoods-tips-site-update-2026-11-19]], [[2026-11-18-globalfoods-posting-plan-dekemvrios]], [[2026-11-18-unique-posting-plan-noe-dek]], [[2026-11-18-globalfoods-4selido-atzenta-2027]]).
 - 2026-11-17 — Reel Πρεσβείας: ανανεωμένο 12:06 → Ελπίδα «Είμαστε οκ» 16:25 ✓ · FISAN: παρουσίαση GR 14:21 → Εύη οκ + QR → QR/A5/link 20:07 ✓ · νέο αίτημα CCTV policy 4.1 (14:58) ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-18]], [[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-18]], [[2026-11-17-globalfoods-cctv-policy]]).
 - 2026-11-16 — AI Agent: συμφωνήθηκε τηλέφωνο Δήμου–Ελπίδας μετά τις 16:00 (αν έγινε: ασαφές) · Lorem Ipsum Brands: «θα το δούμε» · reel Πρεσβείας: νέο βίντεο, νέα σχόλια, v2_2 στο Asana ([[2026-11-15-globalfoods-ai-agent-app-update-2026-11-17]], [[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]], [[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-17]]).
@@ -222,7 +234,7 @@ updated: 2026-11-19
 - Βιντεογράφος event 2026-10-06: προσφορά GROW 4 ώρες 350€ + ΦΠΑ / 6 ώρες 450€ + ΦΠΑ· αντιπρόταση Global Foods 4 ώρες 300€ + ΦΠΑ ([[2026-10-02-globalfoods-live-projector-videographer]]).
 - Πρόταση videography 2026-10-08: ποσά μόνο στο PDF, ασαφές ([[2026-10-08-globalfoods-videography-proposal]]).
 - Τιμολόγιο #1296 (2026-10-26): βιντεογράφηση Ιταλικής Πρεσβείας· ποσό μόνο στο PDF (προσφορά βιντεογράφου 150 € + ΦΠΑ) ([[2026-10-26-globalfoods-timologio-presveia]], [[2026-10-14-globalfoods-presveia-videografos]]).
-- The Hospitality Jam (podcast Γεωργιάδη): ανανεωμένη πρόταση **8.000€ για 8+1 επεισόδια** (2026-11-11), ΦΠΑ δεν αναφέρεται· σε αναμονή απάντησης ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]]).
+- The Hospitality Jam (podcast Γεωργιάδη): ανανεωμένη πρόταση **8.000€ για 8+1 επεισόδια** (2026-11-11), ΦΠΑ δεν αναφέρεται ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]]). Στις 2026-11-19 στάλθηκε συμφωνητικό «8_plus_1_Sponsored_Episodes» για υπογραφή «όπως το συνεννοηθήκαμε»· ποσό στο συμφωνητικό: ασαφές ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]).
 - Αμοιβές για app/Ads: ασαφές.
 
 ## Σημειώσεις

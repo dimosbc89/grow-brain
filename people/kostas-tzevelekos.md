@@ -3,7 +3,7 @@ type: person
 title: "Κώστας Τζεβελέκος"
 aliases: [Kostas, Κώστας, ktzev@hotmail.gr, kostas@yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-11-20
 ---
 # Κώστας Τζεβελέκος
 > Πλευρά πελάτη στην [[yiayia-meatballs]]: χειρίζεται packaging/προμηθευτές και είναι σε cc στα περισσότερα threads.
@@ -13,7 +13,11 @@ updated: 2026-10-20
 - **Email:** ktzev@hotmail.gr· από 2026-10 και kostas@yiayiameatballs.gr ([[2026-10-09-yiayiameatballs-etairika-emails]]).
 - **Συνεργάζεται με:** [[maria-drouza]]· προμηθευτής packaging CLS (Διονύσιος Πιερρόπουλος) ([[2026-08-05-yiayia-packaging-cls]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-20)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19: έλεγξε τα ανανεωμένα take away menu (της 17/11) και έστειλε 3 μικρές διορθώσεις· διευκρίνισε ότι ο πουρές μένει 1,00 € ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]]).
+- 2026-11-13: έστειλε τις αλλαγές τιμών/περιεχομένου του take away menu ([[2026-11-13-yiayia-take-away-menu-allages-timon]]). Επιβεβαιώνεται ότι ελέγχει τις τιμές του μενού.
+
+*Από 2026-10-20:*
 - Σε cc στο thread του νέου site ([[2026-10-20-yiayia-website-new-version]]). Τίποτα ανοιχτό με τον ίδιο προσωπικά πέρα από το packaging (ασαφές αν έκλεισε).
 
 ## Ανοιχτά & επόμενα βήματα
@@ -24,6 +28,8 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-11-19 — Διορθώσεις take away menu (μπακαλιάρος με πουρέ, «ξυλόφουρνος» εκτός, FUZE)· πουρές 1,00 € ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]]).
+- 2026-11-13 — Αλλαγές τιμών & περιεχομένου take away menu ([[2026-11-13-yiayia-take-away-menu-allages-timon]]).
 - 2026-10-08 — Του δημιουργήθηκε mailbox kostas@yiayiameatballs.gr ([[2026-10-09-yiayiameatballs-etairika-emails]]).
 - 2026-07-29 — Ζητά το τιμολόγιο ΑΑ 1166· ο Δήμος το προωθεί στη Βασιλική ([[2026-07-29-timologio-1166-tzevelekos]]).
 - 2026-07-28 — Στέλνει αρχεία packaging (σακούλα 28x17x29, κουτί 24x24, κύπελλα, αναπτύγματα CLS) ([[2026-08-05-yiayia-packaging-cls]]).

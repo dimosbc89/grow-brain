@@ -3,7 +3,7 @@ type: team
 title: "Βασιλική Γιαννοπούλου"
 aliases: [Vassiliki Giannopoulou, Βασιλική, Vassiliki, vassiliki@growagency.online]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Βασιλική Γιαννοπούλου
 > Account Director της GROW. Ο Δήμος της στέλνει τα τιμολόγια και τα admin, τρέχει τα accounts [[yiayia-meatballs]] (από τον Σεπτέμβριο 2026) και Estia, και κάνει calls με νέους πελάτες.
@@ -37,13 +37,17 @@ updated: 2026-11-19
   - [[dypa-programma]]: ανάρτηση Ιουλίου· έγραψε το draft για την επιμήκυνση ([[2026-08-10-dypa-anartisi-iouliou]], [[2026-08-18-dypa-programma-30plus-epimikynsi]]).
   - Αποστολή του τιμολογίου ΑΑ 1166 στον [[kostas-tzevelekos]] ([[2026-07-29-timologio-1166-tzevelekos]]). Draft του Δήμου προς [[speedex]] ([[2026-08-28-speedex-web-services-demo-test]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19: [[brewhub]] Christmas creatives — προτάσεις + εκτυπωτικά + τιμολόγιο #1334 · [[pharmacypan]] — 2 ιδιωτικά συμφωνητικά Ακουστικών προς Πάρη για υπογραφή · [[twenty-seven-27]] — EN παρουσίαση · [[yiayia-meatballs]] — 3 διορθώσεις take away menu από Τζεβελέκο προς ενσωμάτωση ([[2026-11-19-brewhub-christmas-creatives]], [[2026-11-19-pharmacypan-idiotika-symfonitika-akoustika]], [[2026-11-16-twenty-seven-parousiasi-update-2026-11-20]], [[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]]).
+
+*Από 2026-11-19:*
 - 2026-11-18 (Knack & Snack): review του demo site προς τον Δήμο (λογότυπα, scroll, σελίδα pizza, studio, «more») + έστειλε τα σωστά λογότυπα ([[2026-11-18-knack-review-site]]).
 
 *Νωρίτερα (στις 2026-10-20):*
 - Είναι η κύρια επαφή της Μαρίας (Yiayia). Απάντησε σημείο-σημείο στις 2026-10-20 και ανέλαβε το post της 28ης Οκτωβρίου («I'm on it») ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Τελική έκδοση take away menu Υιάγια με τις 3 διορθώσεις της 2026-11-19 ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]])
 - [ ] Όνομα επόμενου creator/influencer προς τη Μαρία (Yiayia) — Βασιλική — έως **2026-10-21 πρωί** ([[2026-10-20-yiayia-website-new-version]])
 - [ ] Post για την 28η Οκτωβρίου (Yiayia) — Βασιλική — έως 2026-10-28 ([[2026-10-20-yiayia-website-new-version]])
 - [ ] Διαθεσιμότητες για street interviews (Yiayia) — Βασιλική — χωρίς ημερομηνία ([[2026-10-20-yiayia-website-new-version]])
@@ -62,6 +66,8 @@ updated: 2026-11-19
 - 2026-07-28: εγκρίθηκε remote εργασία για τις 2026-08-07 από 11:00 ([[2026-07-28-vassiliki-remote-0708]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — Overoll: Christmas strategy + moodboard (15:07) → η Βάσω εγκρίνει κατεύθυνση/ροή, call moodboard 20/11 09:00–13:00· εκκρεμούν πρόταση Panettone (έως 20/11) και προφίλ/κόστος μοντέλων ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]]).
+- 2026-11-19 — Brewhub Christmas creatives + #1334 · συμφωνητικά Ακουστικών · EN παρουσίαση Twenty Seven · διορθώσεις take away menu ([[2026-11-19-brewhub-christmas-creatives]], [[2026-11-19-pharmacypan-idiotika-symfonitika-akoustika]], [[2026-11-16-twenty-seven-parousiasi-update-2026-11-20]], [[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]]).
 - 2026-11-18 — Review site Knack & Snack προς Δήμο ([[2026-11-18-knack-review-site]]).
 - 2026-11-13 — Freddo YT video + Java Jives (16/11) για [[nikas-coffee-expert]]· Pantone Υιάγια κλείδωσε, παρατηρήσεις στη NAK, νέες αλλαγές take away menu· εταιρική παρουσίαση [[nomud]]· πρόταση Divino & Caffè del Doge (follow-up 16/11)· διπλό σκανάρισμα στην κάρτα εργασίας ([[2026-11-13-nikas-review-yt-video-freddo]], [[2026-11-04-yiayia-pantone-street-activation-update-2026-11-16]], [[2026-11-13-yiayia-maketes-pros-ektyposi-nak]], [[2026-11-13-yiayia-take-away-menu-allages-timon]], [[2026-11-13-nomud-etairiki-parousiasi]], [[2026-11-13-divino-caffe-del-doge-protasi-synergasias]], [[2026-11-13-karta-ergasias-vassiliki-proselefsi]]). 2026-11-15: ο Δήμος της προώθησε το τιμολόγιο METALEASE 14374 ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-11 — Προσφορά περιπτέρου HORECA 2027 στη [[divino]], απάντηση έως 2026-11-19 ([[2026-11-11-divino-horeca-2027-prosfora-periptero]]).

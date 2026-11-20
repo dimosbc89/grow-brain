@@ -3,7 +3,7 @@ type: person
 title: "Κώστας Γιαννόπουλος (TSU)"
 aliases: [Kostas Giannopoulos, kostas@tsupies.com]
 status: ενεργός
-updated: 2026-10-20
+updated: 2026-11-20
 ---
 # Κώστας Γιαννόπουλος (TSU)
 > CEO & Co-Founder των TSU Pies BV / TSU Pies SARL / Grandpas SARL-s (Λουξεμβούργο) — ο decision maker του lead [[tsu-pies]].
@@ -23,6 +23,7 @@ updated: 2026-10-20
 - —
 
 ## Χρονολόγιο
+- 2026-11-19 — Σε κοινοποίηση στο email της Βίκης με τις φωτογραφίες «παππού Κώστα» ([[2026-11-19-tsupies-fotografies-pappou]]).
 - 2026-10-07, 2026-09-21 (kick-off), 2026-09-17, 2026-08-11 — Συναντήσεις με GROW ([[2026-07-20_2026-11-03]]).
 - 2026-08 — Μεταθέτει το πρώτο call και ζητά ώρες μετά τις 15:00 Λουξεμβούργου ([[2026-08-10-tsu-pies-briefing-call]]).
 

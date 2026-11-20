@@ -3,7 +3,7 @@ type: client
 title: "Φαρμακείο Πανόπουλος Αχαρνές (pharmacypan.gr)"
 aliases: [PharmacyPan, pharmacypan.gr, Φαρμακείο Πανόπουλος, Πανόπουλος, Pharmacy Panopoulos, ΠΑΝΟΠΟΥΛΟΣ ΑΚΟΥΣΤΙΚΑ]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Φαρμακείο Πανόπουλος Αχαρνές (pharmacypan.gr)
 > Φαρμακείο στις Αχαρνές του [[paris-panopoulos]]· η GROW κρατά domain/email του pharmacypan.gr, γράφει άρθρα για το site και κάνει γυρίσματα.
@@ -14,7 +14,11 @@ updated: 2026-11-19
 - **Επαφές:** [[paris-panopoulos]] (φαρμακοποιός)· george@gandritsos.com στο «PharmacyPan review» της 2026-09-30, ρόλος ασαφής ([[2026-07-20_2026-11-03]]).
 - **Ομάδα GROW:** [[vassiliki-giannopoulou]] (επικοινωνία με πελάτη, review άρθρων)· ο Δήμος· [[marina-papanastasiou]] σε τιμολόγηση domain ([[2026-08-07-pharmacypan-phishing-spam]], [[2026-10-12-pharmacy-article-review-link]], [[2026-09-07-cretaforce-pharmacypan-domain-renewal]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- **Ιδιωτικά συμφωνητικά Ακουστικών (2026-11-19 15:14):** η Βασιλική έστειλε στον [[paris-panopoulos]] 2 συμφωνητικά — **μηνιαίο performance** και **landing page** — και ζητά να επιστραφούν υπογεγραμμένα (όροι/ποσά μόνο στα PDF) ([[2026-11-19-pharmacypan-idiotika-symfonitika-akoustika]]).
+- Η ερώτηση του Πάρη για την παρακολούθηση των leads περιμένει ακόμη τον Δήμο (από 2026-11-09)· δεν φαίνεται απάντηση ([[2026-11-03-pharmacypan-prosfora-landing-ads-update-2026-11-19]]).
+
+*Από 2026-11-19:*
 - **2026-11-18 10:57:** η Βασιλική ξαναπροώθησε (3η φορά, χωρίς σχόλιο) στον Δήμο την ερώτηση του [[paris-panopoulos]] «πώς θα παρακολουθούμε τα mail που μαζεύονται» — περιμένει τον Δήμο από 2026-11-09, ο πελάτης περιμένει από 2026-11-04 ([[2026-11-03-pharmacypan-prosfora-landing-ads-update-2026-11-19]]).
 
 *Από 2026-11-06:*
@@ -31,6 +35,7 @@ updated: 2026-11-19
 - Στο ημερολόγιο υπάρχει «γύρισμα Πανόπουλος σπίτια» 2026-10-23· ασαφές αν αφορά τον ίδιο πελάτη ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Υπογραφή & επιστροφή 2 ιδιωτικών συμφωνητικών (performance μηνιαίο + landing page Ακουστικών) — [[paris-panopoulos]] — από 2026-11-19 ([[2026-11-19-pharmacypan-idiotika-symfonitika-akoustika]])
 - [ ] Εξήγηση στη Βασιλική τι ζητά ο Πάρης (απάντηση 4/11) — Δήμος — από 2026-11-09 ([[2026-11-03-pharmacypan-prosfora-landing-ads-update-2026-11-10]]) · νέα υπενθύμιση Βασιλικής 2026-11-18 ([[2026-11-03-pharmacypan-prosfora-landing-ads-update-2026-11-19]])
 - [ ] Απάντηση στον Πάρη: πώς βλέπει τα leads + έναρξη landing/Ads ([[2026-11-04-pharmacypan-apodoxi-akoustika]])
 - [ ] Feedback στο τρίπτυχο φυλλάδιο ακουστικών — [[paris-panopoulos]] — από 2026-11-02 ([[2026-11-02-pharmacypan-flyer-akoustika]])
@@ -52,6 +57,7 @@ updated: 2026-11-19
 - 2026-08-07 — Το email «Webmail Revalidation» για το axarnes@pharmacypan.gr είναι phishing/spam· καμία ενέργεια ([[2026-08-07-pharmacypan-phishing-spam]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — Η Βασιλική στέλνει στον Πάρη τα ιδιωτικά συμφωνητικά (performance + landing page) Ακουστικών για υπογραφή ([[2026-11-19-pharmacypan-idiotika-symfonitika-akoustika]]).
 - 2026-11-18 — Η Βασιλική ξαναστέλνει στον Δήμο την ερώτηση του Πάρη για την παρακολούθηση των leads ([[2026-11-03-pharmacypan-prosfora-landing-ads-update-2026-11-19]]).
 - 2026-11-09 — Η Βασιλική ρωτά τον Δήμο «τι εννοεί» ο Πάρης στην απάντηση της 4/11 ([[2026-11-03-pharmacypan-prosfora-landing-ads-update-2026-11-10]]).
 - 2026-11-04 — Αποδοχή προσφοράς landing + Google Ads· τιμολόγιο ([[2026-11-04-pharmacypan-apodoxi-akoustika]]).
@@ -71,6 +77,7 @@ updated: 2026-11-19
 - 2026-08-07 — Ο πελάτης ρώτησε μέσω Βασιλικής αν το «confirm your access» είναι spam· ο Δήμος: «Spam» ([[2026-08-07-pharmacypan-phishing-spam]]).
 
 ## Οικονομικά
+- 2026-11-19 — Ιδιωτικά συμφωνητικά «Monthly Ακουστικά» (performance) και «Landing Page Ακουστικά» — ποσά μόνο στα PDF ([[2026-11-19-pharmacypan-idiotika-symfonitika-akoustika]]).
 - Υπόλοιπο καρτέλας «ΠΑΝΟΠΟΥΛΟΣ ΠΑΡΙΣ Κ ΣΙΑ Ε.Ε.» στις 2026-10-27: **1.829,00 €** ([[2026-10-27-accounting-timologia-kartelles]]).
 - Ανανέωση domain pharmacypan.gr για 2 έτη: 13,28 € + ΦΠΑ = 16,47 € (κόστος [[cretaforce]]), προς τιμολόγηση στον πελάτη ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]]).
 - Αμοιβή για άρθρα/γυρίσματα: ασαφές.

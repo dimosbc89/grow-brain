@@ -3,7 +3,7 @@ type: client
 title: "Hellenic Heritage Evolution (HHE) — Heritage Escape / Τσικλητήρεια"
 aliases: [HHE, ΗΗΕ, Hellenic Heritage Evolution, Heritage Escape, Τσικλητήρεια, Tsiklitiria, hellenicheritageevolution.com, Δ. Καραμπάτσος]
 status: ενεργός
-updated: 2026-11-18
+updated: 2026-11-20
 ---
 # Hellenic Heritage Evolution (HHE): Heritage Escape / Τσικλητήρεια
 > Πελάτης της ομάδας της Δέσποινας με events. Το Heritage Escape ήταν τριήμερο στο Costa Navarino, 18–20/9/2026, και τα Τσικλητήρεια είναι αγώνας με εγγραφές. Η GROW κάνει Meta Ads, αναζήτηση sponsors και συναντήσεις follow-up κάθε 1–2 εβδομάδες. Βασική επαφή είναι ο Δημήτρης Καραμπάτσος.
@@ -23,7 +23,10 @@ updated: 2026-11-18
 - **Ομάδα GROW:** [[despina-velissariou]] (lead), [[ioanna-chalkiadaki]], ο Δήμος ([[2026-07-20_2026-11-03]]).
 - **Σχετικά:** [[karampatsos-law]], με ασαφή σχέση. Βλ. Σημειώσεις.
 
-## Τρέχουσα κατάσταση (στις 2026-11-18)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- **Στις 2026-11-19:** ✓ **Access Fashion επιβεβαίωσε in-kind χορηγία (τσάντες + μαντήλια)** για το Heritage Escape 2027 (Giannis Lekkas, Marketing Manager, 18:17)· ίδια σχέδια/τεμάχια με πέρυσι — θα επιβεβαιώσουν ξανά, ίσως updated σχέδιο· ποσότητες: ασαφές ([[2026-11-13-heritage-escape-2027-access-fashion-update-2026-11-20]]). Η [[despina-velissariou]] μοίρασε εσωτερικά (10:43) το **ανανεωμένο template προσέγγισης χορηγών «για το γκολφ»** + '27HeritageEscape.pdf: golf τουρνουά, wellness, φιλανθρωπικό gala (Make A Wish **ή** Σύλλογος Ελπίδα), value prop high-spenders/decision makers ([[2026-11-19-heritage-escape-costa-navarino-golf-mail]]).
+
+*Νωρίτερα (στις 2026-11-18):*
 - **Στις 2026-11-18:** ✓ **Avance (Heritage Escape 2027, Costa Navarino): συνάντηση Τρίτη 2026-11-24 11:00 στα γραφεία της Avance** (πρόσκληση από Marisa Drolapa, Δέσποινα επιβεβαίωσε) ([[2026-11-13-heritage-escape-2027-avance-update-2026-11-18]]). **HHE follow up 2026-11-19 12:30** (Meet, Δέσποινα/Ιωάννα + HHE, Karampatsos, Kontogoni) ([[2026-11-18_2026-11-25]]).
 
 - 2026-11-16: η Avance (Marisa Drolapa) ζήτησε συνάντηση από κοντά· η Δέσποινα πρότεινε **Τρίτη 2026-11-24 11:00 ή Τετάρτη 2026-11-25 12:00** στο γραφείο — αναμονή επιβεβαίωσης ([[2026-11-13-heritage-escape-2027-avance-update-2026-11-17]]).
@@ -44,7 +47,9 @@ updated: 2026-11-18
 - **Τσικλητήρεια:** στις 2026-08-09 η δαπάνη Meta για το 2026 ήταν 332,04 €. Η πρόταση της GROW ήταν τουλάχιστον 700 € έως το event ([[2026-08-09-tsikliteria-meta-campaigns-report]]). Η ημερομηνία του event και η απόφαση του πελάτη: ασαφές.
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Follow up calls Heritage Escape 2027 με Avance και Access Fashion — Δέσποινα — από 2026-11-13 ([[2026-11-13-heritage-escape-2027-avance]], [[2026-11-13-heritage-escape-2027-access-fashion]])
+- [ ] Τελική επιβεβαίωση σχεδίων/τεμαχίων τσαντών-μαντηλιών (ή updated σχέδιο) — Access Fashion (Giannis Lekkas) — «το επόμενο διάστημα» ([[2026-11-13-heritage-escape-2027-access-fashion-update-2026-11-20]])
+- [ ] Αποστολή template χορηγών golf (Heritage Escape 2027) — Δέσποινα / ομάδα — από 2026-11-19 ([[2026-11-19-heritage-escape-costa-navarino-golf-mail]])
+- [ ] Follow up calls Heritage Escape 2027 με Avance (✓ κλείστηκε 2026-11-24 11:00) και Access Fashion (✓ απάντησε 2026-11-19 — χορηγία επιβεβαιώθηκε· call προαιρετικό) — Δέσποινα — από 2026-11-13 ([[2026-11-13-heritage-escape-2027-avance]], [[2026-11-13-heritage-escape-2027-access-fashion-update-2026-11-20]])
 - [ ] Αποδεικτικό πληρωμής ή ημερομηνία εξόφλησης τιμολογίου Print Kong (Τσικλητήρεια) — HHE (Καραμπάτσος / Νάντια) — από 2026-11-11 ([[2026-11-11-hhe-timologia-tsiklitiria-printkong]])
 - [ ] Meeting «ΗΗΕ x Grow» — Δέσποινα (+ Δήμος) — **2026-11-03 11:00** ([[2026-10-27-hhe-meeting-2026-11-03-accepted]])
 - [ ] Εβδομαδιαίο report πωλήσεων και εγγραφών για το optimization — πελάτης (Δημήτρης) — από 2026-08-09 ([[2026-08-09-tsikliteria-meta-campaigns-report]])
@@ -67,10 +72,12 @@ updated: 2026-11-18
 - [x] «HE changes» — Δέσποινα — ✓ 2026-10-12 ([[2026-10-21-asana-snapshot]])
 
 ## Αποφάσεις
+- 2026-11-19: Access Fashion — in-kind χορηγός (τσάντες + μαντήλια) Heritage Escape 2027 ([[2026-11-13-heritage-escape-2027-access-fashion-update-2026-11-20]]).
 - 2026-07-24: στην πρόταση προς Viber μπαίνει απονομή βραβείου στο gala, «για να πουν και δυο λόγια εκεί» (οδηγία Δήμου) ([[2026-07-24-viber-heritage-escape-ideas]]).
 - Ο πελάτης δεν δέχτηκε την custom πλατφόρμα εγγραφών της GROW και χρησιμοποιεί Reventy ([[2026-08-09-tsikliteria-meta-campaigns-report]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — 10:43 Δέσποινα: ανανεωμένο mail χορηγών «για το γκολφ» (16–18/4/2027, gala για Make A Wish ή Σύλλογο Ελπίδα) · 18:17 Access Fashion επιβεβαιώνει in-kind χορηγία τσάντες + μαντήλια ([[2026-11-19-heritage-escape-costa-navarino-golf-mail]], [[2026-11-13-heritage-escape-2027-access-fashion-update-2026-11-20]]).
 - 2026-11-17 — Avance κλείδωσε 24/11 11:00 στα γραφεία της· νέο Meet «HHE follow up» 19/11 12:30 ([[2026-11-13-heritage-escape-2027-avance-update-2026-11-18]]).
 - 2026-11-16 — Avance: προς συνάντηση 24/11 11:00 ή 25/11 12:00 ([[2026-11-13-heritage-escape-2027-avance-update-2026-11-17]]).
 - 2026-11-13 — 12:44/12:46 η Δέσποινα ξεκινά επικοινωνία με Access Fashion και Avance για το Heritage Escape 2027 (16–18/4/2027, Costa Navarino) ([[2026-11-13-heritage-escape-2027-access-fashion]], [[2026-11-13-heritage-escape-2027-avance]]).

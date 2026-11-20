@@ -3,7 +3,7 @@ type: client
 title: "Knack & Snack"
 aliases: [Knack, Knack and Snack, Knack & Snack, @knackandsnack, knackandsnack@gmail.com]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Knack & Snack
 > Πελάτης εστίασης της GROW για σχεδόν έναν χρόνο (στις 2026-08): Google Ads, social media management και γυρίσματα· από εδώ βγήκε ο κανόνας του Δήμου για τα κείμενα διαφημίσεων.
@@ -71,6 +71,7 @@ updated: 2026-11-19
 - Προτεινόμενη δομή παραδοτέων (2026-08-06, αναμένει αποδοχή): Meta 3–4 posts/εβδ. + 7 Stories/εβδ.· TikTok 3–4 posts/εβδ.· 1–2 επαγγελματικά γυρίσματα/μήνα με τη Σήλια (14–16 προϊοντικά βίντεο + 20–25 φωτογραφίες ανά γύρισμα)· 1–2 γυρίσματα Reels/TikTok/μήνα από GROW ([[2026-08-06-knack-snack-organosi-synergasias]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — Νέο event στο GROW Calendar: **Knack press event** 2026-11-23 15:30 (Βασιλική) ([[2026-11-20_2026-11-27]]).
 - 2026-11-18 — Review site από Βασιλική 13:05 → Δήμος «ποια τα σωστά λογότυπα» → 2 λογότυπα 13:21 · ο Δήμος προωθεί το pizza catering στο knackandsnack@gmail.com 17:36 ([[2026-11-18-knack-review-site]], [[2026-11-17-knack-fwd-ekthesi-catering-update-2026-11-19]]).
 - 2026-11-17 — Follow-up Βασιλικής (deadlines 23–24/11, χωρίς media monitoring) → Σπήλιος: «είπατε μέχρι Παρασκευή» → Δήμος: «αύριο μετά το γύρισμα να συζητήσουμε» · 2 forwards (ζωγράφος, pizza catering) ([[2026-11-17-knack-follow-up-next-steps]], [[2026-11-17-knack-fwd-ekthesi-catering]]).
 - 2026-11-16 — Ο Σπήλιος Φράγκος προώθησε τα πρακτικά της συνάντησης 10/11 και ζήτησε η GROW να μιλά απευθείας με Βίκυ Φίλη και Βασιλική Νιάσσου ([[2026-11-16-knack-snack-praktika-synantisis]]).

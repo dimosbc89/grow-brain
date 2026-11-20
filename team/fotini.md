@@ -3,7 +3,7 @@ type: team
 title: "Φωτεινή (fotini@)"
 aliases: [Fotini, Foteini, Φωτεινή, fotini@growagency.online]
 status: ενεργός
-updated: 2026-11-13
+updated: 2026-11-20
 ---
 # Φωτεινή (fotini@)
 > Μέλος της ομάδας GROW με email fotini@growagency.online. Ο ρόλος της είναι ασαφής· έχει πάρει RAW φωτογραφίες και brief περιπτέρου.
@@ -35,6 +35,7 @@ updated: 2026-11-13
 - —
 
 ## Χρονολόγιο
+- 2026-11-19 — Ζητά από Epilogi προσφορά για 30 μενού 15×25 + 25 καρτελάκια ονομάτων (dinner Circle of Dining) → 95 € όλα μαζί ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]]).
 - 2026-11-12 — Λαμβάνει σημειώσεις μοντάζ podcast3 (2η εκδοχή) και Dropbox με φωτό πιάτου για b-roll ([[2026-11-11-asana-podcast3-first-cut]]).
 - 2026-11-11 — 1ος γύρος σημειώσεων στο podcast3 first cut ([[2026-11-11-asana-podcast3-first-cut]]).
 - 2026-10-21 — Asana (ως «Fotini Pournara»): 27 ανοιχτά (22 εκπρόθεσμα, 4 χωρίς due). Κύριος φόρτος: Yiayia (4), Barbaggio (3), Georgiadis chef, Jardin, Chef Tsaparas, Krema (από 2), βίντεο podcast («Podcast2 Edit» due 2026-10-15, «podcast soundtrack» due 2026-09-22), καταστήματα Ιθώμης (Βύρωνας) και Τμώλου. ✓ «banners site» της GROW 2026-10-19, Podcast1 Edit 2026-10-08 ([[2026-10-21-asana-snapshot]]).

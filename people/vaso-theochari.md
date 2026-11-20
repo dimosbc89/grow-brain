@@ -3,7 +3,7 @@ type: person
 title: "Βάσω Θεοχάρη"
 aliases: [Βάσω, Vaso Theochari, marketing@overoll.gr]
 status: ενεργός
-updated: 2026-11-18
+updated: 2026-11-20
 ---
 # Βάσω Θεοχάρη
 > Marketing της [[overoll]]· η επαφή για τα τρία νέα websites και τα domains.
@@ -12,12 +12,15 @@ updated: 2026-11-18
 - **Οργανισμός:** [[overoll]] (Overoll Croissanterie A.E.), Marketing ([[2026-10-14-overoll-websites-domains]]).
 - **Ομάδα GROW:** ο Δήμος· [[vassiliki-giannopoulou]] και [[marina-papanastasiou]] σε cc.
 
-## Τρέχουσα κατάσταση (στις 2026-11-18)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19 16:05: ενέκρινε την κεντρική χριστουγεννιάτικη κατεύθυνση και τη ροή· θέλει να ξαναδεί μόνο το moodboard σε call **2026-11-20 09:00–13:00** με τη Βασιλική. Έδωσε (12:08) κείμενο απάντησης για την κριτική Brownie Πραξιτέλους 8/11 ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]], [[2026-11-16-overoll-kritikes-8-15-11-update-2026-11-20]]).
 - 2026-11-17: ζήτησε Christmas teasers (Panettone), posts από 23/11, concept/μοντέλα για shooting 27/11 και πλάνο σε mail ([[2026-11-17-overoll-christmas-teasers-plan]]).
 - Κύρια επαφή για το «Overoll Turns 6»: στις 2026-10-27 διάλεξε sticker (πρόταση 1, 3.000 τμχ), ενέκρινε την κάρτα PR boxes (θα την τυπώσει η Overoll) και ζήτησε διανομή stickers στα καταστήματα 2026-10-30/31 ([[2026-10-20-overoll-turns-6-event-update-2026-10-28]]).
 - Θα στείλει feedback για τα 3 sites και διαθεσιμότητες για call ([[2026-10-14-overoll-websites-domains]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Call moodboard με Βασιλική — 2026-11-20 09:00–13:00 ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]])
+- [ ] Περιμένει προφίλ + κόστος μοντέλων για το shooting 27/11 — GROW — από 2026-11-17 ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]])
 - [ ] Περιμένει απάντηση GROW για διαθεσιμότητα US usernames/domains — από 2026-11-11 ([[2026-11-11-overoll-us-social-domains]])
 - [ ] Feedback για τα 3 sites και πληροφορίες χονδρικής — Βάσω/Overoll — χωρίς ημερομηνία ([[2026-10-14-overoll-websites-domains]])
 - [ ] Διαθεσιμότητες για call — Βάσω/Overoll — από 2026-10-14 ([[2026-10-14-overoll-websites-domains]])
@@ -26,6 +29,7 @@ updated: 2026-11-18
 - —
 
 ## Χρονολόγιο
+- 2026-11-19 — Εγκρίνει Christmas κατεύθυνση/ροή, ζητά call για moodboard· δίνει απάντηση κριτικής Brownie ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]], [[2026-11-16-overoll-kritikes-8-15-11-update-2026-11-20]]).
 - 2026-11-17 — Overoll Christmas teasers/shooting/πλάνο ([[2026-11-17-overoll-christmas-teasers-plan]]).
 - 2026-11-11 — Προωθεί πρόταση της Miriam (TS Developments) για επιπλέον US usernames/domains, ζητά έλεγχο διαθεσιμότητας και προτάσεις GROW ([[2026-11-11-overoll-us-social-domains]]).
 - 2026-10-27 — Turns 6: επιλογή sticker πρόταση 1, 3.000 τμχ· έγκριση κάρτας PR· ρωτά ποια promoter πάει σε ποιο κατάστημα ([[2026-10-20-overoll-turns-6-event-update-2026-10-28]], [[2026-10-26-overoll-pinakes-promoters-27-10-update-2026-10-28]]).

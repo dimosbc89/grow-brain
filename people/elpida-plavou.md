@@ -3,7 +3,7 @@ type: person
 title: "Elpida Plavou"
 aliases: [Ελπίδα Πλάβου, Ελπίδα, elpida.plavou@globalfoods.gr]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Elpida Plavou
 > Επαφή της [[global-foods]] με ασαφή ρόλο. Λαμβάνει τα Google Ads reports και την πρόταση videography, και είναι σε cc στα event θέματα.
@@ -13,7 +13,10 @@ updated: 2026-11-19
 - **Θέματα:** Google Ads report, πρόταση videography, παραγγελίες app ([[2026-08-06-globalfoods-paraggelia-39897]], [[2026-10-08-globalfoods-videography-proposal]]).
 - **Ομάδα GROW:** ο Δήμος.
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19: έλαβε από τη Μαρίνα (13:11) το **συμφωνητικό Hospitality Jam 8+1 επεισόδια** «όπως το συνεννοηθήκαμε» — η GROW περιμένει συμπλήρωση στοιχείων + υπογραφή/σφραγίδα ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]). Για το 4σέλιδο (17:26) έστειλε docx κειμένου: πρώτα συμφωνία στο κείμενο, μετά καθαρή σύγχρονη εταιρική αισθητική, μεγάλες φωτό, λευκός χώρος ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]]).
+
+*Νωρίτερα (στις 2026-11-19):*
 - 2026-11-18 23:07: απέρριψε την κατεύθυνση του 4σέλιδου Ατζέντας 2027 («Δεν είμαστε παραγωγή», όχι bold τεράστια γράμματα, «ο όμιλος λέγεται Global Foods», «πολύ busy») και ζήτησε από τη Δέσποινα τηλέφωνο το πρωί 2026-11-19· έχει για έγκριση τα posting plans Global (Δεκ.) και Unique (Νοε–Δεκ) ([[2026-11-18-globalfoods-4selido-atzenta-2027]], [[2026-11-18-globalfoods-posting-plan-dekemvrios]], [[2026-11-18-unique-posting-plan-noe-dek]]).
 
 *Νωρίτερα (στις 2026-11-18):*
@@ -34,8 +37,9 @@ updated: 2026-11-19
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Εξήγηση ιδέας/demo AI Agent — Elpida → Δήμος — από 2026-11-16 ([[2026-11-15-globalfoods-ai-agent-app]])
-- [ ] Απάντηση για call Hospitality Jam (Ιωάννα) — Elpida — από 2026-11-13 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]])
-- [ ] Σχόλια στην πρόταση Hospitality Jam 8.000€ — Elpida — από 2026-11-11 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]])
+- [ ] Συμπλήρωση + υπογραφή/σφραγίδα συμφωνητικού Hospitality Jam — Elpida — από 2026-11-19 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]])
+- [x] ✓ (ξεπεράστηκε 2026-11-19) Απάντηση για call Hospitality Jam (Ιωάννα) — Elpida — από 2026-11-13 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]])
+- [x] ✓ «συνεννοηθήκαμε» (2026-11-19) — Σχόλια στην πρόταση Hospitality Jam 8.000€ — Elpida — από 2026-11-11 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]])
 - [ ] Reel Πρεσβείας ~30'' — Δήμος — ζητήθηκε 2026-11-04, reminder 2026-11-11 ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-12]])
 - [ ] ~~Link raw ZEO~~ (✓ 2026-11-12 [[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]]), «παγκόσμιες ημέρες?», επιστολή Πρέσβη — [[despina-velissariou]] — από 2026-11-11 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-12]], [[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-epistoli-presvi-italias]])
 - [ ] Απάντηση στην πρόταση videography — Elpida — «αρχές Νοεμβρίου» (από 2026-10-08) ([[2026-10-08-globalfoods-videography-proposal]])
@@ -46,6 +50,7 @@ updated: 2026-11-19
 - —
 
 ## Χρονολόγιο
+- 2026-11-19 — Παίρνει συμφωνητικό Hospitality Jam για υπογραφή (13:11)· στέλνει κείμενο 4σέλιδου και ζητά καθαρή εταιρική αισθητική (17:26) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]], [[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]]).
 - 2026-11-18 — Αρνητικό feedback στο 4σέλιδο Ατζέντας 2027, «κάλεσέ με το πρωί» ([[2026-11-18-globalfoods-4selido-atzenta-2027]]).
 - 2026-11-17 — Reel Πρεσβείας ✓ · αίτημα CCTV policy 4.1 ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-18]], [[2026-11-17-globalfoods-cctv-policy]]).
 - 2026-11-16 — Call για AI Agent «μετά τις 16:00»· Lorem Ipsum Brands· σχόλια σε νέο reel Πρεσβείας ([[2026-11-15-globalfoods-ai-agent-app-update-2026-11-17]], [[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]], [[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-17]]).

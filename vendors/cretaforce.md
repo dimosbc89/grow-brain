@@ -3,7 +3,7 @@ type: vendor
 title: "CretaForce"
 aliases: [Cretaforce, cretaforce.gr]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-20
 ---
 # CretaForce
 > Registrar και πάροχος domains/hosting. Εκεί η GROW κρατά domains πελατών, όπως το pharmacypan.gr και το argyroplastics.gr.
@@ -14,13 +14,16 @@ updated: 2026-11-16
   - billing@cretaforce.gr: ειδοποιήσεις ανανεώσεων.
   - support@cretaforce.gr: Κώστας Σιρανίδης.
   - Πηγές: [[2026-09-07-cretaforce-pharmacypan-domain-renewal]], [[2026-10-14-cretaforce-domain-argyroplastics]].
-- **Domains πελατών εδώ:** pharmacypan.gr ([[pharmacypan]]), argyroplastics.gr ([[argyroplastics]]).
+- **Domains πελατών εδώ:** pharmacypan.gr ([[pharmacypan]]), argyroplastics.gr ([[argyroplastics]]), vanessapilates.gr, posidonioathens.gr (πελάτες ασαφείς) ([[2026-11-16-admin-eidopoiiseis]], [[2026-11-19-posidonioathens-gr-kataxorisi]]).
 - **Ομάδα GROW:** [[marina-papanastasiou]] (τιμολόγηση στον πελάτη, επικοινωνία), [[vassiliki-giannopoulou]].
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-20: καταχωρήθηκε το **posidonioathens.gr** (2026-11-19, 2 έτη, λήξη 2028-11-18, 13,28 credits, φορέας Grow Agency EE) και εκδόθηκε **ΤΠΥ 24693, 30,00 €** — πελάτης ασαφής ([[2026-11-19-posidonioathens-gr-kataxorisi]]).
+
 Στις 2026-10-20: Στις 2026-10-14 η Cretaforce ζήτησε να επικοινωνήσει ο Δήμος με τον [[giorgos-tzortzopoulos]] για το argyroplastics.gr. Ασαφές αν έγινε ([[2026-10-14-cretaforce-domain-argyroplastics]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] posidonioathens.gr: για ποιον πελάτη + ανατιμολόγηση — Δήμος/Μαρίνα ([[2026-11-19-posidonioathens-gr-kataxorisi]])
 - [ ] Επικοινωνία με τον Γιώργο Τζωρτζόπουλο για το argyroplastics.gr — Δήμος/Μαρίνα — ανοιχτό από 2026-10-14 ([[2026-10-14-cretaforce-domain-argyroplastics]])
 - [ ] Τιμολόγηση της ανανέωσης pharmacypan.gr στον [[pharmacypan]] — Μαρίνα/Βασιλική — ασαφές ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]])
 
@@ -28,12 +31,14 @@ updated: 2026-11-16
 - —
 
 ## Χρονολόγιο
+- 2026-11-19 — posidonioathens.gr καταχωρήθηκε (−13,28 credits)· ΤΠΥ 24693, 30,00 € ([[2026-11-19-posidonioathens-gr-kataxorisi]]).
 - 2026-11-14 — FORTH: καταχωρήθηκε το vanessapilates.gr (φορέας Grow Agency EE, λήξη 2028-11-07) μέσω CretaForce ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-08 — ΤΠΥ 24311, 30,00 € ([[2026-11-09-admin-eidopoiiseis]]).
 - 2026-10-14 — Τηλεφώνησαν στην Cretaforce εκ μέρους του ιδιοκτήτη του argyroplastics.gr. Επειδή το domain το διαχειρίζεται η GROW, ζητούν να επικοινωνήσει ο Δήμος → Μαρίνα ([[2026-10-14-cretaforce-domain-argyroplastics]]).
 - 2026-09-07 — Ειδοποίηση ανανέωσης του pharmacypan.gr για 2 έτη (λήξη 2026-09-14) → Μαρίνα/Βασιλική, «Τιμολόγιο Πανόπουλος» ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]]).
 
 ## Οικονομικά
+- Νέο .gr 2 ετών = **13,28 credits** (posidonioathens.gr, 2026-11-19 — ίδιο ποσό με την ανανέωση pharmacypan.gr 13,28 € + ΦΠΑ)· ΤΠΥ 24693 και ΤΠΥ 24311: 30,00 € το καθένα (💭 αγορά credits) ([[2026-11-19-posidonioathens-gr-kataxorisi]], [[2026-11-09-admin-eidopoiiseis]]).
 - pharmacypan.gr, 2 έτη: 13,28 € + ΦΠΑ = 16,47 € ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]]).
 
 ## Σημειώσεις

@@ -3,7 +3,7 @@ type: team
 title: "Μαρίνα Παπαναστασίου"
 aliases: [Marina Papanastasiou, Μαρίνα, mpapa, mpapa@growagency.online]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Μαρίνα Παπαναστασίου
 > Managing Director της GROW. Τρέχει τα περίπτερα (lead στην Argyroplastics), τα admin της UK εταιρείας και τα τιμολόγια που της στέλνει ο Δήμος, και είναι σε cc σχεδόν σε κάθε νέο lead.
@@ -35,7 +35,10 @@ updated: 2026-11-19
   - [[dypa-programma]]: ανάρτηση Ιουλίου και επιμήκυνση, μαζί με τη Βασιλική ([[2026-08-10-dypa-anartisi-iouliou]], [[2026-08-18-dypa-programma-30plus-epimikynsi]]).
   - [[sk-advisors]] ως λογιστές της GROW: ΦΠΑ, ΓΕΜΗ, pass διοδίων ([[2026-07-30-sk-advisors-fpa-v-trimino]], [[2026-08-26-gemi-payments-sk-advisors]], [[2026-08-27-sk-advisors-toll-pass-documents]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19: Κριμάτογλου — συμφώνησε συνάντηση **2026-12-01 15:00** (online) και υποσχέθηκε **προσχέδιο περιπτέρου μέσα στην εβδομάδα 23–27/11** (λόγω φόρτου XENIA που ανοίγει 2026-11-21) ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-20]]).
+
+*Από 2026-11-19:*
 - **Στις 2026-11-18:** έστειλε παρουσίαση + δείγματα στην [[tria-delta]] (το Meet δεν έγινε, ζητά νέο ραντεβού)· η [[afrokoptiki]] της ζήτησε λεπτομέρειες κατασκευής/υλικών/πατώματος — απάντηση εκκρεμεί· έβαλε το Calendly «Abbie Browne» 18:00 και πήρε forward το email του Δήμου προς την [[abi-browne]] ([[2026-11-18-periptero-tria-delta-aivaliotis]], [[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]], [[2026-11-18-booking-app-abi-browne-call]]).
 
 *Νωρίτερα (στις 2026-11-12):*
@@ -50,6 +53,7 @@ updated: 2026-11-19
 - Η UK εταιρεία κάνει onboarding με την The Accountancy Partnership: φόρμα υπογράφηκε 2026-10-15, welcome και AML ήρθαν 2026-10-16 ([[2026-10-15-accountancy-partnership-registration-signed]], [[2026-10-16-accountancy-partnership-welcome]], [[2026-10-16-accountancy-partnership-aml-check]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Προσχέδιο περιπτέρου [[krimatoglou]] — εβδομάδα 2026-11-23…27 · invitation για 2026-12-01 15:00 ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-20]])
 - [ ] Απάντηση στην Afrokoptiki (κατασκευή, υλικά, πάτωμα) — Μαρίνα — από 2026-11-18 ([[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]])
 - [ ] Πρώτο σχέδιο περιπτέρου [[papavergos]] (μετά την κάτοψη) — Μαρίνα — εβδομάδα 2026-11-16 ([[2026-11-13-periptero-papavergos]])
 - [ ] Plastica: Υπ. Δηλώσεις ηλεκτρολόγου/κατασκευαστή/μηχανικού προς Expowork — Μαρίνα — πριν το στήσιμο 2026-11-05 ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]])
@@ -80,6 +84,8 @@ updated: 2026-11-19
 - 2026-09-23: εγκρίνει μαζί με τον Δήμο την άδεια της [[despina-velissariou]] για 29–30/10 ([[2026-09-23-adeia-oktovriou-despina]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — Global Foods: στέλνει συμφωνητικό Hospitality Jam 8+1 επεισόδια για υπογραφή (13:11)· ρωτά για αποκλειστικότητα Coati → «ναι» ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]], [[2026-11-19-globalfoods-coati-topping-pizza]]).
+- 2026-11-19 — Κριμάτογλου: μεταφορά συνάντησης σε 01/12 15:00, δέσμευση για προσχέδιο ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-20]]).
 - 2026-11-18 — Τρία Δέλτα παρουσίαση· ερωτήσεις Afrokoptiki· Calendly Abbie Browne ([[2026-11-18-periptero-tria-delta-aivaliotis]], [[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]], [[2026-11-18-booking-app-abi-browne-call]]).
 - 2026-11-13 — 13:47 email σε κ. Παπαβέργο (περίπτερο)· 13:58 event Olympicnature 16/11 11:00 ([[2026-11-13-periptero-papavergos]], [[2026-11-13-olympicnature-meeting]]).
 - 2026-11-13 — Κάρτα εργασίας: διπλό σκανάρισμα της Βασιλικής, ρώτησε το λογιστήριο για εκπρόθεσμη υποβολή ([[2026-11-13-karta-ergasias-vassiliki-proselefsi]]).

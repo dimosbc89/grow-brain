@@ -3,7 +3,7 @@ type: client
 title: "Greenmart / Antemisaris"
 aliases: [Antemisaris, Αντεμισάρης, Greenmart, greenmart.gr, antemisaris.gr]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Greenmart / Antemisaris
 > Η εταιρεία Antemisaris με το e-shop Greenmart (κήπος/φυτά/εργαλεία, π.χ. βολβοί, Stihl)· η GROW κάνει social posts, γυρίσματα, υποστήριξη σε εκθέσεις (XENIA 2026, Olympic Yacht Show) και τοποθέτηση προϊόντων στο Κορωπί.
@@ -14,7 +14,13 @@ updated: 2026-11-19
 - **Ομάδα GROW:** [[ioanna-chalkiadaki]] (day-to-day)· [[vassiliki-giannopoulou]] (cc)· [[despina-velissariou]] (XENIA forward)· ο Δήμος ([[2026-09-18-greenmart-posts-volvoi-stihl]], [[2026-07-21-antemisaris-expowork-xenia-2026]]).
 - **Τρίτοι:** [[expopiece]] (κατασκευή XENIA)· [[neon-arrow]] (plexi + αυτοκόλλητα τοίχου XENIA)· Audio-tech (LED wall XENIA, [[2026-10-16-audiotech-led-xenia]])· [[expowork]] (αρχική πρόταση περιπτέρου XENIA)· tsougrana.gr (συνάντηση συνεργασίας 2026-10-02)· Kathimerini (συνάντηση 2026-09-23) ([[2026-07-20_2026-11-03]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- **Video περιπτέρου — διαφωνία για τη διάρκεια (2026-11-19):** η Ιωάννα 13:53 έστειλε video με πλάνα (παραγωγή, ριζωτήριο, εγκαταστάσεις, δέντρα, άνθρωποι, έργα) για **πρώτη διαλογή**, στόχος **35″–1′**· ο Ζάχος 14:06 **διαφωνεί** — θα παίζει «over and over for 8 hours», οι επισκέπτες/ομάδα θα βλέπουν τα ίδια → θέλει μεγαλύτερο. Ανοιχτό ([[2026-11-19-antemisaris-video-dialogi-planon]]).
+- **Neon Arrow — χωρίς τοποθέτηση:** το περίπτερο δεν ήταν έτοιμο (καθυστερήσεις υλικών) και **δεν έγινε καμία τοποθέτηση**· η GROW παρέλαβε όλα τα προϊόντα (15 αυτοκόλλητα, κοπτικά, plexi, αυτοκόλλητα τοίχου). Η Neon Arrow κόβει **πιστωτικό 100 € + ΦΠΑ** (2026-11-20 πρωί) ([[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]]). Ποιος κόλλησε τα αυτοκόλλητα: ασαφές.
+- **Κλαρκ μαζέματος ✓:** παραγγελία 5τονου κλαρκ για **Τρίτη 2026-11-24** (193,95 €) — ο Ζάχος υπέγραψε 12:56, η Δέσποινα την έστειλε με εξόφληση στην Expowork 13:14, «Καταχωρήθηκε» 13:59 ([[2026-11-19-xenia-klark-mazema-ypografi-exoflisi]], [[2026-11-19-xenia-paraggelia-klark-expowork]]).
+- **Πολυσέλιδο + τρίπτυχο (Print Kong):** τιμολογούνται όλα στη GROW, στον πελάτη δελτίο αποστολής χωρίς τιμές· παράδοση Αγίου Δημητρίου 209 **έως 2026-11-20 11:30** για να φύγουν στο Metropolitan ([[2026-11-19-antemisaris-fylladia-printkong]]).
+
+*Νωρίτερα (στις 2026-11-19):*
 - **App πωλητών ✓ οριστικοποιήθηκε:** ο Ζάχος 2026-11-18 09:29 ζήτησε fine tuning (βγαίνουν Προτεραιότητα & Επόμενες ενέργειες· μπαίνουν Γεωγραφική περιοχή, Πωλητής με 11 ονόματα, «Επαγγελματικός Χώρος» και «Άλλο»)· ο Δήμος 09:55 «έτοιμο» ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]]).
 - **Στήσιμο περιπτέρου 2026-11-19:** ο Ζάχος ρώτησε αν μπορούν να έρθουν 14:00· η Ιωάννα (και στον Γιάννη Μπουρνά, Viber): **μετά τις 15:00**, γιατί πριν στήνεται το video wall ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]]).
 - **Post συμμετοχής XENIA ✓ δημοσιεύτηκε** 2026-11-18 12:23 (FB/LinkedIn/IG) — «ίδιο με πέρυσι με τα φετινά στοιχεία»· **προσκλήσεις συνεργατών ✓ στάλθηκαν** μέσω της πλατφόρμας XENIA ([[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]]).
@@ -75,9 +81,14 @@ updated: 2026-11-19
 ## Ανοιχτά & επόμενα βήματα
 - [x] ✓ **«leads ad» (social καμπάνια leads XENIA)** — **Δήμος** — έκλεισε στο Asana 2026-11-18 13:24 ([[2026-11-16-asana-xenia-video-wall-leads-landing]])
 - [x] ✓ **«landing page πωλητών»** — **Δήμος** — έκλεισε στο Asana 2026-11-18 10:03 ([[2026-11-16-asana-xenia-video-wall-leads-landing]])
+- [ ] Διαλογή πλάνων video περιπτέρου (ποια φεύγουν) — Ζάχος/Αντεμισάρηδες — από 2026-11-19 13:53, πριν την XENIA 2026-11-21 ([[2026-11-19-antemisaris-video-dialogi-planon]])
+- [ ] ⚠️ Απόφαση διάρκειας video περιπτέρου: GROW 35″–1′ vs Ζάχος «μεγαλύτερο» (loop 8 ωρών) — Ιωάννα/Δήμος ↔ Ζάχος — από 2026-11-19 14:06 ([[2026-11-19-antemisaris-video-dialogi-planon]])
+- [ ] Πιστωτικό Neon Arrow 100 € + ΦΠΑ (μη τοποθέτηση) + καρτέλα πελάτη → εξόφληση υπολοίπου — Neon Arrow / λογιστήριο GROW — 2026-11-20 πρωί ([[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]])
+- [ ] Παράδοση πολυσέλιδου + τριπτύχου (Print Kong) στην Αγίου Δημητρίου 209 — Print Kong — **έως 2026-11-20 11:30**· δελτίο αποστολής χωρίς τιμές προς πελάτη — GROW ([[2026-11-19-antemisaris-fylladia-printkong]])
+- [ ] Κλαρκ μαζέματος (5τονο) — Expowork — **2026-11-24** ([[2026-11-19-xenia-paraggelia-klark-expowork]])
 - [ ] Video wall video — Βάσια (+ Δήμος σε mention) — λήξη 2026-11-16 ([[2026-11-16-asana-xenia-video-wall-leads-landing]])
 - [x] ✓ 2026-11-17 Προσφορά για 15 αυτοκόλλητα 10 × 18 + κοπτικά — Neon Arrow 180 € + 75 € + ΦΠΑ, «προχωράμε» Βάσια ([[2026-11-17-neonarrow-prosfora-koptika-lefka]])
-- [ ] Τοποθέτηση 6 κοπτικών + 15 αυτοκόλλητων στα βάθρα — Neon Arrow — **2026-11-19**· όνομα + κινητό υπεύθυνου στο περίπτερο το πρωί — Βάσια/Ιωάννα ([[2026-11-17-neonarrow-prosfora-koptika-lefka]])
+- [x] ✗ δεν έγινε: το περίπτερο δεν ήταν έτοιμο, η GROW παρέλαβε τα προϊόντα χωρίς τοποθέτηση (2026-11-19) ([[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]]) — Τοποθέτηση 6 κοπτικών + 15 αυτοκόλλητων στα βάθρα — Neon Arrow — **2026-11-19**· όνομα + κινητό υπεύθυνου στο περίπτερο το πρωί — Βάσια/Ιωάννα ([[2026-11-17-neonarrow-prosfora-koptika-lefka]])
 - [ ] **Παραλαβή tablets DK Rental (Χαλάνδρι, με ταυτότητα)** — **Δήμος** — **2026-11-20 πρωί**· επιστροφή 2026-11-24 ([[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-18]])
 - [ ] (μερικώς ✓ 2026-11-18: post «όπως πέρυσι» → δημοσιεύτηκε 12:23, [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]]) ΟΚ ταμπελάκια γλαστρών + stand καταλόγων — Ζάχος — από 2026-11-17 ([[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-18]])
 - [x] ✓ 2026-11-18 09:29 σχόλια Ζάχου → Δήμος «έτοιμο» 09:55 — Σχόλια στα πεδία του app πωλητών — Ζάχος — από 2026-11-17 17:43 ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]])
@@ -93,7 +104,7 @@ updated: 2026-11-19
 - [x] Γραπτή επιβεβαίωση DK Rental (3 iPad, 225 € + ΦΠΑ) + 4ο tablet + SIM 5G — Ιωάννα/Μαρίνα — δωρεάν ακύρωση έως 2026-11-18, παραλαβή 2026-11-20 ([[2026-11-13-xenia-tablets-enoikiasi]]) — ✓ 2026-11-16 14:13: 3 iPad + router 5G, 325 € + ΦΠΑ (4ο tablet όχι) ([[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-17]])
 - [ ] Αλλαγή ανάρτησης σε 2 σημεία + συμψηφισμός με κλαρκ — Expowork — από 2026-11-13 ([[2026-11-13-expowork-allagi-anartisis-klark-xenia]])
 - [x] Σύνολο kW + σχέδιο θέσης πίνακα (αν > 3,11 kW → παραγγελία διαφοράς) — Expopiece → Δέσποινα — από 2026-11-13 ([[2026-11-13-expopiece-pros-symplirosi-reuma-xenia]]) — ✓ 2026-11-16 (💭 τηλεφωνικά) → παραγγελία ρεύματος ([[2026-11-13-expopiece-pros-symplirosi-reuma-xenia-update-2026-11-17]])
-- [ ] Τοποθέτηση plexi + αυτοκόλλητων τοίχου — Neon Arrow — **2026-11-19 10:00** ([[2026-11-13-neonarrow-koptika-xenia]])
+- [x] ✗ δεν έγινε τοποθέτηση — τα παρέλαβε η GROW (2026-11-19) ([[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]]) — Τοποθέτηση plexi + αυτοκόλλητων τοίχου — Neon Arrow — **2026-11-19 10:00** ([[2026-11-13-neonarrow-koptika-xenia]])
 - [ ] Τιμολόγιο προκαταβολής LED (πληρωμή 2026-11-05) — Audio-Tech — ζητήθηκε 2026-11-13 ([[2026-10-16-audiotech-led-xenia-update-2026-11-16]])
 - [ ] **Υπογραφή νέας προσφοράς Expopiece V2 + επιβεβαίωση αλλαγών (καπέλο, προβολείς, τράσσα) + νέα προκαταβολή** — **Δήμος** (το email πήγε μόνο σε αυτόν) — «άμεσα», από 2026-11-12 19:43 ([[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]])
 - [ ] Προγραμματισμός άφιξης ογκωδών εκθεμάτων στο Metropolitan Expo — πελάτης/GROW — **2026-11-16** ([[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]])
@@ -104,7 +115,7 @@ updated: 2026-11-19
 - [ ] Λογότυπα/links social/site προς Gagos (BOX22) — Ιωάννα — «αμέσως», 2026-11-12 ([[2026-11-12-antemisaris-box22-gagos-xorigia]])
 - [x] Επιβεβαίωση Expowork ότι τα έγγραφα ανάρτησης είναι πλήρη + επίσημη κάτοψη οργάνωσης — Expowork — από 2026-11-11 ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]) — ✓ 2026-11-12 «η παραγγελία σας καταχωρήθηκε» + έντυπα παραλήφθηκαν (επίσημη κάτοψη: δεν αναφέρθηκε ξανά) ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-13]])
 - [ ] Πληρωμή τιμολογίου **#1332** (προεξόφληση εκτύπωσης εταιρικής παρουσίασης) — λογιστήριο Antemisaris — από 2026-11-11 ([[2026-11-11-antemisaris-timologio-parousiasis-proexoflisi]])
-- [ ] Επιβεβαίωση παραγωγής/παράδοσης εντύπου 2.000 τμχ (πληρώθηκε 2026-11-11) — Print Kong — παράδοση **2026-11-19/20** ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]])
+- [ ] Επιβεβαίωση παραγωγής/παράδοσης εντύπου 2.000 τμχ (πληρώθηκε 2026-11-11) — Print Kong — παράδοση **2026-11-19/20** ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]])· 2026-11-19 η Δέσποινα όρισε παράδοση έως 2026-11-20 11:30 ([[2026-11-19-antemisaris-fylladia-printkong]])
 - [ ] Ώρα παράδοσης Α5 250 τμχ στον Αντεμισάρη — Επιλογή — ζητήθηκε 2026-11-11 10:30 ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]])
 - [x] ✓ 2026-11-13 σχέδιο κρέμασης Expopiece → Expowork ([[2026-11-13-expopiece-pros-symplirosi-reuma-xenia]]) — Στήριξη/σχέδιο video wall μεταξύ Audio-Tech και «Νίκου» (💭 Expopiece) — Audio-Tech / Expopiece — από 2026-11-11 ([[2026-10-16-audiotech-led-xenia-update-2026-11-12]])
 - [x] Έγγραφα Expowork (φόρμα, ΥΔ, στοιχεία, rigging plan) — Δέσποινα — **έως 2026-11-11** ([[2026-11-10-antemisaris-entypa-merch-xenia]]) — ✓ στάλθηκαν 2026-11-11 20:54 (δελτία + σχέδιο κρέμασης Expopiece) ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]])
@@ -168,6 +179,7 @@ updated: 2026-11-19
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — XENIA: 11:44 κλαρκ μαζέματος 24/11 (193,95 €) προς υπογραφή → Ζάχος υπέγραψε 12:56 → Expowork «Καταχωρήθηκε» 13:59· 13:31 Print Kong: πολυσέλιδο + τρίπτυχο τιμολόγηση σε GROW, παράδοση έως 20/11 11:30· 13:53 video πλάνων για διαλογή → ο Ζάχος διαφωνεί με διάρκεια 35″–1′· 16:28 Neon Arrow: καμία τοποθέτηση (περίπτερο όχι έτοιμο), πιστωτικό 100 € + ΦΠΑ ([[2026-11-19-xenia-klark-mazema-ypografi-exoflisi]], [[2026-11-19-xenia-paraggelia-klark-expowork]], [[2026-11-19-antemisaris-fylladia-printkong]], [[2026-11-19-antemisaris-video-dialogi-planon]], [[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]]).
 - 2026-11-18 — XENIA: app πωλητών οριστικό (σχόλια Ζάχου 09:29 → Δήμος «έτοιμο» 09:55)· άφιξη πελάτη 19/11 μετά τις 15:00 (Ιωάννα)· post συμμετοχής δημοσιεύτηκε 12:23· προσκλήσεις μέσω πλατφόρμας XENIA· σχόλια Ιωάννας στο video wall video (Asana 23:22) ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]], [[2026-11-18-asana-video-wall-sxolia]]).
 - 2026-11-17 — XENIA: Neon Arrow 180 € + 75 € + ΦΠΑ για κοπτικά/αυτοκόλλητα → «προχωράμε» (Print Kong μόνο φυλλάδια)· DK Rental δέσμευση + κατάθεση, παραλαβή από Δήμο 20/11· app πωλητών (πεδία + live link)· video «5 Things» εγκρίθηκε· post XENIA 3+4 προτάσεις· λίστα email προσκλήσεων· τέλος διαφήμισης 1% Forum ([[2026-11-17-neonarrow-prosfora-koptika-lefka]], [[2026-11-17-printkong-aftokollita-xenia]], [[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-18]], [[2026-11-17-antemisaris-app-politon-stoixeia]], [[2026-11-16-antemisaris-video-5-things-egkrisi-update-2026-11-18]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-18]], [[2026-11-17-antemisaris-lista-email-proskliseis]], [[2026-11-17-forum-telos-diafimisis-xenia]]).
 - 2026-11-16 — XENIA: «URGENT» Ζάχου για ρεύμα → υπογραφή φόρμας, παραγγελία στην Expowork (893,84 €), εξόφληση υπολοίπου 318,40 €· δήλωση ηλεκτρολόγου SG LIGHT· «Pots Xenia Final.xlsx»· DK Rental επιβεβαιώθηκε (325 € + ΦΠΑ με router 5G)· νέο αίτημα προσφοράς αυτοκόλλητων στη Neon Arrow· Asana: «leads ad» + «landing page πωλητών» στον Δήμο ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]], [[2026-11-16-antemisaris-sfragida-ypografi-pots]], [[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-17]], [[2026-11-13-neonarrow-koptika-xenia-update-2026-11-17]], [[2026-11-16-asana-xenia-video-wall-leads-landing]]).
@@ -214,6 +226,9 @@ updated: 2026-11-19
 - 2026-07-21 — Ο Ζάχος προωθεί «FYI» την πρόταση της [[expowork]] για XENIA 2026· ο Δήμος στις Ιωάννα και Δέσποινα ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 
 ## Οικονομικά
+- Κλαρκ μαζέματος XENIA (Expowork, 2026-11-24): **193,95 €** — υπέγραψε ο Ζάχος, εξόφληση στάλθηκε 2026-11-19 (💭 πλήρωσε ο πελάτης απευθείας, όπως στην ανάρτηση) ([[2026-11-19-xenia-klark-mazema-ypografi-exoflisi]], [[2026-11-19-xenia-paraggelia-klark-expowork]]).
+- Neon Arrow: πιστωτικό **−100 € + ΦΠΑ** για τη μη τοποθέτηση (2026-11-19) → 💭 σύνολο ~585 € + ΦΠΑ αντί 685 € ([[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]]).
+- Print Kong πολυσέλιδο + τρίπτυχο: τιμολόγηση στη GROW, δελτίο αποστολής χωρίς τιμές στον πελάτη ([[2026-11-19-antemisaris-fylladia-printkong]]).
 - Neon Arrow (2026-11-17, «προχωράμε» Βάσια): 6 κοπτικά λευκά 180 € + 15 ψηφιακά αυτοκόλλητα 10 × 18 75 € = **255 € + ΦΠΑ** με τοποθέτηση ([[2026-11-17-neonarrow-prosfora-koptika-lefka]]). DK Rental: η Ιωάννα δηλώνει ότι το ποσό κατατέθηκε 2026-11-17 ([[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-18]]). Forum: πιθανό +1% τέλος διαφήμισης επί του μισθώματος περιπτέρου ([[2026-11-17-forum-telos-diafimisis-xenia]]).
 - XENIA ρεύμα (Expowork): 893,84 €, υπόλοιπο προς εξόφληση 318,40 € — εξοφλήθηκε 2026-11-16 ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]]). Tablets DK Rental: 325 € + ΦΠΑ (3 iPad + router 5G) ([[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-17]]).
 - Neon Arrow (2026-11-13, αποδοχή Δήμου): plexi 250 € + αυτοκόλλητα τοίχου 180 € = **430 € + ΦΠΑ 24%**, τιμολόγηση στη GROW ([[2026-11-13-neonarrow-koptika-xenia]]).

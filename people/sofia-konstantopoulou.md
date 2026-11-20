@@ -3,7 +3,7 @@ type: person
 title: "Σοφία Κωνσταντοπούλου"
 aliases: [Sofia Konstantopoulou, Σοφία, Sofia, sofia@sk-advisors.gr, skonstantopoulou95@gmail.com]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-20
 ---
 # Σοφία Κωνσταντοπούλου
 > Έχει το λογιστικό γραφείο [[sk-advisors]]. Είναι πελάτισσα της GROW, αφού η GROW κάνει content, ads και video για το γραφείο της, και ταυτόχρονα λογίστρια της ίδιας της GROW.
@@ -18,6 +18,7 @@ updated: 2026-11-17
 - [ ] Απάντηση του TruePathFX για επεισόδιο με τη Σοφία ως καλεσμένη — TruePathFX — από 2026-09-30 ([[2026-09-30-truepathfx-taxi-episode-proposal]])
 
 ## Χρονολόγιο
+- 2026-11-19 — Καρτέλα πελάτη στην [[overoll]] μετά από κατάθεση: υπόλοιπο 2.312,80 € ([[2026-11-19-overoll-kartela-pelati]]).
 - 2026-11-16 — Έλαβε από τη Βασιλική τα τιμολόγια εξωτερικού (έξοδα) Οκτωβρίου 2026 ([[2026-11-17-admin-eidopoiiseis]]).
 - 2026-11-13 — Σε cc στο θέμα κάρτας εργασίας της Βασιλικής ([[2026-11-13-karta-ergasias-vassiliki-proselefsi]]). Η πρόταση της [[itqs]] δίνει έκπτωση «λόγω της σύστασης της κας Κωνσταντοπούλου» — 💭 Υπόθεση: η Σοφία ([[2026-11-12-itqs-prosfora-diktyo-grafeiou-update-2026-11-16]]).
 - 2026-09-30 — Σε bcc στο outreach προς το TruePathFX ([[2026-09-30-truepathfx-taxi-episode-proposal]]).

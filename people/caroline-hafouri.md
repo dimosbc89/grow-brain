@@ -3,7 +3,7 @@ type: person
 title: "Caroline Hafouri"
 aliases: [Caroline, caroline@tandemconcept.gr]
 status: ενεργός
-updated: 2026-10-28
+updated: 2026-11-20
 ---
 # Caroline Hafouri
 > Συνιδιοκτήτρια της [[tandem-concept]] και σύντροφος του [[george-chalhoub]]. Είναι η καθημερινή επαφή για προϊόντα, απόθεμα και διορθώσεις στο e-shop, και η shop manager του site.
@@ -13,7 +13,11 @@ updated: 2026-10-28
 - **Ρόλος στο project:** στέλνει import sheets και φωτογραφίες προϊόντων, ποσότητες αποθέματος, λίστες διορθώσεων· έχει λογαριασμό shop manager στο site ([[2026-10-16-tandem-eshop-bags-epsilon]], [[2026-09-24-tandem-eshop-quantities]], [[2026-10-10-tandem-website-user-guide]]).
 - **Ομάδα GROW:** ο Δήμος· [[despina-velissariou]] σε cc.
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19: χειρίζεται με τη BIZ το inbound booking 810027890 (Christian Villa)· η BIZ ζητά EasyBiz και εκείνη στις 21:30 ζήτησε από τον Δήμο **να τους τηλεφωνήσει** ([[2026-11-19-tandem-easybiz-booking]], [[2026-11-19-tandem-cv-bags-biz-product]]). Έχει πελάτισσα-γειτόνισσα για test παραγγελία τσάντας.
+- 2026-11-19 19:00: έστειλε 4 τελευταίες διορθώσεις e-shop για την εβδομάδα 2026-11-23 ([[2026-11-19-tandem-last-corrections-website]]).
+
+*Νωρίτερα (στις 2026-10-28):*
 - Έστειλε 2026-10-27 το excel της νέας παραλαβής Su Apparel FW 2026 (αποκλειστικά για το Κολωνάκι) για το Epsilon· ο Δήμος το πέρασε 2026-10-28 και της ζήτησε να το ελέγξει ([[2026-10-27-tandem-su-apparel-epsilon]]).
 
 *Από 2026-10-27:*
@@ -32,6 +36,8 @@ updated: 2026-10-28
 - 2026-10-26: Google Ads ΟΚ, META Ads 150 €/μήνα, TikTok χωρίς ads προς το παρόν ([[2026-10-14-tandem-social-ads-strategy]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — Γράφει στη BIZ (13:39) ότι το booking το έκανε ο Δήμος· προωθεί την απάντηση της BIZ (booking 810027890, έως 25/11)· στέλνει «Last corrections for the website»· ζητά από τον Δήμο να πάρει τη BIZ ([[2026-11-19-tandem-easybiz-booking]], [[2026-11-19-tandem-last-corrections-website]], [[2026-11-19-tandem-cv-bags-biz-product]]).
+- 2026-11-16 — Προωθεί στον Δήμο το αίτημα της BIZ για packing list ([[2026-11-16-tandem-biz-packing-list]]).
 - 2026-10-27 — Στέλνει excel Su Apparel FW 2026 για το Epsilon ([[2026-10-27-tandem-su-apparel-epsilon]]).
 - 2026-10-26 — Απαντά στη Δέσποινα για τη στρατηγική Ads· ανταγωνιστές: Matchbox, Shoebox, Ginestra, Petridis studio, Free shop, Vestiaire, Mirina Tsantilis, Colori&Co ([[2026-10-14-tandem-social-ads-strategy]]).
 - 2026-10-16 — «Website final amendments» ([[2026-10-17-tandem-website-final-amendments]]).

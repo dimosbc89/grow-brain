@@ -3,7 +3,7 @@ type: person
 title: "Πάρις Πανόπουλος"
 aliases: [Paris Panopoulos, Πανόπουλος, pan.par.axarnes@gmail.com]
 status: ενεργός
-updated: 2026-11-04
+updated: 2026-11-20
 ---
 # Πάρις Πανόπουλος
 > Φαρμακοποιός, Φαρμακείο Πανόπουλος Αχαρνές — πελάτης της GROW ([[pharmacypan]]).
@@ -13,17 +13,24 @@ updated: 2026-11-04
 - **Οργανισμός:** [[pharmacypan]].
 - **Επαφή GROW:** [[vassiliki-giannopoulou]] (πρώτη γραμμή)· ο Δήμος ([[2026-08-07-pharmacypan-phishing-spam]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-28)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19: έλαβε από τη Βασιλική **2 ιδιωτικά συμφωνητικά** Ακουστικών (performance μηνιαίο + landing page) για υπογραφή και την **EN παρουσίαση** της [[twenty-seven-27]] ([[2026-11-19-pharmacypan-idiotika-symfonitika-akoustika]], [[2026-11-16-twenty-seven-parousiasi-update-2026-11-20]]).
+- Περιμένει από 2026-11-04 απάντηση για το πώς θα παρακολουθεί τα leads (βλ. [[pharmacypan]]).
+
+*Από 2026-10-28:*
 - 2026-10-27: έλαβε το #1299 (φωτογράφιση [[twenty-seven-27]]) και την καρτέλα του φαρμακείου με υπόλοιπο 1.829,00 € ([[2026-10-27-accounting-timologia-kartelles]]).
 - Βλ. [[pharmacypan]]: review άρθρων σε εξέλιξη ([[2026-10-12-pharmacy-article-review-link]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Να επιστρέψει υπογεγραμμένα τα 2 συμφωνητικά — ο ίδιος — από 2026-11-19 ([[2026-11-19-pharmacypan-idiotika-symfonitika-akoustika]])
 - Βλ. [[pharmacypan]].
 
 ## Αποφάσεις
 - —
 
 ## Χρονολόγιο
+- 2026-11-19 — Λαμβάνει συμφωνητικά Ακουστικών + EN παρουσίαση Twenty Seven ([[2026-11-19-pharmacypan-idiotika-symfonitika-akoustika]], [[2026-11-16-twenty-seven-parousiasi-update-2026-11-20]]).
+- 2026-11-16 — Λαμβάνει την εταιρική παρουσίαση Twenty Seven (GR) ([[2026-11-16-twenty-seven-parousiasi]]).
 - 2026-11-03 — Έλαβε προσφορά landing + Google Ads ([[2026-11-03-pharmacypan-prosfora-landing-ads]]).
 - 2026-11-02 — Λαμβάνει το δημιουργικό τρίπτυχου φυλλαδίου ακουστικών για feedback ([[2026-11-02-pharmacypan-flyer-akoustika]]).
 - 2026-10-27 — Τιμολόγιο #1299 (Twenty Seven) + καρτέλα 1.829,00 € ([[2026-10-27-accounting-timologia-kartelles]]).

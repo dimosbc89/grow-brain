@@ -3,17 +3,20 @@ type: vendor
 title: "EXPOWORK (Metropolitan Expo)"
 aliases: [Expowork, EXPOWORK, expowork.gr]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-20
 ---
 # EXPOWORK (Metropolitan Expo)
 > Εταιρεία κατασκευής εκθεσιακών περιπτέρων του Metropolitan Expo· έστειλε στην [[greenmart-antemisaris]] πρόταση για περίπτερο στη XENIA 2026, που έφτασε στη GROW ως «FYI».
 
 ## Σε μια ματιά
 - **Τι κάνει:** κατασκευή εκθεσιακών περιπτέρων (κατάλογος, 3D σχέδιο, οικονομική προσφορά) ([[2026-07-21-antemisaris-expowork-xenia-2026]]) → [[ekthesiaka-periptera]].
-- **Επαφές:** κα Φούτρη (sales@, κλαρκ — [[2026-11-13-expowork-allagi-anartisis-klark-xenia]])· [[konstantinos-roumeliotis]] (Operations Manager ARS, αναρτήσεις)· sales@expowork.gr (ρεύμα/λοιπές υπηρεσίες, [[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-13]])· Ελένη Κατσούλη (ekatsouli@, εξυπηρέτηση εκθετών) ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]])· Marita Vgenopoulou (mvgenopoulou@expowork.gr) — Exhibition Stand Construction Sales ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
+- **Επαφές:** κα Φούτρη (sales@, κλαρκ — [[2026-11-13-expowork-allagi-anartisis-klark-xenia]])· [[konstantinos-roumeliotis]] (Operations Manager ARS, αναρτήσεις)· sales@expowork.gr (ρεύμα/λοιπές υπηρεσίες, [[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-13]])· Ελένη Σπυροπούλου (espiropoulou@, εξυπηρέτηση εκθετών — [[2026-11-19-xenia-paraggelia-klark-expowork]])· Ελένη Κατσούλη (ekatsouli@, εξυπηρέτηση εκθετών) ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]])· Marita Vgenopoulou (mvgenopoulou@expowork.gr) — Exhibition Stand Construction Sales ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 - **Σχέση με GROW:** ασαφής — πιθανός ανταγωνιστής ή υπεργολάβος για τα περίπτερα πελατών ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-17)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- **XENIA / [[greenmart-antemisaris]], στις 2026-11-19:** παραγγελία **5τονου κλαρκ για το μάζεμα, Τρίτη 2026-11-24, 193,95 €** — υπογραφή Ζάχου 12:56, η Δέσποινα έστειλε δελτίο + εξόφληση στο sales@ 13:14, η Ελένη Σπυροπούλου (εξυπηρέτηση εκθετών) «Καταχωρήθηκε» 13:59 ([[2026-11-19-xenia-klark-mazema-ypografi-exoflisi]], [[2026-11-19-xenia-paraggelia-klark-expowork]]).
+
+*Νωρίτερα (στις 2026-11-17):*
 - **XENIA / [[greenmart-antemisaris]], στις 2026-11-16:** 10:06 μαζικό reminder ότι λείπει η παραγγελία ρεύματος (ο Ζάχος το προώθησε «URGENT»)· 12:08 η Δέσποινα έστειλε την παραγγελία· 13:30 η Κ. Τσέλιου επιβεβαίωσε **893,84 €, προς εξόφληση 318,40 €**· 16:50 στάλθηκε αποδεικτικό εξόφλησης ✓. Δήλωση ηλεκτρολόγου (SG LIGHT) στάλθηκε απευθείας 11:31. Αλλαγή ανάρτησης σε 2 σημεία: γραπτή επιβεβαίωση δεν φαίνεται ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]]).
 
 *Νωρίτερα (στις 2026-11-16):*
@@ -32,6 +35,7 @@ updated: 2026-11-17
 - Η πρόταση για XENIA 2026 προωθήθηκε από τον Δήμο στις [[ioanna-chalkiadaki]] και [[despina-velissariou]] (2026-07-21) χωρίς σχόλιο· τι ακολούθησε: ασαφές ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Κλαρκ 5 τόνων για το μάζεμα XENIA — Expowork — **2026-11-24** (καταχωρήθηκε 2026-11-19) ([[2026-11-19-xenia-paraggelia-klark-expowork]])
 - [ ] Επιβεβαίωση αλλαγής ανάρτησης XENIA (2 σημεία) + συμψηφισμός υπολοίπου με κλαρκ — Expowork — από 2026-11-13 13:17 ([[2026-11-13-expowork-allagi-anartisis-klark-xenia]])
 - [ ] Κλαρκ για τα μεγάλα δέντρα — Expowork — **2026-11-16 14:00** ([[2026-11-13-expowork-allagi-anartisis-klark-xenia]])
 - [x] Επιβεβαίωση ότι η παραγγελία ανάρτησης XENIA (Α23-Β25) είναι πλήρης — Expowork (Ρουμελιώτης) — από 2026-11-11 20:54 ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]) — ✓ 2026-11-12 καταχωρήθηκε ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-13]])
@@ -43,6 +47,7 @@ updated: 2026-11-17
 - —
 
 ## Χρονολόγιο
+- 2026-11-19 — XENIA: παραγγελία + εξόφληση κλαρκ μαζέματος 24/11 (193,95 €) → «Καταχωρήθηκε» ([[2026-11-19-xenia-paraggelia-klark-expowork]]).
 - 2026-11-16 — XENIA: παραγγελία ρεύματος Αντεμισάρη 893,84 € επιβεβαιώθηκε, υπόλοιπο 318,40 € εξοφλήθηκε· δήλωση ηλεκτρολόγου SG LIGHT ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]]).
 - 2026-11-13 — XENIA: αίτημα αλλαγής ανάρτησης σε 2 σημεία + συμψηφισμού· παραγγελία κλαρκ (16/11) με υπογραφή εκθέτη ([[2026-11-13-expowork-allagi-anartisis-klark-xenia]]).
 - 2026-11-12 — XENIA: ανάρτηση καταχωρήθηκε, παραλήφθηκαν υπογεγραμμένα έντυπα + εξόφληση (823,36 € + 715,43 €)· ρεύμα → sales@ ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-13]], [[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]]).
@@ -53,6 +58,7 @@ updated: 2026-11-17
 - 2026-07-21 — Πρόταση EXPOWORK προς Antemisaris → «FYI» στη GROW ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 
 ## Οικονομικά
+- XENIA κλαρκ μαζέματος 5 τόνων (2026-11-24): **193,95 €** (2026-11-19, εξόφληση στάλθηκε) ([[2026-11-19-xenia-klark-mazema-ypografi-exoflisi]]).
 - XENIA ρεύμα Antemisaris, 2026-11-16: 893,84 €, προς εξόφληση 318,40 € (εξοφλήθηκε) ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]]).
 - XENIA, 2026-11-13: νέα ανάρτηση 411,68 € + 357,72 € = 769,40 €· ζητήθηκε συμψηφισμός διαφοράς 769,39 € με το κλαρκ (τιμή κλαρκ ασαφής) ([[2026-11-13-expowork-allagi-anartisis-klark-xenia]]).
 - XENIA ανάρτηση Antemisaris: εξοπλισμός 823,36 € + υπηρεσία 715,43 € (2026-11-12, πλήρωσε ο πελάτης) ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]]).

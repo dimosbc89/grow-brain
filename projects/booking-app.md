@@ -3,7 +3,7 @@ type: project
 title: "Booking App (UK)"
 aliases: [Booking App, APP UK, growagency.online/services/booking-app]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Booking App (UK)
 > Γραμμή υπηρεσίας της GROW: εφαρμογή online κρατήσεων για studios (κυρίως pilates/wellness), με landing στο growagency.online/services/booking-app/ και leads από φόρμα και Meta Ads (Calendly «meta-ads-embed»), κυρίως από UK.
@@ -33,6 +33,7 @@ updated: 2026-11-19
 —
 
 ## Χρονολόγιο
+- 2026-11-19 — Νέο event στο GROW Calendar: **Εμμανουέλα MUA x Grow Agency (Call)** 2026-11-24 13:00 (Meet, Δήμος + Μαρίνα) ([[2026-11-20_2026-11-27]]).
 - 2026-11-18 — Call Abi Browne 18:00· email + Service Guide, ζητά στοιχεία για πρόταση ([[2026-11-18-booking-app-abi-browne-call]]).
 - 2026-11-17 — GR outreach Booking App· DaFit ζητά αφαίρεση/re-indexing («SOS SOS» Μαρίνα → Δήμος)· Calendly Vassiliadou 20/11, Γκότσης → 27/11 ([[2026-11-17-booking-app-outreach-dafit-unsubscribe]], [[2026-11-16-booking-app-uk-landing-leads-update-2026-11-18]]).
 - 2026-11-16 — Αλλαγές landing (Μαρίνα) → live· Service Guide PDF· «uk forms» (Δήμος → Μαρίνα, χωρίς κείμενο — 💭 Υπόθεση: οι φόρμες app request)· follow-up σε 6 UK leads· 2 νέα Calendly calls για 18/11 ([[2026-11-16-booking-app-uk-landing-leads]]).

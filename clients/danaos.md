@@ -3,7 +3,7 @@ type: client
 title: "Πολυκατάστημα ΔΑΝΑΟΣ"
 aliases: [DANAOS, Danaos, ΔΑΝΑΟΣ, Danaos Stores, danaos-stores.gr, ΔΑΝΑΟΣ ΑΦΟΙ ΓΕΩΡΓΙΟΠΟΥΛΟΙ ΑΕΒΕ]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Πολυκατάστημα ΔΑΝΑΟΣ
 > Πολυκατάστημα με eshop (danaos-stores.gr), εταιρεία ΔΑΝΑΟΣ ΑΦΟΙ ΓΕΩΡΓΙΟΠΟΥΛΟΙ ΑΕΒΕ. Η GROW τρέχει Google Ads (PMax) και Meta. Ο πελάτης ζητά περισσότερη επικοινωνία και καθυστερημένα τιμολόγια.
@@ -25,7 +25,10 @@ updated: 2026-11-19
 
   ([[2026-08-25-danaos-google-ads-pmax-budget]], [[2026-09-09-danaos-meta-invoices-june-july]])
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19 20:50: Tagora sync Danaos Stores απέτυχε ξανά (αποτυχία από 2026-11-04)· τα προϊόντα μένουν online ([[2026-11-19-tagora-danaos-leatherbrands-sync]]).
+
+*Νωρίτερα (στις 2026-11-19):*
 - **2026-11-18 16:28:** η [[fjola-skraqi]] έστειλε excel «PRE BLACK FRIDAY - DANAOS 19-11-26» με τα ποσοστά και τις εταιρείες που ξεκινούν **σήμερα 2026-11-19**· απάντηση Δήμου / εικαστικά + ads: δεν φαίνονται ([[2026-11-16-danaos-pre-black-friday-update-2026-11-19]]).
 
 *Από 2026-11-17:*
@@ -58,7 +61,7 @@ updated: 2026-11-19
 - [x] Report Οκτωβρίου — Δήμος — υποσχέθηκε «μέσα στην ημέρα» **2026-11-12** ([[2026-11-04-danaos-report-oktovriou-update-2026-11-13]]) — ✓ στάλθηκε 2026-11-13 13:56 ([[2026-11-13-danaos-october-report]])
 - [x] Ραντεβού με τη Φιόλα για Black Friday campaigns / δημιουργικά — Δήμος/Φιόλα — **2026-11-13** — ✓ ορίστηκε 14:00–15:00 (Meet)· αν έγινε: ασαφές ([[2026-11-13-danaos-black-friday-meeting]])
 - [ ] Σχόλια στο report Οκτωβρίου — Danaos — από 2026-11-13 ([[2026-11-13-danaos-october-report]])
-- [ ] Διόρθωση sync Danaos Stores στο [[tagora]] (απέτυχε και 14–15/11) — Δήμος ([[2026-11-14-tagora-danaos-sync-apetyxe]])
+- [ ] Διόρθωση sync Danaos Stores στο [[tagora]] (απέτυχε και 14–15/11, 16/11, 19/11 — αποτυχία από 2026-11-04) — Δήμος ([[2026-11-14-tagora-danaos-sync-apetyxe]], [[2026-11-19-tagora-danaos-leatherbrands-sync]])
 - [x] ✓ Πλάνο Black Friday offers — Φιόλα — ήρθε 2026-11-16 (Pre BF από 2026-11-19· εικαστικά βλ. παραπάνω) ([[2026-11-16-danaos-pre-black-friday]]) — αρχικά: Φιόλα → Δήμος 2026-11-12 ([[2026-11-04-danaos-report-oktovriou-update-2026-11-13]])
 - [x] Απάντηση στο αίτημα report/ραντεβού/BF-CM — Δήμος — ✓ 2026-11-12 09:15 ([[2026-11-04-danaos-report-oktovriou-update-2026-11-13]])
 - [ ] Απάντηση για budget Νοεμβρίου (3.000 € ή μία πλατφόρμα) — ΔΑΝΑΟΣ — από 2026-10-22 ([[2026-10-22-danaos-budget-noemvrios]])
@@ -78,6 +81,7 @@ updated: 2026-11-19
 - 2026-09-09: η πελάτισσα αλλάζει τους κωδικούς μπαίνοντας η ίδια στο προφίλ της, όχι από το κουμπί του email ([[2026-09-09-danaos-google-password-alert]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — Tagora: sync Danaos Stores απέτυχε ξανά (20:50), ενώ τρέχει το Pre Black Friday ([[2026-11-19-tagora-danaos-leatherbrands-sync]]).
 - 2026-11-18 — Η Φιόλα στέλνει excel Pre Black Friday (ποσοστά/εταιρείες από 2026-11-19) ([[2026-11-16-danaos-pre-black-friday-update-2026-11-19]]).
 - 2026-11-16 — Pre Black Friday από 2026-11-19 (λίστα brands/ποσοστών/URLs + φωτογραφίες)· Tagora sync απέτυχε ξανά ([[2026-11-16-danaos-pre-black-friday]]).
 - 2026-11-14/15 — Tagora: αποτυχία sync Danaos Stores και τις δύο μέρες ([[2026-11-14-tagora-danaos-sync-apetyxe]]).

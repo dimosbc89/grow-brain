@@ -1,13 +1,13 @@
 ---
 type: index
 title: "Κατάλογος"
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Κατάλογος
 
 > Όλες οι σελίδες του εγκεφάλου. Ξεκίνα από [[attention]] και [[rules]]. Ενημερώνεται σε κάθε ingest.
 
-## Πελάτες (60)
+## Πελάτες (61)
 - [[academicals-foxacademy|Academicals / Fox Academy]] · _ενεργός_ — Δύο brands, Academicals και Fox Academy, με κοινή πλευρά πελάτη (Όμηρος, Αλεξ). Η GROW τρέχει Google Ads και για τα δύο και φιλοξενεί τα websites και…
 - [[agape|Agape]] · _ενεργός_ — Πελάτης της GROW με project στο Asana από 2026-03-13: branding (εφαρμογές, ταμπέλα, business card), airbnb brochure, wine video, ad campaigns και ιδέε…
 - [[alerta|Alerta (alerta-app.net)]] · _σε αναμονή_ — Mobile app για την οποία η GROW σχεδίασε onboarding 5 οθονών και paywall redesign.
@@ -69,6 +69,7 @@ updated: 2026-11-19
 - [[warehouse|Warehouse (eshop.warehouse.gr)]] · _prospect_ — E-shop για το οποίο η GROW έκανε SEO audit και πρόταση performance marketing (Meta, Google Ads, Klaviyo)· ασαφές αν έκλεισε συνεργασία.
 - [[yiayia-meatballs|Υιάγια (Yiayia Meatballs)]] · _ενεργός_ — Εστιατόριο με κεφτεδάκια («Home of Meatballs») της maria-drouza· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influe…
 - [[yourclima|Yourclima]] · _ενεργός_ — Πελάτης της GROW για εταιρικά email/hosting στο yourclima.com· επαφές ο christos-tsamis και ο manolis-kalomoiris.
+- [[brewhub|Brewhub]] · _ενεργός_ — Coffee shop (Brewhub Athens, Βασίλης Ζιούπας)· η GROW έφτιαξε Christmas creatives (cup, stickers) τον Νοέμβριο 2026.
 
 ## Leads (29)
 - [[olympicnature|Olympicnature]] · _prospect_ — πρώτη συνάντηση 2026-11-16 11:00 (Meet, από Μαρίνα)· αντικείμενο ασαφές.
@@ -129,7 +130,7 @@ updated: 2026-11-19
 - [[vassia-kataki|Βάσια Κατάκη]] — Graphic Designer της GROW. Της πηγαίνουν brand manuals, logo briefs, design e-shop/site, βίντεο και κατόψεις περιπτέρων.
 - [[vassiliki-giannopoulou|Βασιλική Γιαννοπούλου]] — Account Director της GROW. Ο Δήμος της στέλνει τα τιμολόγια και τα admin, τρέχει τα accounts yiayia-meatballs (από τον Σεπτέμβριο 2026) και Estia, και…
 
-## Πρόσωπα (58)
+## Πρόσωπα (61)
 - [[panagiotis-rallis|Παναγιώτης Ράλλης]] — 💭 επαφή [[cryo]].
 - [[michalis-barbagiorgis|Μιχάλης Μπαρμπαγιώργης]] — [[barbaggio]].
 - [[marilena-rentzou|Μαριλένα Ρέντζου]] — Agency Operations Manager στο TikTok LIVE· πρόταση η GROW να γίνει TikTok LIVE Agency (grow-outreach).
@@ -188,8 +189,11 @@ updated: 2026-11-19
 - [[yiannis-korbos|Yiannis Korbos]] — Στέλνει στη GROW τα brand manuals των mr-mrs-white και anayia. Ο ρόλος του είναι ασαφής: μπορεί να είναι designer ή στέλεχος του brand.
 - [[yousef-ghiami|Yousef Ghiami]] — Partner της tsu-pies, συνιδιοκτήτης του καταστήματος στο Leiden (νέο κατάστημα Amstelveen).
 - [[antony-bebbington|Antony Bebbington]] · _ενεργός_ — Senior Sourcing Manager EMEA & LATAM Marketing, Meetings & Events της Salesforce.
+- [[vasilis-zioupas|Βασίλης Ζιούπας]] — Επαφή του brewhub (Christmas creatives 2026).
+- [[salvatore-andolina|Salvatore Andolina]] — Επαφή της enoteca για τα έντυπα (menu, κατάλογοι, folder).
+- [[giannis-lekkas|Giannis Lekkas]] — Marketing Manager της Access Fashion· in-kind χορηγός (τσάντες, μαντήλια) του Heritage Escape 2027 ([[hellenic-heritage-evolution]]).
 
-## Συνεργάτες & πάροχοι (19)
+## Συνεργάτες & πάροχοι (20)
 - [[neon-arrow|Neon Arrow]] — Εκτυπώσεις/plexi/αυτοκόλλητα· plexi + αυτοκόλλητα τοίχου για το περίπτερο XENIA της greenmart-antemisaris (430 € + ΦΠΑ, τοποθέτηση 2026-11-19).
 - [[biz-courier|BIZ Courier & Logistics]] — Courier και 3PL (αποθήκη/WMS) που έχει επιλέξει η tandem-concept. Η GROW συνδέει το WooCommerce e-shop της Tandem με τη BIZ μέσω API / BIZ LiNK και ετ…
 - [[cretaforce|CretaForce]] — Registrar και πάροχος domains/hosting. Εκεί η GROW κρατά domains πελατών, όπως το pharmacypan.gr και το argyroplastics.gr.
@@ -209,6 +213,7 @@ updated: 2026-11-19
 - [[speedex|Speedex (Speedex Web Services)]] — Courier με API (Speedex Web Services) που η GROW διασυνδέει σε e-shop πελάτη· το demo test ολοκληρώθηκε 2026-08-28 και αναμένονται live credentials γι…
 - [[the-accountancy-partnership|The Accountancy Partnership (TAP)]] — Online λογιστικό γραφείο στο UK. Επιλέχθηκε στις 2026-10-14 ως λογιστής της grow-360-ltd. Το onboarding είναι σε εξέλιξη αλλά μπλοκαρισμένο από ένα απ…
 - [[webhotelier|WebHotelier]] — Booking engine και πηγή δεδομένων για τα ξενοδοχεία της hotelbrain. Η GROW χρειάζεται το API της για να συγχρονίζει τα στατικά δεδομένα στα hotel webs…
+- [[neda-decorations|NEDA Decorations]] — Διακόσμηση τραπεζιών· ζητήθηκε πρόταση για το dinner της circle-of-dining 22/11.
 
 ## Διοίκηση GROW (7)
 - [[dypa-programma|ΔΥΠΑ: Πρόγραμμα Απόκτησης Εργασιακής Εμπειρίας 30+]] — Η GROW AGENCY Ε.Ε. ήταν πάροχος θέσης στο πρόγραμμα της ΔΥΠΑ για ανέργους 30+, μέσω του ΚΠΑ2 Δάφνης, με μία ωφελούμενη. Το πρόγραμμα, μαζί με την επιμ…

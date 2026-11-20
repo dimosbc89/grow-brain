@@ -3,7 +3,7 @@ type: vendor
 title: "Epilogin / Epilogi Digital"
 aliases: [Epilogin, Epilogi Digital, epilogin.gr, epilogidigital@gmail.com]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-20
 ---
 # Epilogin / Epilogi Digital
 > Προμηθευτής εκτυπώσεων/menuboards της GROW (επαφή [[iasonas-kolytos]])· χρησιμοποιείται και για κοστολόγηση κατασκευαστικών σε εκθεσιακά περίπτερα.
@@ -13,7 +13,11 @@ updated: 2026-11-16
 - **Επαφή:** [[iasonas-kolytos]] (JASON KOLYTOS, epilogidigital@gmail.com)· γενικό info@epilogin.gr ([[2026-09-11-krema-menuboards-epilogin]]).
 - **Πελάτες GROW που αγγίζει:** [[krema-gelato]]· lead [[coco-mat]] ([[2026-09-11-krema-menuboards-epilogin]], [[2026-09-07-cocomat-xenia-booth-offer]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-03)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- **[[enoteca]]:** 2026-11-19 12:10 κόστος εντύπων 58 € (30 EN μενού) / 95 € (50 GR μενού) / 115 € (50 φάκελοι 21×15) / 85 € (30 κατάλογοι κρασιών)· χρόνος παράδοσης εκκρεμεί ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong-update-2026-11-20]]).
+- **[[circle-of-dining]]:** 2026-11-19 13:38 **95 € όλα μαζί** για 30 μενού 15×25 + 25 καρτελάκια ονομάτων· η GROW προχωρά (Ιωάννα 16:51), αρχεία + χαρτί 2026-11-20 πρωί, τιμολόγιο στον Δημήτρη Γεωργιάδη ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]]).
+
+*Από 2026-11-03:*
 - **Τιμολόγιο 2026-11-02:** για δουλειές Υιάγια + Overoll. Το σκέλος [[yiayia-meatballs]] εγκρίθηκε· για τα αυτοκόλλητα [[overoll]] η Βασιλική επισημαίνει **χρέωση 320 € + ΦΠΑ αντί προσφοράς 280 € + ΦΠΑ** (2026-11-02 15:49) ([[2026-11-02-epilogi-timologio-yiayia-overoll]]).
 - **Plastica / [[argyroplastics]], στις 2026-11-03:** στις 2026-11-02 η [[vassia-kataki]] έστειλε στην ΕΠΙΛΟΓΗ ΙΚΕ την κάτοψη με μέτρα (12:18) και τα **εκτυπωτικά αρχεία** με διαστάσεις/ποσότητες (13:44, WeTransfer)· απάντηση δεν φαίνεται. Η Μαρίνα προώθησε στον Δήμο τις προδιαγραφές κατασκευής που είχαν σταλεί εδώ 2026-10-21 ([[2026-11-02-argyroplastics-katopsi-me-metra]], [[2026-11-02-argyroplastics-ektypotika-arxeia]], [[2026-10-20-plastica-prosfora-kataskevasti-update-2026-11-03]]). 💭 Υπόθεση: η Epilogi είναι τελικά ο κατασκευαστής/τυπογράφος του περιπτέρου — ρητή επιβεβαίωση δεν υπάρχει.
 
@@ -37,6 +41,7 @@ updated: 2026-11-16
 - [[2026-09-11-krema-menuboards-antikatastasi]] — αντικατάσταση χωρίς χρέωση στον πελάτη· πρόταση μοιρασιάς κόστους.
 
 ## Χρονολόγιο
+- 2026-11-19 — Κόστος εντύπων Enoteca (12:10) · μενού + καρτελάκια dinner Circle of Dining 95 € (13:38) ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong-update-2026-11-20]], [[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]]).
 - 2026-11-13 — Η [[marianna-vourna]] ζητά προσφορά για έντυπα [[enoteca]] (μενού, φάκελοι αποδείξεων, κατάλογοι κρασιών· ίδιο αίτημα και σε Print Kong) ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong]]).
 - 2026-11-12 — Oggi T-shirts: τιμές 2026-11-10 (11,8–15,8 € + ΦΠΑ ανά μπλούζα)· ερώτηση Βάσιας για εκτύπωση ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]]).
 - 2026-11-11 — Η Ιωάννα ρωτά ώρα παράδοσης των Α5 Αντεμισάρη· καμία απάντηση στο thread ([[2026-11-10-antemisaris-entypa-merch-xenia-update-2026-11-12]]).

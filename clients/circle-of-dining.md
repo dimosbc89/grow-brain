@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -14,7 +14,14 @@ updated: 2026-11-19
 - **Ομάδα GROW:** [[ioanna-chalkiadaki]] (day-to-day, υλικό site)· ο Δήμος (πρόταση, design redesign)· [[vassiliki-giannopoulou]] (λίστα καλεσμένων) ([[2026-07-30-lista-kalesmenon-georgiadis]]).
 - **Συνεργάτες πελάτη (logos στο site):** Hilton, Agusta (Κρήτη) ([[2026-10-01-circle-of-dining-redesign]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- **Προετοιμασία dinner 2026-11-22 19:30 (Rodopou & Beyond, έως 25 καλεσμένοι, 4–5 τραπέζια):**
+  - **Έντυπα:** η [[fotini]] ζήτησε από [[epilogin]] 30 μενού 15×25 (ιριδίζον + εναλλακτικό χαρτί) + 25 καρτελάκια ονομάτων 20×2 που κουμπώνουν στο μενού → **95 € όλα μαζί**, έτοιμα 2026-11-20 «νωρίς αν τα έχουμε οκ». 16:51 η [[ioanna-chalkiadaki]]: **προχωράμε**, χαρτί + τελικά αρχεία **2026-11-20 πρωί**· τιμολόγηση **στον Γεωργιάδη** ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]]).
+  - **Διακόσμηση τραπεζιών:** 13:42 η Ιωάννα ζήτησε προσφορά/πρόταση από **NEDA Decorations (Χριστίνα)** με references, menu + custom label, και βαζάκια — αναμονή απάντησης ([[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]]).
+- **Email signature:** 17:48 ο [[dimitris-georgiadis]] ζήτησε από την Ιωάννα υπογραφή email για το The Circle of Dining ([[2026-11-19-circle-of-dining-ypografi-email]]).
+- Hospitality Jam: η [[global-foods]] παίρνει συμφωνητικό χορηγίας 8+1 επεισοδίων για υπογραφή (2026-11-19) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]).
+
+*Νωρίτερα (στις 2026-11-19):*
 - **XENIA dinner 2026-11-22 19:30 (Rodopou & Beyond):** οι προσκλήσεις **έχουν σταλεί**. 2026-11-18 ο Δήμος έστειλε contact report (xlsx)· η [[ioanna-chalkiadaki]] πέρασε σε Google Sheet όσους την άνοιξαν (tab 1 επιβεβαιωμένοι + κάποιοι «demi», tab 2 follow-up τηλέφωνα της ημέρας)· ο Δήμος έθεσε **προτεραιότητα: concierge, yacht companies, βίλες**. Η [[despina-velissariou]] έστειλε προσωπικές προσκλήσεις μετά από τηλέφωνο σε **Variety Cruises (κ. Δράκος)** και **Istion (marketing@istion.com)** — RSVP εκκρεμεί ([[2026-11-18-circle-of-dining-contact-report-proteraiotites]], [[2026-11-18-circle-of-dining-prosklisi-variety-cruises]], [[2026-11-18-circle-of-dining-prosklisi-istion]]).
 
 *Νωρίτερα (στις 2026-11-16):*
@@ -31,6 +38,11 @@ updated: 2026-11-19
 - Επόμενο: «The Circle of Dining γύρισμα» 2026-10-22 13:00 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Επιλογή χαρτιού + τελικά αρχεία μενού/καρτελάκια στην Epilogi — [[ioanna-chalkiadaki]] / [[fotini]] — **2026-11-20 πρωί** ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]])
+- [ ] Παραλαβή εντύπων dinner (95 €, τιμολόγιο στον Γεωργιάδη) — Epilogi → Ιωάννα — 2026-11-20 ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]])
+- [ ] Πρόταση/προσφορά διακόσμησης 4–5 τραπεζιών + βαζάκια — NEDA Decorations → Ιωάννα — πριν 2026-11-22 ([[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]])
+- [ ] Τελικός αριθμός τραπεζιών/καλεσμένων — Ιωάννα + [[dimitris-georgiadis]] — πριν 2026-11-22 ([[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]])
+- [ ] Email signature «The Circle of Dining» — [[ioanna-chalkiadaki]] (GROW) — από 2026-11-19 ([[2026-11-19-circle-of-dining-ypografi-email]])
 - [ ] Follow-up καλεσμένων με προτεραιότητα concierge / yacht companies / βίλες — Ιωάννα, Δέσποινα — πριν 2026-11-22 ([[2026-11-18-circle-of-dining-contact-report-proteraiotites]])
 - [ ] RSVP Variety Cruises (κ. Δράκος) και Istion — καλεσμένοι — πριν 2026-11-22 ([[2026-11-18-circle-of-dining-prosklisi-variety-cruises]], [[2026-11-18-circle-of-dining-prosklisi-istion]])
 - [x] ✓ Google Ads Circle of Dining — **Δήμος** — έκλεισε στο Asana 2026-11-17 18:00 (ήταν εκπρόθεσμο από 2026-11-09)· νέα υπενθύμιση Ιωάννας στο Asana 2026-11-16 ([[2026-11-16-asana-circle-of-dining-google-ads-reminder]])
@@ -71,6 +83,7 @@ updated: 2026-11-19
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — 13:13–13:38 μενού + καρτελάκια dinner: Epilogi 95 € → 16:51 «προχωράμε», αρχεία 20/11 πρωί · 13:42 αίτημα διακόσμησης στη NEDA Decorations · 17:48 ο Γεωργιάδης ζητά email signature ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]], [[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]], [[2026-11-19-circle-of-dining-ypografi-email]]).
 - 2026-11-18 — Contact report προσκλήσεων dinner· προτεραιότητα concierge/yachts/βίλες (Δήμος)· προσκλήσεις Δέσποινας σε Variety Cruises και Istion ([[2026-11-18-circle-of-dining-contact-report-proteraiotites]], [[2026-11-18-circle-of-dining-prosklisi-variety-cruises]], [[2026-11-18-circle-of-dining-prosklisi-istion]]).
 - 2026-11-16 — Asana «google ads»: η Ιωάννα υπενθυμίζει ξανά στον Δήμο (task εκπρόθεσμο από 9/11) ([[2026-11-16-asana-circle-of-dining-google-ads-reminder]]).
 - 2026-11-16 — Τιμολόγιο #1333 (μοντάζ 3ου επεισοδίου) προς finance.askoffice@ ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]]).
@@ -105,6 +118,7 @@ updated: 2026-11-19
 - 2026-07-20 14:00 & 2026-07-22 10:00 — «Γεωργιάδης σεφ εδώ» ([[2026-07-20_2026-11-03]]).
 
 ## Οικονομικά
+- 2026-11-19: έντυπα dinner (30 μενού 15×25 + 25 καρτελάκια) — Epilogi **95 € όλα μαζί** (ΦΠΑ δεν αναφέρεται), τιμολόγηση απευθείας στον Γεωργιάδη· αν η GROW χρεώνει κάτι: ασαφές ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]]).
 - #1292 (2026-10-27): μοντάζ δεύτερου επεισοδίου — ποσό μόνο στο PDF ([[2026-10-27-accounting-timologia-kartelles]]).
 - The Circle of Dining — full πακέτο: 450€ (αποδοχή 2026-08-11) ([[2026-08-11-offer-circle-of-dining-georgiadis]]). Αν περιλαμβάνει ΦΠΑ / τι ακριβώς καλύπτει: ασαφές (μόνο στο PDF).
 - Το «πρώτο» project (προσωπικό brand) — τιμή ασαφής.

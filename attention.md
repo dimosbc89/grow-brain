@@ -1,34 +1,35 @@
 ---
 type: attention
 title: "Τι απασχολεί τον Δήμο τώρα"
-updated: 2026-11-19
+updated: 2026-11-20
 ---
-# Attention — 2026-11-19
+# Attention — 2026-11-20
 
 > Τα 5 projects που απασχολούν πραγματικά τον Δήμο, από τα email που έστειλε, τα εισερχόμενα και το ημερολόγιο. Το ξαναγράφει η πρωινή ενημέρωση κάθε μέρα.
 
-## 1. [[greenmart-antemisaris]] — XENIA 21–23/11
-- **Κατάσταση:** App πωλητών: ο Ζάχος ζήτησε αλλαγές πεδίων (βγαίνουν Προτεραιότητα/Επόμενη ενέργεια, μπαίνουν Περιοχή + Πωλητής) και εσύ απάντησες «έτοιμο» ✓ ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]]). Post συμμετοχής XENIA δημοσιεύτηκε 18/11 ✓, οι προσκλήσεις στάλθηκαν από την πλατφόρμα XENIA ✓ ([[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]]). Σήμερα στήνεται το video wall· ο πελάτης έρχεται στο περίπτερο **μετά τις 15:00**. Video wall video: η Ιωάννα ζητά πολλές αλλαγές (εγκαταστάσεις αντί φυτώριο, selling points 500+ στρέμματα/5000+ έργα) ([[2026-11-18-asana-video-wall-sxolia]]).
-- **Επόμενο βήμα (Δήμος):** παραλαβή tablets 20/11 πρωί · έγκριση στις δοκιμές κίνησης στο video wall (Asana) · υπογραφή V2 Expopiece + προκαταβολή (εκκρεμεί από 12/11 — ασαφές αν έγινε).
+## 1. [[greenmart-antemisaris]] — XENIA 21–23/11 (από αύριο)
+- **Κατάσταση:** Φυλλάδια (πολυσέλιδο + τρίπτυχο) από Print Kong στην Αγίου Δημητρίου 209 **σήμερα έως 11:30**, τιμολόγηση στη GROW, δελτίο χωρίς τιμές στον πελάτη ([[2026-11-19-antemisaris-fylladia-printkong]]). Video wall video: ο Ζάχος **διαφωνεί με 35″–1′** — παίζει σε loop 8 ώρες, θέλει μεγαλύτερο ([[2026-11-19-antemisaris-video-dialogi-planon]]). Neon Arrow: καμία τοποθέτηση (περίπτερο όχι έτοιμο), πιστωτικό 100 € + ΦΠΑ σήμερα ([[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]]). Κλαρκ μαζέματος 24/11 (193,95 €, υπέγραψε ο Ζάχος) ([[2026-11-19-xenia-klark-mazema-ypografi-exoflisi]]).
+- **Επόμενο βήμα (Δήμος):** παραλαβή tablets σήμερα · απόφαση διάρκειας video πριν τις 21/11 · υπογραφή V2 Expopiece + προκαταβολή (ασαφές αν έγινε).
 
-## 2. Πωλήσεις — [[booking-app]], περίπτερα, [[hotelbrain]]
-- **Κατάσταση:** Call με [[abi-browne]] (UK) 18/11 18:00 → της έστειλες Service Guide και ζήτησες 8 στοιχεία ([[2026-11-18-booking-app-abi-browne-call]]). HotelBrain: προσφορά Academy αναπροσαρμόστηκε σε **1.150 € + ΦΠΑ** ([[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-19]]) + νέα προσφορά social media στον Παλαιολόγο ([[2026-11-18-hotelbrain-social-media-prosfora]]) · SSL + 5 αλλαγές hotelbraingroup.com «Ready» ✓. Περίπτερα: [[tria-delta]] Meet δεν έγινε, η Μαρίνα ζητά νέο ραντεβού · [[afrokoptiki]] ρωτά υλικά/πάτωμα. Euronet / Prisma (18/11): ασαφές αν έγιναν.
-- **Επόμενο βήμα (Δήμος):** DaFit — αφαίρεση (SOS της Μαρίνας από 17/11, δεν φαίνεται απάντηση) · Calendly Vassiliadou 20/11 18:30 · αναμονή απάντησης Νίκης/Panos.
+## 2. [[tandem-concept]] — BIZ booking & διορθώσεις site
+- **Κατάσταση:** Η BIZ βρήκε το booking 810027890 αλλά **δεν μπορεί να ξαναβγάλει packing list** ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]])· ζητά να περαστούν τα είδη στο EasyBiz, ολοκλήρωση έως 25/11. Ρώτησες την Caroline αν θα πάρει εκείνη τηλέφωνο· εκείνη 21:30 «Please call them» ([[2026-11-19-tandem-easybiz-booking]], [[2026-11-19-tandem-cv-bags-biz-product]]). 4 διορθώσεις site για την εβδομάδα 23/11 ([[2026-11-19-tandem-last-corrections-website]]).
+- **Επόμενο βήμα (Δήμος):** τηλέφωνο στη BIZ σήμερα · απάντηση στις 4 διορθώσεις.
 
-## 3. [[knack-and-snack]] — demo site & deadlines
-- **Κατάσταση:** Η Βασιλική έστειλε 6 σχόλια στο demo site και τα σωστά λογότυπα που ζήτησες ([[2026-11-18-knack-review-site]]). Deadlines Βασιλικής: report + στρατηγικό πλάνο 23/11, demo site 24/11· ✓ pop up bashment 24/11 (Asana). Η συζήτηση με Σπήλιο μετά το γύρισμα 18/11: ασαφές αν έγινε.
-- **Επόμενο βήμα (Δήμος):** περνάς τα σχόλια στο demo για 24/11.
+## 3. Πωλήσεις — [[booking-app]], περίπτερα, [[hotelbrain]]
+- **Κατάσταση:** Calendly Vassiliadou σήμερα 18:30 · νέο call Εμμανουέλα MUA 24/11 13:00 (εσύ + Μαρίνα) · Γκότσης 27/11. [[krimatoglou]] HORECA: Meet Τρ 01/12 15:00, προσχέδιο περιπτέρου μέσα στην εβδομάδα 23/11 ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-20]]). ⚠️ HotelBrain/[[mr-mrs-white]]: COPYTRACK για φωτό Tinos — άδεια 481,50 € ή αποζημίωση 350 € έως 28/11 ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).
+- **Επόμενο βήμα (Δήμος):** απόφαση για COPYTRACK (αλλαγή φωτό + ποιος πληρώνει) · DaFit αφαίρεση (SOS Μαρίνας από 17/11).
 
-## 4. [[global-foods]] — 4σέλιδο, plans, site
-- **Κατάσταση:** Η Ελπίδα απέρριψε το 4σέλιδο Ατζέντας 2027 («δεν είμαστε παραγωγή», «ο όμιλος λέγεται Global Foods») και ζητά τηλέφωνο σήμερα το πρωί ([[2026-11-18-globalfoods-4selido-atzenta-2027]]). Posting plan Δεκεμβρίου (Μαρίνα) και Unique Νοε–Δεκ (Δέσποινα) στάλθηκαν για έγκριση. Τα 8 τελικά Tips ήρθαν από τη Γεωργία ([[2026-10-09-globalfoods-tips-site-update-2026-11-19]]).
-- **Επόμενο βήμα (Δήμος):** CCTV 4.1 (από 17/11) · ανέβασμα Tips · Asana: Italfoods banner, Λινκ παρουσίασης εκπρόθεσμα.
+## 4. [[global-foods]] — 4σέλιδο, podcast συμφωνητικό, νέα προϊόντα
+- **Κατάσταση:** Η Ελπίδα έστειλε δικό της κείμενο «GLOBAL FOODS GROUP.docx» — πρώτα συμφωνία στο κείμενο, μετά καθαρό εταιρικό design ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]]). Η Μαρίνα έστειλε το συμφωνητικό 8+1 sponsored episodes προς υπογραφή ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]). Νέα προϊόντα για posts: Gnocco Fritto, Coati topping pizza (αποκλειστικότητα).
+- **Επόμενο βήμα (Δήμος):** Asana: Italfoods banner (9/11), Λινκ παρουσίασης (17/11) · CCTV 4.1 (από 17/11).
 
-## 5. [[danaos]] — Pre Black Friday από σήμερα
-- **Κατάσταση:** Η Φιόλα έστειλε 18/11 excel με εκπτώσεις και εταιρείες που ξεκινούν σήμερα ([[2026-11-16-danaos-pre-black-friday-update-2026-11-19]]).
-- **Επόμενο βήμα (Δήμος):** εικαστικά + ads σήμερα — δεν φαίνεται απάντηση.
+## 5. [[grow-360-ltd]] — UK λογιστής & registered office
+- **Κατάσταση:** Πλήρωσες TAP P-388148 £72 + P-388149 £24 ✓ ([[2026-11-19-grow360-pandle-pliromes-tap]]). Η TAP ζήτησε εξουσιοδότηση Corporation Tax: ο κωδικός HMRC έρχεται **ταχυδρομικά στο registered office** σε ~2 εβδομάδες ([[2026-11-20-grow360-tap-corporation-tax-authorisation]]) — αλλά το registered office είναι ακόμα η ληγμένη διεύθυνση της YCF, που κρατά επιστολές 30 ημέρες ([[2026-11-19-grow360-ycf-30-imeres-proeidopoiisi]]).
+- **Επόμενο βήμα (Δήμος):** ανανέωση YCF (30% έκπτωση) ή νέα διεύθυνση **πριν φτάσει ο κωδικός** · Confirmation Statement έως 23/11.
 
 ## Στο ραντάρ
-- Admin: [[grow-360-ltd]] YCF «Director Action Required» + Confirmation Statement έως 23/11 · **lucaffe.gr λήγει 24/11** ([[2026-11-19-lucaffe-domain-lixi]]) · AWS GrowCRM budget $25,20 > όριο $25 ([[2026-11-19-aws-budget-growcrm]]) · Βασιλική ζητά κατάθεση για νερά 187,59 € ([[2026-11-18-asana-plirwmi-nera-katathesi]]) · [[metalease]] Σ1181 ανανεώθηκε ✓, Σ1495/Σ2748 ακόμα.
-- [[pharmacypan]]: η Βασιλική περιμένει εξήγηση από 09/11 ([[2026-11-03-pharmacypan-prosfora-landing-ads-update-2026-11-19]]).
-- [[circle-of-dining]] dinner 22/11 — προσκλήσεις σε Variety Cruises & Istion, προτεραιότητα concierge/yacht/villes.
-- [[tandem-concept]]: packing list BIZ ακόμα εκκρεμεί · [[overoll]] Christmas teasers · [[enoteca]] print menu για έγκριση + Print Kong τιμές · [[oggi-gelato]] t-shirts Fratelli (ελάχιστη παραγγελία 500 €).
+- [[danaos]]: Pre Black Friday τρέχει, αλλά το Tagora sync Danaos Stores αποτυγχάνει από 04/11 ([[2026-11-19-tagora-danaos-leatherbrands-sync]])· εικαστικά/ads που υποσχέθηκες 19/11 — δεν φαίνεται αποστολή.
+- [[overoll]]: η Βάσω ενέκρινε κατεύθυνση Χριστουγέννων, θέλει call για το moodboard **σήμερα 09:00–13:00** · shooting 27/11 · υπόλοιπο 2.312,80 € ([[2026-11-19-overoll-kartela-pelati]]).
+- [[enoteca]]: ⚠️ οι «ορθές» προσφορές εντύπων της Βάσιας Σ. είναι ακριβώς στο κόστος vendor ([[2026-11-19-enoteca-orthi-epanalipsi-prosfora-ektypotikon]]).
+- [[circle-of-dining]] dinner 22/11 — μενού/καρτελάκια Epilogi 95 € σήμερα · διακόσμηση NEDA · website (Asana σου, 20/11).
+- [[krapsites]] check-in Scan More για ΜΠΡΑΤΙΜΙΑ 21/11 — ποιος το έχει: ασαφές. [[pharmacypan]]: ο Πάρις περιμένει απάντηση για τα leads (από 04/11). lucaffe.gr λήγει 24/11 · posidonioathens.gr καταχωρήθηκε — για ποιον;

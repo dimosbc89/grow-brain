@@ -3,7 +3,7 @@ type: team
 title: "Δέσποινα Βελισσαρίου"
 aliases: [Despina Velissariou, Δέσποινα, Despina, despina@growagency.online]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Δέσποινα Βελισσαρίου
 > Senior Account Manager της GROW. Τρέχει events, χορηγίες ([[hellenic-heritage-evolution]], [[rejuv-collective-solace]]), influencers και το e-shop της [[tandem-concept]]. Είναι και στα meetings των περιπτέρων.
@@ -33,7 +33,11 @@ updated: 2026-11-19
 - Άλλα calls στο ημερολόγιο: «CKBG x Grow Projects» 2026-07-27, «John Miaris x Grow Agency» 2026-08-05, «Grow Agency x Erasmus» 2026-09-03 (με τη [[laurine-erasmus]]), «Δέσποινα κέντρο» 2026-09-14, «Έκθεση αυτοκινήτου- Δέσποινα» 2026-10-09 ([[2026-07-20_2026-11-03]]).
 - **Admin:** της στέλνονται για εκτύπωση τιμολόγια [[metalease]] και αποδείξεις Anthropic/DataForSEO ([[2026-07-22-metalease-timologio-c3c6]], [[2026-10-16-metalease-timologio-dc62]], [[2026-10-16-anthropic-receipt-extra-usage]], [[2026-07-24-dataforseo-receipt]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19 (XENIA/[[greenmart-antemisaris]]): κλαρκ μαζέματος 24/11 — υπογραφή Ζάχου → παραγγελία + εξόφληση στην Expowork, «Καταχωρήθηκε»· Print Kong: πολυσέλιδο + τρίπτυχο τιμολόγηση σε GROW, παράδοση έως 20/11 11:30· Neon Arrow: καμία τοποθέτηση, πιστωτικό 100 € + ΦΠΑ, ζήτησε καρτέλα πελάτη ([[2026-11-19-xenia-paraggelia-klark-expowork]], [[2026-11-19-antemisaris-fylladia-printkong]], [[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]]). Tandem: σε cc στις 4 τελευταίες διορθώσεις e-shop (link φωτογράφου από εκείνη) ([[2026-11-19-tandem-last-corrections-website]]).
+- 2026-11-19: Oggi T-shirts — έστειλε στην Print Kong τα SOL'S μοντέλα (Livardas) που επέλεξε ο πελάτης· αναμένει τιμή ([[2026-11-17-tshirts-prosfores-fratelli-printkong-update-2026-11-20]]).
+
+*Από 2026-11-19:*
 - 2026-11-18: Circle of Dining dinner — έστειλε μετά από τηλέφωνο προσκλήσεις σε **Variety Cruises (κ. Δράκος, 16:53)** και **Istion (16:43)**· το κείμενο υπογράφει η Ιωάννα, στάλθηκε από το δικό της email ([[2026-11-18-circle-of-dining-prosklisi-variety-cruises]], [[2026-11-18-circle-of-dining-prosklisi-istion]], [[2026-11-18-circle-of-dining-contact-report-proteraiotites]]).
 - 2026-11-18 (Global Foods): έστειλε το 4σέλιδο Ατζέντας 2027 (Αθήνα, 2 εκδοχές) → απορρίφθηκε από την Ελπίδα, τηλέφωνο το πρωί 2026-11-19· έστειλε plan Νοε–Δεκ Unique για έγκριση ([[2026-11-18-globalfoods-4selido-atzenta-2027]], [[2026-11-18-unique-posting-plan-noe-dek]]).
 
@@ -53,6 +57,8 @@ updated: 2026-11-19
 - Meeting με την Argyroplastics σήμερα 14:30 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Link φωτογραφιών φωτογράφου για αντικατάσταση AI φωτογραφιών στο e-shop Tandem — Δέσποινα/Δήμος — εβδομάδα 2026-11-23 ([[2026-11-19-tandem-last-corrections-website]])
+- [ ] Πιστωτικό + καρτέλα Neon Arrow → λογιστήριο — Δέσποινα — 2026-11-20 ([[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]])
 - [ ] Μετάφραση FISAN EN→EL — Δέσποινα — **2026-11-16** ([[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-16]])
 - [ ] Follow up Heritage Escape 2027 με Avance / Access Fashion — Δέσποινα — από 2026-11-13 ([[2026-11-13-heritage-escape-2027-avance]])
 - [ ] Κυνηγά προσφορά [[itqs]] για το δίκτυο του γραφείου (μετά από ραντεβού του Δήμου) — Δέσποινα — email 2026-11-12 18:17 ([[2026-11-12-itqs-prosfora-diktyo-grafeiou]])
@@ -82,6 +88,9 @@ updated: 2026-11-19
 - 2026-07-24: οδηγία του Δήμου να μπει απονομή βραβείου στο gala στην πρόταση προς Viber ([[2026-07-24-viber-heritage-escape-ideas]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — Global Foods: Ελπίδα στέλνει κείμενο 4σέλιδου (πρώτα κείμενο, μετά καθαρή εταιρική αισθητική) · Εύη στέλνει Coati TOPPING PIZZA + Gnocco Fritto για social · Heritage Escape: template χορηγών golf (10:43), Access Fashion επιβεβαιώνει in-kind χορηγία (18:17) ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]], [[2026-11-19-globalfoods-coati-topping-pizza]], [[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos]], [[2026-11-19-heritage-escape-costa-navarino-golf-mail]], [[2026-11-13-heritage-escape-2027-access-fashion-update-2026-11-20]]).
+- 2026-11-19 — XENIA: κλαρκ μαζέματος (Expowork), φυλλάδια Print Kong, Neon Arrow χωρίς τοποθέτηση ([[2026-11-19-xenia-paraggelia-klark-expowork]], [[2026-11-19-antemisaris-fylladia-printkong]], [[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]]).
+- 2026-11-19 — Oggi: SOL'S επιλογές πελάτη (Livardas) προς Print Kong ([[2026-11-17-tshirts-prosfores-fratelli-printkong-update-2026-11-20]]).
 - 2026-11-18 — Προσκλήσεις Circle of Dining dinner σε Variety Cruises και Istion ([[2026-11-18-circle-of-dining-prosklisi-variety-cruises]], [[2026-11-18-circle-of-dining-prosklisi-istion]]).
 - 2026-11-18 — Global Foods: 4σέλιδο Ατζέντας 2027 (απορρίφθηκε), plan Unique Νοε–Δεκ ([[2026-11-18-globalfoods-4selido-atzenta-2027]], [[2026-11-18-unique-posting-plan-noe-dek]]).
 - 2026-11-13 — FISAN: «έως Δευτέρα 16/11, με κάθε επιφύλαξη»· emails HE 2027 σε Avance και Access Fashion ([[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-16]], [[2026-11-13-heritage-escape-2027-avance]], [[2026-11-13-heritage-escape-2027-access-fashion]]).

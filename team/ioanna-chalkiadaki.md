@@ -3,7 +3,7 @@ type: team
 title: "Ιωάννα Χαλκιαδάκη"
 aliases: [Ioanna Chalkiadaki, Ιωάννα, Ioanna, ioanna@growagency.online]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Ιωάννα Χαλκιαδάκη
 > Account Manager της GROW. Τρέχει social και content για πελάτες εστίασης και λιανικής ([[circle-of-dining]], [[greenmart-antemisaris]], [[yiayia-meatballs]]) και είναι στα calls των [[hellenic-heritage-evolution]] και [[tsu-pies]].
@@ -25,7 +25,10 @@ updated: 2026-11-19
 - Podcast — ερωτήσεις «Podcast_Kyritsis_Bakoulis_Questions.docx» για έλεγχο. Πελάτης/πλαίσιο ασαφές ([[2026-10-12-podcast-kyritsis-bakoulis-check]]).
 - Παραλήπτρια της λίστας δημοσιογράφων και του «AI Workshop Vol2 Q3» ([[2026-10-07-lista-dimosiografon-press]], [[2026-09-08-ai-workshop-vol2-q3]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19 (Antemisaris/XENIA): έστειλε video πλάνων για διαλογή, στόχος 35″–1′ → ο Ζάχος διαφωνεί (θέλει μεγαλύτερο) ([[2026-11-19-antemisaris-video-dialogi-planon]]).
+
+*Νωρίτερα (στις 2026-11-19):*
 - **Στις 2026-11-18:** Circle of Dining dinner — από το contact report του Δήμου πέρασε σε Google Sheet όσους άνοιξαν την πρόσκληση (tab 1 επιβεβαιωμένοι + «demi», tab 2 follow-up τηλέφωνα)· ο Δήμος της όρισε **προτεραιότητα concierge, yacht companies, βίλες** ([[2026-11-18-circle-of-dining-contact-report-proteraiotites]]).
 - 2026-11-18 (Antemisaris/XENIA): πέρασε τα σχόλια Ζάχου στο app πωλητών, όρισε άφιξη πελάτη 19/11 μετά τις 15:00, δημοσίευσε το post συμμετοχής, έστειλε τις προσκλήσεις μέσω πλατφόρμας XENIA και έδωσε αναλυτικά σχόλια στο video wall video (Asana) ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]], [[2026-11-18-asana-video-wall-sxolia]]).
 
@@ -46,6 +49,7 @@ updated: 2026-11-19
 - Ανοιχτά: διορθώσεις Stihl για Greenmart, υλικό redesign για Circle of Dining, έλεγχος ερωτήσεων podcast ([[2026-09-18-greenmart-posts-volvoi-stihl]], [[2026-10-01-circle-of-dining-redesign]], [[2026-10-12-podcast-kyritsis-bakoulis-check]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Συμφωνία διάρκειας + τελική μίξη video περιπτέρου Antemisaris μετά τη διαλογή του πελάτη — Ιωάννα — πριν την XENIA 2026-11-21 ([[2026-11-19-antemisaris-video-dialogi-planon]])
 - [ ] Follow-up καλεσμένων dinner 22/11 με προτεραιότητα concierge / yachts / βίλες — Ιωάννα — πριν 2026-11-22 ([[2026-11-18-circle-of-dining-contact-report-proteraiotites]])
 - [x] ✓ οι προσκλήσεις στάλθηκαν (βλ. [[2026-11-18-circle-of-dining-contact-report-proteraiotites]]) — Έγκριση test πρόσκλησης Circle of Dining dinner (22/11) — Δήμος → Ιωάννα — από 2026-11-13 ([[2026-11-13-circle-of-dining-dinner-test-prosklisi]])
 - [ ] Follow up Mediterranean College / call Global Foods για Hospitality Jam — Ιωάννα — από 2026-11-13 ([[2026-10-20-hospitality-jam-mediterranean-college-update-2026-11-16]], [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]])
@@ -69,6 +73,8 @@ updated: 2026-11-19
 - 2026-09-18: ο Δήμος της πρότεινε να δώσει στη Greenmart κάτι παραπάνω, «λίγη κίνηση με AI» ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — Circle of Dining dinner 22/11: «προχωράμε» με Epilogi για μενού + καρτελάκια (95 €, αρχεία 20/11 πρωί, τιμολόγιο στον Γεωργιάδη)· αίτημα διακόσμησης στη [[neda-decorations]]· ο Γεωργιάδης της ζητά email signature ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]], [[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]], [[2026-11-19-circle-of-dining-ypografi-email]]).
+- 2026-11-19 — Video πλάνων XENIA για διαλογή· διαφωνία Ζάχου για τη διάρκεια ([[2026-11-19-antemisaris-video-dialogi-planon]]).
 - 2026-11-18 — Sheet επιβεβαιώσεων + follow-up dinner Circle of Dining· προτεραιότητα από Δήμο ([[2026-11-18-circle-of-dining-contact-report-proteraiotites]]).
 - 2026-11-18 — XENIA: post δημοσιεύτηκε, προσκλήσεις στάλθηκαν, άφιξη πελάτη 19/11 μετά τις 15:00, σχόλια video wall ([[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]], [[2026-11-18-asana-video-wall-sxolia]]).
 - 2026-11-13 — 17:06 call/συμφωνητικά Global Foods (Hospitality Jam)· 17:13 παρουσίαση Mediterranean College· 19:37 TEST πρόσκλησης dinner Circle of Dining ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]], [[2026-10-20-hospitality-jam-mediterranean-college-update-2026-11-16]], [[2026-11-13-circle-of-dining-dinner-test-prosklisi]]).

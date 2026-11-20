@@ -3,7 +3,7 @@ type: vendor
 title: "BIZ Courier & Logistics"
 aliases: [BIZ Courier, Biz, ebiz, BIZ Courier & Logistics S.A., bizcourier.eu, BIZ LiNK]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # BIZ Courier & Logistics
 > Courier και 3PL (αποθήκη/WMS) που έχει επιλέξει η [[tandem-concept]]. Η GROW συνδέει το WooCommerce e-shop της Tandem με τη BIZ μέσω API / BIZ LiNK και ετοιμάζει το BOX NOW.
@@ -14,7 +14,10 @@ updated: 2026-11-19
 - **Επαφές:** [[aliki-theochari]] (Director of Customer Success· κύρια επαφή για integration και BOX NOW)· [[jose-fernando-trujillo-heron]] (Business Development and Marketing Specialist· εμπορικά, τιμοκατάλογος Box Now)· itsupport@ (BIZ IT Helpdesk· Markos Lesko, Application Support Rep, m.lesko@bizcourier.eu)· customersupport@, georgia@, i.gorobets@ ([[2026-09-14-tandem-bizcourier-it-coordination]], [[2026-10-12-bizcourier-bizlink-fix-boxnow]], [[2026-08-26-online-appointment-bizcourier-tandem]]).
 - **Ομάδα GROW:** ο Δήμος.
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19: η BIZ (Natalia Holdaway-Mela) εντόπισε το inbound **booking 810027890** της [[tandem-concept]] — accepted, ολοκλήρωση **έως 2026-11-25** — αλλά **δεν μπορεί να ξαναβγάλει το BIZ packing list** (βγαίνει μόνο από το WooCommerce στο booking, χωρίς αυτόματη αποθήκευση όπως στο EasyBiz)· ζητά να περαστούν τα είδη στο EasyBiz. Η Caroline ζήτησε από τον Δήμο να τους τηλεφωνήσει ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]], [[2026-11-19-tandem-easybiz-booking]], [[2026-11-19-tandem-cv-bags-biz-product]]).
+
+*Νωρίτερα (στις 2026-11-19):*
 - 2026-11-18: follow-up BIZ (Natalia) για packing list [[tandem-concept]] → ο Δήμος: booking 2026-10-21 μέσω BIZ LiNK, PDF δεν κρατήθηκε· ζητά επανέκδοση από το υπάρχον booking, όχι νέο ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]).
 
 *Νωρίτερα (στις 2026-11-17):*
@@ -29,7 +32,9 @@ updated: 2026-11-19
 - Ο Δήμος ζήτησε ενεργοποίηση του BOX NOW και τα αρχεία, αφού πήρε τον οδηγό Scribe (2026-10-12) ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Επανέκδοση packing list Tandem από το υπάρχον booking (2026-10-21) — BIZ customer support — από 2026-11-18 ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]])
+- [ ] Τηλέφωνο στη BIZ: τι χρειάζεται στο EasyBiz για το booking 810027890 — Δήμος (ζήτησε η Caroline) — από 2026-11-19 ([[2026-11-19-tandem-cv-bags-biz-product]])
+- [ ] Ολοκλήρωση inbound booking 810027890 — BIZ — έως 2026-11-25 ([[2026-11-19-tandem-easybiz-booking]])
+- [x] ✗ 2026-11-19: η BIZ δεν μπορεί να το ξαναβγάλει ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]]) — Επανέκδοση packing list Tandem από το υπάρχον booking (2026-10-21) — BIZ customer support — από 2026-11-18 ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]])
 - [x] ✓ απάντηση Δήμου 2026-11-18 ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]) — Packing list Tandem (3 κιβώτια) — Δήμος — από 2026-11-16 ([[2026-11-16-tandem-biz-packing-list]])
 - [ ] Επιβεβαίωση status «Processing» + νέα test παραγγελία στο tandemconcept.gr — Δήμος → BIZ IT — από 2026-11-05 ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]])
 - [x] Απάντηση στις ερωτήσεις αναβάθμισης: η νέα έκδοση περιέχει τη διόρθωση, δεν χρειάζεται ειδική προσαρμογή — BIZ itsupport@ — ✓ 2026-10-26 (οι ερωτήσεις για neworder, payload/SOAP, mapping δεν απαντήθηκαν ρητά) ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]])
@@ -51,6 +56,7 @@ updated: 2026-11-19
 - Τα χαμένα δέματα αποζημιώνονται με βάση το τιμολόγιο αγοράς του προϊόντος (θέση BIZ) ([[2026-08-26-online-appointment-bizcourier-tandem]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — 10:34 BIZ → Δήμος: booking 810027890, packing list δεν παράγεται από τη BIZ· 16:47 → Caroline: accepted, ολοκλήρωση έως 25/11, ζητά EasyBiz ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]], [[2026-11-19-tandem-easybiz-booking]]).
 - 2026-11-18 — Packing list Tandem: follow-up BIZ 11:54 · απάντηση Δήμου 23:53 ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]).
 - 2026-11-12 — Follow-up BIZ IT (Markos Lesko) για status + test παραγγελία· 2026-11-05 το αρχικό αίτημα ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]]).
 - 2026-10-26 — 13:24 υπενθύμιση του Δήμου· 18:20 BIZ IT: η νέα έκδοση έχει τη διόρθωση· 18:24 ο Δήμος εγκρίνει την αναβάθμιση· 19:47 αναβάθμιση σε 1.3.2, το booking λειτουργεί· 20:27 ο Δήμος ρωτά για BOX NOW (υπηρεσία, service code 166/167, sender CRM, αντικαταβολή)· 20:37 BIZ: ενεργό με 167, οδηγός, «Pay on the Go» ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
@@ -71,5 +77,7 @@ updated: 2026-11-19
 
 ## Σημειώσεις
 - Τα τεχνικά emails του Δήμου προς τη BIZ είναι τυπικά και πλήρως δομημένα, με επικεφαλίδες και λίστες ([[2026-10-12-bizcourier-bizlink-fix-boxnow]]).
+- Το BIZ packing list ενός booking μέσω BIZ LiNK/WooCommerce **δεν αποθηκεύεται** πουθενά και η BIZ δεν μπορεί να το ξαναβγάλει — να κατεβαίνει και να κρατιέται τη στιγμή του booking (2026-11-19) ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]]).
+- Η αποθήκη παρέλαβε τα κιβώτια 2026-11-11 και το booking εντοπίστηκε μόνο 2026-11-19, μετά από email ([[2026-11-19-tandem-easybiz-booking]]).
 - Η BIZ αργεί: οι κωδικοί Box Now εκκρεμούσαν από τον Ιούνιο ([[2026-09-07-biz-courier-boxnow-codes]])· οι ερωτήσεις της 2026-10-12 απαντήθηκαν μόνο μετά από υπενθύμιση (2026-10-26), αλλά τότε η IT απάντησε μέσα σε λίγες ώρες ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
 - Από παλαιότερες συνομιλίες: emails για BIZ Courier WMS/API ([[2026-10-20-prohgoumenes-synomilies-claude]]).

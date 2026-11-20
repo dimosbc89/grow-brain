@@ -3,7 +3,7 @@ type: person
 title: "Βαγγέλης Ζάχος"
 aliases: [Zachos V., Vangelis Zachos, zachosv@antemisaris.gr]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Βαγγέλης Ζάχος
 > Κύρια επαφή της GROW στην [[greenmart-antemisaris]]: στέλνει αρχεία προϊόντων, προτάσεις εκθέσεων και κάνει τα follow-ups.
@@ -12,7 +12,10 @@ updated: 2026-11-19
 - **Οργανισμός:** [[greenmart-antemisaris]] (antemisaris.gr)· ακριβής ρόλος ασαφής ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 - **Επαφή GROW:** [[ioanna-chalkiadaki]]· ο Δήμος ([[2026-08-13-antemisaris-koropi-range-harmony]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- 2026-11-19: 12:56 υπέγραψε την παραγγελία κλαρκ μαζέματος 24/11 (193,95 €) ([[2026-11-19-xenia-klark-mazema-ypografi-exoflisi]])· 14:06 **διαφώνησε** με τη διάρκεια 35″–1′ του video περιπτέρου (θα παίζει σε loop 8 ώρες → θέλει μεγαλύτερο), θα κάνει διαλογή πλάνων ([[2026-11-19-antemisaris-video-dialogi-planon]]).
+
+*Νωρίτερα (στις 2026-11-19):*
 - 2026-11-18: σχόλια στο app πωλητών (έξω προτεραιότητα/επόμενες ενέργειες, μέσα περιοχή + πωλητής) → ο Δήμος «έτοιμο»· ρώτησε αν έρχονται 19/11 14:00 → η Ιωάννα: μετά τις 15:00· για το post XENIA «ίδιο με πέρυσι» → δημοσιεύτηκε ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]]).
 
 *Νωρίτερα (στις 2026-11-18):*
@@ -36,6 +39,8 @@ updated: 2026-11-19
 - Follow-up καταλόγου με την Ιωάννα μετακινήθηκε στις 2026-10-26 14:00 ([[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Διαλογή πλάνων video περιπτέρου + συμφωνία για διάρκεια — Ζάχος ↔ Ιωάννα — από 2026-11-19 ([[2026-11-19-antemisaris-video-dialogi-planon]])
+- [x] ✓ 2026-11-19 12:56 Υπογραφή παραγγελίας κλαρκ μαζέματος 24/11 ([[2026-11-19-xenia-klark-mazema-ypografi-exoflisi]])
 - [ ] (μερικώς ✓ 2026-11-13 — [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-16]]· υπόλοιπα έως 2026-11-16 πρωί) Απαντήσεις στη «SOS ενημέρωση» XENIA (σειρές γλαστρών, κείμενα σταδίων, ποσότητες merch, κάρτες QR, λίστα συνεργατών/προσκλήσεις, καμπάνια leads, σκαλέτα video wall) — Ζάχος — από 2026-11-12 16:14 ([[2026-11-12-antemisaris-sos-enimerosi-xenia]])
 - [x] Υπογραφή + εξόφληση δελτίων ανάρτησης Expowork — ✓ 2026-11-12 11:48 ([[2026-11-12-antemisaris-expowork-anartisi-ypografi-exoflisi]])
 - [x] Αν χωρούν οι γλάστρες — ✓ «θα είμαστε ΟΚ» 2026-11-02 ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]])
@@ -48,6 +53,7 @@ updated: 2026-11-19
 - —
 
 ## Χρονολόγιο
+- 2026-11-19 — Υπογράφει κλαρκ μαζέματος· διαφωνεί με διάρκεια video περιπτέρου («brain-melt» για την ομάδα) ([[2026-11-19-xenia-klark-mazema-ypografi-exoflisi]], [[2026-11-19-antemisaris-video-dialogi-planon]]).
 - 2026-11-18 — Fine tuning app πωλητών 09:29· ερώτηση άφιξης 19/11 14:00 (10:36)· post XENIA «όπως πέρυσι» ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]]).
 - 2026-11-17 — Έγκριση video «5 Things»· λίστα email προσκλήσεων XENIA· ζητά νέες προτάσεις post «με έργο» ([[2026-11-16-antemisaris-video-5-things-egkrisi-update-2026-11-18]], [[2026-11-17-antemisaris-lista-email-proskliseis]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-18]]).
 - 2026-11-16 — «URGENT» για ρεύμα XENIA· υπογραφή φόρμας ρεύματος· τελική λίστα γλαστρών (Pots Xenia Final) ([[2026-11-16-xenia-reuma-paraggelia-exoflisi]], [[2026-11-16-antemisaris-sfragida-ypografi-pots]]).

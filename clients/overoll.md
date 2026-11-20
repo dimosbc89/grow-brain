@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -18,7 +18,12 @@ updated: 2026-11-19
 - **Επαφές:** [[vaso-theochari]] (Marketing, marketing@overoll.gr) ([[2026-10-14-overoll-websites-domains]])· Kikiras_john@yahoo.gr σε cc, ρόλος ασαφής ([[2026-10-14-overoll-websites-domains]], [[2026-07-23-overoll-akinito-xanthi]]).
 - **Ομάδα GROW:** ο Δήμος (sites, domains)· [[vassiliki-giannopoulou]] και [[marina-papanastasiou]] σε cc ([[2026-10-14-overoll-websites-domains]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
+## Τρέχουσα κατάσταση (στις 2026-11-20)
+- **Καρτέλα:** 2026-11-19 11:30 το λογιστήριο GROW έστειλε ανανεωμένη καρτέλα μετά από νέα κατάθεση της Overoll — **υπόλοιπο 2.312,80 €** (από 5.312,80 € στις 2026-11-02) ([[2026-11-19-overoll-kartela-pelati]]).
+- **Χριστούγεννα — εγκρίθηκε η κατεύθυνση:** 2026-11-19 15:07 η [[vassiliki-giannopoulou]] έστειλε strategy (X-MAS CAMPAIGN.pdf) + moodboard shooting: **«Για τα μικρά που κάνουν τα Χριστούγεννα μεγάλα»** / «Χριστούγεννα, σε στρώσεις», 3 θεματικές («Κράτα μου ένα», «Φέρνω κάτι», «Μικρές Γιορτές»), creators, Gift Guide αν προχωρήσουν τα gift boxes. Ροή: **21–22/11 Panettone Chocolate** (πρόταση έως 2026-11-20) → **23–25/11 πρώτο teaser** → μετά το **shooting 27/11** αποκάλυψη προϊόντων → Δεκέμβριος. 16:05 η [[vaso-theochari]]: **«Μου αρέσει η κεντρική κατεύθυνση», συμφωνεί με ροή/παρουσίαση** — θέλει να ξαναδούν **μόνο το moodboard**, call **2026-11-20 09:00–13:00**. Μοντέλα (προφίλ + κόστος): εκκρεμεί από GROW ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]]).
+- **Κριτικές 8–15/11:** 2026-11-19 12:08 η Overoll έδωσε κείμενο απάντησης για το **Brownie Πραξιτέλους 8/11** («το μέγεθος δεν έχει αλλάξει», στοιχεία στο hello@overoll.gr)· μία κριτική μένει αναπάντητη ([[2026-11-16-overoll-kritikes-8-15-11-update-2026-11-20]]).
+
+*Νωρίτερα (στις 2026-11-19):*
 - **GTA reel (εσωτερικό, 2026-11-18):** η [[marianna-vourna]] έστειλε 8 εικόνες σε ύφος «GTA 6» με Overoll· ο Δήμος απάντησε με **Overoll_GTA_Reel_v2.mp4** (Drive). Αν στάλθηκε στην Overoll: ασαφές ([[2026-11-18-overoll-gta-reel]]).
 
 *Νωρίτερα (στις 2026-11-18):*
@@ -52,17 +57,22 @@ updated: 2026-11-19
 - Ο Δήμος ζήτησε διαθεσιμότητες για call στις 2026-10-14· ημερομηνία call δεν υπάρχει στο ημερολόγιο ([[2026-10-14-overoll-websites-domains]], [[2026-07-20_2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Ημερομηνία έναρξης teasers + υλικό Panettone για Σ/Κ 21–22/11 — Βασιλική / Ιωάννα — από 2026-11-17 ([[2026-11-17-overoll-christmas-teasers-plan]])
-- [ ] Δημιουργικές προτάσεις + concept shooting 27/11, απόφαση για μοντέλα (προφίλ + κόστος) — Βασιλική / Ιωάννα — πριν 2026-11-27 ([[2026-11-17-overoll-christmas-teasers-plan]])
-- [ ] Πλάνο χριστουγεννιάτικης επικοινωνίας σε mail (ροή posts 23/11 → Δεκέμβριος) — GROW — πριν 2026-11-23 ([[2026-11-17-overoll-christmas-teasers-plan]])
-- [ ] Απόφαση Overoll για 2 αρνητικές κριτικές 8–15/11 (η Πραξιτέλους 15/11 εγκρίθηκε) — Overoll / [[vasia-s]] — από 2026-11-16 ([[2026-11-16-overoll-kritikes-8-15-11]])
+- [ ] Call για το moodboard του shooting — [[vassiliki-giannopoulou]] ↔ [[vaso-theochari]] — **2026-11-20 09:00–13:00** (η Βασιλική να στείλει ώρες) ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]])
+- [ ] Πρόταση post Panettone Chocolate για 21–22/11 — Βασιλική — **έως 2026-11-20** ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]])
+- [ ] Προφίλ + κόστος μοντέλων για shooting 27/11 — GROW (Βασιλική) — «άμεσα», πριν 2026-11-27 ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]])
+- [ ] Πρώτο festive teaser — GROW — 2026-11-23 → 2026-11-25 ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]])
+- [ ] Ανάρτηση απάντησης στην κριτική Brownie Πραξιτέλους 8/11 (κείμενο Overoll) — [[vasia-s]] — από 2026-11-19 ([[2026-11-16-overoll-kritikes-8-15-11-update-2026-11-20]])
+- [x] ✓ (στάλθηκε 2026-11-19 15:07, η ημερομηνία έναρξης = 21–22/11) Ημερομηνία έναρξης teasers + υλικό Panettone για Σ/Κ 21–22/11 — Βασιλική / Ιωάννα — από 2026-11-17 ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]])
+- [x] ✓ (2026-11-19 strategy + moodboard· εκκρεμούν μοντέλα) Δημιουργικές προτάσεις + concept shooting 27/11 — Βασιλική / Ιωάννα ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]])
+- [x] ✓ (στάλθηκε 2026-11-19, εγκρίθηκε 16:05) Πλάνο χριστουγεννιάτικης επικοινωνίας σε mail (ροή posts 23/11 → Δεκέμβριος) — GROW ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]])
+- [x] ✓ (2026-11-19: κείμενο για Brownie 8/11, μία μένει αναπάντητη) Απόφαση Overoll για 2 αρνητικές κριτικές 8–15/11 — Overoll / [[vasia-s]] — από 2026-11-16 ([[2026-11-16-overoll-kritikes-8-15-11-update-2026-11-20]])
 - [ ] Έλεγχος διαθεσιμότητας usernames/domains ΗΠΑ (overollusa.com, overollus.com, overollcroissanterie.com κ.ά.), διαδικασία κατοχύρωσης + προτάσεις GROW — Δήμος/Βασιλική — ζητήθηκε 2026-11-11 ([[2026-11-11-overoll-us-social-domains]])
 - [ ] Πληρωμή τιμολογίου Κατερίνας Πανδή (BackToSchool) — Overoll — από 2026-11-11 ([[2026-11-11-overoll-timologio-pandi-backtoschool]])
 - [ ] Overoll να περάσει 5 εγγραφές DNS (loyalty, admin.loyalty, resend DKIM, rsend, send) στο Papaki → ο Δήμος κάνει έλεγχο — Overoll / Δήμος — εντός εβδομάδας 2026-11-09 ([[2026-11-09-overoll-dns-loyalty-club]])· reminder Δήμου 2026-11-12, αναπάντητο ([[2026-11-09-overoll-dns-loyalty-club-update-2026-11-13]])
 - [ ] Ανάρτηση εγκεκριμένων απαντήσεων στις κριτικές 2–8/11 — [[vasia-s]] — εγκρίθηκαν 2026-11-12 ([[2026-11-12-overoll-kritikes-2-8-11]])
 - [ ] Αναθεώρηση Panettone με ροζ φόντο + αρχείο εκτύπωσης — Βασιλική ([[2026-10-21-overoll-panettone-packaging-update-2026-11-04]])
 - [ ] Πληρωμή τιμολογίων μπαλονιών Αττικής (9 τμχ) και DJ Γλυφάδας — Overoll — από 2026-11-02 ([[2026-11-02-overoll-timologia-mpalonia-attiki]], [[2026-11-02-overoll-timologio-dj-glyfada]])
-- [ ] Εξόφληση υπολοίπου καρτέλας 5.312,80 € (με τιμολόγιο Νοεμβρίου) — Overoll — από 2026-11-02 ([[2026-11-03-admin-eidopoiiseis]])
+- [ ] Εξόφληση υπολοίπου καρτέλας — Overoll — **2.312,80 €** στις 2026-11-19 μετά από κατάθεση ([[2026-11-19-overoll-kartela-pelati]])· ήταν 5.312,80 € από 2026-11-02 ([[2026-11-03-admin-eidopoiiseis]])
 - [ ] Διόρθωση χρέωσης αυτοκόλλητων Epilogi (320 € vs προσφορά 280 € + ΦΠΑ) — [[epilogin]] — από 2026-11-02 ([[2026-11-02-epilogi-timologio-yiayia-overoll]])
 - [ ] «Overoll call» — 2026-11-04 16:00–17:00 (δημιουργός Βασιλική· θέμα ασαφές) ([[2026-11-03_2026-11-10]])
 - [ ] Αναγγελία πρόσληψης promoters 29/10 (Πανόρμου, Πραξιτέλους, Γλυφάδα) — [[sk-advisors]] — πριν τις 2026-10-29 ([[2026-10-27-overoll-proslipseis-promoters-29-10]])
@@ -98,11 +108,14 @@ updated: 2026-11-19
 - [ ] Αξιολόγηση ακινήτου στην Ξάνθη (πρόταση Μαραμή) και επικοινωνία μαζί του αν υπάρξει ενδιαφέρον — Overoll — χωρίς ημερομηνία ([[2026-07-23-overoll-akinito-xanthi]])
 
 ## Αποφάσεις
+- 2026-11-19: εγκρίθηκε η χριστουγεννιάτικη κατεύθυνση «Για τα μικρά που κάνουν τα Χριστούγεννα μεγάλα» και η ροή δημοσιεύσεων (μένει το moodboard) ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]]).
 - [[2026-10-14-overoll-domain-enallaktikes]]: το overoll.com (4.500 €) θεωρείται μεγάλο budget, εξετάζονται εναλλακτικές.
 - Θα γίνει online call μόλις η Overoll ολοκληρώσει τις σημειώσεις της ([[2026-10-14-overoll-websites-domains]]).
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — Λογιστήριο GROW: ανανεωμένη καρτέλα μετά από κατάθεση, υπόλοιπο 2.312,80 € ([[2026-11-19-overoll-kartela-pelati]]).
+- 2026-11-19 — 12:08 κείμενο απάντησης κριτικής Brownie Πραξιτέλους · 15:07 Βασιλική: Christmas strategy + moodboard · 16:05 Βάσω εγκρίνει κατεύθυνση/ροή, call για moodboard 20/11 πρωί ([[2026-11-16-overoll-kritikes-8-15-11-update-2026-11-20]], [[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]]).
 - 2026-11-18 — Εσωτερικά: εικόνες «GTA 6 – Overoll» (Μαριάννα) → Overoll_GTA_Reel_v2 (Δήμος) ([[2026-11-18-overoll-gta-reel]]).
 - 2026-11-17 — Βάσω: Christmas teasers (Panettone), posts 23–25/11, shooting 27/11, ζητά concept/μοντέλα/πλάνο σε mail ([[2026-11-17-overoll-christmas-teasers-plan]]).
 - 2026-11-16 — Vasia: report αρνητικών κριτικών 8–15/11 + προτεινόμενες απαντήσεις· Overoll: να απαντηθεί μόνο η Πραξιτέλους 15/11, τις άλλες δύο τις βλέπουν εσωτερικά ([[2026-11-16-overoll-kritikes-8-15-11]]).
@@ -138,6 +151,7 @@ updated: 2026-11-19
 - 2026-07-23 — Ο Κώστας Μαραμής προτείνει κατάστημα 150 τ.μ. στο Cosmos Center της Ξάνθης για franchise· ο Δήμος το προωθεί στο Kikiras_john@yahoo.gr («μου έστειλε ένας άκυρος... απλά στο προωθώ») ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Οικονομικά
+- 2026-11-19: υπόλοιπο καρτέλας **2.312,80 €** μετά από κατάθεση (💭 ≈ 3.000 € αν δεν μεσολάβησε νέο τιμολόγιο) ([[2026-11-19-overoll-kartela-pelati]]).
 - 2026-11-02: υπόλοιπο καρτέλας **5.312,80 €** μετά το τιμολόγιο Νοεμβρίου ([[2026-11-03-admin-eidopoiiseis]]). Stickers: κόστος Epilogi 280 € + ΦΠΑ κατά προσφορά, τιμολογήθηκαν 320 € + ΦΠΑ (υπό έλεγχο)· προς Overoll 310 € + ΦΠΑ ([[2026-11-02-epilogi-timologio-yiayia-overoll]]). DJ και μπαλόνια Αττικής: ποσά μόνο στα PDF.
 - overoll.com: 4.500 € (premium domain) ([[2026-10-14-overoll-websites-domains]]).
 - overoll.us και overoll.shop: αγορά από τη GROW, κόστος ασαφές ([[2026-10-14-overoll-websites-domains]]).

@@ -3,7 +3,7 @@ type: admin
 title: "Hosting, servers & domains"
 aliases: [hosting, servers, domains, cloud.growagency.online, Plesk, Fastpath, Cretaforce, Papaki, Enartia]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 # Hosting, servers & domains
 > Οι servers της GROW (Plesk στη [[fastpath]]) και οι registrars ([[papaki]]/[[enartia]], [[cretaforce]]) όπου η GROW κρατά τα domains των πελατών. Κάθε ανανέωση domain ξανατιμολογείται στον πελάτη.
@@ -27,6 +27,9 @@ updated: 2026-11-19
   - Ο Δήμος: τεχνικά (tickets, DNS).
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-20:
+- **Νέο .gr: posidonioathens.gr** καταχωρήθηκε 2026-11-19 15:11 μέσω [[cretaforce]] (φορέας Grow Agency EE, 2 έτη, **λήξη 2028-11-18**, 13,28 credits)· παραστατικό CretaForce **ΤΠΥ 24693, 30,00 €**· για ποιον πελάτη: ασαφές ([[2026-11-19-posidonioathens-gr-kataxorisi]]).
+
 Στις 2026-11-19:
 - **lucaffe.gr λήγει 2026-11-24 23:59 UTC** (FORTH, 2026-11-19)· registrar ENARTIA/papaki· φορέας Νίκας ([[nikas-coffee-expert]]) ([[2026-11-19-lucaffe-domain-lixi]]).
 
@@ -46,6 +49,7 @@ updated: 2026-11-19
 - Το ticket 004632 για SSH στα mailboxes του academicals.gr περιμένει ακόμη απάντηση ([[2026-09-28-fastpath-ticket-ssh-academicals]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] posidonioathens.gr (νέο, CretaForce, λήξη 2028-11-18) — για ποιον πελάτη/project; + ανατιμολόγηση — Δήμος/Μαρίνα ([[2026-11-19-posidonioathens-gr-kataxorisi]])
 - [ ] Ανανέωση Semi Dedicated Platinum finders.com.cy (pointer.gr) — λήξη **2026-12-16**, απενεργοποίηση ≈ 2026-12-26 — Δήμος· ποιος πελάτης; ([[2026-11-16-admin-eidopoiiseis]])
 - [ ] Ανανέωση eventsgreece.online (Papaki) — λήξη **2026-12-13** — Δήμος ([[2026-11-16-admin-eidopoiiseis]])
 - [ ] vanessapilates.gr (νέο, cretaforce) — για ποιον πελάτη/project; — Δήμος ([[2026-11-16-admin-eidopoiiseis]])
@@ -72,6 +76,7 @@ updated: 2026-11-19
 - Κάθε ανανέωση domain πελάτη ξανατιμολογείται στον πελάτη (π.χ. «Τιμολόγιο Πανόπουλος», «25 + fpa to kathena») ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]], [[2026-09-10-invoice-nikas-barista-domains]]).
 
 ## Χρονολόγιο
+- 2026-11-19 — CretaForce/FORTH: posidonioathens.gr καταχωρήθηκε (2 έτη, λήξη 2028-11-18)· ΤΠΥ 24693 30,00 € ([[2026-11-19-posidonioathens-gr-kataxorisi]]).
 - 2026-11-19 — FORTH: lucaffe.gr λήγει 2026-11-24 23:59 UTC ([[2026-11-19-lucaffe-domain-lixi]]).
 - 2026-11-17 — Fastpath #62689 Δεκεμβρίου 507,78 € (λήξη 01/12) · FORTH: koalacoffee.gr καταχωρήθηκε ([[2026-11-17-admin-eidopoiiseis]]).
 - 2026-11-14/16 — vanessapilates.gr καταχωρήθηκε· eventsgreece.online λήγει 2026-12-13· finders.com.cy hosting λήγει 2026-12-16· Search Console exodikastikos.info canonical ([[2026-11-16-admin-eidopoiiseis]]).
@@ -101,6 +106,7 @@ updated: 2026-11-19
 | Fastpath #58712: Plesk License | 22,00 € | GROW | [[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]] |
 | Fastpath #58712: ΦΠΑ 24% | 98,28 € → **σύνολο 507,78 €** | GROW | [[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]] |
 | pharmacypan.gr, 2 έτη (Cretaforce) | 13,28 € + ΦΠΑ = 16,47 € | [[pharmacypan]] | [[2026-09-07-cretaforce-pharmacypan-domain-renewal]] |
+| posidonioathens.gr, 2 έτη (CretaForce, 2026-11-19) | 13,28 credits· ΤΠΥ 24693 30,00 € (💭 credits) | ασαφές | [[2026-11-19-posidonioathens-gr-kataxorisi]] |
 | 3 domains Nikas | 25 € + ΦΠΑ το καθένα | [[nikas-coffee-expert]] | [[2026-09-10-invoice-nikas-barista-domains]] |
 | Enartia/Papaki e-invoices (2026-09-10 ×4, 2026-10-07 ×2) | ποσά μόνο στα PDF | GROW | [[2026-09-10-enartia-papaki-timologia]], [[2026-10-07-enartia-papaki-timologia]] |
 | Επέκταση storage email Academicals (απορρίφθηκε) | ~100 €/μήνα | — | [[2026-09-01-academicals-foxacademy-email-storage]] |
