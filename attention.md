@@ -16,7 +16,7 @@ updated: 2026-11-20
 - **Επόμενο βήμα (Δήμος):** τηλέφωνο στη BIZ σήμερα · απάντηση στις 4 διορθώσεις.
 
 ## 3. Πωλήσεις — [[booking-app]], περίπτερα, [[hotelbrain]]
-- **Κατάσταση:** Calendly Vassiliadou σήμερα 18:30 · νέο call Εμμανουέλα MUA 24/11 13:00 (εσύ + Μαρίνα) · Γκότσης 27/11. [[krimatoglou]] HORECA: Meet Τρ 01/12 15:00, προσχέδιο περιπτέρου μέσα στην εβδομάδα 23/11 ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-20]]). ⚠️ HotelBrain/[[mr-mrs-white]]: COPYTRACK για φωτό Tinos — άδεια 481,50 € ή αποζημίωση 350 € έως 28/11 ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).
+- **Κατάσταση:** Calendly Vassiliadou σήμερα 18:30 · νέο call Εμμανουέλα MUA 24/11 13:00 (εσύ + Μαρίνα) · Γκότσης 27/11. [[krimatoglou]] HORECA: Meet Τρ 01/12 15:00, προσχέδιο περιπτέρου μέσα στην εβδομάδα 23/11 ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-20]]). ✓ [[hotelbrain]] Academy site 1.150 € + ΦΠΑ εγκρίθηκε 20/11· η Νίκη ζητά 6 διευκρινίσεις για το social των 4 brands ([[2026-11-20-hotelbrain-collection-social-diefkriniseis]]). ⚠️ HotelBrain/[[mr-mrs-white]]: COPYTRACK για φωτό Tinos — άδεια 481,50 € ή αποζημίωση 350 € έως 28/11 ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).
 - **Επόμενο βήμα (Δήμος):** απόφαση για COPYTRACK (αλλαγή φωτό + ποιος πληρώνει) · DaFit αφαίρεση (SOS Μαρίνας από 17/11).
 
 ## 4. [[global-foods]] — 4σέλιδο, podcast συμφωνητικό, νέα προϊόντα

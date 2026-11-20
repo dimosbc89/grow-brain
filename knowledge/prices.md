@@ -12,7 +12,8 @@ updated: 2026-11-20
 ## Προσφορές GROW
 | Ημ/νία | Πελάτης | Υπηρεσία | Τιμή | Αποτέλεσμα | Πηγή |
 |---|---|---|---|---|---|
-| 2026-11-18 | [[hotelbrain]] | HotelBrain Academy website (νέο site) | **1.150 € + ΦΠΑ** (αναθεώρηση μετά από τηλέφωνο· αρχική 2026-11-11 μόνο σε PDF) | αναμονή | [[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-19]] |
+| 2026-11-18 | [[hotelbrain]] | HotelBrain Academy website (νέο site) | **1.150 € + ΦΠΑ** (αναθεώρηση μετά από τηλέφωνο· αρχική 2026-11-11 μόνο σε PDF) | ✓ αποδοχή 2026-11-20 ([[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-20]]) | [[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-19]] |
+| 2026-11-20 | [[divino]] | Rejection fee για πλήρη σχεδιαστική πρόταση περιπτέρου HORECA 2027 πριν την ανάθεση (αφαιρείται από το agency fee αν προχωρήσει) | **1.000 € + ΦΠΑ** | αναμονή | [[2026-11-11-divino-horeca-2027-prosfora-periptero-update-2026-11-20]] |
 | 2026-11-18 | [[hotelbrain]] | Social media HotelBrain Collection | ασαφές (μόνο PDF) | αναμονή | [[2026-11-18-hotelbrain-social-media-prosfora]] |
 | 2026-11-19 | [[enoteca]] | Εκτυπώσεις — Α' (Epilogi): 30 EN μενού / 50 GR μενού / 50 φάκελοι / 30 κατάλογοι κρασιών | 70 / 115 / 140 / 100 € + ΦΠΑ (425 €) — κόστος 353 € (~+20%) | ⚠️ διορθώθηκε 16:20 σε 58/95/115/85 € (= κόστος) | [[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong-update-2026-11-20]], [[2026-11-19-enoteca-orthi-epanalipsi-prosfora-ektypotikon]] |
 | 2026-11-19 | [[enoteca]] | Εκτυπώσεις — Β' (💭 Print Kong): 80 μενού / 30 κατάλογοι / 50 φάκελοι, 250–300 gr velvet | 280 / 200 / 170 € + ΦΠΑ (650 €) — κόστος 560 € (~+16%) | ⚠️ ξαναστάλθηκε 17:21 σε 240/170/150 € (= κόστος) | [[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong-update-2026-11-20]], [[2026-11-19-enoteca-prosfora-ektypotika-neou-menu]] |

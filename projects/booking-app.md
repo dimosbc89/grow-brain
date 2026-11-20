@@ -33,6 +33,7 @@ updated: 2026-11-20
 —
 
 ## Χρονολόγιο
+- 2026-11-16 → 2026-11-20 — Meta Ads GROW: Booking Reels GR 89,50 € / 12 leads (7,46 €) · Booking Reels UK 92,24 € / 8 leads (11,53 €) · Booking Apps GR (paused) 45,49 € / 5 leads (9,10 €). Calendly εβδομάδας: Bayse, Ore, Abi Browne, Vassiliadou, Γκότσης (27/11), Εμμανουέλα (24/11) ([[2026-11-20-weekly-report-data]]).
 - 2026-11-19 — Νέο event στο GROW Calendar: **Εμμανουέλα MUA x Grow Agency (Call)** 2026-11-24 13:00 (Meet, Δήμος + Μαρίνα) ([[2026-11-20_2026-11-27]]).
 - 2026-11-18 — Call Abi Browne 18:00· email + Service Guide, ζητά στοιχεία για πρόταση ([[2026-11-18-booking-app-abi-browne-call]]).
 - 2026-11-17 — GR outreach Booking App· DaFit ζητά αφαίρεση/re-indexing («SOS SOS» Μαρίνα → Δήμος)· Calendly Vassiliadou 20/11, Γκότσης → 27/11 ([[2026-11-17-booking-app-outreach-dafit-unsubscribe]], [[2026-11-16-booking-app-uk-landing-leads-update-2026-11-18]]).
