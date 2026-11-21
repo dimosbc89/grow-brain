@@ -3,7 +3,7 @@ type: client
 title: "Panagiotis Nikas / CoffeeXpert / Barista Academy"
 aliases: [Panagiotis Nikas, Νίκας, P. Nikas, Coffee Expert, CoffeeXpert, ΚΟΦΙ ΕΞΠΕΡΤ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ, Barista Academy, baristacademy.gr, barista-academy.gr, baristaexpert.gr, coffeexpert.gr, panagiotisnikas.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 # Panagiotis Nikas / CoffeeXpert / Barista Academy
 > Ο [[panagiotis-nikas]] και οι επιχειρήσεις του (CoffeeXpert, Barista Academy, προσωπικό brand): η GROW τρέχει Meta Ads, κρατά τα sites/domains και λειτουργεί στην πράξη ως το IT/security help desk του — πολλά «copyright» phishing.
@@ -17,20 +17,11 @@ updated: 2026-11-19
 - **Σχετικά:** lead [[avek]] (συνάντηση «P. Nikas X AVEK» 2026-10-19)· 2box (kimon@2box.gr, «P. Nikas X 2box» 2026-08-05) ([[2026-07-20_2026-11-03]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-19)
-- **lucaffe.gr λήγει 2026-11-24 23:59 UTC** (FORTH, 2026-11-19 07:09)· ανανέωση μέσω papaki/ENARTIA ([[2026-11-19-lucaffe-domain-lixi]]).
-
-*Από 2026-11-13:*
-- **YouTube freddo video:** η [[vassiliki-giannopoulou]] το έστειλε για έλεγχο 2026-11-13 08:43· ο [[panagiotis-nikas]] απάντησε 22:29 «Πολύ καλό» — να γίνει **tag η Kalko** ή και αίτημα για **colab** ([[2026-11-13-nikas-review-yt-video-freddo]]).
-- **Java Jives:** μετά από τηλέφωνο της Βασιλικής με τον Κώστα (ο Νίκας είναι στην Αιθιοπία), το βίντεο **ανεβαίνει 2026-11-16** ([[2026-11-13-nikas-review-yt-video-freddo]]).
-
-*Από 2026-11-03:*
-- **Καρτέλα:** στις 2026-11-02 13:09 ο [[panagiotis-nikas]] απάντησε στο τιμολόγιο Νοεμβρίου (υπόλοιπο 1.829,00 €) ότι **και τα δύο τιμολόγια πληρώθηκαν 2026-10-15 (961,00 €)** και ζητά διορθωμένη καρτέλα ([[2026-11-02-nikas-kartela-pliromi-15-10]]).
-- **OutIn LattoGo S:** η OutIn ενέκρινε το video 2026-11-02 12:27· launch post OutIn 2026-11-02 16:00, μετά μπορεί να ανέβει το δικό μας με τα επίσημα hashtags ([[2026-11-02-nikas-outin-lattogo-s]]).
-
-*Από 2026-10-20:*
-- 2026-10-09: η φόρμα του baristacademy.gr γέμισε spam· ο Δήμος το χαρακτήρισε απόπειρα hacking και δούλευε να κλείσει τα κενά ([[2026-10-09-baristacademy-spam-forma-hacking]]).
-- 2026-10-10: το πλήρες σεμινάριο εμφανίζεται 500€ αντί 600€· ο Δήμος υποσχέθηκε έλεγχο έως 2026-10-11 ([[2026-10-10-seminario-timi-600-500]]). Αν διορθώθηκε: ασαφές.
-- 2026-10-19: νέο «copyright» phishing (Jackson Walker LLP) → «spam» ([[2026-10-19-panagiotisnikas-copyright-spam]])· ίδια μέρα συνάντηση «P. Nikas X AVEK» με Βασιλική και Δήμο ([[2026-07-20_2026-11-03]]).
+- **lucaffe.gr λήγει 2026-11-24 23:59 UTC** (FORTH, 2026-11-19)· ανανέωση μέσω papaki/ENARTIA — ποιος: ασαφές ([[2026-11-19-lucaffe-domain-lixi]]).
+- **YouTube:** το freddo video εγκρίθηκε 2026-11-13 («Πολύ καλό», tag Kalko)· το Java Jives ανεβαίνει 2026-11-16 — αν ανέβηκαν: ασαφές ([[2026-11-13-nikas-review-yt-video-freddo]]).
+- **Καρτέλα:** ο [[panagiotis-nikas]] περιμένει διορθωμένη καρτέλα από 2026-11-02 (λέει ότι πλήρωσε 961,00 € στις 2026-10-15 έναντι υπολοίπου 1.829,00 €) ([[2026-11-02-nikas-kartela-pliromi-15-10]]).
+- **Podcast:** γύρισμα The Hospitality Jam με τον Νίκα 2026-12-05 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]])· «Nikas Podcast» γύρισμα 7/12 ([[2026-11-04-dianoma-pelates-mikra]]) — βλ. ⚠️ στις Σημειώσεις.
+- **baristacademy.gr:** κενά ασφαλείας/spam φόρμας ανοιχτά από 2026-10-09· Wordfence (Super Forms) ξανά 2026-11-03 ([[2026-10-09-baristacademy-spam-forma-hacking]], [[2026-11-03-admin-eidopoiiseis]]).
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Ανανέωση lucaffe.gr (papaki) — λήξη **2026-11-24 23:59 UTC** — Δήμος / Νίκας (ποιος: ασαφές) ([[2026-11-19-lucaffe-domain-lixi]])
@@ -47,7 +38,7 @@ updated: 2026-11-19
 - [ ] Έλεγχος ποιο περιεχόμενο «χτυπάει» και licensing μουσικής στα ads (γραφιστικό τμήμα) — Δήμος — υπόσχεση 2026-08-17, ολοκλήρωση δεν φαίνεται ([[2026-08-19-concord-copyright-spam-nikas]])
 
 **Από Asana — του Δήμου (στις 2026-10-21)**
-- [ ] «ενημερώσεις site» — Δήμος (ανάθεση από Βασιλική 2026-10-19) — ⚠️ εκπρόθεσμο από 2026-10-20 ([[2026-10-21-asana-snapshot]])
+- [x] ✓ 2026-10-22 ([[2026-10-23-weekly-report-data]]) «ενημερώσεις site» — Δήμος (ανάθεση από Βασιλική 2026-10-19) — ήταν εκπρόθεσμο από 2026-10-20 ([[2026-10-21-asana-snapshot]])
 - [ ] Ενημέρωση πιστοποιήσεων στο personal site — Δήμος — ⚠️ εκπρόθεσμο από 2026-08-28 ([[2026-10-21-asana-snapshot]])
 - [ ] «δράσεις (gr-eng)» στο personal site (Barista Competition Addis Ababa, Freddo Espresso Workshop – Athens Coffee Festival 2025, KIVU Barista Skills Foundation, Johny Equipment masterclass, Marrakech Coffee & Tea Festival, Greek Cezve/Ibrik Championship 2025, Host Milano 2025) — Δήμος — ⚠️ εκπρόθεσμο από 2026-06-03 ([[2026-10-21-asana-snapshot]])
 
@@ -68,7 +59,7 @@ updated: 2026-11-19
 
 ## Χρονολόγιο
 - 2026-11-19 — FORTH: lucaffe.gr λήγει 2026-11-24 23:59 UTC ([[2026-11-19-lucaffe-domain-lixi]]).
-- 2026-11-13 — Freddo YT video εγκρίθηκε από τον Νίκα (tag Kalko)· Java Jives video κλείδωσε για 2026-11-16 ([[2026-11-13-nikas-review-yt-video-freddo]]).
+- 2026-11-13 — Freddo YT video εγκρίθηκε από τον Νίκα (tag Kalko)· Java Jives video κλείδωσε για 2026-11-16 ([[2026-11-13-nikas-review-yt-video-freddo]]). Η Ιωάννα (The Hospitality Jam) δίνει γύρισμα με τον Νίκα **2026-12-05** ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]]).
 - 2026-11-09 — Νέα προειδοποίηση λήξης domain lucaffe.gr (FORTH) ([[2026-11-09-admin-eidopoiiseis]]).
 - 2026-11-04 — Ιωάννα: πότε βλέπουμε το podcast· γύρισμα 7/12 ([[2026-11-04-dianoma-pelates-mikra]]).
 - 2026-11-02 — Ο Νίκας αμφισβητεί την καρτέλα (1.829,00 €): πλήρωσε 961,00 € για δύο τιμολόγια 2026-10-15. Η OutIn εγκρίνει το video LattoGo S (launch 16:00). baristacademy.gr: Wordfence ξανά Super Forms 6.3.322 → 6.3.323 (3/11) και connection Easy Appointments ληγμένη ([[2026-11-02-nikas-kartela-pliromi-15-10]], [[2026-11-02-nikas-outin-lattogo-s]], [[2026-11-03-admin-eidopoiiseis]]).
@@ -78,7 +69,7 @@ updated: 2026-11-19
 - 2026-10-25 — Προειδοποίηση λήξης domain lucaffe.gr (FORTH) προς info@coffeexpert.gr και Δήμο ([[2026-10-24-admin-eidopoiiseis]]).
 - 2026-10-24 — Η Βασιλική στέλνει στον Νίκα την προσφορά για την [[avek]] για έγκριση ([[2026-10-24-avek-oikonomiki-prosfora-nikas]]).
 - 2026-10-23 — Draft πρότασης AVEK × Νίκας για έλεγχο από τον Δήμο ([[avek]], [[2026-10-23-avek-nikas-prosfora-check]]). Νέα συνάντηση «P. Nikas X R. Vilanov» 2026-10-29 13:00 (Βασιλική) ([[2026-10-23_2026-10-30]]).
-- 2026-10-22 — Asana «ενημερώσεις site» (NIKAS) ✓ από Δήμο.
+- 2026-10-22 — Asana «ενημερώσεις site» (NIKAS) ✓ από Δήμο ([[2026-10-23-weekly-report-data]]).
 - 2026-10-21 — Asana: project «NIKAS» με 14 ανοιχτά (3 του Δήμου, όλα εκπρόθεσμα: ενημερώσεις site, πιστοποιήσεις, δράσεις gr-eng) και 16 ολοκληρωμένα από 2026-07-01: did you know series ✓ 10-19, IRM video ✓ 10-16, εύρεση νέων επαφών (Δήμος) ✓ 10-15, media kit english & review video ✓ 10-08, coffee expert posts ✓ 10-06, outin nano 2 review & coffee myths ✓ 09-25, Athens Coffee Festival ✓ 09-23, σεμινάριο Σεπτεμβρίου (Δήμος) ✓ 09-21, kenya courses ✓ 09-08 κ.ά. ([[2026-10-21-asana-snapshot]]).
 - 2026-10-19 — Phishing «Jackson Walker LLP» → «spam» ([[2026-10-19-panagiotisnikas-copyright-spam]])· «P. Nikas X AVEK» 12:00 ([[2026-07-20_2026-11-03]]).
 - 2026-10-10 — Λάθος σύνολο σεμιναρίου (500€ αντί 600€)· «σκέφτομαι μήπως έσπασε κάτι από χθες» ([[2026-10-10-seminario-timi-600-500]]).
@@ -108,3 +99,5 @@ updated: 2026-11-19
 - 💭 Υπόθεση: αξίζει μια σύντομη οδηγία προς τον πελάτη για αναγνώριση phishing ώστε να μειωθούν τα forwards.
 - 💭 Υπόθεση: το λάθος τιμής του σεμιναρίου (10/10) σχετίζεται με το περιστατικό της 9/10 — ο Δήμος το υποψιάζεται, δεν επιβεβαιώθηκε ([[2026-10-10-seminario-timi-600-500]]).
 - Ο αριθμός κάρτας του πελάτη: [στοιχείο παραλείφθηκε].
+- Ο Νίκας ταξιδεύει (Αιθιοπία 2026-11-13) και αναθέτει: «Να τον καλέσεις εσύ» — η Βασιλική συνεννοείται απευθείας με τους συνεργάτες του (Κώστας / Java Jives)· εγκρίνει σύντομα («Πολύ καλό») με πρακτικές οδηγίες (tag/colab) ([[2026-11-13-nikas-review-yt-video-freddo]]).
+- ⚠️ Αντίφαση: γύρισμα «Nikas Podcast» 7/12 ([[2026-11-04-dianoma-pelates-mikra]]) ενώ το The Hospitality Jam δίνει γύρισμα με τον Νίκα 2026-12-05 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]]) — ίδιο γύρισμα με αλλαγή ημερομηνίας ή δύο διαφορετικά; Ρώτα τον Δήμο.

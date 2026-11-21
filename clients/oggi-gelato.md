@@ -3,7 +3,7 @@ type: client
 title: "Oggi Gelato"
 aliases: [Oggi]
 status: ενεργός
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 # Oggi Gelato
 > Πελάτης Google Ads της GROW (παγωτό)· τον Σεπτέμβριο 2026 ετοιμάστηκε lifetime report της καμπάνιας.
@@ -13,22 +13,11 @@ updated: 2026-11-20
 - **Επαφές:** ασαφές (καμία επαφή πελάτη στις πηγές).
 - **Ομάδα GROW:** ο Δήμος· [[despina-velissariou]] ([[2026-09-10-oggi-google-ads-lifetime-report]])· στο Asana επίσης [[vassia-kataki]], [[marianna-vourna]], [[fotini]] ([[2026-10-21-asana-snapshot]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-20)
-- **T-shirts (2026-11-19 14:12):** η [[despina-velissariou]] έστειλε στην **Print Kong** τα μπλουζάκια που άρεσαν στον πελάτη από το **Livardas**: μακρυμάνικο **SOL'S Monarch** ή **SOL'S Legacy LSL**· κοντομάνικο **SOL'S Legacy** ή **SOL'S Boxy Men** (oversized)· 1 στάμπα στο μαύρο κοντομάνικο, 2 στα λευκά μακρυμάνικα (ανοιχτό αρχείο ξανά). Τιμή Print Kong: ακόμη καμία ([[2026-11-17-tshirts-prosfores-fratelli-printkong-update-2026-11-20]]).
-
-*Από 2026-11-19:*
-- **T-shirts (2026-11-18):** η **Fratelli** έδωσε προτάσεις oversized (30 τμχ, 6,50–9,45 €/τμχ + ΦΠΑ) + ψηφιακή λογοτύπηση 3,50–5,00 €/τμχ + ΦΠΑ, παράδοση 10–15 εργάσιμες, 50% προκαταβολή, **ελάχιστη παραγγελία 500 € καθαρά**· για **10–30 τμχ oversize 11,70 €/τμχ + ΦΠΑ**. Η [[despina-velissariou]] όρισε ανάγκη **10 κοντομάνικες μαύρες + 10 + 10 μακρυμάνικες λευκές** (3 σχέδια) — ⚠️ στις 2026-11-17 ήταν 10 + 5 + 5· οι μακρυμάνικες δεν έχουν τιμή ακόμα. Η **Print Kong** δεν απάντησε (υπενθύμιση 13:42) ([[2026-11-17-tshirts-prosfores-fratelli-printkong-update-2026-11-19]]).
-
-*Από 2026-11-18:*
-- **Στις 2026-11-17** η [[despina-velissariou]] ζήτησε **προσφορές εκτύπωσης T-shirts** (3 σχέδια· 10 μαύρες κοντομάνικες + 5 + 5 μακρυμάνικες) από **Print Kong** (στάλθηκαν ανοιχτά αρχεία) και **Fratelli** («άμεσα»)· η Fratelli υποσχέθηκε προτάσεις μέσα στην ημέρα — τιμές δεν έχουν φανεί ([[2026-11-17-tshirts-prosfores-fratelli-printkong]]).
-
-- T-shirts: η [[epilogin]] έδωσε τιμές ανά μπλούζα 2026-11-10 (11,8–15,8 € + ΦΠΑ)· στις 2026-11-12 η [[vassia-kataki]] ρώτησε αν περιλαμβάνουν εκτύπωση — αναμονή ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]]).
-
-*Από 2026-10-28:*
-- Στις 2026-10-27 η [[despina-velissariou]] έγραψε στο Asana ότι στον πελάτη άρεσαν οι ιδέες του moodboard για τα T-shirts, ειδικά η **πρόσοψη του μαγαζιού**· επόμενο βήμα mockups, «εάν το πιάσετε Παρασκευή» ([[2026-10-27-asana-eidopoiiseis]]).
-
-*Στις 2026-10-20:*
-- Στις 2026-09-10 ο Δήμος έστειλε στη Δέσποινα το «Oggi_Gelato_Google_Ads_Lifetime_Report_GROW_Agency_GR_Final_v3.pptx» ([[2026-09-10-oggi-google-ads-lifetime-report]]). Συναντήσεις «Oggi εδώ» 2026-09-10 και «Oggi εκεί» 2026-09-18 ([[2026-07-20_2026-11-03]]). Τι ακολούθησε: ασαφές.
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **T-shirts:** 2026-11-19 14:12 η [[despina-velissariou]] έστειλε στην **Print Kong** τα SOL'S μοντέλα του **Livardas** που επέλεξε ο πελάτης (μακρυμάνικο Monarch ή Legacy LSL· κοντομάνικο Legacy ή Boxy Men) + θέσεις στάμπας (1 στο μαύρο κοντομάνικο, 2 στα λευκά μακρυμάνικα) — τιμή Print Kong ακόμη καμία ([[2026-11-17-tshirts-prosfores-fratelli-printkong-update-2026-11-20]]).
+- **Τιμές που έχουμε:** Fratelli (2026-11-18) oversized 6,50–9,45 €/τμχ (30 τμχ) ή 11,70 €/τμχ (10–30) + λογοτύπηση 3,50–5,00 €/τμχ, ελάχ. παραγγελία 500 € — χωρίς τιμή μακρυμάνικων· [[epilogin]] (2026-11-10) 11,8–15,8 €/τμχ + ΦΠΑ, αν περιλαμβάνει εκτύπωση: ασαφές ([[2026-11-17-tshirts-prosfores-fratelli-printkong-update-2026-11-19]], [[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]]).
+- ⚠️ Ποσότητες: 10 + 5 + 5 (2026-11-17) vs 10 + 10 + 10 (2026-11-18) ([[2026-11-17-tshirts-prosfores-fratelli-printkong]], [[2026-11-17-tshirts-prosfores-fratelli-printkong-update-2026-11-19]]).
+- Asana: κουτιά τιραμισού, «GelatΟ videO», «gelato vs παγωτό» εκπρόθεσμα· mockups T-shirts μετά την έγκριση του moodboard (2026-10-27) ([[2026-10-21-asana-snapshot]], [[2026-10-27-asana-eidopoiiseis]]).
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Προσφορά Print Kong για εκτύπωση πάνω στα επιλεγμένα SOL'S (Livardas) — Print Kong → Δέσποινα — από 2026-11-17, εξειδίκευση 2026-11-19 ([[2026-11-17-tshirts-prosfores-fratelli-printkong-update-2026-11-20]])
@@ -60,9 +49,12 @@ updated: 2026-11-20
 - 2026-09-10 — «Oggi εδώ» 15:30 ([[2026-07-20_2026-11-03]])· lifetime report στη Δέσποινα ([[2026-09-10-oggi-google-ads-lifetime-report]]).
 
 ## Οικονομικά
+- 2026-11-10 — Epilogi (κόστος vendor): μπλούζες SOL'S 11,8 / 15,8 / 13,8 / 12,8 €/τμχ + ΦΠΑ — αν περιλαμβάνουν εκτύπωση: ασαφές ([[2026-11-10-oggi-mplouzakia-epilogi-update-2026-11-13]]).
 - 2026-11-18 — Fratelli (κόστος vendor): oversized T-shirts 30 τμχ 6,50–9,45 €/τμχ + ΦΠΑ · oversize 10–30 τμχ 11,70 €/τμχ + ΦΠΑ · λογοτύπηση 3,50–5,00 €/τμχ + ΦΠΑ · ελάχιστη παραγγελία 500 € καθαρά, 50% προκαταβολή ([[2026-11-17-tshirts-prosfores-fratelli-printkong-update-2026-11-19]]).
 - Ασαφές.
 
 ## Σημειώσεις
+- Ο πελάτης διαλέγει ο ίδιος τα blanks (SOL'S από το Livardas, 2026-11-19)· την επικοινωνία με τους τυπογράφους την κάνει η [[despina-velissariou]] ([[2026-11-17-tshirts-prosfores-fratelli-printkong-update-2026-11-20]]).
+- ⚠️ Αντίφαση: ποσότητες T-shirts 10 μαύρες κοντομάνικες + 5 + 5 λευκές μακρυμάνικες (2026-11-17) vs 10 + 10 + 10 (2026-11-18) — ποια ισχύει; ([[2026-11-17-tshirts-prosfores-fratelli-printkong]], [[2026-11-17-tshirts-prosfores-fratelli-printkong-update-2026-11-19]]).
 - Το Asana δείχνει ότι η συνεργασία δεν είναι μόνο Google Ads: τρέχουν social video, συσκευασίες και merchandise ([[2026-10-21-asana-snapshot]]).
 - 💭 Υπόθεση: «lifetime» report μπορεί να σημαίνει απολογισμό στο τέλος περιόδου/κύκλου — δεν το λέει η πηγή.

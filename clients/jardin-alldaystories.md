@@ -3,25 +3,22 @@ type: client
 title: "Jardin All Day Stories"
 aliases: [Jardin, Jardin_Alldaystories, Alldaystories, Jardin All Day Stories]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-21
 ---
 # Jardin All Day Stories
 > Πελάτης της GROW (💭 Υπόθεση: all-day εστίαση, με βάση τα tasks για menu, καφέ, σουπλά) για τον οποίο η GROW κάνει social content, μενού, έντυπα αναλώσιμα και χορηγικό υλικό· το Asana project έχει πολλή κίνηση τον Οκτώβριο 2026.
 
 ## Σε μια ματιά
 - **Υπηρεσίες:** social content (θεματικές «Morning until Night», «Generic night», «Coffee Jardin», colouring), εύρεση food blogger, αλλαγές στο menu, έντυπα αναλώσιμα (πλαστικά ποτήρια, σουπλά), φανέλες χορηγίας ([[2026-10-21-asana-snapshot]]).
-- **Επαφές:** ασαφές (καμία επαφή πελάτη στις πηγές).
+- **Επαφές:** ασαφές· στα emails προς το τυπογραφείο είναι σε cc το centralpark014@gmail.com (💭 Υπόθεση: ο πελάτης) ([[2026-11-13-jardin-ektypotika-menu]]).
 - **Ομάδα GROW:** [[vasia-s]] (Vasia Striga στο Asana — εγκρίσεις, food blogger)· [[vassia-kataki]]· [[marianna-vourna]]· [[fotini]] (Fotini Pournara)· [[vassiliki-giannopoulou]] (κύριο task αναλωσίμων) ([[2026-10-21-asana-snapshot]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-13)
-- **Εκτυπώσεις μενού:** η [[vasia-s]] ζήτησε 2026-11-13 από το τυπογραφείο dkagialis.gr **50 κύρια menu** (A4) και **50 special menu για 2026-11-27** (11×25 εκ.) ([[2026-11-13-jardin-ektypotika-menu]]).
-- **Google Business Profile:** νέα κριτική 4★ (μόνο βαθμολογία) 2026-11-14 ([[2026-11-16-admin-eidopoiiseis]]).
-
-*Από 2026-10-21:*
-- Στο Asana 5 ανοιχτά tasks (3 εκπρόθεσμα) και 8 ολοκληρωμένα από 2026-09-11. Τελευταία κίνηση 2026-10-20: «ΕΓΚΡΙΣΗ Mood- Jardin» ✓ και νέο task «ΑΛΛΑΓΕΣ ΣΤΟ MENU» ([[2026-10-21-asana-snapshot]]).
+## Τρέχουσα κατάσταση (στις 2026-11-16)
+- **Εκτυπώσεις στο dkagialis.gr** ([[vasia-s]]): 50 κύρια menu A4 + 50 special menu για **2026-11-27** (2026-11-13) και flyers Brunch × 50, Dine & Wine × 50 (A5) + special day menu × 50 (2026-11-16)· απάντηση/κόστος τυπογραφείου δεν φαίνεται ([[2026-11-13-jardin-ektypotika-menu]], [[2026-11-16-jardin-flyers-brunch-wine]]).
+- Google Business Profile: κριτική 4★ 2026-11-14 ([[2026-11-16-admin-eidopoiiseis]]). Asana: 5 ανοιχτά tasks (3 εκπρόθεσμα) στις 2026-10-21 ([[2026-10-21-asana-snapshot]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Εκτύπωση flyers Brunch × 50, Dine & Wine × 50 (A5) + special day menu × 50 — dkagialis / [[vasia-s]] — από 2026-11-16 ([[2026-11-16-jardin-flyers-brunch-wine]])
+- [ ] Εκτύπωση flyers Brunch × 50, Dine & Wine × 50 (A5) + special day menu × 50 — dkagialis / [[vasia-s]] — από 2026-11-16 ([[2026-11-16-jardin-flyers-brunch-wine]]) — 💭 το special day menu είναι πιθανώς το ίδιο με το special menu 27/11 της επόμενης γραμμής
 - [ ] Εκτύπωση 50 κύριων + 50 special menu (27/11) — dkagialis / [[vasia-s]] — πριν **2026-11-27** ([[2026-11-13-jardin-ektypotika-menu]])
 - [ ] «ΑΛΛΑΓΕΣ ΣΤΟ MENU» — [[vassia-kataki]] — έως 2026-10-22 ([[2026-10-21-asana-snapshot]])
 - [ ] «Φανέλες Χορηγίας Jardin» — [[vassia-kataki]] — έως 2026-10-19 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
@@ -46,3 +43,4 @@ updated: 2026-11-17
 - 💭 Υπόθεση: το «Alldaystories» είναι μέρος του ονόματος/slogan του καταστήματος· η πηγή δίνει μόνο το όνομα του project.
 - 💭 Υπόθεση: οι «Φανέλες Χορηγίας» σημαίνουν ότι ο πελάτης χορηγεί αθλητική ομάδα/εκδήλωση· ασαφές.
 - Το project δεν έχει περιγραφή στο Asana ([[2026-10-21-asana-snapshot]]).
+- Τις εκτυπώσεις τις στέλνει η [[vasia-s]] απευθείας στο dkagialis.gr με cc Δήμο, Μαρίνα, Βασιλική και centralpark014@ — κόστος δεν αναφέρεται στα emails ([[2026-11-13-jardin-ektypotika-menu]], [[2026-11-16-jardin-flyers-brunch-wine]]).

@@ -3,7 +3,7 @@ type: lead
 title: "Afrokoptiki (Χάρης)"
 aliases: [Afrokoptiki, afrokoptiki.gr, Afrolex, Mavromichalis Michailidis bros]
 status: prospect
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 # Afrokoptiki
 > Prospect για **κατασκευή εκθεσιακού περιπτέρου** ([[ekthesiaka-periptera]])· έχει πάρει παρουσίαση και ρωτά τεχνικές λεπτομέρειες.
@@ -26,3 +26,7 @@ updated: 2026-11-19
 
 ## Οικονομικά
 - Δεν έχει σταλεί προσφορά.
+
+## Σημειώσεις
+- Η επαφή ξεκίνησε τηλεφωνικά (2026-11-17)· γράφουν από δύο διευθύνσεις (info@afrokoptiki.gr και afrokoptiki.afrolex@gmail.com) — να απαντάμε και στις δύο ([[2026-11-17-periptero-afrokoptiki-xaris]], [[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]]).
+- Ενδιαφέρονται για τεχνικά (υλικά, πάτωμα) πριν από τιμή ([[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]]).

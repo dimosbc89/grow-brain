@@ -3,7 +3,7 @@ type: project
 title: "GROW outreach & marketing (δικό μας)"
 aliases: [GROW marketing, cold outreach, ActiveCampaign, ΙΕΚ καμπάνια, @grow.agency.online, GROW social]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-21
 ---
 # GROW outreach & marketing
 > Το marketing της ίδιας της [[grow-agency]]: cold email καμπάνιες μέσω ActiveCampaign (ΙΕΚ/εκπαίδευση, εκθεσιακά περίπτερα), υλικό για τα social και τα flyers της GROW, events και press.
@@ -18,22 +18,15 @@ updated: 2026-11-16
 - **Inbound:** τα inquiries έρχονται στο hello@growagency.online, π.χ. η [[ilirika]] κατόπιν σύστασης ([[2026-08-27-ilirika-b2b-advertising-inquiry]]).
 - **Ομάδα:** ο Δήμος (καμπάνιες, κείμενα). Forwards των απαντήσεων πάνε στη [[marina-papanastasiou]] και τη [[vassiliki-giannopoulou]] ([[2026-09-24-primowear-periptero-ekthesi-d16]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-16)
-- **Mediterranean College:** στις 2026-11-13 17:13 η [[ioanna-chalkiadaki]] έστειλε στην κα Χρόνη την παρουσίαση «The Hospitality Jam x Mediterranean College» με τις προτεινόμενες ενέργειες (σε συνέχεια του call με τη Δέσποινα)· απάντηση εκκρεμεί ([[2026-10-20-hospitality-jam-mediterranean-college-update-2026-11-16]]).
-- **Global Foods × Hospitality Jam:** η Ιωάννα ζήτησε call για συμφωνητικά (2026-11-13)· επόμενα γυρίσματα 25/11, 1/12, 5/12 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]]).
-
-*Από 2026-11-03:*
-- **Στις 2026-11-03 — TikTok LIVE:** για το call της 2026-11-02 16:00: στις 16:07 η [[marilena-rentzou]] έγραψε ότι έχει συνδεθεί και ρώτησε αν ισχύει το ραντεβού· **καμία απάντηση** του Δήμου στο thread. Αν μπήκε τελικά: ασαφές ([[2026-10-19-tiktok-live-agency-protasi-update-2026-11-03]]).
-
-*Παλαιότερα (στις 2026-10-28):*
-- **Αγορασμένο lead gen:** 2026-10-27 cold pitch από JKD Agency (Alexia Goldberg, outboundjkd.info) — «2–4 επιχειρήσεις/εβδομάδα», με αφορμή το Top Rated Agency στο Sortlist. Ο Δήμος απάντησε ότι είναι ανοιχτός **μόνο με σαφή ανάλυση κόστους, budget και διαδικασία, και αφού φέρουν τουλάχιστον 2 πελάτες ανεξαρτήτως budget**, γιατί η GROW έχει πληρώσει >10 φορές παρόμοιες υπηρεσίες χωρίς αποτέλεσμα. Η Alexia ζητά call μέσω booking link· ο Δήμος δεν έχει κλείσει ([[2026-10-27-outbound-jkd-lead-gen-pitch]]).
-
-*Από 2026-10-20:*
-- Στις 2026-10-27: η TikTok (Marilena Rentzou) έστειλε follow-up 2026-10-26 και περιμένει απάντηση του Δήμου. Hospitality Jam: η Ιωάννα ξαναέγραψε στον Paralos (χωρίς απάντηση)· η Βακαλό αρνήθηκε για φέτος ([[2026-10-19-tiktok-live-agency-protasi-update-2026-10-27]], [[2026-10-20-hospitality-jam-paralos-update-2026-10-27]], [[2026-10-26-hospitality-jam-vakalo]]).
-- Η καμπάνια περιπτέρων έφερε 2 απαντήσεις. Το μόνο κλεισμένο περίπτερο στις πηγές ([[argyroplastics]]) δεν προέρχεται από την καμπάνια ([[ekthesiaka-periptera]], [[2026-10-20-argyroplastics-plastica-2026]]).
-- Για την καμπάνια ΙΕΚ υπάρχει μόνο το test της 2026-07-30. Πραγματική αποστολή και αποτελέσματα: ασαφή ([[2026-07-30-test-newsletter-iek-eggrafes]]).
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **[[global-foods]] × The Hospitality Jam:** 2026-11-19 η [[marina-papanastasiou]] έστειλε το συμφωνητικό χορηγίας 8+1 επεισοδίων «όπως το συνεννοηθήκαμε» για υπογραφή/σφραγίδα (πρόταση 8.000 €)· επόμενα γυρίσματα 2026-11-25, 12-01, 12-05 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]], [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]]).
+- **ActiveCampaign / GDPR:** το ελληνικό outreach του [[booking-app]] (2026-11-17) έφερε αίτημα DaFit για άμεση αφαίρεση + «re-indexing στην google» («δεν έχετε νομικό δικαίωμα») — η Μαρίνα το έστειλε στον Δήμο ως «SOS SOS»· ενέργεια: δεν φαίνεται ([[2026-11-17-booking-app-outreach-dafit-unsubscribe]]).
+- **Mediterranean College:** η παρουσίαση στάλθηκε 2026-11-13· απάντηση εκκρεμεί ([[2026-10-20-hospitality-jam-mediterranean-college-update-2026-11-16]]).
+- **TikTok LIVE:** καμία απάντηση του Δήμου στη [[marilena-rentzou]] από 2026-11-02 16:07 (19 ημέρες)· JKD Agency: ανοιχτό από 2026-10-27 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-11-03]], [[2026-10-27-outbound-jkd-lead-gen-pitch]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] **Αφαίρεση DaFit από τη λίστα ActiveCampaign + απάντηση για «re-indexing»** — Δήμος/Μαρίνα — άμεσα, από 2026-11-17 ([[2026-11-17-booking-app-outreach-dafit-unsubscribe]])
+- [ ] Υπογεγραμμένο/σφραγισμένο συμφωνητικό 8+1 επεισοδίων — Global Foods ([[elpida-plavou]]) — από 2026-11-19 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]])
 - [ ] **Απάντηση στη Marilena Rentzou (TikTok LIVE) / νέο ραντεβού onboarding** — Δήμος — εκκρεμεί από 2026-11-02 16:07 ([[2026-10-19-tiktok-live-agency-protasi-update-2026-11-03]])
 - [ ] JKD Agency: κλείνουμε call ή όχι (ζητούν booking αντί για γραπτή πρόταση κόστους) — Δήμος — από 2026-10-27, χωρίς προθεσμία ([[2026-10-27-outbound-jkd-lead-gen-pitch]])
 - [ ] Mediterranean College: πρόταση με ή χωρίς αμοιβή — Δήμος / [[despina-velissariou]] — από 2026-10-22 ([[2026-10-22-mediterranean-college-paketo]])
@@ -60,6 +53,8 @@ updated: 2026-11-16
 - 2026-10-27 — Θέση του Δήμου για εξωτερικούς lead-gen providers: πληρωμή μόνο με σαφές κόστος/διαδικασία και αφού φέρουν ≥ 2 πελάτες· «We have payed more than 10 times similar services and never received back something worth mentioning.» ([[2026-10-27-outbound-jkd-lead-gen-pitch]])
 
 ## Χρονολόγιο
+- 2026-11-19 — Global Foods: η Μαρίνα στέλνει το συμφωνητικό «8_plus_1_Sponsored_Episodes» για υπογραφή ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]).
+- 2026-11-17 — Ελληνικό outreach Booking App μέσω ActiveCampaign («από €49/μήνα + ΦΠΑ, εγκατάσταση από €180»)· DaFit ζητά αφαίρεση + re-indexing → «SOS SOS» προς Δήμο ([[2026-11-17-booking-app-outreach-dafit-unsubscribe]]).
 - 2026-11-13 — Mediterranean College: η Ιωάννα στέλνει την παρουσίαση συνεργασίας (PDF)· Global Foods: η Ιωάννα ζητά call για συμφωνητικά Hospitality Jam ([[2026-10-20-hospitality-jam-mediterranean-college-update-2026-11-16]], [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]]).
 - 2026-11-12 — Mediterranean College: η Ιωάννα ανέβασε πρόταση (Slides) και ζητά «check!» από τον Δήμο ([[2026-11-12-asana-mediterranean-college-protasi]]). Podcast3: 2 γύροι σημειώσεων μοντάζ Ιωάννας προς Φωτεινή (2026-11-11/12) ([[2026-11-11-asana-podcast3-first-cut]]).
 - 2026-11-02 — 16:07 TikTok LIVE: η Marilena Rentzou είναι συνδεδεμένη στο call και ρωτά αν ισχύει· καμία απάντηση από GROW ([[2026-10-19-tiktok-live-agency-protasi-update-2026-11-03]]).
@@ -93,3 +88,6 @@ updated: 2026-11-16
   - Αν είναι podcast της GROW ή υπηρεσία για τον [[circle-of-dining]] / [[dimitris-georgiadis]]: ασαφές.
   - 💭 Υπόθεση: οι RAW φωτογραφίες «Photos episode 1 chef» προς τη [[fotini]] είναι από το πρώτο επεισόδιο ([[2026-09-18-photos-episode-1-chef]]).
 - Ως TikTok partners, η GROW χρησιμοποίησε κουπόνια TikTok για boost στο [[yiayia-meatballs]] ([[2026-10-20-yiayia-website-new-version]]).
+- **Απολογισμός καμπανιών (στις 2026-10-20):** η καμπάνια περιπτέρων έφερε 2 απαντήσεις ([[metlen]], [[primowear]])· το μόνο κλεισμένο περίπτερο ([[argyroplastics]]) δεν ήρθε από την καμπάνια. Για την καμπάνια ΙΕΚ υπάρχει μόνο το test της 2026-07-30 ([[ekthesiaka-periptera]], [[2026-10-20-argyroplastics-plastica-2026]], [[2026-07-30-test-newsletter-iek-eggrafes]]).
+- **Cold email = ρίσκο GDPR:** στο πρώτο ελληνικό outreach του Booking App ένας παραλήπτης απάντησε απειλητικά για νομικό δικαίωμα και ζήτησε διαγραφή· χρειάζεται καθαρό unsubscribe και τεκμηρίωση της πηγής των επαφών ([[2026-11-17-booking-app-outreach-dafit-unsubscribe]]). 💭 Υπόθεση: οι επαφές προήλθαν από δημόσια στοιχεία/scraping.
+- **Η Global Foods κλείνει προφορικά** («όπως το συνεννοηθήκαμε») και το χαρτί ακολουθεί· γραπτή αποδοχή της χορηγίας δεν υπάρχει στο thread ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]).

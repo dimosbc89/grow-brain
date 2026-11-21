@@ -3,7 +3,7 @@ type: client
 title: "Brewhub"
 aliases: [Brewhub, Brewhub Athens, Brewhub.athens@gmail.com]
 status: ενεργός
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 # Brewhub
 > Πελάτης της GROW (💭 καφέ/coffee shop στην Αθήνα) — εταιρική ταυτότητα το καλοκαίρι 2026 και χριστουγεννιάτικα creatives (ποτηράκι, stickers) τον Νοέμβριο 2026.
@@ -13,7 +13,7 @@ updated: 2026-11-20
 - **Επαφές:** [[vasilis-zioupas]] (vzioupas@gmail.com)· γενικό Brewhub.athens@gmail.com ([[2026-11-19-brewhub-christmas-creatives]]).
 - **Ομάδα GROW:** [[vassiliki-giannopoulou]] (επικοινωνία)· [[marina-papanastasiou]] και ο Δήμος σε cc ([[2026-11-19-brewhub-christmas-creatives]])· [[marianna-vourna]] (εταιρική ταυτότητα, Asana) ([[2026-10-21-asana-snapshot]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-20)
+## Τρέχουσα κατάσταση (στις 2026-11-19)
 - Στις 2026-11-19 η Βασιλική έστειλε 08:36 τις **προτάσεις για το χριστουγεννιάτικο ποτηράκι και τα stickers** και 15:27 **όλα τα εκτυπωτικά αρχεία** (WeTransfer) μαζί με το **τιμολόγιο εξόφλησης #1334** (ποσό μόνο στο PDF). Η έγκριση του πελάτη δεν φαίνεται στο email ([[2026-11-19-brewhub-christmas-creatives]]).
 
 ## Ανοιχτά & επόμενα βήματα
@@ -32,4 +32,5 @@ updated: 2026-11-20
 - #1334 (2026-11-19): τιμολόγιο εξόφλησης (Christmas creatives) — ποσό μόνο στο PDF ([[2026-11-19-brewhub-christmas-creatives]]).
 
 ## Σημειώσεις
+- Η έγκριση του πελάτη ανάμεσα στην πρόταση (08:36) και τα εκτυπωτικά (15:27) της 2026-11-19 δεν φαίνεται στο email — 💭 Υπόθεση: τηλεφωνικά/άλλο κανάλι ([[2026-11-19-brewhub-christmas-creatives]]).
 - 💭 Υπόθεση: coffee shop (ποτηράκια καφέ, «brew»)· το είδος της επιχείρησης δεν αναφέρεται ρητά.

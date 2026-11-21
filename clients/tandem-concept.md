@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -19,37 +19,11 @@ updated: 2026-11-20
 - **Τρίτοι:** [[biz-courier]] (αποθήκη/3PL, BOX NOW)· [[epsilon-net]] (ERP, τιμολόγηση, myDATA)· Viva και Klarna ως τρόποι πληρωμής στο footer ([[2026-10-08-tandem-review-eshop-developer]]).
 - **Ομάδα GROW:** ο Δήμος (integrations, Epsilon, προϊόντα, κύρια επικοινωνία)· [[despina-velissariou]] και [[vassia-kataki]] (review design/περιεχομένου με τον developer) ([[2026-10-08-tandem-review-eshop-developer]])· η [[despina-velissariou]] έχει και τον οδηγό της συνέντευξης ([[2026-10-19-tandem-interview-questions]])· [[vassiliki-giannopoulou]] σε cc ([[2026-10-08-tandem-review-eshop-developer]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-20)
-- **Inbound Christian Villa / BIZ (2026-11-19):** η BIZ εντόπισε το **booking 810027890** (accepted, ολοκλήρωση **έως 2026-11-25**) αλλά **δεν μπορεί να ξαναβγάλει το BIZ packing list** — βγαίνει μόνο από το WooCommerce τη στιγμή του booking και δεν αποθηκεύεται αυτόματα ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]], [[2026-11-19-tandem-easybiz-booking]]). Η BIZ ζητά να περαστούν τα είδη στο **EasyBiz**· η Caroline δεν καταλαβαίνει γιατί (είναι ήδη στο inventory τους) και στις 21:30 ζήτησε από τον Δήμο **να τους πάρει τηλέφωνο** ([[2026-11-19-tandem-cv-bags-biz-product]]). Ο Δήμος (19:11) είχε ρωτήσει αν θα πάρει εκείνη «αύριο».
-- **Τελευταίες διορθώσεις e-shop (2026-11-19 19:00):** 4 σημεία για την εβδομάδα 2026-11-23 — φίλτρο μείωσης κειμένου ξανά, εικονίδιο γλώσσας στο header, AI φωτογραφίες → φωτογραφίες φωτογράφου, μεγαλύτερο apparel carousel ([[2026-11-19-tandem-last-corrections-website]]).
-
-*Νωρίτερα (στις 2026-11-19):*
-- **Packing list Christian Villa (2026-11-18):** η BIZ ξαναρώτησε 11:54 (το έγγραφο «βρίσκεται στο C:\BIZ\Labels» του EasyBiz)· ο Δήμος απάντησε 23:53 ότι το booking έγινε **2026-10-21 μέσω BIZ LiNK** (όχι EasyBiz), το PDF δεν αποθηκεύτηκε· ζητά από τη BIZ να **ξαναβγάλει το packing list από το υπάρχον booking** — όχι νέο booking (κίνδυνος διπλού inbound) ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]).
-
-*Νωρίτερα (στις 2026-11-17):*
-- 2026-11-16: η [[caroline-hafouri]] προώθησε αίτημα της BIZ (2026-11-13): η αποθήκη παρέλαβε **3 κιβώτια Christian Villa (2026-11-11) χωρίς BIZ packing list**· ζητά από τον Δήμο να απαντήσει ([[2026-11-16-tandem-biz-packing-list]]).
-- **BIZ LiNK auto-sync:** η BIZ (Markos Lesko) ζήτησε 2026-11-05 και ξανά 2026-11-12 (follow-up «δεν έχουμε λάβει απάντηση») να επιβεβαιώσει ο Δήμος ότι το WooCommerce status για fulfillment είναι **Processing** (τρέχουσα ρύθμιση Ready to Ship) και να φτιάξει **νέα test παραγγελία** σε αυτό το status — αναπάντητο ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]]).
-
-*Από 2026-11-06:*
-- Bag hangers: εναλλακτική προσφορά Fun Promotion — hook 3,21 €/τμχ, τσάντα CAMPO DE FIORI 4,26 €/τμχ (+ΦΠΑ, 100 τμχ, 15 εργάσιμες)· posts & holiday inspo στάλθηκαν (4/11)· BizCourier IT απάντησε για BIZ LiNK (5/11) ([[2026-11-04-tandem-posts-hangers-bizlink]]).
-
-*Από 2026-11-03:*
-- **Δοκιμαστική παραγγελία e-shop:** η BIZ δεν μπόρεσε να ακυρώσει την test αποστολή SWS49373664 (είχε ήδη συσκευαστεί)· η Caroline ζήτησε επιστροφή 2026-11-02 (το email πήγε στον Δήμο, όχι στη BIZ — ασαφές αν έφτασε). Η BIZ ζητά στο μέλλον ένδειξη «test» στον παραλήπτη και test προϊόν ([[2026-11-02-tandem-bizcourier-cancel-test-order]]).
-- **Price tags / αυτοκόλλητα (Print Kong):** η Δέσποινα ρώτησε 2026-11-02 αν παραδίδουν άμεσα· εξόφληση μετρητά χωρίς τιμολόγιο 385 € (120 + 265) ([[2026-10-20-tandem-price-tags-print-kong-update-2026-11-03]]).
-
-*Παλαιότερα (στις 2026-10-28):*
-- **Su Apparel FW 2026:** η Caroline έστειλε 2026-10-27 15:54 excel για να περαστεί στο Epsilon η νέα παραλαβή Su Apparel, αποκλειστικά για το κατάστημα Κολωνακίου· ο Δήμος απάντησε 2026-10-28 00:59 «Ready Please do a check when you have time.» Αν μπαίνει και στο e-shop: ασαφές ([[2026-10-27-tandem-su-apparel-epsilon]]). 💭 Υπόθεση: το brand είναι το «Susurrous Clothing» (susurrousclothing.com), για το οποίο ο Δήμος λαμβάνει Wordfence alerts ([[2026-10-27-admin-eidopoiiseis-a]]).
-- **BIZ LiNK / BOX NOW:** στις 2026-10-26 η BIZ αναβάθμισε το BIZ LiNK σε 1.3.2 (περιέχει διόρθωση για το Add Supply· το booking λειτουργεί) και επιβεβαίωσε ότι το BOX NOW είναι εμπορικά ενεργό με service code 167. Σειρά του Δήμου: έλεγχος μετά την αναβάθμιση και ρύθμιση Sender Profile 167 σύμφωνα με τον οδηγό της BIZ. Αντικαταβολή μόνο μέσω «Pay on the Go» της BOX NOW ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-10-27]]).
-- Τα ελληνικά links των brands (Christian Villa, Vanessa Wu) διορθώθηκαν 2026-10-26· ο Δήμος τρέχει audit σε όλα τα links ([[2026-10-26-tandem-inquiry-links-3pl]]).
-- Πληρωμές: ο George έστειλε 2026-10-26 αποδεικτικά πληρωμής για τα #1285 και #1295 ([[2026-10-15-tandem-timologio-1285-pliromi]], [[2026-10-23-tandem-timologio-brand-identity-update-2026-10-27]]).
-- Ads: η Tandem ενέκρινε 2026-10-26 Google Ads (brand + competitors), META Ads 150 €/μήνα, TikTok μόνο organic ([[2026-10-14-tandem-social-ads-strategy]]).
-
-*Από 2026-10-20:*
-- Το design του e-shop έκλεισε στις 2026-10-08 ([[2026-10-08-tandem-review-eshop-developer]]). Η Tandem στέλνει τελικές διορθώσεις: τα πρώτα σημεία (composition, description, ονόματα, typo) διορθώθηκαν στις 2026-10-17, τα υπόλοιπα εκκρεμούν ([[2026-10-17-tandem-website-final-amendments]]).
-- Οι τσάντες Christian Villa FW 26 μπήκαν στο e-shop και στο Epsilon. Ο Δήμος έλεγξε το sync e-shop ↔ Epsilon στις 2026-10-15 και δεν βρήκε πρόβλημα ([[2026-10-16-tandem-eshop-bags-epsilon]]).
-- Ο Δήμος υποσχέθηκε τις creative αλλαγές της συνάντησης 2026-10-13 μέσα στην εβδομάδα της 2026-10-19 ([[2026-10-16-tandem-eshop-bags-epsilon]]).
-- Ο οδηγός ερωτήσεων για τη video συνέντευξη των ιδρυτών στάλθηκε στη Δέσποινα στις 2026-10-19. Ημερομηνία γυρίσματος: ασαφές ([[2026-10-19-tandem-interview-questions]]).
-- Στο ημερολόγιο δεν υπάρχει προγραμματισμένη συνάντηση Tandem μετά τις 2026-10-13 ([[2026-07-20_2026-11-03]]).
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Inbound Christian Villa:** η BIZ βρήκε το **booking 810027890** (accepted, ολοκλήρωση **έως 2026-11-25**) αλλά **δεν μπορεί να ξαναβγάλει το packing list** (βγαίνει μόνο από το WooCommerce τη στιγμή του booking)· ζητά τα είδη στο **EasyBiz** ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]], [[2026-11-19-tandem-easybiz-booking]]). Η Caroline ζήτησε 21:30 από τον Δήμο **να πάρει τηλέφωνο τη BIZ** ([[2026-11-19-tandem-cv-bags-biz-product]]).
+- **Τελευταίες διορθώσεις e-shop** (4 σημεία) για την εβδομάδα 2026-11-23 ([[2026-11-19-tandem-last-corrections-website]]).
+- **Αναπάντητα από τον Δήμο:** BIZ LiNK auto-sync (status Processing + νέα test παραγγελία, αίτημα BIZ από 2026-11-05) ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]])· BOX NOW test προς George (από 2026-10-28) ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-30]]).
+- Bag hangers/τσάντες Fun Promotion: παραγγελία 813,44 € σε εξέλιξη, παράδοση ασαφής ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-11]]). Ads (Google + META 150 €/μήνα) εγκρίθηκαν 2026-10-26 ([[2026-10-14-tandem-social-ads-strategy]]).
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] **Τηλέφωνο στη BIZ** για EasyBiz / booking 810027890 (τι extra χρειάζεται αφού τα είδη είναι ήδη στο σύστημα) — Δήμος (ζήτησε η Caroline 2026-11-19 21:30· ο Δήμος είχε προτείνει να πάρει εκείνη) — 2026-11-20 ([[2026-11-19-tandem-cv-bags-biz-product]], [[2026-11-19-tandem-easybiz-booking]])
@@ -65,13 +39,12 @@ updated: 2026-11-20
 - [ ] Epsilon Su Apparel: ποσότητα 2 σε Blouse S047 Chili, Blouse S600 chocolate, Cardigan S031 Moka, Skirt S99 Nero + πρόθεμα brand («SU-…») στα scan codes — Δήμος — από 2026-10-28· 2026-10-29 ο Δήμος δεσμεύτηκε γραπτώς ότι θα γίνει (χωρίς ημερομηνία) ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-30]])
 - [ ] Απάντηση στον George για το BOX NOW test — Δήμος — ρωτήθηκε ξανά 2026-10-28· ακόμα αναπάντητο στην απάντηση της 2026-10-29 ([[2026-10-27-tandem-su-apparel-epsilon-update-2026-10-30]])
 - [ ] Portfolio φωτογράφου (Andrew Chrmds) που προώθησε ο George — τι ζητείται: ασαφές ([[2026-10-28-tandem-portfolio-fotografou]])
-- [x] Εικόνες APPAREL στο site — Δήμος — ✓ 2026-10-23 ([[2026-10-21-tandem-pictures-apparel-update-2026-10-23]])
+- [x] ✓ Εικόνες APPAREL (pptx) στην αρχή + διαγραφή 4 εικόνων — Δήμος — από 2026-10-21, ✓ 2026-10-23 ([[2026-10-21-tandem-pictures-apparel]], [[2026-10-21-tandem-pictures-apparel-update-2026-10-23]])
 - [x] Πληρωμή τιμολογίου #1295 (1.953,00 €) — Tandem — αποδεικτικό 2026-10-26· επιβεβαίωση είσπραξης από λογιστήριο εκκρεμεί ([[2026-10-23-tandem-timologio-brand-identity-update-2026-10-27]])
 - [x] Πληρωμή τιμολογίου #1285 (website τελική + fee β' μισού Οκτωβρίου) — Tandem — αποδεικτικό 2026-10-26 ([[2026-10-15-tandem-timologio-1285-pliromi]])
 - [ ] Αφαίρεση «TANDEM BOUTIQUE» από τα μελλοντικά τιμολόγια (επωνυμία μόνο TANDEM CONCEPT IKE) — λογιστήριο GROW ([[sofia-konstantopoulou]]) — από 2026-10-26 ([[2026-10-15-tandem-timologio-1285-pliromi]])
 - [ ] Στήσιμο Google Ads (brand keywords + ανταγωνιστές: Matchbox, Shoebox, Ginestra, Petridis studio, Free shop, Vestiaire, Mirina Tsantilis, Colori&Co) και META Ads 150 €/μήνα — GROW ([[despina-velissariou]] 💭) — εγκρίθηκε 2026-10-26 ([[2026-10-14-tandem-social-ads-strategy]])
 - [ ] Founder-led content με τους ιδρυτές — GROW/Tandem — χωρίς ημερομηνία ([[2026-10-14-tandem-social-ads-strategy]])
-- [ ] Εικόνες APPAREL (pptx) στην αρχή + διαγραφή 4 εικόνων — Δήμος — από 2026-10-21 ([[2026-10-21-tandem-pictures-apparel]])
 **Υποσχέσεις του Δήμου**
 - [x] Πέρασμα Su Apparel FW 2026 στο Epsilon — Δήμος — ✓ 2026-10-28 00:59 ([[2026-10-27-tandem-su-apparel-epsilon]])
 - [x] Creative αλλαγές στο site από τη συνάντηση της 2026-10-13 — Δήμος — εβδομάδα 2026-10-19 ([[2026-10-16-tandem-eshop-bags-epsilon]])· στο Asana «αλλαγές Tandem» (Δήμος) ✓ 2026-10-20 ([[2026-10-21-asana-snapshot]]) — 💭 Υπόθεση: πρόκειται για τις ίδιες αλλαγές.
@@ -137,13 +110,13 @@ updated: 2026-11-20
 - 2026-11-19 — 10:34 BIZ: booking 810027890, δεν μπορεί να βγάλει packing list ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]]). 16:47 BIZ → Caroline: accepted, ολοκλήρωση έως 25/11· 18:59–19:11 Δήμος–Caroline: «10+ μέρες και πρέπει να τους γράψουμε για να το βρουν;», η BIZ ζητά EasyBiz, test παραγγελία από πελάτισσα ([[2026-11-19-tandem-easybiz-booking]]). 19:00 Caroline: 4 τελευταίες διορθώσεις e-shop για την επόμενη εβδομάδα ([[2026-11-19-tandem-last-corrections-website]]). 21:30 Caroline: «Please call them» ([[2026-11-19-tandem-cv-bags-biz-product]]).
 - 2026-11-18 — BIZ follow-up για packing list· ο Δήμος εξηγεί ότι το booking έγινε μέσω BIZ LiNK 21/10 και ζητά επανέκδοση ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]).
 - 2026-11-16 — BIZ: λείπει packing list για 3 κιβώτια Christian Villa· Caroline → Δήμος ([[2026-11-16-tandem-biz-packing-list]]).
-- 2026-11-12 — Η Δέσποινα έβαλε στο GROW Agency Calendar «Tandem εκεί» **Δευτέρα 2026-11-16 15:00–16:00** ([[2026-11-13_2026-11-20]]).
+- 2026-11-16 — «Tandem εκεί» 15:00–16:00 (GROW Agency Calendar, το έβαλε η Δέσποινα 2026-11-12) ([[2026-11-13_2026-11-20]]).
 - 2026-11-12 — BIZ follow-up: περιμένει επιβεβαίωση WooCommerce status + νέα test παραγγελία (αίτημα από 2026-11-05) ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]]).
 - 2026-11-10 — Fun Promotion: εγκρίθηκαν μακέτες, η παραγγελία μπήκε (813,44 €)· παράδοση Κολωνάκι, ημερομηνία ασαφής ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-11]]).
 - 2026-11-09 — Fun Promotion: εντολή ανάθεσης· Order confirmation 813,44 € (προκαταβολή 406,72 €) — ο George πλήρωσε ✓· η Δέσποινα έστειλε mockups + αρχεία εκτύπωσης ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-10]]).
 - 2026-11-09 — Η Δέσποινα ζήτησε προτιμολόγιο Fun Promotion για προκαταβολή· ο George έστειλε αντίγραφο πληρωμής για το τιμολόγιο της 2/11 ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-09]], [[2026-11-09-admin-eidopoiiseis]]).
 - 2026-11-06/09 — Η Δέσποινα παρήγγειλε στη Fun Promotion 50 hangers με doming + 100 τσάντες CAMPO DE FIORI (4,26 €)· νέα τιμή hanger με σμάλτο **4,30 €/τμχ** (9/11)· παράδοση ασαφής ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-09]]).
-- 2026-11-05 — Προσφορά Fun Promotion· απάντηση BizCourier ([[2026-11-04-tandem-posts-hangers-bizlink]]).
+- 2026-11-05 — Προσφορά Fun Promotion: hook 3,21 €/τμχ, τσάντα CAMPO DE FIORI 4,26 €/τμχ (+ΦΠΑ, 100 τμχ, 15 εργάσιμες)· απάντηση BizCourier IT για BIZ LiNK· η BIZ (Markos Lesko) ζητά επιβεβαίωση status Processing + νέα test παραγγελία ([[2026-11-04-tandem-posts-hangers-bizlink]], [[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]]).
 - 2026-11-04 — Posts & inspo ([[2026-11-04-tandem-posts-hangers-bizlink]]).
 - 2026-11-04 — Αίτηση στο Tagora μέσω plugin με 0 προϊόντα ([[2026-11-03-tagora-launch]]).
 - 2026-11-03 — Bag hangers: follow-up Δέσποινας στην Axiom, αναπάντητη από 22/10 ([[2026-09-16-axiom-bag-hangers-tandem-update-2026-11-04]]).
@@ -162,7 +135,7 @@ updated: 2026-11-20
 - 2026-10-23 — Ο Δήμος: οι εικόνες APPAREL ανέβηκαν («Ready!») ([[2026-10-21-tandem-pictures-apparel-update-2026-10-23]]).
 - 2026-10-23 — Q&A γυρίσματος 2026-10-26 15:00: η Caroline θέλει να διαβάζει τις απαντήσεις· ο Δήμος προτείνει φυσικό λόγο και διπλάσιες ερωτήσεις ([[2026-10-23-tandem-qa-script]]).
 - 2026-10-22 — Η Δέσποινα ζήτησε από την Axiom template και προτιμολόγιο για τα 100 bag hangers (προκαταβολή πελάτη) και έστειλε στην Tandem online Q&A για το γύρισμα ([[2026-09-16-axiom-bag-hangers-tandem]], [[2026-10-22-tandem-qa-shooting]]).
-- 2026-10-21 — Packing list Christian Villa FW 2026 για τη Biz· ο Δήμος «Done»· η Caroline ενημερώνει μόνη της απόθεμα (Cindy 6677 Nero 6→5)· 3 κούτες 70x50x40 προς την αποθήκη της [[biz-courier]]. Η Caroline ζητά νέες εικόνες στην αρχή της ενότητας APPAREL και διαγραφή 4 εικόνων ([[2026-10-21-tandem-packing-list-biz]], [[2026-10-21-tandem-boxes-delivery-biz]], [[2026-10-21-tandem-pictures-apparel]]).
+- 2026-10-21 — Booking 3 κιβωτίων Christian Villa μέσω BIZ LiNK (το PDF packing list δεν κρατήθηκε· βλ. 2026-11-18/19)· ο Δήμος «Done»· η Caroline ενημερώνει μόνη της απόθεμα (Cindy 6677 Nero 6→5)· 3 κούτες 70x50x40 προς την αποθήκη της [[biz-courier]]. Η Caroline ζητά νέες εικόνες στην αρχή της ενότητας APPAREL και διαγραφή 4 εικόνων ([[2026-10-21-tandem-packing-list-biz]], [[2026-10-21-tandem-boxes-delivery-biz]], [[2026-10-21-tandem-pictures-apparel]]).
 - 2026-10-21 — Asana: project «Tandem» (από 2026-04-17· sections Site - e-shop, Brand Identity, Social Media, Performance) με 6 ανοιχτά και 4 ολοκληρωμένα από 2026-07-01. Ο Δήμος έκλεισε «αλλαγές Tandem» και «Mail creation» στις 2026-10-20· ανοιχτά Terms of Service (Δέσποινα), e-shop creative, tote bags, Brand Video, «Check plugin & solutions» (Δήμος, από 2026-08-07). Η Vassia σημείωσε 2026-07-21 ότι έδωσε στον developer ([[george-andritsos]] 💭) όλες τις φωτογραφίες προϊόντων ξεφονταρισμένες ([[2026-10-21-asana-snapshot]]).
 - 2026-10-20 — Price tags (Print Kong, 265 €): η Δέσποινα ρωτά πότε θα είναι έτοιμα, χωρίς απάντηση ([[2026-10-20-tandem-price-tags-print-kong]]).
 - 2026-10-19 — Ο Δήμος στέλνει στη Δέσποινα οδηγό με ~197 ερωτήσεις και 10 hooks για Reels για τη video συνέντευξη με Caroline και George ([[2026-10-19-tandem-interview-questions]]).
@@ -177,20 +150,12 @@ updated: 2026-11-20
 - 2026-10-10 — Οδηγός χρήσης e-shop (PDF) και χρήστης shop manager για την Caroline ([[2026-10-10-tandem-website-user-guide]]).
 - 2026-10-08 — «Tandem εκεί (Δήμος)» 15:30 ([[2026-07-20_2026-11-03]])· κλείνει το design review («δεν έχουμε κάποιο άλλο σχόλιο») ([[2026-10-08-tandem-review-eshop-developer]]).
 - 2026-09-24 — Η Caroline στέλνει ποσότητες μετά από τηλέφωνο: απόθεμα αποθήκης Biz Courier, ίδια μοντέλα στο Κολωνάκι, αποκλειστικά προϊόντα Κολωνακίου ([[2026-09-24-tandem-eshop-quantities]]).
-- 2026-09-18 — Η BIZ ζητά admin στο WooCommerce και δημιουργείται ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]])· στο review ο Δήμος γράφει «Μας πέθαναν» και αναφέρεται αργή φόρτωση ([[2026-10-08-tandem-review-eshop-developer]]).
-- 2026-09-14 — BIZ LiNK Onboarding Questionnaire: το e-shop είναι WooCommerce, όχι Shopify· «Finished» ([[2026-09-14-tandem-bizcourier-it-coordination]]).
-- 2026-09-08 — Call του Δήμου με την Aliki (BIZ) 14:00 ([[2026-09-07-biz-courier-boxnow-codes]], [[2026-07-20_2026-11-03]]).
-- 2026-09-07 — Ο George ολοκληρώνει το A.1112 στο myDATA ([[2026-09-07-epsilon-smart-advanced-mydata-provider]])· ο Δήμος ζητά τους κωδικούς Box Now από τη BIZ ([[2026-09-07-biz-courier-boxnow-codes]]).
-- 2026-09-01 — Η Caroline: έγινε η σύνδεση με Epsilon Smart, αναμένεται validation· ο Δήμος: το Epsilon Bridge είναι έτοιμο από τέλη Ιουλίου, το 3PL Bridge έτοιμο ([[2026-09-01-tandem-epsilon-eshop-bridge]])· ζητά τα login links ([[2026-09-01-tandem-epsilon-activation-code]]).
-- 2026-08-31 — Ο Δήμος: το setup Epsilon Digital το κάνει ο πελάτης με την Epsilon ή τον λογιστή ([[2026-08-31-tandem-epsilon-digital-provider-setup]]).
-- 2026-08-28 — Online meeting Tandem × BIZ × λογιστής 10:30 (πωλήσεις εκτός ΕΕ, χαμένα δέματα, αποστολές και επιστροφές) ([[2026-08-26-online-appointment-bizcourier-tandem]], [[2026-07-20_2026-11-03]])· ο Δήμος δίνει «proceed» στην Epsilon ([[2026-08-28-tandem-epsilon-smart-offer-api]]).
-- 2026-08-26 — Ο Δήμος ολοκληρώνει τη σύνδεση με τη Viva, όσο ο George ήταν στο γραφείο ([[2026-08-27-tandem-viva-payments-api]])· «tandem» 11:00 στο ημερολόγιο ([[2026-07-20_2026-11-03]])· υπογραφή και πληρωμή Epsilon ([[2026-08-28-tandem-epsilon-smart-offer-api]]).
-- 2026-08-14 — «tandem call» 11:00· 2026-08-07 — «Tandem εδώ» 15:30 ([[2026-07-20_2026-11-03]]).
-- 2026-07-27 — Ο λογιστής ρωτά για το corporate site· ο George λέει ότι το είχε προωθήσει στον Δήμο χωρίς feedback· ο Δήμος απαντά «feel free to call me» ([[2026-07-27-tandem-corporate-site]]).
-- 2026-07-09 — Ξεκινά το thread «Tandem Review» με τον developer ([[2026-10-08-tandem-review-eshop-developer]]).
-- 2026-06-04 — Ο George ζητά από τη BIZ κωδικούς Box Now για το widget επιλογής lockers ([[2026-09-07-biz-courier-boxnow-codes]]).
-- 2026-05-22 → 2026-05-29 — Η BIZ στήνει account· ο Δήμος επιβεβαιώνει API integration· έρχονται Client Activation Letter και Web Service Integration Guide ([[2026-09-14-tandem-bizcourier-it-coordination]]).
-- 2026-04-27 — Ο George συστήνει τον Δήμο ως e-shop designer στη BIZ Courier ([[2026-09-14-tandem-bizcourier-it-coordination]]).
+- 2026-09 — 09-01: σύνδεση Epsilon Smart (αναμένεται validation), Epsilon Bridge έτοιμο από τέλη Ιουλίου και 3PL Bridge έτοιμο, ο Δήμος ζητά login links ([[2026-09-01-tandem-epsilon-eshop-bridge]], [[2026-09-01-tandem-epsilon-activation-code]])· 09-07: ο George ολοκληρώνει το A.1112 στο myDATA, ο Δήμος ζητά κωδικούς Box Now ([[2026-09-07-epsilon-smart-advanced-mydata-provider]], [[2026-09-07-biz-courier-boxnow-codes]])· 09-08: call Δήμου–Aliki (BIZ) 14:00 ([[2026-07-20_2026-11-03]])· 09-14: BIZ LiNK Onboarding Questionnaire (WooCommerce, όχι Shopify) «Finished» ([[2026-09-14-tandem-bizcourier-it-coordination]])· 09-18: admin για τη BIZ στο WooCommerce ([[2026-10-12-bizcourier-woocommerce-admin-boxnow]]), ο Δήμος γράφει «Μας πέθαναν», αργή φόρτωση ([[2026-10-08-tandem-review-eshop-developer]]).
+- 2026-08 — 08-07 «Tandem εδώ», 08-14 «tandem call» ([[2026-07-20_2026-11-03]])· 08-26: ο Δήμος συνδέει τη Viva ([[2026-08-27-tandem-viva-payments-api]]), υπογραφή/πληρωμή Epsilon ([[2026-08-28-tandem-epsilon-smart-offer-api]])· 08-28: online meeting Tandem × BIZ × λογιστής (εκτός ΕΕ, χαμένα δέματα, επιστροφές) και «proceed» στην Epsilon ([[2026-08-26-online-appointment-bizcourier-tandem]], [[2026-08-28-tandem-epsilon-smart-offer-api]])· 08-31: το setup Epsilon Digital το κάνει ο πελάτης/λογιστής ([[2026-08-31-tandem-epsilon-digital-provider-setup]]).
+- 2026-07 — 07-09: ξεκινά το thread «Tandem Review» με τον developer ([[2026-10-08-tandem-review-eshop-developer]])· 07-27: ο λογιστής ρωτά για το corporate site, ο George είχε προωθήσει χωρίς feedback, ο Δήμος «feel free to call me» ([[2026-07-27-tandem-corporate-site]]).
+- 2026-06 — 06-04: ο George ζητά από τη BIZ κωδικούς Box Now για το widget lockers ([[2026-09-07-biz-courier-boxnow-codes]]).
+- 2026-05 — 05-22 → 05-29: η BIZ στήνει account, ο Δήμος επιβεβαιώνει API integration, έρχονται Client Activation Letter και Web Service Integration Guide ([[2026-09-14-tandem-bizcourier-it-coordination]]).
+- 2026-04 — 04-27: ο George συστήνει τον Δήμο ως e-shop designer στη BIZ Courier ([[2026-09-14-tandem-bizcourier-it-coordination]]).
 
 ## Οικονομικά
 - Τιμολόγιο #1295 (2026-10-23): τελική πληρωμή Brand Identity 1.953,00 € — αποδεικτικό πληρωμής 2026-10-26 ([[2026-10-23-tandem-timologio-brand-identity]], [[2026-10-23-tandem-timologio-brand-identity-update-2026-10-27]]).
@@ -208,3 +173,6 @@ updated: 2026-11-20
 - Ο George χρησιμοποιεί δύο email, chalhoub.g@gmail.com και george@tandemconcept.gr ([[2026-08-28-tandem-epsilon-smart-offer-api]]). Στο meeting της 2026-08-28 στο ημερολόγιο εμφανίζεται και το giorgoxal@gmail.com — 💭 Υπόθεση: πιθανώς ο George ([[2026-07-20_2026-11-03]]).
 - Ο λογιστής θέλει άμεση επικοινωνία με τον Δήμο για το corporate site ([[2026-07-27-tandem-corporate-site]]).
 - Ο Δήμος έχει ζητήσει τη διευκρίνιση της Aliki για την 3PL πλατφόρμα (δέσμευση 2026-09-01)· 💭 Υπόθεση: καλύφθηκε στο call της 2026-09-08 — ασαφές ([[2026-09-01-tandem-epsilon-eshop-bridge]], [[2026-09-07-biz-courier-boxnow-codes]]).
+- Η Caroline περιμένει από τον Δήμο να χειρίζεται τη BIZ («Please call them as it becomes complicated», 2026-11-19)· ο Δήμος είχε προτείνει να πάρει εκείνη ([[2026-11-19-tandem-cv-bags-biz-product]], [[2026-11-19-tandem-easybiz-booking]]). Οι διορθώσεις έρχονται ομαδοποιημένες με «whenever you have the time next week» ([[2026-11-19-tandem-last-corrections-website]]).
+- Ο George πληρώνει γρήγορα: προκαταβολή Fun Promotion την ίδια μέρα (2026-11-09), αποδεικτικά #1285/#1295 2026-10-26 ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-10]], [[2026-10-15-tandem-timologio-1285-pliromi]]).
+- Μάθημα: το packing list του BIZ LiNK δεν αποθηκεύεται — κατέβασέ το τη στιγμή του booking ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]]).

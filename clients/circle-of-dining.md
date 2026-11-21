@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -14,28 +14,12 @@ updated: 2026-11-20
 - **Ομάδα GROW:** [[ioanna-chalkiadaki]] (day-to-day, υλικό site)· ο Δήμος (πρόταση, design redesign)· [[vassiliki-giannopoulou]] (λίστα καλεσμένων) ([[2026-07-30-lista-kalesmenon-georgiadis]]).
 - **Συνεργάτες πελάτη (logos στο site):** Hilton, Agusta (Κρήτη) ([[2026-10-01-circle-of-dining-redesign]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-20)
-- **Προετοιμασία dinner 2026-11-22 19:30 (Rodopou & Beyond, έως 25 καλεσμένοι, 4–5 τραπέζια):**
-  - **Έντυπα:** η [[fotini]] ζήτησε από [[epilogin]] 30 μενού 15×25 (ιριδίζον + εναλλακτικό χαρτί) + 25 καρτελάκια ονομάτων 20×2 που κουμπώνουν στο μενού → **95 € όλα μαζί**, έτοιμα 2026-11-20 «νωρίς αν τα έχουμε οκ». 16:51 η [[ioanna-chalkiadaki]]: **προχωράμε**, χαρτί + τελικά αρχεία **2026-11-20 πρωί**· τιμολόγηση **στον Γεωργιάδη** ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]]).
-  - **Διακόσμηση τραπεζιών:** 13:42 η Ιωάννα ζήτησε προσφορά/πρόταση από **NEDA Decorations (Χριστίνα)** με references, menu + custom label, και βαζάκια — αναμονή απάντησης ([[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]]).
-- **Email signature:** 17:48 ο [[dimitris-georgiadis]] ζήτησε από την Ιωάννα υπογραφή email για το The Circle of Dining ([[2026-11-19-circle-of-dining-ypografi-email]]).
-- Hospitality Jam: η [[global-foods]] παίρνει συμφωνητικό χορηγίας 8+1 επεισοδίων για υπογραφή (2026-11-19) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]).
-
-*Νωρίτερα (στις 2026-11-19):*
-- **XENIA dinner 2026-11-22 19:30 (Rodopou & Beyond):** οι προσκλήσεις **έχουν σταλεί**. 2026-11-18 ο Δήμος έστειλε contact report (xlsx)· η [[ioanna-chalkiadaki]] πέρασε σε Google Sheet όσους την άνοιξαν (tab 1 επιβεβαιωμένοι + κάποιοι «demi», tab 2 follow-up τηλέφωνα της ημέρας)· ο Δήμος έθεσε **προτεραιότητα: concierge, yacht companies, βίλες**. Η [[despina-velissariou]] έστειλε προσωπικές προσκλήσεις μετά από τηλέφωνο σε **Variety Cruises (κ. Δράκος)** και **Istion (marketing@istion.com)** — RSVP εκκρεμεί ([[2026-11-18-circle-of-dining-contact-report-proteraiotites]], [[2026-11-18-circle-of-dining-prosklisi-variety-cruises]], [[2026-11-18-circle-of-dining-prosklisi-istion]]).
-
-*Νωρίτερα (στις 2026-11-16):*
-- **XENIA dinner:** στις 2026-11-13 19:37 η [[ioanna-chalkiadaki]] έστειλε στον Δήμο **TEST** της πρόσκλησης (ActiveCampaign): private dinner **Κυριακή 2026-11-22 19:30, Rodopou & Beyond (6ος όροφος Hilton Garden Inn)**, δωρεάν κατόπιν πρόσκλησης, RSVP στην Ιωάννα. Έγκριση/αποστολή: ασαφές ([[2026-11-13-circle-of-dining-dinner-test-prosklisi]]).
-- **Τιμολόγιο #1333** για το **μοντάζ του 3ου επεισοδίου** στάλθηκε 2026-11-16 08:00 στο λογιστήριο του Γεωργιάδη (ποσό μόνο στο PDF) ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]]).
-- Hospitality Jam: επόμενα γυρίσματα 2026-11-25 (Άρης Σκλαβενίτης), 2026-12-01 (Μανώλης Μούτσος/Momentum), 2026-12-05 (Παναγιώτης Νίκας) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]]).
-
-*Από 2026-10-28:*
-- Στις 2026-10-27 το λογιστήριο GROW έστειλε στο λογιστήριο του Γεωργιάδη (finance.askoffice@) το τιμολόγιο **#1292** για το **μοντάζ του δεύτερου επεισοδίου** (ποσό μόνο στο PDF) ([[2026-10-27-accounting-timologia-kartelles]]). 💭 Υπόθεση: αφορά το γύρισμα της 2026-10-22.
-
-*Από 2026-10-20:*
-- Η πρώτη φάση design του redesign ολοκληρώθηκε 2026-09-15 (PDF «GROW-The-Circle-of-Dining-Redesign-SEO-EL-v3.pdf» + preview σε Cloudflare Workers)· ο σεφ έστειλε φωτογραφίες, logos και ένα testimonial· ο Δήμος τα πέρασε στην Ιωάννα 2026-10-01 ([[2026-10-01-circle-of-dining-redesign]]).
-- Content calendar (GR, .pptx) στάλθηκε στην Ιωάννα 2026-10-07 ([[2026-10-07-circle-of-dining-content-calendar]]).
-- Επόμενο: «The Circle of Dining γύρισμα» 2026-10-22 13:00 ([[2026-07-20_2026-11-03]]).
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Private dinner Κυριακή 2026-11-22 19:30 (Rodopou & Beyond, 6ος όροφος Hilton Garden Inn, έως 25 καλεσμένοι, 4–5 τραπέζια):** οι προσκλήσεις στάλθηκαν· follow-up με προτεραιότητα **concierge / yacht companies / βίλες** (Δήμος, 2026-11-18)· RSVP Variety Cruises & Istion εκκρεμούν ([[2026-11-18-circle-of-dining-contact-report-proteraiotites]], [[2026-11-18-circle-of-dining-prosklisi-variety-cruises]], [[2026-11-18-circle-of-dining-prosklisi-istion]]).
+- **Έντυπα & διακόσμηση dinner:** [[epilogin]] 30 μενού 15×25 + 25 καρτελάκια **95 €** — «προχωράμε» 2026-11-19 16:51, αρχεία 2026-11-20 πρωί, τιμολόγιο στον Γεωργιάδη· αίτημα πρότασης διακόσμησης στη NEDA Decorations — αναμονή ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]], [[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]]).
+- Ο [[dimitris-georgiadis]] ζήτησε 2026-11-19 **email signature** για το The Circle of Dining ([[2026-11-19-circle-of-dining-ypografi-email]]).
+- **Hospitality Jam:** η [[global-foods]] παίρνει συμφωνητικό χορηγίας 8+1 επεισοδίων για υπογραφή (2026-11-19)· επόμενα γυρίσματα 2026-11-25, 2026-12-01, 2026-12-05 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]], [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]]).
+- **Ανοιχτά τιμολόγια:** #1292 (2026-10-27, μοντάζ 2ου επεισοδίου) και #1333 (2026-11-16, μοντάζ 3ου) — εξόφληση δεν φαίνεται ([[2026-10-27-accounting-timologia-kartelles]], [[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]]).
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Επιλογή χαρτιού + τελικά αρχεία μενού/καρτελάκια στην Epilogi — [[ioanna-chalkiadaki]] / [[fotini]] — **2026-11-20 πρωί** ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]])
@@ -48,12 +32,11 @@ updated: 2026-11-20
 - [x] ✓ Google Ads Circle of Dining — **Δήμος** — έκλεισε στο Asana 2026-11-17 18:00 (ήταν εκπρόθεσμο από 2026-11-09)· νέα υπενθύμιση Ιωάννας στο Asana 2026-11-16 ([[2026-11-16-asana-circle-of-dining-google-ads-reminder]])
 - [x] ✓ οι προσκλήσεις στάλθηκαν (η Ιωάννα 2026-11-18 καταγράφει όσους «έχει σταλεί και το έχουν ανοίξει» — [[2026-11-18-circle-of-dining-contact-report-proteraiotites]]) — Asana «αποστολή προσκλήσεων dinner» (xenia dinner) — **Δήμος** — ⚠️ εκπρόθεσμο από 2026-11-11· η Ιωάννα ρωτά «Το στείλαμε?» 2026-11-12 και αν μπαίνει το όνομα του Γεωργιάδη στο email ([[2026-11-12-asana-xenia-dinner-proskliseis]])· **test πρόσκλησης στάλθηκε στον Δήμο 2026-11-13** (χωρίς όνομα Γεωργιάδη) — θέλει έγκριση πριν φύγει ([[2026-11-13-circle-of-dining-dinner-test-prosklisi]])
 - [ ] Εξόφληση #1333 (μοντάζ 3ου επεισοδίου) — πελάτης — από 2026-11-16 ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]])
-- [x] ✓ Asana «google ads» — Δήμος — έκλεισε 2026-11-17 (Asana)
 - [ ] «Chef Georgiadis εδώ» — 2026-11-06 16:00 ([[2026-11-03_2026-11-10]])
 - [ ] Εξόφληση #1292 (μοντάζ 2ου επεισοδίου) — πελάτης — από 2026-10-27 ([[2026-10-27-accounting-timologia-kartelles]])
 - [ ] Εξόφληση εκκρεμών τιμολογίων (Circle + ατομική) — πελάτης (λογιστής Ακριώτης) — από 2026-10-19· ποσά μόνο στα PDF ([[2026-10-19-georgiadis-ypoloipo-timologia]])
 - [ ] Feedback/έγκριση «cod video 2» — Δήμος — από 2026-10-20 ([[2026-10-20-asana-circle-of-dining-mentions]])
-- [ ] Σχόλια αρχισυνταξίας + βιντεογράφος ή όχι — Δήμος — **πριν τις 2026-10-22 13:00** ([[2026-10-20-asana-circle-of-dining-mentions]])
+- [x] ✓ 2026-10-21 η Ιωάννα πέρασε τις αλλαγές στην αρχισυνταξία ([[2026-10-21-asana-mentions]]) — Σχόλια αρχισυνταξίας + βιντεογράφος ή όχι — Δήμος — **πριν τις 2026-10-22 13:00** ([[2026-10-20-asana-circle-of-dining-mentions]])
 - [ ] Ενσωμάτωση υλικού (φωτογραφίες, logos Hilton/Agusta, testimonial) στο redesign — [[ioanna-chalkiadaki]] / Δήμος («Στείλε μου να τα περάσω») — από 2026-10-01 ([[2026-10-01-circle-of-dining-redesign]])
 - [ ] AI videos αντί για landscape videos (ο πελάτης δεν έχει) — GROW — χωρίς ημερομηνία ([[2026-10-01-circle-of-dining-redesign]])
 - [ ] Γραπτά testimonials πελατών — [[dimitris-georgiadis]] — ασαφές αν έγινε ([[2026-10-01-circle-of-dining-redesign]])
@@ -83,10 +66,10 @@ updated: 2026-11-20
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
-- 2026-11-19 — 13:13–13:38 μενού + καρτελάκια dinner: Epilogi 95 € → 16:51 «προχωράμε», αρχεία 20/11 πρωί · 13:42 αίτημα διακόσμησης στη NEDA Decorations · 17:48 ο Γεωργιάδης ζητά email signature ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]], [[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]], [[2026-11-19-circle-of-dining-ypografi-email]]).
+- 2026-11-19 — 13:13–13:38 μενού + καρτελάκια dinner: Epilogi 95 € → 16:51 «προχωράμε», αρχεία 20/11 πρωί · 13:42 αίτημα διακόσμησης στη NEDA Decorations · 17:48 ο Γεωργιάδης ζητά email signature · Hospitality Jam: η Global Foods παίρνει συμφωνητικό 8+1 επεισοδίων για υπογραφή ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]], [[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]], [[2026-11-19-circle-of-dining-ypografi-email]], [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]).
 - 2026-11-18 — Contact report προσκλήσεων dinner· προτεραιότητα concierge/yachts/βίλες (Δήμος)· προσκλήσεις Δέσποινας σε Variety Cruises και Istion ([[2026-11-18-circle-of-dining-contact-report-proteraiotites]], [[2026-11-18-circle-of-dining-prosklisi-variety-cruises]], [[2026-11-18-circle-of-dining-prosklisi-istion]]).
 - 2026-11-16 — Asana «google ads»: η Ιωάννα υπενθυμίζει ξανά στον Δήμο (task εκπρόθεσμο από 9/11) ([[2026-11-16-asana-circle-of-dining-google-ads-reminder]]).
-- 2026-11-16 — Τιμολόγιο #1333 (μοντάζ 3ου επεισοδίου) προς finance.askoffice@ ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]]).
+- 2026-11-16 — Τιμολόγιο #1333 (μοντάζ 3ου επεισοδίου) προς finance.askoffice@ ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]]). Hospitality Jam: επόμενα γυρίσματα 2026-11-25 (Άρης Σκλαβενίτης), 2026-12-01 (Μανώλης Μούτσος/Momentum), 2026-12-05 (Παναγιώτης Νίκας) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]]).
 - 2026-11-13 — 19:37 TEST πρόσκλησης XENIA dinner (22/11 19:30, Rodopou & Beyond) στον Δήμο ([[2026-11-13-circle-of-dining-dinner-test-prosklisi]]).
 - 2026-11-12 — Asana «xenia dinner»: η Ιωάννα ρωτά τον Δήμο αν στάλθηκαν οι προσκλήσεις· προτεινόμενο κείμενο με τον Γεωργιάδη ως έναν από τους τρεις chefs ([[2026-11-12-asana-xenia-dinner-proskliseis]]).
 - 2026-11-10 — Asana: task «website» ανατέθηκε στον Δήμο (λήξη 2026-11-20)· podcast3 (Chef Γεωργιάδης 💭): η Ιωάννα ζητά από τον Δήμο να δει first cut και cover (λήξη 18/11) ([[2026-11-10-asana-omada-mikra]]).
@@ -124,6 +107,9 @@ updated: 2026-11-20
 - Το «πρώτο» project (προσωπικό brand) — τιμή ασαφής.
 
 ## Σημειώσεις
+- **Τιμολόγηση:** τα έντυπα του dinner τιμολογούνται **απευθείας στον Γεωργιάδη** (ατομικά στοιχεία), όχι μέσω GROW — αν η GROW χρεώνει κάτι επιπλέον: ασαφές ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]]). Τα τιμολόγια μοντάζ πάνε στο finance.askoffice@ ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]]).
+- **Επικοινωνία:** ο Γεωργιάδης γράφει απευθείας στην [[ioanna-chalkiadaki]] για μικρά αιτήματα (email signature 2026-11-19) ([[2026-11-19-circle-of-dining-ypografi-email]]).
+- **Καλεσμένοι dinner:** ο Δήμος θέλει προτεραιότητα σε concierge, yacht companies και βίλες ([[2026-11-18-circle-of-dining-contact-report-proteraiotites]]).
 - Ο Δήμος του μιλά στον ενικό, ζεστά: «Καλησπέρα Δημήτρη,» → αριθμημένη λίστα → «Φιλικά,» ([[2026-10-01-circle-of-dining-redesign]]).
 - Asana: «tesla video» ✓ 2026-10-13 και «αρχισυνταξία για Tesla» ✓ 2026-09-28 στο project «Georgiadis chef» — στηρίζει την υπόθεση ότι το «Chef για Tesla» αφορά τον Γεωργιάδη και το [[tesla-glyfada]]· «myway interview» ✓ 2026-10-15 — 💭 Υπόθεση: συνέντευξη στο [[make-your-way]] ([[2026-10-21-asana-snapshot]]).
 - 💭 Υπόθεση: το «cod posting plan» ✓ 2026-10-07 αντιστοιχεί στο content calendar που στάλθηκε την ίδια μέρα ([[2026-10-21-asana-snapshot]]).

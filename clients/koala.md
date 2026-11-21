@@ -3,7 +3,7 @@ type: client
 title: "Koala"
 aliases: [koala, Koala, koala ads, koalacoffee.gr]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-21
 ---
 # Koala
 > Πελάτης (💭 Υπόθεση: καφέ, από τα tasks «coffee day», «coffee AI») για τον οποίο η GROW κάνει social, giveaways, Google Ads και promoters· όλα τα τρέχει η Ιωάννα.
@@ -14,9 +14,10 @@ updated: 2026-11-17
 - **Επαφές:** ασαφές.
 - **Ομάδα GROW:** [[ioanna-chalkiadaki]] (όλα τα tasks) ([[2026-10-21-asana-snapshot]]).
 
-## Τρέχουσα κατάσταση (στις 2026-10-21)
-- 9 tasks ολοκληρώθηκαν 2026-09-08 → 2026-10-07· ανοιχτό μόνο το «tik tok strategy» (εκπρόθεσμο) ([[2026-10-21-asana-snapshot]]).
-- Στο ημερολόγιο: «Koala εδώ» 2026-09-16 13:00 και «Koala μικρό γύρισμα» 2026-09-30 10:00 ([[2026-07-20_2026-11-03]]).
+## Τρέχουσα κατάσταση (στις 2026-11-17)
+- **koalacoffee.gr:** καταχωρήθηκε 2026-11-12 (CretaForce, 2 έτη, λήξη 2028-11-10), ενεργό στο Cloudflare· επιβεβαίωση FORTH 2026-11-17 ([[2026-11-12-koala-domain-security-mikra]], [[2026-11-17-admin-eidopoiiseis]]).
+- **Koala Club:** 2026-11-09 ο Δήμος έστειλε σε Βασιλική & Ιωάννα PDF «πώς δουλεύει η εφαρμογή» (💭 loyalty app) ([[2026-11-09-koala-app-pdf]]).
+- **Asana (2026-10-21):** ανοιχτό μόνο το «tik tok strategy» (εκπρόθεσμο) + 2 tasks πληρωμής promoters στο ΛΟΓΙΣΤΗΡΙΟ ([[2026-10-21-asana-snapshot]]).
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] «tik tok strategy» — [[ioanna-chalkiadaki]] — due 2026-09-14 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])

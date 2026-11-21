@@ -3,7 +3,7 @@ type: client
 title: "Kyknos (Κύκνος Κονσερβοποιία)"
 aliases: [Κύκνος, KYKNOS, Kyknos Canning, kyknoscanning.com, KYKNOS 2026]
 status: ενεργός
-updated: 2026-11-18
+updated: 2026-11-21
 ---
 # Kyknos (Κύκνος)
 > Εταιρεία τροφίμων (τομάτα/κονσέρβες, kyknoscanning.com) για την οποία η GROW παράγει βίντεο συνταγών και carousel posts, σε συνεργασία με τη διαφημιστική τους ATTP.
@@ -14,24 +14,15 @@ updated: 2026-11-18
 - **Εξωτερικός editor βίντεο:** Angelos Michailaras (angelosmichailaras@gmail.com) ([[2026-11-02-kyknos-angelos-michailaras-video]]). **HR & Procurement Κύκνου:** Αλεξάνδρα Αλεξανδράκη ([[2026-11-02-kyknos-stoixeia-synergaton]]).
 - **Ομάδα GROW:** [[vassiliki-giannopoulou]] (κύρια)· Δήμος και [[marina-papanastasiou]] σε cc ([[2026-08-26-kyknos-4-videos-sxolia]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-18)
-- Chicken pasta: **νέο edit στάλθηκε** στην [[eleni-katsari]] 2026-11-17 12:26 (Google Drive) — αναμονή σχολίων ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-18]]).
-
-*Από 2026-11-12:*
-- Chicken pasta: η Βασιλική ζήτησε 2026-11-11 14:35 από τον Angelos Michailaras νέο μοντάζ — άνοιγμα με το πλάνο του προϊόντος στο 0:42 (άνοιγμα σάλτσας) με πολύ έντονο ήχο, μετά η συνταγή (μεταφορά του σχολίου της Κάτσαρη της 2026-11-10) ([[2026-11-02-kyknos-angelos-michailaras-video-update-2026-11-12]]).
-
-*Από 2026-11-03:*
-- Στις 2026-11-02 09:32 η Βασιλική απάντησε στην Κάτσαρη: εκκρεμεί **ένα βίντεο ακόμα, «μακαρονάδα με κοτόπουλο»**· η μπρουσκέτα συμφωνήθηκε ως **carousel** ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-03]]). Το τελικό βίντεο το περιμένει από τον editor Angelos Michailaras («Περιμένω το τελικό βίντεο!», 2026-11-02 08:51) ([[2026-11-02-kyknos-angelos-michailaras-video]]).
-- Ο Κύκνος ζητά από όλους τους συνεργάτες **επικαιροποιημένη φόρμα προμηθευτή + δικαιολογητικό IBAN έως 2026-11-06**· η SK Advisors την επέστρεψε συμπληρωμένη στη Μαρίνα 2026-11-02 13:01 ([[2026-11-02-kyknos-stoixeia-synergaton]], [[2026-11-02-sk-advisors-epikairopoiisi-stoixeion]]).
-
-*Από 2026-10-28:*
-- Στις 2026-10-27 η Ελένη Κάτσαρη ευχαρίστησε για το carousel (μπρουσκέτα) και ρώτησε αν αναμένονται **2 βίντεο ακόμα: Αραμπιάτα και μπρουσκέτα**. Καμία απάντηση ακόμα ([[2026-08-26-kyknos-4-videos-sxolia]]).
-- Τα 4 βίντεο του γύρου Αυγούστου–Σεπτεμβρίου εγκρίθηκαν (2026-09-10/11) και στάλθηκαν εκδόσεις χωρίς supers για Ρουμανία (2026-09-24) ([[2026-08-26-kyknos-4-videos-sxolia]]).
+## Τρέχουσα κατάσταση (στις 2026-11-17)
+- **Chicken pasta (τελευταίο βίντεο του γύρου):** νέο edit (άνοιγμα με το προϊόν) στάλθηκε στην [[eleni-katsari]] 2026-11-17 12:26 — αναμονή σχολίων ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-18]]).
+- Η μπρουσκέτα παραδόθηκε ως carousel· τα 4 βίντεο Αυγ.–Σεπ. εγκρίθηκαν και στάλθηκαν εκδόσεις χωρίς supers για Ρουμανία ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-03]], [[2026-08-26-kyknos-4-videos-sxolia]]).
+- Φόρμα προμηθευτή + βεβαίωση IBAN προς Κύκνο (προθεσμία 2026-11-06): συμπληρώθηκε από SK Advisors 2026-11-02 — αν στάλθηκε: ασαφές ([[2026-11-02-kyknos-stoixeia-synergaton]], [[2026-11-02-sk-advisors-epikairopoiisi-stoixeion]]).
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Σχόλια/έγκριση νέου edit chicken pasta — Κάτσαρη — από 2026-11-17 ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-18]])
 - [x] Απάντηση στην Κάτσαρη για τα 2 βίντεο — Βασιλική — ✓ 2026-11-02 09:32 (μένει 1 βίντεο· μπρουσκέτα = carousel) ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-03]])
-- [ ] Νέο μοντάζ chicken pasta (άνοιγμα με προϊόν 0:42, έντονος ήχος) — Angelos Michailaras → [[vassiliki-giannopoulou]] — ζητήθηκε 2026-11-11 ([[2026-11-02-kyknos-angelos-michailaras-video-update-2026-11-12]])
+- [x] ✓ (νέο edit στάλθηκε στην Κάτσαρη 2026-11-17, [[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-18]]) Νέο μοντάζ chicken pasta (άνοιγμα με προϊόν 0:42, έντονος ήχος) — Angelos Michailaras → [[vassiliki-giannopoulou]] — ζητήθηκε 2026-11-11 ([[2026-11-02-kyknos-angelos-michailaras-video-update-2026-11-12]])
 - [x] Παράδοση βίντεο «μακαρονάδα με κοτόπουλο» — Angelos Michailaras → [[vassiliki-giannopoulou]] — ✓ 2026-11-05 «στον φάκελο» ([[2026-11-04-dianoma-pelates-mikra]])
 - [ ] Φόρμα προμηθευτή + βεβαίωση IBAN προς Κύκνο (a.alexandraki@) — [[marina-papanastasiou]] — **έως 2026-11-06** (συμπληρωμένη από SK Advisors 2026-11-02) ([[2026-11-02-kyknos-stoixeia-synergaton]], [[2026-11-02-sk-advisors-epikairopoiisi-stoixeion]])
 - [ ] Asana «KYKNOS 2026» — Βασιλική — due 2026-10-06 ⚠️ εκπρόθεσμο· subtask «μπρουσκέτες carousel» — [[fotini]] ([[2026-10-21-asana-snapshot]]) — καταγράφεται και στο [[chef-tsaparas]]
@@ -58,5 +49,6 @@ updated: 2026-11-18
 
 ## Σημειώσεις
 - Η Ελένη γράφει ζεστά/άτυπα («Βασιλική μας»)· πιέζει για χρόνους γιατί το υλικό το χρειάζεται η διαφημιστική για το calendar.
+- Η [[eleni-katsari]] ζητά το προϊόν στα πρώτα δευτερόλεπτα του βίντεο (σχόλιο 2026-11-10, νέο edit 2026-11-17) ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-11]], [[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-18]]).
 - 💭 Υπόθεση: το Asana project «KYKNOS 2026» (σήμερα καταγραμμένο στη σελίδα [[chef-tsaparas]]) αφορά αυτόν τον πελάτη — ίσως ο σεφ Τσαπάρας μαγειρεύει στα βίντεο.
 - ⚠️ Ασαφές: η Κάτσαρη (2026-10-27) περίμενε «Αραμπιάτα και μπρουσκέτα»· η Βασιλική (2026-11-02) απαντά «μακαρονάδα με κοτόπουλο» + carousel. 💭 Υπόθεση: το chicken pasta με σάλτσα Basilico είναι το βίντεο που ο Κύκνος λέει «Αραμπιάτα» — να επιβεβαιωθεί ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-03]]).

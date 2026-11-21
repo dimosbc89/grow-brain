@@ -3,7 +3,7 @@ type: client
 title: "Enoteca"
 aliases: [Enoteca, ENOTECA, Website Enoteca]
 status: ενεργός
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 # Enoteca
 > Πελάτης εστίασης/κρασιού (💭 Υπόθεση από το όνομα και τα tasks μενού) με Asana project από 2025-09-26: social content, reels, νέο μενού και site map για website.
@@ -13,22 +13,11 @@ updated: 2026-11-20
 - **Επαφές:** [[salvatore-andolina]] (salvatore.andolina@icloud.com) — παραλήπτης εκτυπωτικών και προσφορών εκτύπωσης 2026-11-18/19· ρόλος ασαφής ([[2026-11-18-enoteca-new-print-menu]], [[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong-update-2026-11-20]]).
 - **Ομάδα GROW:** [[vasia-s]] (Vasia Striga στο Asana — account, εγκρίσεις, report)· [[fotini]] (μενού)· [[marianna-vourna]] (QR)· ο Δήμος (χορηγούμενο) ([[2026-10-21-asana-snapshot]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-20)
-- **Προσφορές εκτύπωσης προς πελάτη (2026-11-19):** η Epilogi έδωσε κόστος 12:10 (**58 / 95 / 115 / 85 €** — EN μενού / GR μενού / φάκελοι / κατάλογοι κρασιών). Η [[vasia-s]] έστειλε στον [[salvatore-andolina]] 15:57 **Α' 70/115/140/100 € + ΦΠΑ (425 €)** και **Β' 280/200/170 € + ΦΠΑ (650 €)**· μετά **«ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ» 16:20: 58/95/115/85 € + ΦΠΑ** και 17:21 «προσφορά» **240/170/150 € + ΦΠΑ** (250–300 gr velvet). ⚠️ Οι διορθωμένες τιμές = **ακριβώς το κόστος** Epilogi και Print Kong, χωρίς περιθώριο GROW — σκόπιμο ή λάθος: **ασαφές, να ρωτηθεί ο Δήμος**. Αναμένονται χρόνοι παράδοσης και επιλογή πελάτη ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong-update-2026-11-20]], [[2026-11-19-enoteca-orthi-epanalipsi-prosfora-ektypotikon]], [[2026-11-19-enoteca-prosfora-ektypotika-neou-menu]]).
-
-*Από 2026-11-19:*
-- **Έντυπα:** στις 2026-11-18 13:05 η Print Kong έδωσε προσφορά: **80 μενού 50×30 240 € + ΦΠΑ · 50 folder 150 € · 30 κατάλογοι κρασιών 8σέλ. 170 € + ΦΠΑ**, σε 250–300 gr velvet + πλαστικοποίηση· folder από υπάρχον καλούπι 11×8 κλειστό (όχι 21×15 με θήκη). ⚠️ Αποκλίνει από το αίτημα (170 gr, 21×15). Η [[marianna-vourna]] την προώθησε στον Δήμο 13:33· DK Agialis / Epilogi: καμία απάντηση στα threads ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong-update-2026-11-19]]).
-- Στις 2026-11-18 17:18 η [[vasia-s]] έστειλε στον Salvatore Andolina (💭 επαφή πελάτη) τα **εκτυπωτικά με τις νέες αλλαγές**: GR & ξενόγλωσσο menu, receipt folders, wine list — αναμονή απάντησης ([[2026-11-18-enoteca-new-print-menu]]).
-
-*Από 2026-11-18:*
-- **Έντυπα:** στις 2026-11-17 13:19 η [[marianna-vourna]] ζήτησε από DK Agialis, [[epilogin]] και Print Kong την προσφορά **μέσα στη μέρα** — καμία απάντηση στα threads ως 2026-11-18 πρωί ([[2026-11-16-enoteca-prosfora-entypon-dkagialis-update-2026-11-18]]).
-
-*Από 2026-11-13:*
-- **Έντυπα:** στις 2026-11-13 η [[marianna-vourna]] ζήτησε προσφορά από [[epilogin]] και Print Kong για 30 EN + 50 GR μενού (50×30 εκ., δίπλωμα), 50 φακέλους αποδείξεων 21×15 εκ. με θήκη, 30 καταλόγους κρασιών 15×35 εκ. 8 σελ.· χαρτί ~170 γρ., ματ πλαστικοποίηση, στρογγυλεμένες γωνίες ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong]]).
-
-*Από 2026-10-21:*
-- 2 ανοιχτά tasks, 10 ολοκληρωμένα από 2026-09-09. Τελευταία κίνηση 2026-10-20 («ΕΓΚΡΙΣΗ Enoteca 3to1» ✓) ([[2026-10-21-asana-snapshot]]).
-- Στο ημερολόγιο: «Enoteca EKEI (+Γύρισμα)» 2026-09-10 14:00 και «Enoteca Εκει Q&A» 2026-09-29 15:30 ([[2026-07-20_2026-11-03]]).
+## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Προσφορές εκτύπωσης νέου μενού προς [[salvatore-andolina]] (2026-11-19):** 15:57 Α' 425 € / Β' 650 € + ΦΠΑ → 16:20 «ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ» 58/95/115/85 € + ΦΠΑ και 17:21 240/170/150 € + ΦΠΑ — ⚠️ οι διορθωμένες τιμές = **ακριβώς το κόστος** Epilogi/Print Kong, χωρίς περιθώριο GROW ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong-update-2026-11-20]], [[2026-11-19-enoteca-orthi-epanalipsi-prosfora-ektypotikon]], [[2026-11-19-enoteca-prosfora-ektypotika-neou-menu]]).
+- Αναμένονται χρόνοι παράδοσης από τους τυπογράφους και η επιλογή του πελάτη· η Print Kong πρότεινε 250–300 gr velvet και folder 11×8 (αντί 170 gr / 21×15)· η DK Agialis δεν απάντησε ([[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong-update-2026-11-19]], [[2026-11-16-enoteca-prosfora-entypon-dkagialis-update-2026-11-18]]).
+- 2026-11-18 η [[vasia-s]] έστειλε τα εκτυπωτικά με τις νέες αλλαγές (GR/EN menu, receipt folders, wine list) — αναμονή έγκρισης ([[2026-11-18-enoteca-new-print-menu]]).
+- Asana: «χορηγούμενο Sara - creatos / enoteca» (Δήμος) εκπρόθεσμο από 2026-10-20 ([[2026-10-21-asana-snapshot]]).
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] ⚠️ Επιβεβαίωση τιμών προς πελάτη: «ορθή επανάληψη» 58/95/115/85 € και 240/170/150 € = κόστος τυπογράφων χωρίς περιθώριο — Δήμος / [[vasia-s]] — από 2026-11-19 ([[2026-11-19-enoteca-orthi-epanalipsi-prosfora-ektypotikon]], [[2026-11-19-enoteca-prosfora-ektypotika-neou-menu]])
@@ -63,4 +52,6 @@ updated: 2026-11-20
 - Ασαφές.
 
 ## Σημειώσεις
+- ⚠️ Αντίφαση: ο πελάτης πήρε **τρεις εκδοχές τιμών** μέσα σε 1,5 ώρα (2026-11-19 15:57 / 16:20 / 17:21)· η «ορθή επανάληψη» και η 3η «προσφορά» είναι ίσες με το κόστος των τυπογράφων, ενώ η Α'/Β' είχαν ~+16–20% — σκόπιμο pass-through ή λάθος; Ρώτα Δήμο/[[vasia-s]] ([[2026-11-19-enoteca-orthi-epanalipsi-prosfora-ektypotikon]], [[2026-11-19-enoteca-prosfora-ektypotika-neou-menu]], [[2026-11-13-enoteca-prosfora-entypon-epilogi-printkong-update-2026-11-20]]).
+- Επαφή για έντυπα/προσφορές: [[salvatore-andolina]] (email στο icloud) — ρόλος στο Enoteca ασαφής ([[2026-11-18-enoteca-new-print-menu]]).
 - 💭 Υπόθεση: «Sara - creatos» είναι creator/influencer για χορηγούμενη ανάρτηση· η πηγή δεν το εξηγεί.

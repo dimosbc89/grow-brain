@@ -3,7 +3,7 @@ type: client
 title: "Nomud"
 aliases: [NOMUD, Nomud O.E., nomud.de]
 status: ενεργός
-updated: 2026-11-16
+updated: 2026-11-21
 ---
 # Nomud
 > Πελάτης με video shootings και Google Ads· η GROW χρειάζεται τον λογαριασμό Viva και τους κωδικούς του για κάποια ρύθμιση πληρωμών (σκοπός ασαφής).
@@ -14,12 +14,9 @@ updated: 2026-11-16
 - **Ομάδα GROW:** [[vassiliki-giannopoulou]]· ο Δήμος· [[nikos-moulinos]] (Google Ads) ([[2026-08-07-nomud-logariasmos-viva]], [[2026-10-05-google-ads-freelancer-moulinos]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-13)
-- **Εταιρική παρουσίαση:** η [[vassiliki-giannopoulou]] έστειλε 2026-11-13 15:58 στην Ελένη Κορακιανίτου (ek@nomud.de / ek@nomud.gr) την εταιρική παρουσίαση (PDF) για σχόλια/τροποποιήσεις ([[2026-11-13-nomud-etairiki-parousiasi]]).
-- **Google Ads:** ο [[nikos-moulinos]] έστειλε 2026-11-13 3η υπενθύμιση — περιμένει ακόμα το brief ([[2026-10-30-nikos-moulinos-timologio-a1014-update-2026-11-16]]).
-
-*Από 2026-10-20:*
-- Σειρά από shootings τον Σεπτέμβριο 2026 (2026-09-08, 09-16, 09-21 «kiosky's», 09-30) ([[2026-07-20_2026-11-03]]).
-- Ο λογαριασμός Google Ads πέρασε στη λίστα του freelancer [[nikos-moulinos]] (από 2026-09-25) ([[2026-10-05-google-ads-freelancer-moulinos]]).
+- **Εταιρική παρουσίαση:** η [[vassiliki-giannopoulou]] την έστειλε 2026-11-13 15:58 στην Ελένη Κορακιανίτου για σχόλια — απάντηση: δεν φαίνεται ([[2026-11-13-nomud-etairiki-parousiasi]]).
+- **Google Ads:** ο [[nikos-moulinos]] περιμένει το brief από 2026-10-21 (υπενθυμίσεις 10-30, 11-03, 11-13) ([[2026-10-30-nikos-moulinos-timologio-a1014-update-2026-11-16]]).
+- **Tagora:** αίτηση μέσω plugin 2026-11-04 με 0 προϊόντα ([[2026-11-03-tagora-launch-update-2026-11-06]]). Site / Google shop / promo: εκπρόθεσμα στο Asana (2026-10-21) ([[2026-10-21-asana-snapshot]]).
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Feedback στην εταιρική παρουσίαση — Ελένη (Nomud) — από 2026-11-13 ([[2026-11-13-nomud-etairiki-parousiasi]])
@@ -28,7 +25,7 @@ updated: 2026-11-16
 - [ ] «δημιουργία google shop» — Δήμος (ανάθεση από Βασιλική 2026-09-08) — ⚠️ εκπρόθεσμο από 2026-09-16 ([[2026-10-21-asana-snapshot]])
 - [ ] Site (+ «δίκτυο συνεργατών») — [[vassiliki-giannopoulou]] — ⚠️ εκπρόθεσμο από 2026-09-24 / 2026-09-30 ([[2026-10-21-asana-snapshot]])
 - [ ] «promo για νέo site» — Βασιλική — ⚠️ εκπρόθεσμο από 2026-09-14 ([[2026-10-21-asana-snapshot]])
-- [ ] «νεα εκτυπωτικα φυλλάδια» — [[vassia-kataki]] — ⚠️ εκπρόθεσμο από 2026-10-20 ([[2026-10-21-asana-snapshot]], [[2026-10-20-nomud-a5-fylladia]])
+- [x] «νεα εκτυπωτικα φυλλάδια» — [[vassia-kataki]] — due 2026-10-20 ([[2026-10-21-asana-snapshot]], [[2026-10-20-nomud-a5-fylladia]]) — ✓ 2026-10-22 στάλθηκαν για επιβεβαίωση και δόθηκε εντολή εκτύπωσης στην Epilogi ([[2026-10-22-nomud-fylladia-egkrisi]], [[2026-10-20-nomud-a5-fylladia-update-2026-10-23]])
 - [ ] «4+1 πράγματα» — Βασιλική / Vassia — έως 2026-10-21/22 ([[2026-10-21-asana-snapshot]])
 - [ ] Να ζητηθούν από τη Nomud και οι κωδικοί Viva — [[vassiliki-giannopoulou]] — από 2026-08-07, ασαφές αν έγινε ([[2026-08-07-nomud-logariasmos-viva]])
 
@@ -36,7 +33,7 @@ updated: 2026-11-16
 - 2026-08-07: χρειάζονται και οι κωδικοί Viva (ο Δήμος: «nai») ([[2026-08-07-nomud-logariasmos-viva]]).
 
 ## Χρονολόγιο
-- 2026-11-13 — Στάλθηκε η εταιρική παρουσίαση στην Ελένη· νέα υπενθύμιση Μουλινού για brief ([[2026-11-13-nomud-etairiki-parousiasi]], [[2026-10-30-nikos-moulinos-timologio-a1014-update-2026-11-16]]).
+- 2026-11-13 — 15:58 στάλθηκε η εταιρική παρουσίαση (PDF) στην Ελένη (ek@nomud.de / ek@nomud.gr) για σχόλια· 3η υπενθύμιση Μουλινού για brief ([[2026-11-13-nomud-etairiki-parousiasi]], [[2026-10-30-nikos-moulinos-timologio-a1014-update-2026-11-16]]).
 - 2026-11-04 — Αίτηση στο Tagora μέσω plugin, 0 προϊόντα ([[2026-11-03-tagora-launch-update-2026-11-06]]).
 - 2026-11-03 — Ο Νίκος Μουλίνος ξαναζητά το brief ([[2026-10-30-nikos-moulinos-timologio-a1014-update-2026-11-04]]).
 - 2026-10-30 — Ο Νίκος Μουλίνος ξαναζητά το brief (από 2026-10-21) ([[2026-10-30-nikos-moulinos-timologio-a1014]]).
@@ -53,9 +50,12 @@ updated: 2026-11-16
 - 2026-08-07 — Η Nomud στέλνει PDF με τον λογαριασμό Viva ([στοιχείο παραλείφθηκε]) ([[2026-08-07-nomud-logariasmos-viva]]).
 
 ## Οικονομικά
-- Ασαφές.
+- 2026-10-22 — Φυλλάδια Α5, 1000+1000 τεμ., Epilogi: 190 € + ΦΠΑ (ίδια με την προηγούμενη τιμή) ([[2026-10-20-nomud-a5-fylladia]], [[2026-10-20-nomud-a5-fylladia-update-2026-10-23]]).
+- Αμοιβή GROW: ασαφές.
 
 ## Σημειώσεις
 - 💭 Υπόθεση: ο λογαριασμός/κωδικοί Viva χρειάζονται για σύνδεση payment gateway στο site — η πηγή δεν το λέει· το Asana δείχνει ότι η GROW φτιάχνει νέο site και Google shop ([[2026-10-21-asana-snapshot]]), κάτι που ταιριάζει με την υπόθεση.
 - 💭 Υπόθεση: η Nomud έχει σχέση με καφέ (tasks «coffee festival», «post ACF», «video qawha») ([[2026-10-21-asana-snapshot]]).
 - Η πρώτη απάντηση του Δήμου εσωτερικά ήταν μονολεκτική σε latin («nai») ([[2026-08-07-nomud-logariasmos-viva]]).
+- Η Ελένη χρησιμοποιεί δύο διευθύνσεις (ek@nomud.de και ek@nomud.gr) — στέλνουμε και στις δύο ([[2026-11-13-nomud-etairiki-parousiasi]]).
+- Ο [[nikos-moulinos]] περιμένει τον Δήμο για το brief Nomud **>30 ημέρες** (από 2026-10-21) ([[2026-10-30-nikos-moulinos-timologio-a1014-update-2026-11-16]]).
