@@ -16,4 +16,6 @@ updated: 2026-11-22
 
 - [ ] R-003 · χωρίς ημερομηνία · presentations grow form hello sos (presentations της GROW για Hello SOS) · σχετικά: [[grow-agency]] · Hello SOS: δεν έχει σελίδα ακόμα · μπήκε 2026-11-22 · υπενθυμίσεις: 0 · τελευταία: —
 
+- [ ] R-005 · χωρίς ημερομηνία · team meeting about financial targets (συνάντηση ομάδας για τους οικονομικούς στόχους) · σχετικά: [[grow-agency]] · μπήκε 2026-11-22 · υπενθυμίσεις: 0 · τελευταία: —
+
 ## Έγιναν
