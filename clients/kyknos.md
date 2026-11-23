@@ -3,7 +3,7 @@ type: client
 title: "Kyknos (Κύκνος Κονσερβοποιία)"
 aliases: [Κύκνος, KYKNOS, Kyknos Canning, kyknoscanning.com, KYKNOS 2026]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # Kyknos (Κύκνος)
 > Εταιρεία τροφίμων (τομάτα/κονσέρβες, kyknoscanning.com) για την οποία η GROW παράγει βίντεο συνταγών και carousel posts, σε συνεργασία με τη διαφημιστική τους ATTP.
@@ -31,6 +31,7 @@ updated: 2026-11-21
 - 2026-09-10/11: εγκρίθηκαν τα 4 βίντεο από Κύκνο και ATTP ([[2026-08-26-kyknos-4-videos-sxolia]]).
 
 ## Χρονολόγιο
+- **2026-11-20 13:43** — Η Ελένη Κατσαρή ενέκρινε το video chicken pasta (💭 το τελευταίο από τα 4) ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-23]]).
 - 2026-11-17 — Η Βασιλική στέλνει το ανανεωμένο video chicken pasta ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-18]]).
 - 2026-11-11 — Η Βασιλική δίνει στον editor την αλλαγή στο chicken pasta (ξεκινά με προϊόν, 0:42) ([[2026-11-02-kyknos-angelos-michailaras-video-update-2026-11-12]]).
 - 2026-11-10 — Η Katsari ζητά νέο μοντάζ στο video chicken pasta (προϊόν στα πρώτα δευτερόλεπτα) — Βασιλική ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-11]]).

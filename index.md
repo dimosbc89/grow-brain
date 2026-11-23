@@ -71,7 +71,7 @@ updated: 2026-11-21
 - [[yourclima|Yourclima]] · _ενεργός_ — Πελάτης της GROW για εταιρικά email/hosting στο yourclima.com· επαφές ο christos-tsamis και ο manolis-kalomoiris.
 - [[brewhub|Brewhub]] · _ενεργός_ — Coffee shop (Brewhub Athens, Βασίλης Ζιούπας)· η GROW έφτιαξε Christmas creatives (cup, stickers) τον Νοέμβριο 2026.
 
-## Leads (29)
+## Leads (30)
 - [[olympicnature|Olympicnature]] · _prospect_ — πρώτη συνάντηση 2026-11-16 11:00 (Meet, από Μαρίνα)· αντικείμενο ασαφές.
 - [[papavergos|Παπαβέργος]] · _prospect_ — εκθεσιακό περίπτερο· η Μαρίνα στέλνει πρώτο σχέδιο εβδομάδα 16–20/11.
 - [[elmon|ELMON SA]] · _prospect_ — περίπτερο DEFEA 2027, προσφορά 2026-11-10.
@@ -104,6 +104,7 @@ updated: 2026-11-21
 - [[primowear|Primowear]] · _prospect_ — Prospect από την cold email καμπάνια για περίπτερα. Ζήτησε προσφορά για περίπτερο στη θέση D16 (Hall 4) σε έκθεση συσκευασίας/εκτύπωσης.
 - [[wonderkids|Wonderkids (wearewonderkids.com)]] · _prospect_ — Lead για νέα ιστοσελίδα (web design & development)· ο Δήμος πρότεινε discovery video call στις 2026-09-08 και περιμένει διαθεσιμότητα.
 - [[salesforce|Salesforce (events Ελλάδα)]] · _prospect_ — Παλιός πελάτης events (2023)· στις 2026-10-21 η Sourcing επανήλθε με νέα ανάγκη για local event agency.
+- [[roppas-studio|Ρόππας — studio personal training & pilates]] · _prospect_ — Studio PT & pilates reformer (7 άτομα, 2 χώροι), απάντησε στο outreach του booking-app 2026-11-20.
 
 ## Projects & υπηρεσίες (8)
 - [[ai-workshops|Εσωτερικά workshops ομάδας (AI & Social)]] — Εκπαιδευτικά workshops που κάνει ο Δήμος στην ομάδα της grow-agency (Social Media 2026, AI). Τα παρουσιαστικά μοιράζονται στο προσωπικό.
@@ -130,7 +131,7 @@ updated: 2026-11-21
 - [[vassia-kataki|Βάσια Κατάκη]] — Graphic Designer της GROW. Της πηγαίνουν brand manuals, logo briefs, design e-shop/site, βίντεο και κατόψεις περιπτέρων.
 - [[vassiliki-giannopoulou|Βασιλική Γιαννοπούλου]] — Account Director της GROW. Ο Δήμος της στέλνει τα τιμολόγια και τα admin, τρέχει τα accounts yiayia-meatballs (από τον Σεπτέμβριο 2026) και Estia, και…
 
-## Πρόσωπα (61)
+## Πρόσωπα (64)
 - [[panagiotis-rallis|Παναγιώτης Ράλλης]] — 💭 επαφή [[cryo]].
 - [[michalis-barbagiorgis|Μιχάλης Μπαρμπαγιώργης]] — [[barbaggio]].
 - [[marilena-rentzou|Μαριλένα Ρέντζου]] — Agency Operations Manager στο TikTok LIVE· πρόταση η GROW να γίνει TikTok LIVE Agency (grow-outreach).
@@ -192,6 +193,9 @@ updated: 2026-11-21
 - [[vasilis-zioupas|Βασίλης Ζιούπας]] — Επαφή του brewhub (Christmas creatives 2026).
 - [[salvatore-andolina|Salvatore Andolina]] — Επαφή της enoteca για τα έντυπα (menu, κατάλογοι, folder).
 - [[giannis-lekkas|Giannis Lekkas]] — Marketing Manager της Access Fashion· in-kind χορηγός (τσάντες, μαντήλια) του Heritage Escape 2027 ([[hellenic-heritage-evolution]]).
+- [[georgia-tsatsi|Georgia Tsatsi]] · _ενεργός_ — Επαφή Global Foods για τα tips του site.
+- [[xenia-katsioula|Ξένια Κατσιούλα]] · _ενεργός_ — Καθημερινή, καταχωρίσεις Greenmart/Antemisaris.
+- [[panagiotis-kizeridis|Παναγιώτης Κυζερίδης]] · _ενεργός_ — Greenmart/Antemisaris, εγκρίνει social posts.
 
 ## Συνεργάτες & πάροχοι (20)
 - [[neon-arrow|Neon Arrow]] — Εκτυπώσεις/plexi/αυτοκόλλητα· plexi + αυτοκόλλητα τοίχου για το περίπτερο XENIA της greenmart-antemisaris (430 € + ΦΠΑ, τοποθέτηση 2026-11-19).

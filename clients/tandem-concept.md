@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -107,6 +107,9 @@ updated: 2026-11-21
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- **2026-11-20 17:33** — Η Caroline ρωτά για feedback της BIZ για τις τσάντες + στέλνει WooCommerce import xlsx & pptx για τη συλλογή Vanessa Wu W26 — περιμένει τον Δήμο ([[2026-11-20-tandem-vanessa-wu-winter-2026]]).
+- **2026-11-20 18:09** — Η [[laurine-erasmus]] έστειλε 2 εικόνες post για το pop up event της Τετάρτης (💭 25/11)· χωρίς απάντηση ([[2026-11-20-tandem-nour-pop-up-post]]).
+- **2026-11-20** — Fun Promotion: εξόφληση υπολοίπου 406,72 € (σύνολο 813,44 €) από τη Δέσποινα, τιμολόγιο ΤΔΑ0009359 στον George/Caroline· hangers/τσάντες στο Κολωνάκι ([[2026-11-20-fun-promotion-exoflisi-tandem]], [[2026-11-20-tandem-fun-promotion-timologio]]).
 - 2026-11-19 — 10:34 BIZ: booking 810027890, δεν μπορεί να βγάλει packing list ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]]). 16:47 BIZ → Caroline: accepted, ολοκλήρωση έως 25/11· 18:59–19:11 Δήμος–Caroline: «10+ μέρες και πρέπει να τους γράψουμε για να το βρουν;», η BIZ ζητά EasyBiz, test παραγγελία από πελάτισσα ([[2026-11-19-tandem-easybiz-booking]]). 19:00 Caroline: 4 τελευταίες διορθώσεις e-shop για την επόμενη εβδομάδα ([[2026-11-19-tandem-last-corrections-website]]). 21:30 Caroline: «Please call them» ([[2026-11-19-tandem-cv-bags-biz-product]]).
 - 2026-11-18 — BIZ follow-up για packing list· ο Δήμος εξηγεί ότι το booking έγινε μέσω BIZ LiNK 21/10 και ζητά επανέκδοση ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]).
 - 2026-11-16 — BIZ: λείπει packing list για 3 κιβώτια Christian Villa· Caroline → Δήμος ([[2026-11-16-tandem-biz-packing-list]]).

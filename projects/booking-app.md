@@ -3,7 +3,7 @@ type: project
 title: "Booking App (UK)"
 aliases: [Booking App, APP UK, growagency.online/services/booking-app]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # Booking App (UK)
 > Γραμμή υπηρεσίας της GROW: εφαρμογή online κρατήσεων για studios (κυρίως pilates/wellness), με landing στο growagency.online/services/booking-app/ και leads από φόρμα και Meta Ads (Calendly «meta-ads-embed»), κυρίως από UK.
@@ -31,6 +31,8 @@ updated: 2026-11-21
 —
 
 ## Χρονολόγιο
+- **2026-11-20 08:21** — Νέο lead: Παναγιώτης Ρόππας (studio personal training & pilates reformer, 7 άτομα, 2 χώροι) — θέλει καταμέτρηση συνεδριών πακέτων, email λήξης, χρέωση no-show· διαθέσιμος 20/11–21/11 πρωί. Η Μαρίνα το προώθησε στον Δήμο· δεν φαίνεται κλήση ([[2026-11-20-booking-app-roppas-studio-pilates]]).
+- **2026-11-24 13:00** — Call Εμμανουέλα MUA (Δήμος + Μαρίνα, Meet) — ημερολόγιο.
 - 2026-11-16 → 2026-11-20 — Meta Ads GROW: Booking Reels GR 89,50 € / 12 leads (7,46 €) · Booking Reels UK 92,24 € / 8 leads (11,53 €) · Booking Apps GR (paused) 45,49 € / 5 leads (9,10 €). Calendly εβδομάδας: Bayse, Ore, Abi Browne, Vassiliadou, Γκότσης (27/11), Εμμανουέλα (24/11) ([[2026-11-20-weekly-report-data]]).
 - 2026-11-19 — Νέο event στο GROW Calendar: **Εμμανουέλα MUA x Grow Agency (Call)** 2026-11-24 13:00 (Meet, Δήμος + Μαρίνα) ([[2026-11-20_2026-11-27]]).
 - 2026-11-18 — Call Abi Browne 18:00· 18:17 email + Service Guide: setup fee = τιμή εκκίνησης, ζητά 8 στοιχεία για ακριβή πρόταση· forward στη Μαρίνα ([[2026-11-18-booking-app-abi-browne-call]]). Προγραμματισμένο και Ore pilates & wellness 16:00 ([[2026-11-16-booking-app-uk-landing-leads]]).

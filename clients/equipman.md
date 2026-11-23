@@ -3,7 +3,7 @@ type: client
 title: "Equipman"
 aliases: [Equipman]
 status: σε αναμονή
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # Equipman
 > Πελάτης με Asana project χωρίς ουσιαστική κίνηση: ένα ανοιχτό task χωρίς ανάθεση από 2026-07-28.
@@ -26,6 +26,7 @@ updated: 2026-11-21
 - —
 
 ## Χρονολόγιο
+- **2026-11-22 14:45** — Ο Κουρνούτος δεν μπαίνει στο Instagram (💭 πιθανό phishing)· ο Δήμος: «Το τσεκάρω μέχρι το πρωί» (16:17) ([[2026-04-04-equipman-katalogos-horeca-2026]]). Ήρθαν στο inbox του Δήμου reset password Instagram για equipman.gr και ειδοποίηση σύνδεσης Facebook (Άγιος Δημήτριος, νέα συσκευή) 22/11 14:28.
 - 2026-11-17 — Ενδοκοινοτικά: κανένα τιμολόγιο Οκτωβρίου (Βάσια Σ.) ([[2026-11-17-equipman-endokoinotika-oktovrios]]).
 - 2026-11-05 — Καρτέλα: υπόλοιπο 5.675,13 € ([[2026-11-04-dianoma-pelates-mikra]]).
 - 2026-08-05 — Η Βίκυ Λεγάκη ζήτησε invoices Ιουλίου· πληρωμή 2026-08-03 141,13 € ([[2026-11-17-equipman-endokoinotika-oktovrios]]).

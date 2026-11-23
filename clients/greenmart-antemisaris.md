@@ -3,7 +3,7 @@ type: client
 title: "Greenmart / Antemisaris"
 aliases: [Antemisaris, Αντεμισάρης, Greenmart, greenmart.gr, antemisaris.gr]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # Greenmart / Antemisaris
 > Η εταιρεία Antemisaris με το e-shop Greenmart (κήπος/φυτά/εργαλεία, π.χ. βολβοί, Stihl)· η GROW κάνει social posts, γυρίσματα, υποστήριξη σε εκθέσεις (XENIA 2026, Olympic Yacht Show) και τοποθέτηση προϊόντων στο Κορωπί.
@@ -122,6 +122,7 @@ updated: 2026-11-21
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- **2026-11-20** — Καθημερινή: ολοσέλιδη στο Πρωτοχρονιάτικο τεύχος (27/12), υλικό έως 11/12, advertorials έως **30/11** και 10/12 ([[2026-10-20-antemisaris-kathimerini-entoli-update-2026-11-23]]). Xmas posts: ο Κυζερίδης βρήκε κακό background removal, διορθώθηκαν 13:58· η Ιωάννα προτείνει γύρισμα αυτή την εβδομάδα ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa-update-2026-11-23]]).
 - 2026-11-19 — XENIA: 11:44 κλαρκ μαζέματος 24/11 (193,95 €) προς υπογραφή → Ζάχος υπέγραψε 12:56 → Expowork «Καταχωρήθηκε» 13:59· 13:31 Print Kong: πολυσέλιδο + τρίπτυχο τιμολόγηση σε GROW, παράδοση έως 20/11 11:30· 13:53 video πλάνων για διαλογή → ο Ζάχος διαφωνεί με διάρκεια 35″–1′· 16:28 Neon Arrow: καμία τοποθέτηση (περίπτερο όχι έτοιμο), πιστωτικό 100 € + ΦΠΑ ([[2026-11-19-xenia-klark-mazema-ypografi-exoflisi]], [[2026-11-19-xenia-paraggelia-klark-expowork]], [[2026-11-19-antemisaris-fylladia-printkong]], [[2026-11-19-antemisaris-video-dialogi-planon]], [[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]]).
 - 2026-11-18 — XENIA: app πωλητών οριστικό (σχόλια Ζάχου 09:29 → Δήμος «έτοιμο» 09:55)· άφιξη πελάτη 19/11 μετά τις 15:00 (Ιωάννα)· post συμμετοχής δημοσιεύτηκε 12:23· προσκλήσεις μέσω πλατφόρμας XENIA· σχόλια Ιωάννας στο video wall video (Asana 23:22)· Homestores (σκαμπό): απάντησαν μόνο με φωτογραφία, όχι τιμολόγιο ([[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]], [[2026-11-18-asana-video-wall-sxolia]], [[2026-11-16-homestores-andreadis-skampo-update-2026-11-18]]).
 - 2026-11-17 — XENIA: Neon Arrow 180 € + 75 € + ΦΠΑ για κοπτικά/αυτοκόλλητα → «προχωράμε» (Print Kong μόνο φυλλάδια)· DK Rental δέσμευση + κατάθεση, παραλαβή από Δήμο 20/11· app πωλητών (πεδία + live link)· video «5 Things» εγκρίθηκε· post XENIA 3+4 προτάσεις· λίστα email προσκλήσεων (τους πελάτες του Μάριου τους ενημερώνει ο ίδιος με Viber)· WeTransfer «Photos» 1,85 GB του Lefteris → Ιωάννα ([[2026-11-17-antemisaris-wetransfer-photos]])· τέλος διαφήμισης 1% Forum — ο Δήμος: «μέχρις στιγμής δεν έχει ισχύσει σε κάποια έκθεση» ([[2026-11-17-neonarrow-prosfora-koptika-lefka]], [[2026-11-17-printkong-aftokollita-xenia]], [[2026-11-13-xenia-tablets-enoikiasi-update-2026-11-18]], [[2026-11-17-antemisaris-app-politon-stoixeia]], [[2026-11-16-antemisaris-video-5-things-egkrisi-update-2026-11-18]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-18]], [[2026-11-17-antemisaris-lista-email-proskliseis]], [[2026-11-17-forum-telos-diafimisis-xenia]]).

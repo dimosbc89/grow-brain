@@ -3,7 +3,7 @@ type: vendor
 title: "The Accountancy Partnership (TAP)"
 aliases: [TAP, The Accountancy Partnership, theaccountancy.co.uk]
 status: ενεργός
-updated: 2026-11-20
+updated: 2026-11-23
 ---
 # The Accountancy Partnership (TAP)
 > Online λογιστικό γραφείο στο UK. Επιλέχθηκε στις 2026-10-14 ως λογιστής της [[grow-360-ltd]]. Το onboarding είναι σε εξέλιξη αλλά μπλοκαρισμένο από ένα απλήρωτο τιμολόγιο.
@@ -58,6 +58,7 @@ updated: 2026-11-20
 - 2026-10-14 → [[2026-10-14-logistis-uk-the-accountancy-partnership]].
 
 ## Χρονολόγιο
+- **2026-11-20** — Επιβεβαίωση πληρωμής· ζητά TrustID + έγγραφα AML ([[2026-11-19-grow360-tap-overdue-p388148-p388149-update-2026-11-23]]).
 - 2026-11-20 — Jennifer Atherton: CT authorisation ζητήθηκε από HMRC ([[2026-11-20-grow360-tap-corporation-tax-authorisation]]).
 - 2026-11-19 — Natalie Hughes: overdue P-388148/9 → πληρωμή £72 + £24 μέσω Pandle, απάντηση Δήμου ([[2026-11-19-grow360-tap-overdue-p388148-p388149]], [[2026-11-19-grow360-pandle-pliromes-tap]]).
 - 2026-11-13 — Αυτόματο «Missing Setup Information»: Companies House Auth Code για Grow 360 Ltd ([[2026-11-12-admin-eidopoiiseis]]).

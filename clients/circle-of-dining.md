@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -66,6 +66,8 @@ updated: 2026-11-21
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
+- **2026-11-21 08:00** — Η Ιωάννα έστειλε το τιμολόγιο εκτύπωσης menu/labels (Epilogi 95 €) στον Γεωργιάδη· έντυπο στο dinner 22/11 ([[2026-11-21-circle-of-dining-timologio-ektyposis-menu]]).
+- **2026-11-20** — Epilogi παρέδωσε 30 μενού (ιριδίζον) + 25 καρτελάκια με ονόματα ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi-update-2026-11-23]])· η Ιωάννα πρότεινε 1 general + ατομικές υπογραφές email ([[2026-11-19-circle-of-dining-ypografi-email-update-2026-11-23]]).
 - 2026-11-19 — 13:13–13:38 μενού + καρτελάκια dinner: Epilogi 95 € → 16:51 «προχωράμε», αρχεία 20/11 πρωί · 13:42 αίτημα διακόσμησης στη NEDA Decorations · 17:48 ο Γεωργιάδης ζητά email signature · Hospitality Jam: η Global Foods παίρνει συμφωνητικό 8+1 επεισοδίων για υπογραφή ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]], [[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]], [[2026-11-19-circle-of-dining-ypografi-email]], [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]).
 - 2026-11-18 — Contact report προσκλήσεων dinner· προτεραιότητα concierge/yachts/βίλες (Δήμος)· προσκλήσεις Δέσποινας σε Variety Cruises και Istion ([[2026-11-18-circle-of-dining-contact-report-proteraiotites]], [[2026-11-18-circle-of-dining-prosklisi-variety-cruises]], [[2026-11-18-circle-of-dining-prosklisi-istion]]).
 - 2026-11-16 — Asana «google ads»: η Ιωάννα υπενθυμίζει ξανά στον Δήμο (task εκπρόθεσμο από 9/11) ([[2026-11-16-asana-circle-of-dining-google-ads-reminder]]).

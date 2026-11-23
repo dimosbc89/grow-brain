@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -138,6 +138,8 @@ updated: 2026-11-21
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- **2026-11-20 18:20** — Η Δέσποινα έστειλε 3η εκδοχή 4σέλιδου στην Ελπίδα· περιμένει σχόλια + κείμενα Σαντορίνης ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-23]]).
+- **2026-11-20** — Υλικό για posts: WeTransfer βίντεο Gnocco Fritto, Coati Topping Pizza + «Christmas Selection – New Proposals», 11 νέα tips από Georgia Tsatsi — χωρίς απάντηση GROW ([[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos-update-2026-11-23]], [[2026-11-19-globalfoods-coati-topping-pizza-update-2026-11-23]], [[2026-10-09-globalfoods-tips-site-update-2026-11-23]]).
 - 2026-11-19 — 13:11 Μαρίνα: συμφωνητικό Hospitality Jam 8+1 για υπογραφή · 13:59 Εύη: σειρά Coati TOPPING PIZZA (αποκλειστικότητα ✓ 14:59) · 16:35 νέος κωδικός Gnocco Fritto · 17:26 Ελπίδα: πρώτα κείμενο 4σέλιδου, μετά καθαρή εταιρική αισθητική ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]], [[2026-11-19-globalfoods-coati-topping-pizza]], [[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos]], [[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]]).
 - 2026-11-18 — Tips: 8 τελικά κείμενα από Γεωργία Τσάτση 08:57 · posting plan Δεκ. Global (Μαρίνα 12:56) και Νοε–Δεκ Unique (Δέσποινα 15:24) για έγκριση · 4σέλιδο Ατζέντας 2027 (Δέσποινα 17:45) → η Ελπίδα το απορρίπτει 23:07, ζητά τηλέφωνο το πρωί ([[2026-10-09-globalfoods-tips-site-update-2026-11-19]], [[2026-11-18-globalfoods-posting-plan-dekemvrios]], [[2026-11-18-unique-posting-plan-noe-dek]], [[2026-11-18-globalfoods-4selido-atzenta-2027]]).
 - 2026-11-17 — Reel Πρεσβείας: ανανεωμένο 12:06 → Ελπίδα «Είμαστε οκ» 16:25 ✓ · FISAN: παρουσίαση GR 14:21 → Εύη οκ + QR → QR/A5/link 20:07 ✓ · νέο αίτημα CCTV policy 4.1 (14:58) ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-18]], [[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-18]], [[2026-11-17-globalfoods-cctv-policy]]).

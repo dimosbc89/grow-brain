@@ -3,7 +3,7 @@ type: client
 title: "Divino"
 aliases: [Divino]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # Divino
 > Πελάτης web της GROW· ο freelancer [[george-andritsos]] κάνει τις διορθώσεις στο site.
@@ -38,6 +38,7 @@ updated: 2026-11-21
 - [x] Χάρτης αντιπροσώπων — George Andritsos — ✓ έτοιμος για έλεγχο 2026-11-02 ([[2026-10-13-divino-feedback-site-update-2026-10-28]])
 
 ## Χρονολόγιο
+- **2026-11-20 14:15** — Έτοιμο το αγγλικό site· μένουν language switcher, social links, legal pages, μετά SMTP & φόρμες· 18:04 ο [[george-andritsos]] αποσύρει το θέμα μεταφράσεων. Περιμένει απάντηση Βασιλικής ([[2026-10-13-divino-feedback-site-update-2026-11-23]]).
 - 2026-11-20 — Βασιλική: rejection fee 1.000 € + ΦΠΑ για πλήρη σχεδιαστική πρόταση HORECA 2027 ([[2026-11-11-divino-horeca-2027-prosfora-periptero-update-2026-11-20]]) · Γιώργος 12:15: έτοιμη η αγγλική εκδοχή (από το inbox — χωρίς digest στο raw/).
 - 2026-11-17 — Favicon ✓ · ελληνική εκδοχή έτοιμη με σωστά slugs (21:27) · ο Γιώργος ρωτά πότε live ([[2026-10-13-divino-feedback-site-update-2026-11-18]]).
 - 2026-11-16 — Βίντεο αρχικής ✓, αγγλικά κείμενα στον Γιώργο, favicon ανοιχτό· Asana «check divino» στον Δήμο (due 18/11) ([[2026-10-13-divino-feedback-site-update-2026-11-17]]).

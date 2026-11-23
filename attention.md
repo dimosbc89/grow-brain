@@ -1,35 +1,36 @@
 ---
 type: attention
 title: "Τι απασχολεί τον Δήμο τώρα"
-updated: 2026-11-20
+updated: 2026-11-23
 ---
-# Attention — 2026-11-20
+# Attention — 2026-11-23
 
 > Τα 5 projects που απασχολούν πραγματικά τον Δήμο, από τα email που έστειλε, τα εισερχόμενα και το ημερολόγιο. Το ξαναγράφει η πρωινή ενημέρωση κάθε μέρα.
 
-## 1. [[greenmart-antemisaris]] — XENIA 21–23/11 (από αύριο)
-- **Κατάσταση:** Φυλλάδια (πολυσέλιδο + τρίπτυχο) από Print Kong στην Αγίου Δημητρίου 209 **σήμερα έως 11:30**, τιμολόγηση στη GROW, δελτίο χωρίς τιμές στον πελάτη ([[2026-11-19-antemisaris-fylladia-printkong]]). Video wall video: ο Ζάχος **διαφωνεί με 35″–1′** — παίζει σε loop 8 ώρες, θέλει μεγαλύτερο ([[2026-11-19-antemisaris-video-dialogi-planon]]). Neon Arrow: καμία τοποθέτηση (περίπτερο όχι έτοιμο), πιστωτικό 100 € + ΦΠΑ σήμερα ([[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]]). Κλαρκ μαζέματος 24/11 (193,95 €, υπέγραψε ο Ζάχος) ([[2026-11-19-xenia-klark-mazema-ypografi-exoflisi]]).
-- **Επόμενο βήμα (Δήμος):** παραλαβή tablets σήμερα · απόφαση διάρκειας video πριν τις 21/11 · υπογραφή V2 Expopiece + προκαταβολή (ασαφές αν έγινε).
+## 1. [[grow-360-ltd]] — Confirmation Statement ΣΗΜΕΡΑ & registered office
+- **Κατάσταση:** Confirmation Statement λήγει **2026-11-23**· η YCF προσφέρει κατάθεση £90 + VAT ([[2026-11-22-grow360-ycf-confirmation-statement-due]]). Στις 2026-11-20 η YCF έγραψε ότι έληξαν registered office, director's address, mail forwarding — αν συνεχίσει να χρησιμοποιείται η διεύθυνση, ενημερώνει το Companies House (ρίσκο strike off) ([[2026-11-20-grow360-ycf-services-expired]]). Η TAP ζητά TrustID + έγγραφα AML πριν το Initial Call/HMRC ([[2026-11-19-grow360-tap-overdue-p388148-p388149-update-2026-11-23]], [[2026-11-20-grow360-trustid-verification]]). Ο κωδικός HMRC θα πάει στο registered office.
+- **Επόμενο βήμα (Δήμος):** σήμερα με τη Μαρίνα (υπενθύμιση R-004 09:00): κατάθεση Confirmation Statement · απόφαση registered office (YCF ή TAP) · TrustID + AML.
 
-## 2. [[tandem-concept]] — BIZ booking & διορθώσεις site
-- **Κατάσταση:** Η BIZ βρήκε το booking 810027890 αλλά **δεν μπορεί να ξαναβγάλει packing list** ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]])· ζητά να περαστούν τα είδη στο EasyBiz, ολοκλήρωση έως 25/11. Ρώτησες την Caroline αν θα πάρει εκείνη τηλέφωνο· εκείνη 21:30 «Please call them» ([[2026-11-19-tandem-easybiz-booking]], [[2026-11-19-tandem-cv-bags-biz-product]]). 4 διορθώσεις site για την εβδομάδα 23/11 ([[2026-11-19-tandem-last-corrections-website]]).
-- **Επόμενο βήμα (Δήμος):** τηλέφωνο στη BIZ σήμερα · απάντηση στις 4 διορθώσεις.
+## 2. [[tandem-concept]] — BIZ, Vanessa Wu W26, pop up
+- **Κατάσταση:** Η Caroline (20/11 17:33) ρωτά για feedback BIZ για τις τσάντες και έστειλε import sheet + pptx για τη συλλογή Vanessa Wu W26 ([[2026-11-20-tandem-vanessa-wu-winter-2026]]). BIZ EasyBiz ολοκλήρωση έως 25/11 — το τηλέφωνο στη BIZ (ζητήθηκε 19/11) δεν φαίνεται. Laurine: 2 posts για το pop up της Τετάρτης (💭 25/11) ([[2026-11-20-tandem-nour-pop-up-post]]). Fun Promotion εξοφλήθηκε 406,72 € ([[2026-11-20-fun-promotion-exoflisi-tandem]]).
+- **Επόμενο βήμα (Δήμος):** BIZ + απάντηση στην Caroline · 4 διορθώσεις site αυτή την εβδομάδα.
 
-## 3. Πωλήσεις — [[booking-app]], περίπτερα, [[hotelbrain]]
-- **Κατάσταση:** Calendly Vassiliadou σήμερα 18:30 · νέο call Εμμανουέλα MUA 24/11 13:00 (εσύ + Μαρίνα) · Γκότσης 27/11. [[krimatoglou]] HORECA: Meet Τρ 01/12 15:00, προσχέδιο περιπτέρου μέσα στην εβδομάδα 23/11 ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-20]]). ✓ [[hotelbrain]] Academy site 1.150 € + ΦΠΑ εγκρίθηκε 20/11· η Νίκη ζητά 6 διευκρινίσεις για το social των 4 brands ([[2026-11-20-hotelbrain-collection-social-diefkriniseis]]). ⚠️ HotelBrain/[[mr-mrs-white]]: COPYTRACK για φωτό Tinos — άδεια 481,50 € ή αποζημίωση 350 € έως 28/11 ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).
-- **Επόμενο βήμα (Δήμος):** απόφαση για COPYTRACK (αλλαγή φωτό + ποιος πληρώνει) · DaFit αφαίρεση (SOS Μαρίνας από 17/11).
+## 3. Πωλήσεις — [[booking-app]], [[hellenic-heritage-evolution]] χορηγίες
+- **Κατάσταση:** Νέο lead [[roppas-studio]] (20/11 08:21) — ήθελε τηλέφωνο 20–21/11, δεν φαίνεται ([[2026-11-20-booking-app-roppas-studio-pilates]]). Εμμανουέλα MUA call **αύριο 24/11 13:00** (εσύ + Μαρίνα) · Γκότσης 27/11 12:00. Η Μαρίνα έστειλε 16 cold emails χορηγίας Heritage Escape 2027 σε εταιρείες ενέργειας/ναυτιλίας (ΔΕΗ, ΕΛΠΕ, Motor Oil, [[metlen]] κ.ά.) — καμία απάντηση ([[2026-11-20-heritage-escape-outreach-energy-corporates]]). [[krimatoglou]] HORECA Meet 01/12 15:00.
+- **Επόμενο βήμα (Δήμος):** τηλέφωνο Ρόππα σήμερα · προετοιμασία Εμμανουέλα.
 
-## 4. [[global-foods]] — 4σέλιδο, podcast συμφωνητικό, νέα προϊόντα
-- **Κατάσταση:** Η Ελπίδα έστειλε δικό της κείμενο «GLOBAL FOODS GROUP.docx» — πρώτα συμφωνία στο κείμενο, μετά καθαρό εταιρικό design ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]]). Η Μαρίνα έστειλε το συμφωνητικό 8+1 sponsored episodes προς υπογραφή ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]). Νέα προϊόντα για posts: Gnocco Fritto, Coati topping pizza (αποκλειστικότητα).
-- **Επόμενο βήμα (Δήμος):** Asana: Italfoods banner (9/11), Λινκ παρουσίασης (17/11) · CCTV 4.1 (από 17/11).
+## 4. [[global-foods]] / [[circle-of-dining]] — 4σέλιδο, podcast, υλικό posts
+- **Κατάσταση:** 3η εκδοχή 4σέλιδου στην Ελπίδα 20/11 18:20 — περιμένουμε σχόλια ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-23]]). Υλικό Gnocco Fritto (WeTransfer), Coati/Christmas Selection, 11 tips ([[georgia-tsatsi]]) χωρίς απάντηση. Συμφωνητικό podcast 8+1 αναμένεται υπογεγραμμένο. Hospitality Jam γύρισμα 25/11 17:00. Circle of Dining dinner έγινε 22/11· τιμολόγιο εκτύπωσης στάλθηκε ([[2026-11-21-circle-of-dining-timologio-ektyposis-menu]]).
+- **Επόμενο βήμα (Δήμος):** Asana: Italfoods banner (9/11), Λινκ παρουσίασης (17/11), website Circle (20/11).
 
-## 5. [[grow-360-ltd]] — UK λογιστής & registered office
-- **Κατάσταση:** Πλήρωσες TAP P-388148 £72 + P-388149 £24 ✓ ([[2026-11-19-grow360-pandle-pliromes-tap]]). Η TAP ζήτησε εξουσιοδότηση Corporation Tax: ο κωδικός HMRC έρχεται **ταχυδρομικά στο registered office** σε ~2 εβδομάδες ([[2026-11-20-grow360-tap-corporation-tax-authorisation]]) — αλλά το registered office είναι ακόμα η ληγμένη διεύθυνση της YCF, που κρατά επιστολές 30 ημέρες ([[2026-11-19-grow360-ycf-30-imeres-proeidopoiisi]]).
-- **Επόμενο βήμα (Δήμος):** ανανέωση YCF (30% έκπτωση) ή νέα διεύθυνση **πριν φτάσει ο κωδικός** · Confirmation Statement έως 23/11.
+## 5. [[greenmart-antemisaris]] — μετά τη XENIA
+- **Κατάσταση:** XENIA 21–23/11 (σήμερα τελευταία μέρα), κλαρκ μαζέματος 24/11. Καθημερινή: ολοσέλιδη Πρωτοχρονιάτικου (27/12), advertorial έως **30/11**, υλικό έως 11/12 ([[2026-10-20-antemisaris-kathimerini-entoli-update-2026-11-23]]). Xmas posts διορθώθηκαν μετά από παρατήρηση [[panagiotis-kizeridis]]· η Ιωάννα προτείνει γύρισμα αυτή την εβδομάδα (κόστος: ασαφές).
+- **Επόμενο βήμα (Δήμος):** μάζεμα περιπτέρου 24/11 · απολογισμός/τιμολόγηση XENIA.
 
 ## Στο ραντάρ
-- [[danaos]]: Pre Black Friday τρέχει, αλλά το Tagora sync Danaos Stores αποτυγχάνει από 04/11 ([[2026-11-19-tagora-danaos-leatherbrands-sync]])· εικαστικά/ads που υποσχέθηκες 19/11 — δεν φαίνεται αποστολή.
-- [[overoll]]: η Βάσω ενέκρινε κατεύθυνση Χριστουγέννων, θέλει call για το moodboard **σήμερα 09:00–13:00** · shooting 27/11 · υπόλοιπο 2.312,80 € ([[2026-11-19-overoll-kartela-pelati]]).
-- [[enoteca]]: ⚠️ οι «ορθές» προσφορές εντύπων της Βάσιας Σ. είναι ακριβώς στο κόστος vendor ([[2026-11-19-enoteca-orthi-epanalipsi-prosfora-ektypotikon]]).
-- [[circle-of-dining]] dinner 22/11 — μενού/καρτελάκια Epilogi 95 € σήμερα · διακόσμηση NEDA · website (Asana σου, 20/11).
-- [[krapsites]] check-in Scan More για ΜΠΡΑΤΙΜΙΑ 21/11 — ποιος το έχει: ασαφές. [[pharmacypan]]: ο Πάρις περιμένει απάντηση για τα leads (από 04/11). lucaffe.gr λήγει 24/11 · posidonioathens.gr καταχωρήθηκε — για ποιον;
+- [[equipman]]: υποσχέθηκες «το τσεκάρω μέχρι το πρωί» — Instagram του Κουρνούτου (22/11).
+- [[nikas-coffee-expert]]: **lucaffe.gr λήγει 24/11** ([[2026-11-22-lucaffe-domain-lixi]]).
+- [[danaos]]: Tagora sync αποτυγχάνει ακόμα (22/11) εν μέσω Black Friday.
+- [[hotelbrain]]: favicon + B2B εικονίδιο (Νίκη, 20/11) · COPYTRACK έως 28/11.
+- [[yiayia-meatballs]] συνάντηση 24/11 14:30 · [[overoll]] shooting 27/11 · [[knack-and-snack]] press event σήμερα 15:30, demo site έως 24/11.
+- [[tsu-pies]]: νέα δουλειά ετικέτας private label καφέ, ενώ το marketing ήταν σε αναμονή για απλήρωτο τιμολόγιο.

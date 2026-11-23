@@ -1,7 +1,7 @@
 ---
 type: knowledge
 title: "Μνήμη τιμών"
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # Μνήμη τιμών
 > Τι προσφέραμε, τι έγινε δεκτό, τι χρεώνουν οι vendors. Μόνο αριθμοί από πηγές. Γράφεται από την εβδομαδιαία σύνθεση.
@@ -30,6 +30,8 @@ updated: 2026-11-21
 ## Κόστη vendors
 | Ημ/νία | Vendor | Τι | Τιμή | Για | Πηγή |
 |---|---|---|---|---|---|
+| 2026-11-20 | Fun Promotion | Hangers/τσάντες — υπόλοιπο εξόφλησης (εξοφλήθηκε 20/11, ποιος πλήρωσε: ασαφές) | 406,72 € (σύνολο 813,44 €) | [[tandem-concept]] | [[2026-11-20-fun-promotion-exoflisi-tandem]] |
+| 2026-11-22 | Your Company Formations | Κατάθεση Confirmation Statement (προσφορά) | £90 + VAT | [[grow-360-ltd]] | [[2026-11-22-grow360-ycf-confirmation-statement-due]] |
 | 2026-11-19 | [[neon-arrow]] | Πιστωτικό για μη τοποθέτηση (κοπτικά/αυτοκόλλητα/plexi XENIA) — δηλαδή αξία τοποθέτησης | −100 € + ΦΠΑ (σύνολο 685 → 💭 585 € + ΦΠΑ) | [[greenmart-antemisaris]] | [[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]] |
 | 2026-11-19 | [[expowork]] | Κλαρκ 5 τόνων για μάζεμα περιπτέρου (Metropolitan Expo, 2026-11-24) | 193,95 € | [[greenmart-antemisaris]] | [[2026-11-19-xenia-klark-mazema-ypografi-exoflisi]] |
 | 2026-11-19 | [[cretaforce]] | Νέο .gr domain, 2 έτη (posidonioathens.gr) | 13,28 credits· ΤΠΥ 30,00 € (💭 credits) | ασαφές | [[2026-11-19-posidonioathens-gr-kataxorisi]] |

@@ -3,7 +3,7 @@ type: client
 title: "TSU Greek Pies and Coffee"
 aliases: [TSU, TSU Pies, TSUPIES, TSU Pies BV, TSU Pies SARL, Grandpas SARL-s, tsupies.com]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # TSU Greek Pies and Coffee
 > Αλυσίδα ελληνικής πίτας και καφέ με 3 καταστήματα στο Λουξεμβούργο· ήρθε ως lead τον Αύγουστο 2026 και από τον Σεπτέμβριο έχει τακτικές συναντήσεις με τη GROW, μαζί και «Kick-off call».
@@ -48,6 +48,7 @@ updated: 2026-11-21
 - 2026-08: briefing call μέσω Google Meet στις 16:00 ώρα Ελλάδας (15:00 Λουξεμβούργου), invite από τη Βασιλική ([[2026-08-10-tsu-pies-briefing-call]]).
 
 ## Χρονολόγιο
+- **2026-11-20** — Η Βίκη έστειλε προδιαγραφές ετικέτας private label καφέ (Scarlet's Coffee: 1 ετικέτα/κωδικό, max 90×200mm, offset, ρολό φ76, πρόταση εργοστάσιο Ερμής)· η Μαρίνα «ξεκινάμε». ⚠️ Νέα δουλειά ενώ το marketing ήταν σε αναμονή λόγω απλήρωτου τιμολογίου (10/11) ([[2026-11-20-tsu-private-label-kafe-etiketa]]).
 - 2026-11-19 — Φωτογραφίες «παππού Κώστα» από τη Βίκη (βλ. [[grandpas]]) ([[2026-11-19-tsupies-fotografies-pappou]]).
 - 2026-11-16 — Rahma ↔ Μαρίνα: προς call 17–18/11 για Leiden/Amstelveen ([[2026-10-27-tsu-pies-intro-leiden-amstelveen-update-2026-11-17]]).
 - 2026-11-10 — Η Μαρίνα στέλνει moodboards φωτογράφισης/video για TSU και Grandpa's, ζητά videos πιάτων Grandpa's. Ο Κώστας Γιαννόπουλος: marketing σε αναμονή μέχρι να εξοφληθεί το **πρώτο τιμολόγιο** («πολύ άμεσα», χωρίς ημερομηνία)· μπήκαν στο Foozo (15 παραγγελίες), συζητά με επενδυτές — αναπάντητο ([[2026-11-10-tsu-grandpas-moodboards]]).

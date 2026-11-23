@@ -3,7 +3,7 @@ type: client
 title: "Panagiotis Nikas / CoffeeXpert / Barista Academy"
 aliases: [Panagiotis Nikas, Νίκας, P. Nikas, Coffee Expert, CoffeeXpert, ΚΟΦΙ ΕΞΠΕΡΤ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ, Barista Academy, baristacademy.gr, barista-academy.gr, baristaexpert.gr, coffeexpert.gr, panagiotisnikas.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # Panagiotis Nikas / CoffeeXpert / Barista Academy
 > Ο [[panagiotis-nikas]] και οι επιχειρήσεις του (CoffeeXpert, Barista Academy, προσωπικό brand): η GROW τρέχει Meta Ads, κρατά τα sites/domains και λειτουργεί στην πράξη ως το IT/security help desk του — πολλά «copyright» phishing.
@@ -58,6 +58,7 @@ updated: 2026-11-21
 - Όλα τα «copyright/DMCA» και «Microsoft 365» emails χαρακτηρίστηκαν spam/phishing — καμία ενέργεια ([[2026-08-21-ninja-tune-copyright-spam-nikas]], [[2026-08-31-nikas-copyright-phishing-scam]], [[2026-09-01-coffeexpert-m365-phishing-check]], [[2026-09-15-barista-academy-copyright-spam]], [[2026-10-19-panagiotisnikas-copyright-spam]]).
 
 ## Χρονολόγιο
+- **2026-11-22** — FORTH: το **lucaffe.gr λήγει 24/11 23:59 UTC** ([[2026-11-22-lucaffe-domain-lixi]]).
 - 2026-11-19 — FORTH: lucaffe.gr λήγει 2026-11-24 23:59 UTC ([[2026-11-19-lucaffe-domain-lixi]]).
 - 2026-11-13 — Freddo YT video εγκρίθηκε από τον Νίκα (tag Kalko)· Java Jives video κλείδωσε για 2026-11-16 ([[2026-11-13-nikas-review-yt-video-freddo]]). Η Ιωάννα (The Hospitality Jam) δίνει γύρισμα με τον Νίκα **2026-12-05** ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]]).
 - 2026-11-09 — Νέα προειδοποίηση λήξης domain lucaffe.gr (FORTH) ([[2026-11-09-admin-eidopoiiseis]]).

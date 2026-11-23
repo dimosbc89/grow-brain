@@ -3,7 +3,7 @@ type: client
 title: "Hellenic Heritage Evolution (HHE) — Heritage Escape / Τσικλητήρεια"
 aliases: [HHE, ΗΗΕ, Hellenic Heritage Evolution, Heritage Escape, Τσικλητήρεια, Tsiklitiria, hellenicheritageevolution.com, Δ. Καραμπάτσος]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # Hellenic Heritage Evolution (HHE): Heritage Escape / Τσικλητήρεια
 > Πελάτης της ομάδας της Δέσποινας με events. Το Heritage Escape ήταν τριήμερο στο Costa Navarino, 18–20/9/2026, και τα Τσικλητήρεια είναι αγώνας με εγγραφές. Η GROW κάνει Meta Ads, αναζήτηση sponsors και συναντήσεις follow-up κάθε 1–2 εβδομάδες. Βασική επαφή είναι ο Δημήτρης Καραμπάτσος.
@@ -60,6 +60,7 @@ updated: 2026-11-21
 - Ο πελάτης δεν δέχτηκε την custom πλατφόρμα εγγραφών της GROW και χρησιμοποιεί Reventy ([[2026-08-09-tsikliteria-meta-campaigns-report]]).
 
 ## Χρονολόγιο
+- **2026-11-20** — Η [[marina-papanastasiou]] έστειλε cold outreach χορηγίας Heritage Escape 2027 (Costa Navarino 16–18/04/2027) σε 16 παραλήπτες εταιρειών ενέργειας/ναυτιλίας (ΔΕΗ, Protergia, ΕΛΠΕ, Motor Oil, Zenith, [[metlen]], Volton, ELIN, Aegean Oil, Molgas, Diana Shipping) με '27HeritageEscape.pdf· καμία απάντηση ακόμα ([[2026-11-20-heritage-escape-outreach-energy-corporates]]).
 - 2026-11-19 — 10:43 Δέσποινα: ανανεωμένο mail χορηγών «για το γκολφ» (16–18/4/2027, gala για Make A Wish ή Σύλλογο Ελπίδα) · 18:17 Access Fashion επιβεβαιώνει in-kind χορηγία τσάντες + μαντήλια ([[2026-11-19-heritage-escape-costa-navarino-golf-mail]], [[2026-11-13-heritage-escape-2027-access-fashion-update-2026-11-20]]).
 - 2026-11-19 12:30 — «HHE follow up» (Meet· Δέσποινα, Ιωάννα, info@hhe, Karampatsos, Kontogoni)· αποτέλεσμα ασαφές ([[2026-11-13-heritage-escape-2027-avance-update-2026-11-18]]).
 - 2026-11-17 — Avance (Marisa Drolapa) κλείδωσε 24/11 11:00 στα γραφεία της· νέο Meet «HHE follow up» 19/11 12:30 ([[2026-11-13-heritage-escape-2027-avance-update-2026-11-18]]).

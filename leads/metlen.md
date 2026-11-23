@@ -3,7 +3,7 @@ type: lead
 title: "METLEN Energy & Metals"
 aliases: [METLEN, Metlen, metlen.com]
 status: prospect
-updated: 2026-10-20
+updated: 2026-11-23
 ---
 # METLEN Energy & Metals
 > Μεγάλος όμιλος που απάντησε στην outreach της GROW για περίπτερα· έγινε Teams meeting με την ομάδα της κας Γεράκη στις 2026-09-18 και δεν ξέρουμε τι βγήκε.
@@ -25,6 +25,7 @@ updated: 2026-10-20
 - Νέο Teams meeting: Παρασκευή 2026-09-18, 14:00 ([[2026-09-09-metlen-booth-teams-meeting]]).
 
 ## Χρονολόγιο
+- **2026-11-20** — Outreach χορηγίας Heritage Escape 2027 από τη Μαρίνα προς Polytimi Boudali & Georgia Kyriakidi ([[2026-11-20-heritage-escape-outreach-energy-corporates]]).
 - 2026-09-18 — Teams meeting 14:00 με Marina, Καροπούλου, Γεράκη, Aliaga ([[2026-07-20_2026-11-03]]).
 - 2026-09-07 → 2026-09-09 — Ο Δήμος επανέρχεται· η METLEN προτείνει 2026-09-18 και ο Δήμος διαλέγει 14:00 ([[2026-09-09-metlen-booth-teams-meeting]]).
 - 2026-07-31 — Το meeting των 14:00 («Metlen energy call EXpo booths») ακυρώνεται από τη METLEN λόγω φόρτου, με συμφωνία να ξαναοριστεί τον Σεπτέμβριο ([[2026-09-09-metlen-booth-teams-meeting]], [[2026-07-20_2026-11-03]]).

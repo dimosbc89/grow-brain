@@ -3,7 +3,7 @@ type: client
 title: "HotelBrain"
 aliases: [HOTELBRAIN S.A., Hotelbrain, Hotel Brain, hotelbrain.com, hotelbraingroup.com]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 # HotelBrain
 > Η HOTELBRAIN S.A. είναι η πλευρά πελάτη για τα hotel websites που φτιάχνει και υποστηρίζει τεχνικά η GROW ([[mr-mrs-white]], [[anayia]], September City Living, GHH) και τώρα για το νέο corporate site της ίδιας της HotelBrain.
@@ -78,6 +78,7 @@ updated: 2026-11-21
 - 2026-10-27: το go-live του hotelbraingroup.com γίνεται με αλλαγή μόνο των DNS records του site (όχι name servers), από τον διαχειριστή domains της HotelBrain ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]]).
 
 ## Χρονολόγιο
+- **2026-11-20 10:40** — Η Νίκη ζητά δικό τους favicon και μικρότερο εικονίδιο B2B ίδιο με του footer ([[2026-11-18-hotelbraingroup-ssl-allages-update-2026-11-23]]).
 - 2026-11-20 — 09:29 Νίκη (cc Christos Rizos, hotelbrainacademy.com): ✓ ΟΚ HotelBrain Academy 1.150 € + ΦΠΑ, νέες φωτογραφίες αρχές επόμενου μήνα · 10:30 (cc Panos, Spyridis, Matsouris) 6 ερωτήσεις για την πρόταση social media των 4 brands (GHH, ANAYIA, MMW, September): AI έγκριση 1ο τρίμηνο, Meta Pixel στη confirmation WebHotelier/ROAS, στρατηγική ανά brand, 8 stories/μήνα/brand, media budget ανά brand/funnel, first-party audiences ([[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-20]], [[2026-11-20-hotelbrain-collection-social-diefkriniseis]]).
 - 2026-11-19 — COPYTRACK (Case 668D3B, RAWF8): ύποπτη μη αδειοδοτημένη εικόνα στη σελίδα Tinos του MMW (481,50 € άδεια / 350 € αποζημίωση)· η Νίκη ζητά αντικατάσταση φωτογραφίας από τη Βάσια ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).
 - 2026-11-18 — hotelbraingroup.com: SSL «Resolved!» + 5 αλλαγές «Ready»· Academy αναθεώρηση σε 1.150 € + ΦΠΑ· προσφορά social media στον Panos ([[2026-11-18-hotelbraingroup-ssl-allages]], [[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-19]], [[2026-11-18-hotelbrain-social-media-prosfora]]).

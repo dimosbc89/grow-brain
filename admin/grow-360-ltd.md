@@ -3,7 +3,7 @@ type: admin
 title: "GROW 360 LTD (UK εταιρεία)"
 aliases: [GROW 360, GROW 360 LTD, UK εταιρεία, UK company, βρετανική εταιρεία]
 status: ενεργός
-updated: 2026-11-20
+updated: 2026-11-23
 ---
 # GROW 360 LTD
 > Η βρετανική εταιρεία του Δήμου (μοναδικός director/shareholder, κάτοικος Ελλάδας). Τον Οκτώβριο 2026 πέρασε σε νέο λογιστή, την [[the-accountancy-partnership]], και τον Νοέμβριο 2026 έχει τις πρώτες προθεσμίες της στην Companies House.
@@ -85,6 +85,9 @@ updated: 2026-11-20
 - 2026-10-02 — Η Μαρίνα αναλαμβάνει να επιλέξει λογιστή και να ρωτήσει αν ακυρώνονται οι υπηρεσίες YCF ([[2026-10-02-grow360-ycf-renewal-accounting]]).
 
 ## Χρονολόγιο
+- **2026-11-22** — YCF: **Confirmation Statement λήγει 2026-11-23**· προσφέρουν κατάθεση £90 + VAT ([[2026-11-22-grow360-ycf-confirmation-statement-due]]).
+- **2026-11-20 10:12** — YCF: έληξαν registered office, director's service address, mail forwarding, filing service — αν η διεύθυνση συνεχίσει να χρησιμοποιείται θα ειδοποιήσουν το Companies House (ρίσκο strike off) ([[2026-11-20-grow360-ycf-services-expired]]).
+- **2026-11-20** — TAP: επιβεβαίωσε πληρωμή· ζητά TrustID + AML (ταυτότητα, αποδεικτικό διεύθυνσης) πριν το Initial Call/HMRC· ήρθε link TrustID ([[2026-11-19-grow360-tap-overdue-p388148-p388149-update-2026-11-23]], [[2026-11-20-grow360-trustid-verification]]).
 - 2026-11-20 — TAP (Jennifer Atherton): αίτημα CT authorisation στην HMRC· κωδικός σε ~2 εβδομάδες στο registered office, με email ([[2026-11-20-grow360-tap-corporation-tax-authorisation]]).
 - 2026-11-19 — 10:46 YCF: 30 ημέρες για ανανέωση (−30%) ή αλλαγή διεύθυνσης· έχουν επιστολές. 13:02 TAP: «Overdue invoices»· 13:07–13:08 πληρωμές Pandle £72 + £24· 13:09 απάντηση Δήμου (cc Μαρίνα)· 14:39 TAP: έως 24 ώρες ([[2026-11-19-grow360-ycf-30-imeres-proeidopoiisi]], [[2026-11-19-grow360-tap-overdue-p388148-p388149]], [[2026-11-19-grow360-pandle-pliromes-tap]]).
 - 2026-11-18 — YCF: «Director Action Required — Our Address Is Still Displayed» (7 ημέρες μετά τη λήξη) ([[2026-11-18-grow360-ycf-director-action-required]]).
