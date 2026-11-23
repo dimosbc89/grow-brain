@@ -63,3 +63,4 @@ title: "Ημερολόγιο ενεργειών"
 2026-11-22 21:31 — remember — R-004 UK εταιρεία με τη Μαρίνα, Δευ 2026-11-23 09:00 — reminders
 2026-11-22 21:33 — remember — R-005 συνάντηση ομάδας για οικονομικούς στόχους (χωρίς ημερομηνία) — reminders
 2026-11-23 08:15 — brief — ~45 threads (1 απεσταλμένο· 31 νέα digests/updates), 2 συναντήσεις σήμερα (Fotaerio 11:00, Knack press event 15:30· 10 στο 23/11–30/11), Asana ✓ — attention, index, asana-board, grow-360-ltd, the-accountancy-partnership, tandem-concept, global-foods, circle-of-dining, divino, greenmart-antemisaris, neon-arrow, hellenic-heritage-evolution, metlen, booking-app, tsu-pies, kyknos, yiayia-meatballs, krapsites, equipman, hotelbrain, overoll, nikas-coffee-expert, danaos, prices, roppas-studio (νέο), georgia-tsatsi (νέο), xenia-katsioula (νέο), panagiotis-kizeridis (νέο), raw/calendar/2026-11-23_2026-11-30
+2026-11-23 09:01 — remember — R-004 υπενθύμιση
