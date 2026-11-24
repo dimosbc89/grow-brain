@@ -3,7 +3,7 @@ type: client
 title: "Knack & Snack"
 aliases: [Knack, Knack and Snack, Knack & Snack, @knackandsnack, knackandsnack@gmail.com]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 # Knack & Snack
 > Πελάτης εστίασης της GROW για σχεδόν έναν χρόνο (στις 2026-08): Google Ads, social media management και γυρίσματα· από εδώ βγήκε ο κανόνας του Δήμου για τα κείμενα διαφημίσεων.
@@ -21,6 +21,7 @@ updated: 2026-11-21
 - **Οικονομικά:** υπόλοιπο καρτέλας **1.436,00 €** (2026-11-11) ([[2026-11-11-knack-snack-kartela]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Επιβεβαίωση προθεσμίας 30/11 (παρουσίαση + newsletter Δεκ.) — Βασιλική/Δήμος· meeting website 25/11 — αναμένεται ΟΚ πελάτη ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-24]])
 - [ ] Συζήτηση με Σπήλιο για ημερομηνίες/deadlines — Δήμος — **2026-11-18 μετά το γύρισμα** ([[2026-11-17-knack-follow-up-next-steps]])
 - [ ] Performance report — Βασιλική — **2026-11-23** ([[2026-11-17-knack-follow-up-next-steps]])
 - [ ] Ενιαίο στρατηγικό πλάνο Social/Content Δεκ 2026–Μάρ 2027 + προτάσεις Open Matter — GROW — **2026-11-23** ([[2026-11-17-knack-follow-up-next-steps]])
@@ -54,6 +55,7 @@ updated: 2026-11-21
 - Προτεινόμενη δομή παραδοτέων (2026-08-06, αναμένει αποδοχή): Meta 3–4 posts/εβδ. + 7 Stories/εβδ.· TikTok 3–4 posts/εβδ.· 1–2 επαγγελματικά γυρίσματα/μήνα με τη Σήλια (14–16 προϊοντικά βίντεο + 20–25 φωτογραφίες ανά γύρισμα)· 1–2 γυρίσματα Reels/TikTok/μήνα από GROW ([[2026-08-06-knack-snack-organosi-synergasias]]).
 
 ## Χρονολόγιο
+- **2026-11-23 11:11 / 18:22** — Vicky: minimal look, newsletter μηνιαίο, **παρουσίαση + newsletter Δεκεμβρίου έως 2026-11-30**, website meeting 24/11. Βασιλική: Year in Review + Strategic Growth Plan 2027 + draft site (knack-athens.pages.dev)· προτείνει **meeting 2026-11-25**· ρωτά για barter creators ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-24]]).
 - 2026-11-19 — Νέο event στο GROW Calendar: **Knack press event** 2026-11-23 15:30 (Βασιλική) ([[2026-11-20_2026-11-27]]).
 - 2026-11-18 — Chef γύρισμα knack & snack 16:00–17:00 (GROW Calendar, Ιωάννα) ([[2026-11-18_2026-11-25]]) · Review site από Βασιλική 13:05 → Δήμος «ποια τα σωστά λογότυπα» → 2 λογότυπα 13:21 · ο Δήμος προωθεί το pizza catering στο knackandsnack@gmail.com 17:36 ([[2026-11-18-knack-review-site]], [[2026-11-17-knack-fwd-ekthesi-catering-update-2026-11-19]]).
 - 2026-11-17 — Εσωτερικό draft Βασιλικής (13:21/13:41) προς Δήμο/Μαρίνα ([[2026-11-17-knack-draft-apantisi-vassiliki]]) · Follow-up Βασιλικής 17:37 (website χωρίς επιπλέον κόστος, deadlines 23–24/11, χωρίς media monitoring, λίστα event agencies/catering) → Σπήλιος: «είπατε μέχρι Παρασκευή» → Δήμος: «αύριο μετά το γύρισμα να συζητήσουμε» · 2 forwards (ζωγράφος, pizza catering) ([[2026-11-17-knack-follow-up-next-steps]], [[2026-11-17-knack-fwd-ekthesi-catering]]).

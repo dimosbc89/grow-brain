@@ -3,7 +3,7 @@ type: client
 title: "Barolo (Σαντορίνη)"
 aliases: [Barolo Santorini, Barolo restaurant, barolosantorini@gmail.com]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 # Barolo (Σαντορίνη)
 > Εστιατόριο στη Σαντορίνη· πελάτης της GROW με τιμολόγια από το 2025 και ενδοκοινοτικά παραστατικά (χρεώσεις πλατφορμών), για τα οποία ρωτά η λογίστριά του.
@@ -28,6 +28,7 @@ updated: 2026-11-21
 - 2026-07-24: η Μαρίνα απαντά στη λογίστρια με βάση την οδηγία του Δήμου («Εξήγησε της ότι ένα βίντεο το πόσο που χρεώνει» — διατύπωση ασαφής) ([[2026-07-24-barolo-timologia-endokoinotika]]).
 
 ## Χρονολόγιο
+- **2026-11-23 11:29** — Τιμολόγιο #1337 για μισό Νοέμβριο Mama's (💭 ίδιος πελάτης/ομάδα Barolo — cc barolorestaurant) ([[2026-11-23-mamas-timologio-1337]]).
 - 2026-11-18 — 12:34 Μανουσάκης: forward WiAct Solutions (Χανιά, μετάκληση εργαζομένων από Νεπάλ για σεζόν 2027) χωρίς σχόλιο· 16:08 «Nai» στον Δήμο ([[2026-11-18-barolo-manousakis-wiact-prosopiko]]).
 - 2026-11-14 — barolosantorini.gr: spam trackback σε αναμονή έγκρισης (6 σχόλια σε moderation) ([[2026-11-16-admin-eidopoiiseis]]).
 - 2026-11-08 — Φόρμα Barolo Beach: Lauren Cardona, Σαντορίνη 2027-07-13 (κρουαζιέρα) ([[2026-11-09-admin-eidopoiiseis]]).

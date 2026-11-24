@@ -3,7 +3,7 @@ type: admin
 title: "GROW 360 LTD (UK εταιρεία)"
 aliases: [GROW 360, GROW 360 LTD, UK εταιρεία, UK company, βρετανική εταιρεία]
 status: ενεργός
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 # GROW 360 LTD
 > Η βρετανική εταιρεία του Δήμου (μοναδικός director/shareholder, κάτοικος Ελλάδας). Τον Οκτώβριο 2026 πέρασε σε νέο λογιστή, την [[the-accountancy-partnership]], και τον Νοέμβριο 2026 έχει τις πρώτες προθεσμίες της στην Companies House.
@@ -18,6 +18,11 @@ updated: 2026-11-23
 - **Φορολογική κατοικία / μόνιμη εγκατάσταση στην Ελλάδα:** κατά τη DMP είναι εκτός πακέτου UK λογιστή και θέλει Έλληνα φοροτεχνικό ([[2026-10-19-dmp-accountants-grow360-quote]]). Σχετικά: [[forologika-asfalistika]].
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-24:
+- **Confirmation statement (προθεσμία 2026-11-23):** TrustID ✓, ταυτότητα επαληθευμένη στην Companies House ✓, **PSC verified ✓**, Auth Code και personal code στάλθηκαν στην TAP. Η κατάθεση **μπλοκάρει στο AML** — η TAP ζητά τα έγγραφα AML πρώτα (2026-11-23 18:18). Η TAP λέει ότι η Companies House δίνει περιθώριο μετά την προθεσμία χωρίς πρόστιμο ([[2026-11-23-grow360-tap-urgent-filing-verification]]).
+- **Registered office:** η YCF δεν κρατά επιστολές· προωθεί την επιστολή HMRC (κωδικός CT) για £12 μετά από αλλαγή διεύθυνσης. Ο Δήμος δηλώνει ότι το registered office της TAP το είχε κανονίσει ο Mathew Smith (£20 + VAT Οκτ–Νοε, £10 + VAT/μήνα από Δεκ.)· η Natalie το πέρασε στον Matthew ([[2026-11-19-grow360-ycf-30-imeres-proeidopoiisi-update-2026-11-24]]).
+- **Φορολογική κατοικία:** ο Δήμος ρώτησε τον Jamie αν η αξιολόγηση UK–Ελλάδα είναι στο πακέτο, με προσφορά πριν από χρεώσιμη δουλειά, πριν το πρώτο CT600 ([[2026-11-23-grow360-tap-tax-residence-scope]]).
+
 Στις 2026-11-20:
 - **TAP ✓ πληρώθηκε:** μετά από «Overdue invoices» της Natalie Hughes (2026-11-19 13:02 — καμία δουλειά/εκπροσώπηση στην HMRC μέχρι την πληρωμή), ο Δήμος πλήρωσε μέσω Pandle **P-388148 £72** (13:07) και **P-388149 £24** (13:08) και απάντησε 13:09 («έπρεπε πρώτα να στείλουμε κεφάλαια στην UK εταιρεία»)· η TAP: έως 24 ώρες για να φανεί ([[2026-11-19-grow360-tap-overdue-p388148-p388149]], [[2026-11-19-grow360-pandle-pliromes-tap]]).
 - **Corporation Tax:** η TAP ζήτησε από την HMRC εξουσιοδότηση (2026-11-20 00:42)· ο **κωδικός «CT»** έρχεται ταχυδρομικά στο **registered office** σε ~2 εβδομάδες, ισχύει 1 μήνα, να σταλεί **με email** στην Jennifer Atherton ([[2026-11-20-grow360-tap-corporation-tax-authorisation]]).
@@ -51,6 +56,10 @@ updated: 2026-11-23
 - Η YCF θα ανανεώσει αυτόματα τις υπηρεσίες της στις 2026-11-10, αν δεν ακυρωθούν ([[2026-10-13-yourcompanyformations-renewal]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] **Έγγραφα AML στην TAP** (proof of address· photo ID από TrustID· password-protected φάκελος) — Δήμος — **άμεσα**, μπλοκάρει confirmation statement + call Jamie ([[2026-11-23-grow360-tap-urgent-filing-verification]])
+- [ ] Επιβεβαίωση κατάθεσης confirmation statement + receipts — TAP — μετά το AML ([[2026-11-23-grow360-tap-urgent-filing-verification]])
+- [ ] Registered office: η Natalie ζήτησε από τον Matthew (TAP) να βοηθήσει — TAP· απόφαση ανανέωση YCF ή μεταφορά — Δήμος ([[2026-11-19-grow360-ycf-30-imeres-proeidopoiisi-update-2026-11-24]])
+- [ ] Απάντηση Jamie: scope φορολογικής κατοικίας UK–Ελλάδα + προσφορά — TAP ([[2026-11-23-grow360-tap-tax-residence-scope]])
 - [ ] Επιβεβαίωση είσπραξης P-388148/9 και ξεμπλοκάρισμα TAP (onboarding, Auth Code, HMRC) — TAP — έως ~2026-11-20 14:40 ([[2026-11-19-grow360-tap-overdue-p388148-p388149]])
 - [ ] **Ανανέωση YCF (−30%) ή αλλαγή registered office/service address στην Companies House** — Δήμος — **έως ~2026-12-19** (αλλιώς αναφορά στην Companies House)· να γίνει πριν φτάσει ο κωδικός CT ([[2026-11-19-grow360-ycf-30-imeres-proeidopoiisi]], [[2026-11-20-grow360-tap-corporation-tax-authorisation]])
 - [ ] Παραλαβή/προώθηση επιστολών που κρατά η YCF για τη GROW 360 (καταστρέφονται μετά από 30 ημέρες) — Δήμος — από 2026-11-19 ([[2026-11-19-grow360-ycf-30-imeres-proeidopoiisi]])
@@ -85,6 +94,7 @@ updated: 2026-11-23
 - 2026-10-02 — Η Μαρίνα αναλαμβάνει να επιλέξει λογιστή και να ρωτήσει αν ακυρώνονται οι υπηρεσίες YCF ([[2026-10-02-grow360-ycf-renewal-accounting]]).
 
 ## Χρονολόγιο
+- **2026-11-23 16:02–18:46** — Ημέρα προθεσμίας: ο Δήμος έστειλε «URGENT TODAY» στην TAP· ολοκλήρωσε **TrustID** → η TAP επαλήθευσε την ταυτότητα στην Companies House και **PSC verified ✓**· έστειλε Auth Code και personal code· η TAP ζήτησε την κατάθεση, αλλά στις 18:18: **πρώτα να περάσει το AML** ([[2026-11-23-grow360-tap-urgent-filing-verification]]). YCF: δεν κρατά επιστολές· προώθηση HMRC £12/επιστολή ([[2026-11-19-grow360-ycf-30-imeres-proeidopoiisi-update-2026-11-24]]). Ερώτημα φορολογικής κατοικίας UK–Ελλάδα στον Jamie με αίτημα προσφοράς ([[2026-11-23-grow360-tap-tax-residence-scope]]).
 - **2026-11-22** — YCF: **Confirmation Statement λήγει 2026-11-23**· προσφέρουν κατάθεση £90 + VAT ([[2026-11-22-grow360-ycf-confirmation-statement-due]]).
 - **2026-11-20 10:12** — YCF: έληξαν registered office, director's service address, mail forwarding, filing service — αν η διεύθυνση συνεχίσει να χρησιμοποιείται θα ειδοποιήσουν το Companies House (ρίσκο strike off) ([[2026-11-20-grow360-ycf-services-expired]]).
 - **2026-11-20** — TAP: επιβεβαίωσε πληρωμή· ζητά TrustID + AML (ταυτότητα, αποδεικτικό διεύθυνσης) πριν το Initial Call/HMRC· ήρθε link TrustID ([[2026-11-19-grow360-tap-overdue-p388148-p388149-update-2026-11-23]], [[2026-11-20-grow360-trustid-verification]]).

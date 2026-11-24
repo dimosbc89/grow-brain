@@ -3,7 +3,7 @@ type: client
 title: "Υιάγια (Yiayia Meatballs)"
 aliases: [Υιάγια, Yiayia, Yiayia Meatballs, Υιάγια Home of Meatballs, Γιάγια, yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 # Υιάγια (Yiayia Meatballs)
 > Εστιατόριο με κεφτεδάκια («Home of Meatballs») της [[maria-drouza]]· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influencers, μενού, packaging και γυρίσματα.
@@ -104,6 +104,7 @@ updated: 2026-11-23
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- **2026-11-23 14:21** — Βασιλική στέλνει την πρόταση Christmas campaign 2026 (PDF)· συζήτηση στη συνάντηση **2026-11-24 14:30** ([[2026-11-20-yiayia-synantisi-christmas-campaign-update-2026-11-24]]).
 - **2026-11-20** — Τελικά PDF take away menu EN/GR· η Βασιλική ρωτά για προσφορές εκτύπωσης. Συνάντηση στο γραφείο **Τρ 24/11 14:30**· η Βασιλική υποσχέθηκε πρόταση Christmas Campaign έως 20/11 — δεν φαίνεται αποστολή ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-23]], [[2026-11-20-yiayia-synantisi-christmas-campaign]]).
 - 2026-11-19 — Take away menu: 3 μικρές διορθώσεις από Τζεβελέκο· πουρές παραμένει 1,00 € ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]]).
 - 2026-11-18 — NAK: έγκριση + παραγγελία σακουλακιών (150 κιλά) και ασπρόμαυρης χαρτοπετσέτας 24×24 (10 κιβώτια)· διόρθωση για τον τόπο παράδοσης ([[2026-11-09-yiayia-meta-nak-timologio-update-2026-11-19]], [[2026-11-18-yiayia-nak-xartopetseta-paraggelia]]).

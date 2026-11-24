@@ -3,7 +3,7 @@ type: project
 title: "Booking App (UK)"
 aliases: [Booking App, APP UK, growagency.online/services/booking-app]
 status: ενεργός
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 # Booking App (UK)
 > Γραμμή υπηρεσίας της GROW: εφαρμογή online κρατήσεων για studios (κυρίως pilates/wellness), με landing στο growagency.online/services/booking-app/ και leads από φόρμα και Meta Ads (Calendly «meta-ads-embed»), κυρίως από UK.
@@ -19,6 +19,7 @@ updated: 2026-11-23
 - **Ελληνικό outreach (2026-11-17, ActiveCampaign):** «από €49/μήνα + ΦΠΑ, εγκατάσταση από €180» → η DaFit ζήτησε αφαίρεση + «re-indexing» («SOS SOS» προς Δήμο)· ενέργεια: δεν φαίνεται ([[2026-11-17-booking-app-outreach-dafit-unsubscribe]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Calls: Εμμανουέλα MUA **2026-11-24 13:00** (Δήμος + Μαρίνα) · **A. Mavrou 2026-11-25 12:00** (Δήμος) · Γκότσης 2026-11-27 12:00 ([[2026-11-24_2026-12-01]])
 - [ ] Στοιχεία επιχείρησης από [[abi-browne]] → ακριβής πρόταση + setup fee — Abi, μετά Δήμος — από 2026-11-18 ([[2026-11-18-booking-app-abi-browne-call]])
 - [ ] **Αφαίρεση DaFit (dafniroilou@dafit.gr) από ActiveCampaign + απάντηση για «re-indexing»** — Δήμος/Μαρίνα — άμεσα ([[2026-11-17-booking-app-outreach-dafit-unsubscribe]])
 - [x] Call Abi Browne 18/11 18:00 — Δήμος — ✓ έγινε ([[2026-11-18-booking-app-abi-browne-call]])
@@ -31,6 +32,7 @@ updated: 2026-11-23
 —
 
 ## Χρονολόγιο
+- **2026-11-23** — Νέο call **A. Mavrou 2026-11-25 12:00** (Δήμος, οργάνωση Δέσποινα) ([[2026-11-24_2026-12-01]]). Δέσποινα → κα Κασμερίδου (demo κρατήσεων): call μετά τις 25/11 ([[2026-11-23-booking-app-kasmeridou-demo]]). Μαρίνα: συγγνώμη για το χαμένο call 20/11, ζητά νέο ραντεβού ([[2026-11-23-booking-app-marina-epanaprogrammatismos]]).
 - **2026-11-20 08:21** — Νέο lead: Παναγιώτης Ρόππας (studio personal training & pilates reformer, 7 άτομα, 2 χώροι) — θέλει καταμέτρηση συνεδριών πακέτων, email λήξης, χρέωση no-show· διαθέσιμος 20/11–21/11 πρωί. Η Μαρίνα το προώθησε στον Δήμο· δεν φαίνεται κλήση ([[2026-11-20-booking-app-roppas-studio-pilates]]).
 - **2026-11-24 13:00** — Call Εμμανουέλα MUA (Δήμος + Μαρίνα, Meet) — ημερολόγιο.
 - 2026-11-16 → 2026-11-20 — Meta Ads GROW: Booking Reels GR 89,50 € / 12 leads (7,46 €) · Booking Reels UK 92,24 € / 8 leads (11,53 €) · Booking Apps GR (paused) 45,49 € / 5 leads (9,10 €). Calendly εβδομάδας: Bayse, Ore, Abi Browne, Vassiliadou, Γκότσης (27/11), Εμμανουέλα (24/11) ([[2026-11-20-weekly-report-data]]).

@@ -3,7 +3,7 @@ type: person
 title: "Δημήτρης Γεωργιάδης"
 aliases: [Dimitris Georgiadis, Georgiadis chef, Hilton σεφ, Dimitris.Georgiadis@hilton.com]
 status: ενεργός
-updated: 2026-11-20
+updated: 2026-11-24
 ---
 # Δημήτρης Γεωργιάδης
 > Executive Chef στα Hilton Garden Inn Athens Syggrou / Chania City και ÉRA Hotel Heraklion· πελάτης της GROW για το προσωπικό του brand και το [[circle-of-dining]].
@@ -30,6 +30,7 @@ updated: 2026-11-20
 - Βλ. [[circle-of-dining]], [[2026-08-11-circle-of-dining-apodoxi-450]].
 
 ## Χρονολόγιο
+- **2026-11-23** — Ιωάννα: απαντήσεις συνέντευξης Opinionleader.gr τις επόμενες μέρες ([[2026-11-23-georgiadis-opinionleader-synenteyxi]]) · ιδέες placement Global Foods για επεισόδια Σκλαβενίτη (25/11) & Μούτσου (1/12) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-24]]).
 - 2026-11-19 — Ζητά email signature Circle of Dining· σε cc στη διακόσμηση dinner· τιμολόγηση εντύπων dinner στο όνομά του ([[2026-11-19-circle-of-dining-ypografi-email]], [[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]], [[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]]).
 - 2026-11-16 — Σε cc στο τιμολόγιο #1333 (μοντάζ 3ου επεισοδίου) ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]]).
 - 2026-11-13 — Test πρόσκλησης για το private dinner Circle of Dining 2026-11-22 19:30 στο Rodopou & Beyond ([[2026-11-13-circle-of-dining-dinner-test-prosklisi]]).

@@ -3,7 +3,7 @@ type: vendor
 title: "FASTPATH ΙΚΕ"
 aliases: [Fastpath, fastpath.gr, FASTPATH IKE]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-24
 ---
 # FASTPATH ΙΚΕ
 > Ο hosting provider της GROW. Φιλοξενεί τον managed server cloud.growagency.online (Plesk), όπου τρέχουν sites και email πελατών. Στις 2026-10-20 απειλεί διακοπή για ανεξόφλητο τιμολόγιο.
@@ -39,6 +39,7 @@ updated: 2026-11-17
 - —
 
 ## Χρονολόγιο
+- **2026-11-23 09:02** — Malware scan cloud.growagency.online: web shell στο chefmanousakis.gr, backdoor στο wordpress-backups/ του globalfoods.gr ([[2026-11-23-fastpath-malware-hosting]]).
 - 2026-11-17 — Προτιμολόγιο #62689, 507,78 € (387,50 € managed services + 22,00 € Plesk + ΦΠΑ), λήξη 2026-12-01 ([[2026-11-17-admin-eidopoiiseis]]).
 - 2026-11-09 — Παραστατικό 35135 για #59965 (08/11, 507,78 €), προωθήθηκε σε Μαρίνα & Βασιλική. ⚠️ ασαφές αν εξοφλήθηκε και το #61293 ([[2026-11-10-admin-omada-mikra]]).
 - 2026-11-09 — Επιβεβαίωση εξόφλησης **#59965 (Οκτώβριος)** 507,78 € (πληρωμή 2026-11-08 09:27). ⚠️ Το #61293 (Νοέμβριος) δεν φαίνεται εξοφλημένο ([[2026-11-09-admin-eidopoiiseis]]).

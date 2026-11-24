@@ -1,7 +1,7 @@
 ---
 type: index
 title: "Κατάλογος"
-updated: 2026-11-21
+updated: 2026-11-24
 ---
 # Κατάλογος
 
@@ -205,6 +205,7 @@ updated: 2026-11-21
 - [[epilogin|Epilogin / Epilogi Digital]] — Προμηθευτής εκτυπώσεων/menuboards της GROW (επαφή iasonas-kolytos)· χρησιμοποιείται και για κοστολόγηση κατασκευαστικών σε εκθεσιακά περίπτερα.
 - [[epsilon-net|Epsilon Net]] — Πάροχος ERP/τιμολόγησης (Epsilon Smart Advanced) και παρόχου ηλεκτρονικής τιμολόγησης (Epsilon Digital, myDATA) της tandem-concept. Η GROW συνδέει το…
 - [[audio-tech|Audio-tech]] — LED οθόνες / video wall για περίπτερα (XENIA 2026).
+- [[led-vision|LED VISION]] — AV/LED walls για περίπτερα & events· prospect συνεργάτης (2026-11-23).
 - [[forum-sa|Forum SA]] — Διοργανωτής XENIA· θέση περιπτέρου Αντεμισάρη.
 - [[expopiece|Expopiece]] — Κατασκευαστής περιπτέρων με τον οποίο η GROW κοστολογεί κατασκευαστικά για τα εκθεσιακά της projects (ekthesiaka-periptera).
 - [[expowork|EXPOWORK (Metropolitan Expo)]] — Εταιρεία κατασκευής εκθεσιακών περιπτέρων του Metropolitan Expo· έστειλε στην greenmart-antemisaris πρόταση για περίπτερο στη XENIA 2026, που έφτασε σ…

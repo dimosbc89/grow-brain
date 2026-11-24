@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -26,6 +26,9 @@ updated: 2026-11-23
 - Bag hangers/τσάντες Fun Promotion: παραγγελία 813,44 € σε εξέλιξη, παράδοση ασαφής ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-11]]). Ads (Google + META 150 €/μήνα) εγκρίθηκαν 2026-10-26 ([[2026-10-14-tandem-social-ads-strategy]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] **Προσκλήσεις opening 1–2/12** — Βάσια Κ. (Asana 24/11) / Δέσποινα — ASAP ([[2026-11-23-tandem-official-opening-event]])
+- [ ] **Social icons site + photo change + Linktree** — Δήμος — Asana 23–24/11 ([[2026-11-23-tandem-official-opening-event]])
+- [ ] Φόρτωση Vanessa Wu W26 στο Epsilon (Κολωνάκι) — Δήμος/GROW ([[2026-11-23-tandem-epsilon-kolonaki-excel]])
 - [ ] **Τηλέφωνο στη BIZ** για EasyBiz / booking 810027890 (τι extra χρειάζεται αφού τα είδη είναι ήδη στο σύστημα) — Δήμος (ζήτησε η Caroline 2026-11-19 21:30· ο Δήμος είχε προτείνει να πάρει εκείνη) — 2026-11-20 ([[2026-11-19-tandem-cv-bags-biz-product]], [[2026-11-19-tandem-easybiz-booking]])
 - [ ] Ολοκλήρωση inbound booking 810027890 (3 κιβώτια Christian Villa) — BIZ — έως 2026-11-25 ([[2026-11-19-tandem-easybiz-booking]])
 - [ ] Τελευταίες διορθώσεις e-shop: φίλτρο μείωσης κειμένου, εικονίδιο γλώσσας στο header, αντικατάσταση AI φωτογραφιών με του φωτογράφου (link από [[despina-velissariou]]), μεγαλύτερο apparel carousel — Δήμος/Δέσποινα — εβδομάδα 2026-11-23 ([[2026-11-19-tandem-last-corrections-website]])
@@ -107,6 +110,8 @@ updated: 2026-11-23
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- **2026-11-23 16:58** — Caroline: excel Vanessa Wu W26 για φόρτωση στο **Epsilon** (Κολωνάκι) ([[2026-11-23-tandem-epsilon-kolonaki-excel]]).
+- **2026-11-23 09:49** — George: **επίσημο opening 2026-12-01 ή 12-02** — προσκλήσεις ASAP· catering προσφορές από Δέσποινα· πελάτες λένε ότι **τα social icons του site δεν ανοίγουν** ([[2026-11-23-tandem-official-opening-event]]).
 - **2026-11-20 17:33** — Η Caroline ρωτά για feedback της BIZ για τις τσάντες + στέλνει WooCommerce import xlsx & pptx για τη συλλογή Vanessa Wu W26 — περιμένει τον Δήμο ([[2026-11-20-tandem-vanessa-wu-winter-2026]]).
 - **2026-11-20 18:09** — Η [[laurine-erasmus]] έστειλε 2 εικόνες post για το pop up event της Τετάρτης (💭 25/11)· χωρίς απάντηση ([[2026-11-20-tandem-nour-pop-up-post]]).
 - **2026-11-20** — Fun Promotion: εξόφληση υπολοίπου 406,72 € (σύνολο 813,44 €) από τη Δέσποινα, τιμολόγιο ΤΔΑ0009359 στον George/Caroline· hangers/τσάντες στο Κολωνάκι ([[2026-11-20-fun-promotion-exoflisi-tandem]], [[2026-11-20-tandem-fun-promotion-timologio]]).

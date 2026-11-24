@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -26,6 +26,9 @@ updated: 2026-11-23
 - **Ανοιχτά από Δήμο:** CCTV policy 4.1 (από 2026-11-17), AI Agent στο app (το call 2026-11-16: ασαφές), Lorem Ipsum στη σελίδα Brands, αίτημα Global App από 2024-09-23 ([[2026-11-17-globalfoods-cctv-policy]], [[2026-11-15-globalfoods-ai-agent-app-update-2026-11-17]], [[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]], [[2024-07-11-globalfoods-global-app-pedia]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] **Απάντηση στην Εύη για την πρόταση Ιταλοελληνικού Επιμελητηρίου** — Δήμος/Δέσποινα ([[2026-11-23-globalfoods-italoelliniko-epimelitirio]])
+- [ ] Καθαρισμός backdoor globalfoods.gr + αλλαγή κωδικών — Δήμος — άμεσα ([[2026-11-23-fastpath-malware-hosting]])
+- [ ] 4η εκδοχή 4σέλιδου με τα νέα κείμενα (17×24) — Δέσποινα ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-24]])
 **Νέα στις 2026-11-20**
 - [ ] Υπογραφή/σφραγίδα + συμπλήρωση στοιχείων στο συμφωνητικό Hospitality Jam (8+1 επεισόδια) — [[elpida-plavou]] — από 2026-11-19 13:11 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]])
 - [ ] Συμφωνία στο κείμενο 4σέλιδου («GLOBAL FOODS GROUP.docx») → νέα εκδοχή με καθαρή εταιρική αισθητική, μεγάλες φωτό, λευκό χώρο — [[despina-velissariou]] — από 2026-11-19 17:26 ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]])
@@ -138,6 +141,11 @@ updated: 2026-11-23
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- **2026-11-23 16:14** — Εύη: «Έχουμε κάποια εξέλιξη για την πρόταση στο Ιταλοελληνικό επιμελητήριο;» ([[2026-11-23-globalfoods-italoelliniko-epimelitirio]]).
+- **2026-11-23 14:54–15:52** — Ελπίδα: διορθώσεις κειμένου 4σέλιδου (σελ. 1, 2, 4) + διάσταση 17×24 cm ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-24]]).
+- **2026-11-23 13:03** — Ιωάννα: ιδέες product placement για Hospitality Jam (Σκλαβενίτης 25/11, Μούτσος 1/12) — αναμένει σχόλια ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-24]]).
+- **2026-11-23 15:36** — Δήμος ✓ Asana: Συνταγές — Updates για Global & Unique apps (10 υποεργασίες).
+- **2026-11-23 09:02** — FASTPATH: **backdoor** στο wordpress-backups/ του globalfoods.gr ([[2026-11-23-fastpath-malware-hosting]]).
 - **2026-11-20 18:20** — Η Δέσποινα έστειλε 3η εκδοχή 4σέλιδου στην Ελπίδα· περιμένει σχόλια + κείμενα Σαντορίνης ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-23]]).
 - **2026-11-20** — Υλικό για posts: WeTransfer βίντεο Gnocco Fritto, Coati Topping Pizza + «Christmas Selection – New Proposals», 11 νέα tips από Georgia Tsatsi — χωρίς απάντηση GROW ([[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos-update-2026-11-23]], [[2026-11-19-globalfoods-coati-topping-pizza-update-2026-11-23]], [[2026-10-09-globalfoods-tips-site-update-2026-11-23]]).
 - 2026-11-19 — 13:11 Μαρίνα: συμφωνητικό Hospitality Jam 8+1 για υπογραφή · 13:59 Εύη: σειρά Coati TOPPING PIZZA (αποκλειστικότητα ✓ 14:59) · 16:35 νέος κωδικός Gnocco Fritto · 17:26 Ελπίδα: πρώτα κείμενο 4σέλιδου, μετά καθαρή εταιρική αισθητική ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]], [[2026-11-19-globalfoods-coati-topping-pizza]], [[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos]], [[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]]).
