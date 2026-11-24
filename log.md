@@ -66,3 +66,4 @@ title: "Ημερολόγιο ενεργειών"
 2026-11-23 09:01 — remember — R-004 υπενθύμιση
 2026-11-24 08:20 — brief — ~30 threads (3 απεσταλμένα· 26 νέα digests/updates), 5 συναντήσεις σήμερα (Avance 11:00, Barbaggio 12:00, Εμμανουέλα 13:00, HE follow up 13:00, Υιάγια 14:30), Asana ✓ — attention, index, asana-board, prices, grow-360-ltd, the-accountancy-partnership, tandem-concept, global-foods, booking-app, hellenic-heritage-evolution, knack-and-snack, greenmart-antemisaris, kyknos, yiayia-meatballs, interoptics, krapsites, nikas-coffee-expert, danaos, tagora, fastpath, hosting-domains, dimitris-georgiadis, barolo, ekthesiaka-periptera, led-vision (νέο), raw/calendar/2026-11-24_2026-12-01
 2026-11-24 16:10 — routine — πρωινή ενημέρωση: προστέθηκε έλεγχος hello@growagency.online (leads + λίστα καθαρίσματος με έγκριση) — briefs/README.md, CLAUDE.md
+2026-11-24 16:24 — routine — hello@: πρόσβαση μέσω Claude in Chrome στο Mac (επιλογή Δήμου) — briefs/README.md, CLAUDE.md

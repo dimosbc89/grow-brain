@@ -73,7 +73,7 @@ updated: YYYY-MM-DD
 - **Chief of Staff δουλειές** (βλ. `jobs/README.md`): Λίστα leads Δευτέρα ~09:00 · Posts εβδομάδας Παρασκευή ~10:00 · Αναφορά εβδομάδας Παρασκευή ~16:00. Αρχεία στο `jobs/`.
 - **Εβδομαδιαία σύνθεση — Σάββατο ~10:15** (`jobs/weekly-synthesis.md`): συμπύκνωση σελίδων, μοτίβα, τιμές, μαθήματα, playbooks, lint.
 - **Μηνιαία ανασκόπηση — 1η του μήνα ~11:20** (`jobs/monthly-review.md`): `reviews/YYYY-MM.md`, υγεία πελατών, pipeline, ομάδα, lead scoring.
-- **Inbox hello@growagency.online — μέσα στην πρωινή ενημέρωση** (βήμα 3γ του `briefs/README.md`): leads → `leads/`, λίστα καθαρίσματος· καμία ενέργεια στο Gmail χωρίς «ναι» Δήμου στη συνομιλία· «ναι» Δήμου 2026-11-24.
+- **Inbox hello@growagency.online — μέσα στην πρωινή ενημέρωση** (βήμα 3γ του `briefs/README.md`, μέσω Claude in Chrome στο Mac): leads → `leads/`, λίστα καθαρίσματος· καμία ενέργεια στο Gmail χωρίς «ναι» Δήμου στη συνομιλία· «ναι» Δήμου 2026-11-24.
 - **Remember agent — κάθε μέρα 08:43 & 14:43** (`jobs/remember.md`): υπενθυμίσεις από το `reminders.md` με email + κινητό· «ναι» Δήμου 2026-11-20.
 - Νέες ρουτίνες μόνο με «ναι» του Δήμου (σύνθεση & ανασκόπηση: «ναι» 2026-11-17).
 
