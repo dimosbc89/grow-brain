@@ -71,3 +71,4 @@ title: "Ημερολόγιο ενεργειών"
 2026-11-25 13:10 — demo — live demo Pilates by Anastasia (growagency.online/demo/pilates-by-anastasia/) — booking-app
 2026-11-25 13:25 — demo — Pilates by Anastasia μεταφέρθηκε σε δικό του Cloudflare worker με βάση· αφαιρέθηκε από growagency.online — booking-app
 2026-11-25 13:30 — demo — Pilates by Anastasia live στο https://pilates-by-anastasia-demo.dimos-5f9.workers.dev — booking-app
+2026-11-25 13:45 — demo — Pilates by Anastasia: υπηρεσίες Pilates + Pilates Cardio — booking-app
