@@ -3,7 +3,7 @@ type: client
 title: "Panagiotis Nikas / CoffeeXpert / Barista Academy"
 aliases: [Panagiotis Nikas, Νίκας, P. Nikas, Coffee Expert, CoffeeXpert, ΚΟΦΙ ΕΞΠΕΡΤ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ, Barista Academy, baristacademy.gr, barista-academy.gr, baristaexpert.gr, coffeexpert.gr, panagiotisnikas.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 # Panagiotis Nikas / CoffeeXpert / Barista Academy
 > Ο [[panagiotis-nikas]] και οι επιχειρήσεις του (CoffeeXpert, Barista Academy, προσωπικό brand): η GROW τρέχει Meta Ads, κρατά τα sites/domains και λειτουργεί στην πράξη ως το IT/security help desk του — πολλά «copyright» phishing.
@@ -17,6 +17,7 @@ updated: 2026-11-24
 - **Σχετικά:** lead [[avek]] (συνάντηση «P. Nikas X AVEK» 2026-10-19)· 2box (kimon@2box.gr, «P. Nikas X 2box» 2026-08-05) ([[2026-07-20_2026-11-03]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-19)
+- ⚠️ **Νέο 2026-11-25:** το **lucaffe.gr έληξε** 2026-11-24 23:59 UTC· ανανέωση μέσα σε 15 ημέρες (~έως 2026-12-09) ([[2026-11-25-lucaffe-domain-ligmeno]]).
 - **lucaffe.gr λήγει 2026-11-24 23:59 UTC** (FORTH, 2026-11-19)· ανανέωση μέσω papaki/ENARTIA — ποιος: ασαφές ([[2026-11-19-lucaffe-domain-lixi]]).
 - **YouTube:** το freddo video εγκρίθηκε 2026-11-13 («Πολύ καλό», tag Kalko)· το Java Jives ανεβαίνει 2026-11-16 — αν ανέβηκαν: ασαφές ([[2026-11-13-nikas-review-yt-video-freddo]]).
 - **Καρτέλα:** ο [[panagiotis-nikas]] περιμένει διορθωμένη καρτέλα από 2026-11-02 (λέει ότι πλήρωσε 961,00 € στις 2026-10-15 έναντι υπολοίπου 1.829,00 €) ([[2026-11-02-nikas-kartela-pliromi-15-10]]).
@@ -24,7 +25,7 @@ updated: 2026-11-24
 - **baristacademy.gr:** κενά ασφαλείας/spam φόρμας ανοιχτά από 2026-10-09· Wordfence (Super Forms) ξανά 2026-11-03 ([[2026-10-09-baristacademy-spam-forma-hacking]], [[2026-11-03-admin-eidopoiiseis]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Ανανέωση lucaffe.gr (papaki) — λήξη **2026-11-24 23:59 UTC** — Δήμος / Νίκας (ποιος: ασαφές) ([[2026-11-19-lucaffe-domain-lixi]])
+- [ ] Ανανέωση lucaffe.gr (papaki) — **έληξε 2026-11-24, περιθώριο ~έως 2026-12-09** ([[2026-11-25-lucaffe-domain-ligmeno]]) — Δήμος / Νίκας (ποιος: ασαφές) ([[2026-11-19-lucaffe-domain-lixi]])
 - [ ] Ανέβασμα freddo YT video με tag Kalko (+ πιθανό colab) — [[vassiliki-giannopoulou]] — εγκρίθηκε 2026-11-13 ([[2026-11-13-nikas-review-yt-video-freddo]])
 - [ ] Βίντεο Java Jives — ανεβαίνει **2026-11-16** — επιβεβαίωση ότι ανέβηκε — Βασιλική ([[2026-11-13-nikas-review-yt-video-freddo]])
 - [ ] Απάντηση στην Ιωάννα: πότε βλέπουμε το Nikas Podcast (γύρισμα 7/12) — Δήμος ([[2026-11-04-dianoma-pelates-mikra]])
@@ -58,6 +59,7 @@ updated: 2026-11-24
 - Όλα τα «copyright/DMCA» και «Microsoft 365» emails χαρακτηρίστηκαν spam/phishing — καμία ενέργεια ([[2026-08-21-ninja-tune-copyright-spam-nikas]], [[2026-08-31-nikas-copyright-phishing-scam]], [[2026-09-01-coffeexpert-m365-phishing-check]], [[2026-09-15-barista-academy-copyright-spam]], [[2026-10-19-panagiotisnikas-copyright-spam]]).
 
 ## Χρονολόγιο
+- **2026-11-25** — lucaffe.gr έληξε· περιθώριο 15 ημερών ([[2026-11-25-lucaffe-domain-ligmeno]]).
 - **2026-11-24 07:21** — ICS-FORTH: lucaffe.gr λήγει **σήμερα** ([[2026-11-24-lucaffe-domain-lixi]]). Asana: «follow up mail» [NIKAS] στον Δήμο, λήξη 24/11 (ανάθεση Βασιλικής 23/11).
 - **2026-11-22** — FORTH: το **lucaffe.gr λήγει 24/11 23:59 UTC** ([[2026-11-22-lucaffe-domain-lixi]]).
 - 2026-11-19 — FORTH: lucaffe.gr λήγει 2026-11-24 23:59 UTC ([[2026-11-19-lucaffe-domain-lixi]]).

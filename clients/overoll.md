@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-11-23
+updated: 2026-11-25
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -19,6 +19,7 @@ updated: 2026-11-23
 - **Ομάδα GROW:** ο Δήμος (sites, domains)· [[vassiliki-giannopoulou]] και [[marina-papanastasiou]] σε cc ([[2026-10-14-overoll-websites-domains]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Νέο 2026-11-24:** shooting **Παρ 2026-11-27 09:00** στο κατάστημα Γλυφάδας (Panettone + croissant κάστανο από τη Βίκυ Πηλιανίδου)· χρειάζονται και φωτογραφίες για πλατφόρμες· ζητούν **πρόταση μοντέλων (προφίλ + κόστος)** ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-25]]). Asana ✓ 24/11: ταμπελάκια αεροδρομίου (διόρθωση 4).
 - **Χριστούγεννα:** 2026-11-19 η [[vassiliki-giannopoulou]] έστειλε strategy (X-MAS CAMPAIGN.pdf) + moodboard — «Για τα μικρά που κάνουν τα Χριστούγεννα μεγάλα» / «Χριστούγεννα, σε στρώσεις»· η [[vaso-theochari]] **ενέκρινε κατεύθυνση και ροή** (Panettone Chocolate 21–22/11 → teaser 23–25/11 → shooting 2026-11-27 → Δεκέμβριος) και θέλει να ξαναδεί μόνο το moodboard (call 2026-11-20 πρωί)· προφίλ + κόστος μοντέλων εκκρεμούν από GROW ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]]).
 - **Καρτέλα:** υπόλοιπο **2.312,80 €** μετά από νέα κατάθεση (2026-11-19· ήταν 5.312,80 € στις 2026-11-02) ([[2026-11-19-overoll-kartela-pelati]]).
 - **Κριτικές 8–15/11:** η Overoll έδωσε δικό της κείμενο για το Brownie Πραξιτέλους 8/11· μία κριτική μένει αναπάντητη ([[2026-11-16-overoll-kritikes-8-15-11-update-2026-11-20]]).
@@ -26,6 +27,8 @@ updated: 2026-11-23
 - Εσωτερικά: GTA reel v2 (Δήμος, 2026-11-18) — αν στάλθηκε στην Overoll: ασαφές ([[2026-11-18-overoll-gta-reel]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-25**
+- [ ] **Πρόταση μοντέλων (προφίλ + κόστος)** για το shooting — Βασιλική — πριν 2026-11-27 ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-25]])
 - [ ] Call για το moodboard του shooting — [[vassiliki-giannopoulou]] ↔ [[vaso-theochari]] — **2026-11-20 09:00–13:00** (η Βασιλική να στείλει ώρες) ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]])
 - [ ] Πρόταση post Panettone Chocolate για 21–22/11 — Βασιλική — **έως 2026-11-20** ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]])
 - [ ] Προφίλ + κόστος μοντέλων για shooting 27/11 — GROW (Βασιλική) — «άμεσα», πριν 2026-11-27 ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]])
@@ -83,6 +86,7 @@ updated: 2026-11-23
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- **2026-11-24** — Shooting 27/11 09:00 Γλυφάδα· ερώτηση για μοντέλα ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-25]]).
 - **2026-11-20 08:57** — Η Βασιλική πρότεινε call για το moodboard στις 10:00 ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-23]]). Shooting 27/11.
 - 2026-11-19 — Λογιστήριο GROW: ανανεωμένη καρτέλα μετά από κατάθεση, υπόλοιπο 2.312,80 € ([[2026-11-19-overoll-kartela-pelati]]).
 - 2026-11-19 — 12:08 κείμενο απάντησης κριτικής Brownie Πραξιτέλους · 15:07 Βασιλική: Christmas strategy + moodboard · 16:05 Βάσω εγκρίνει κατεύθυνση/ροή, call για moodboard 20/11 πρωί ([[2026-11-16-overoll-kritikes-8-15-11-update-2026-11-20]], [[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-20]]).

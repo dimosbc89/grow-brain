@@ -3,7 +3,7 @@ type: person
 title: "Elpida Plavou"
 aliases: [Ελπίδα Πλάβου, Ελπίδα, elpida.plavou@globalfoods.gr]
 status: ενεργός
-updated: 2026-11-20
+updated: 2026-11-25
 ---
 # Elpida Plavou
 > Επαφή της [[global-foods]] με ασαφή ρόλο. Λαμβάνει τα Google Ads reports και την πρόταση videography, και είναι σε cc στα event θέματα.
@@ -50,6 +50,7 @@ updated: 2026-11-20
 - —
 
 ## Χρονολόγιο
+- **2026-11-24** — Forward νέου site Ιταλοελληνικού Επιμελητηρίου στον Δήμο ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]]).
 - 2026-11-19 — Παίρνει συμφωνητικό Hospitality Jam για υπογραφή (13:11)· στέλνει κείμενο 4σέλιδου και ζητά καθαρή εταιρική αισθητική (17:26) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]], [[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]]).
 - 2026-11-18 — Αρνητικό feedback στο 4σέλιδο Ατζέντας 2027, «κάλεσέ με το πρωί» ([[2026-11-18-globalfoods-4selido-atzenta-2027]]).
 - 2026-11-17 — Reel Πρεσβείας ✓ · αίτημα CCTV policy 4.1 ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-18]], [[2026-11-17-globalfoods-cctv-policy]]).

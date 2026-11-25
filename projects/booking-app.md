@@ -3,7 +3,7 @@ type: project
 title: "Booking App (UK)"
 aliases: [Booking App, APP UK, growagency.online/services/booking-app]
 status: ενεργός
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 # Booking App (UK)
 > Γραμμή υπηρεσίας της GROW: εφαρμογή online κρατήσεων για studios (κυρίως pilates/wellness), με landing στο growagency.online/services/booking-app/ και leads από φόρμα και Meta Ads (Calendly «meta-ads-embed»), κυρίως από UK.
@@ -14,11 +14,17 @@ updated: 2026-11-24
 - Κράτηση calls μέσω Calendly («New call SOS», τύπος meta-ads-embed) ([[syndromes-ergaleia]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-20)
+- **Νέο 2026-11-24/25:** Wrapp (myDATA) απάντησε στις ερωτήσεις: λογαριασμός ανά studio με δικό του ΑΦΜ, Partners API, Stripe flow, πακέτα 109–1.999 €/έτος, χωρίς προμήθειες· ζητά call (25/11 15:30, 26/11 12:00 ή 27/11 15:30) ([[2026-11-24-wrapp-mydata-partners-api-studios]]). Η Μαρίνα έστειλε πρόταση στο **Breathe Studio** (v2 FINAL) ([[2026-11-24-booking-app-breathe-studio-prosfora]]). Νέα calls: Ρόππας 25/11 11:00, A. Mavrou 25/11 12:00, Καραγιάννη 26/11 10:00, Κουντούρης 26/11 17:00, Μελικίδης 27/11 10:00, Γκότσης 27/11 12:00, Καϊάφα 27/11 13:00, Μίχου 27/11 15:00 ([[2026-11-25_2026-12-02]]). Η Μαρίνα ζήτησε πρόσβαση στο sheet «GROW BOOKING APPS LEADS» (2026-11-24 09:19).
 - **Meta Ads 2026-11-16→20:** Booking Reels GR 89,50 € / 12 leads (7,46 €/lead) · Booking Reels UK 92,24 € / 8 leads (11,53 €) · Booking Apps GR (paused) 45,49 € / 5 leads (9,10 €) ([[2026-11-20-weekly-report-data]]).
 - **Calls:** έγιναν (ή ήταν προγραμματισμένα) Bayse 17/11, Ore 18/11, [[abi-browne]] 18/11 (Δήμος — Service Guide + αίτημα 8 στοιχείων για ακριβή πρόταση)· έρχονται Christina Vassiliadou 20/11 18:30, Εμμανουέλα MUA 24/11 13:00, Θοδωρής Γκότσης 27/11 12:00 ([[2026-11-18-booking-app-abi-browne-call]], [[2026-11-20_2026-11-27]], [[2026-11-18_2026-11-25]]).
 - **Ελληνικό outreach (2026-11-17, ActiveCampaign):** «από €49/μήνα + ΦΠΑ, εγκατάσταση από €180» → η DaFit ζήτησε αφαίρεση + «re-indexing» («SOS SOS» προς Δήμο)· ενέργεια: δεν φαίνεται ([[2026-11-17-booking-app-outreach-dafit-unsubscribe]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-25**
+- [ ] **Επιλογή slot για call με [[wrapp]]** (25/11 15:30 · 26/11 12:00 · 27/11 15:30) — Δήμος ([[2026-11-24-wrapp-mydata-partners-api-studios]])
+- [ ] Απάντηση Breathe Studio στην πρόταση — Σοφία (Breathe) ([[2026-11-24-booking-app-breathe-studio-prosfora]])
+- [ ] Calls εβδομάδας: Ρόππας & A. Mavrou 25/11 · Καραγιάννη & Κουντούρης 26/11 · Μελικίδης, Γκότσης, Καϊάφα, Μίχου 27/11 — Δήμος ([[2026-11-25_2026-12-02]])
+- [ ] Share request Μαρίνας για «GROW BOOKING APPS LEADS» — Δήμος
 - [ ] Calls: Εμμανουέλα MUA **2026-11-24 13:00** (Δήμος + Μαρίνα) · **A. Mavrou 2026-11-25 12:00** (Δήμος) · Γκότσης 2026-11-27 12:00 ([[2026-11-24_2026-12-01]])
 - [ ] Στοιχεία επιχείρησης από [[abi-browne]] → ακριβής πρόταση + setup fee — Abi, μετά Δήμος — από 2026-11-18 ([[2026-11-18-booking-app-abi-browne-call]])
 - [ ] **Αφαίρεση DaFit (dafniroilou@dafit.gr) από ActiveCampaign + απάντηση για «re-indexing»** — Δήμος/Μαρίνα — άμεσα ([[2026-11-17-booking-app-outreach-dafit-unsubscribe]])
@@ -32,6 +38,7 @@ updated: 2026-11-24
 —
 
 ## Χρονολόγιο
+- **2026-11-24** — Wrapp: απαντήσεις για myDATA ανά studio + πρόταση call ([[2026-11-24-wrapp-mydata-partners-api-studios]])· πρόταση Breathe Studio ([[2026-11-24-booking-app-breathe-studio-prosfora]])· Μαρίνα έκλεισε 6 νέα calls 25–27/11 ([[2026-11-25_2026-12-02]]).
 - **2026-11-23** — Νέο call **A. Mavrou 2026-11-25 12:00** (Δήμος, οργάνωση Δέσποινα) ([[2026-11-24_2026-12-01]]). Δέσποινα → κα Κασμερίδου (demo κρατήσεων): call μετά τις 25/11 ([[2026-11-23-booking-app-kasmeridou-demo]]). Μαρίνα: συγγνώμη για το χαμένο call 20/11, ζητά νέο ραντεβού ([[2026-11-23-booking-app-marina-epanaprogrammatismos]]).
 - **2026-11-20 08:21** — Νέο lead: Παναγιώτης Ρόππας (studio personal training & pilates reformer, 7 άτομα, 2 χώροι) — θέλει καταμέτρηση συνεδριών πακέτων, email λήξης, χρέωση no-show· διαθέσιμος 20/11–21/11 πρωί. Η Μαρίνα το προώθησε στον Δήμο· δεν φαίνεται κλήση ([[2026-11-20-booking-app-roppas-studio-pilates]]).
 - **2026-11-24 13:00** — Call Εμμανουέλα MUA (Δήμος + Μαρίνα, Meet) — ημερολόγιο.

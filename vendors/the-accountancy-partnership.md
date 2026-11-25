@@ -3,7 +3,7 @@ type: vendor
 title: "The Accountancy Partnership (TAP)"
 aliases: [TAP, The Accountancy Partnership, theaccountancy.co.uk]
 status: ενεργός
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 # The Accountancy Partnership (TAP)
 > Online λογιστικό γραφείο στο UK. Επιλέχθηκε στις 2026-10-14 ως λογιστής της [[grow-360-ltd]]. Το onboarding είναι σε εξέλιξη αλλά μπλοκαρισμένο από ένα απλήρωτο τιμολόγιο.
@@ -28,6 +28,7 @@ updated: 2026-11-24
 - **Ομάδα GROW:** [[marina-papanastasiou]] (επιβεβαίωσε στην TAP ότι προχωράμε· η αναλυτική προσφορά ήρθε 2026-10-12· παίρνει τα forwards). Ο Δήμος, ως director.
 
 ## Τρέχουσα κατάσταση
+Στις 2026-11-25: ✓ AML passed (Natalie, 2026-11-24) · ✓ confirmation statement GROW 360 κατατέθηκε (Freyja Buckley, 2026-11-24 14:36) · ✓ registered office → TAP London ([[2026-11-24-grow360-tap-registered-office-confirmation-statement]], [[2026-11-23-grow360-tap-urgent-filing-verification-update-2026-11-25]]). Επόμενο: initial call με Jamie.
 Στις 2026-11-20:
 - 2026-11-19 13:02 «Overdue invoices» (Natalie Hughes): καμία δουλειά/εκπροσώπηση στην HMRC μέχρι την πληρωμή → ο Δήμος πλήρωσε μέσω Pandle **P-388148 £72** και **P-388149 £24** (13:07–13:08)· η TAP: έως 24 ώρες για να καταγραφεί ([[2026-11-19-grow360-tap-overdue-p388148-p388149]], [[2026-11-19-grow360-pandle-pliromes-tap]]).
 - 2026-11-20 00:42 Jennifer Atherton (Sales Executive): ζήτησαν **CT authorisation** από την HMRC· ο κωδικός «CT» φτάνει στο registered office σε ~2 εβδομάδες, ισχύει 1 μήνα, να σταλεί **με email** (όχι Client Hub) ([[2026-11-20-grow360-tap-corporation-tax-authorisation]]).
@@ -58,6 +59,7 @@ updated: 2026-11-24
 - 2026-10-14 → [[2026-10-14-logistis-uk-the-accountancy-partnership]].
 
 ## Χρονολόγιο
+- **2026-11-24** — AML passed· confirmation statement κατατέθηκε· registered office London ([[2026-11-24-grow360-tap-registered-office-confirmation-statement]]).
 - **2026-11-23** — Natalie Hughes: TrustID → επαλήθευση ταυτότητας & PSC στην Companies House· confirmation statement μετά το AML· registered office προς Matthew· Jamie: ερώτημα φορολογικής κατοικίας ([[2026-11-23-grow360-tap-urgent-filing-verification]], [[2026-11-23-grow360-tap-tax-residence-scope]]).
 - **2026-11-20** — Επιβεβαίωση πληρωμής· ζητά TrustID + έγγραφα AML ([[2026-11-19-grow360-tap-overdue-p388148-p388149-update-2026-11-23]]).
 - 2026-11-20 — Jennifer Atherton: CT authorisation ζητήθηκε από HMRC ([[2026-11-20-grow360-tap-corporation-tax-authorisation]]).

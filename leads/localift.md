@@ -2,8 +2,8 @@
 type: lead
 title: "LocaLift (mobile app)"
 aliases: [LocaLift, Localift, Maria Misendou]
-status: prospect
-updated: 2026-10-20
+status: κλειστός
+updated: 2026-11-25
 ---
 # LocaLift (mobile app)
 > Project mobile εφαρμογής (iOS & Android) της συμβούλου επιχειρήσεων [[maria-misendou]]· η GROW έστειλε πρόταση ανάπτυξης 2026-08-08 κάτω από NDA και περιμένει απόφαση.
@@ -15,16 +15,18 @@ updated: 2026-10-20
 - **NDA:** υπογράφηκε και από τις δύο πλευρές 2026-07-14 ([[2026-09-11-localift-app-misendou-proposal]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-10-20)
+Στις 2026-11-25: ❌ **η Μαρία απέρριψε** (2026-11-24) — προχωρούν με άλλη επιλογή για την εφαρμογή· ανοιχτή σε branding/marketing αργότερα· ο Δήμος απάντησε θετικά ([[2026-09-11-localift-app-misendou-proposal-update-2026-11-25]]).
 - Στις 2026-09-11 η Μαρία απάντησε ότι εξετάζει την προσφορά με την ομάδα της και θα επανέλθει· τίποτα νεότερο ([[2026-09-11-localift-app-misendou-proposal]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Feedback/απόφαση για την πρόταση — [[maria-misendou]] — εκκρεμεί από 2026-09-11 ([[2026-09-11-localift-app-misendou-proposal]])
-- [ ] Διαθεσιμότητα για call/προσαρμογές στην πρόταση — Δήμος — όταν ζητηθεί ([[2026-09-11-localift-app-misendou-proposal]])
+- [x] ✓ 2026-11-24 απόρριψη ([[2026-09-11-localift-app-misendou-proposal-update-2026-11-25]]) Feedback/απόφαση για την πρόταση — [[maria-misendou]] — εκκρεμεί από 2026-09-11 ([[2026-09-11-localift-app-misendou-proposal]])
+- [x] — (δεν χρειάζεται μετά την απόρριψη) Διαθεσιμότητα για call/προσαρμογές στην πρόταση — Δήμος — όταν ζητηθεί ([[2026-09-11-localift-app-misendou-proposal]])
 
 ## Αποφάσεις
 - [[2026-07-14-localift-nda]] — Υπογραφή NDA 2026-07-14· ο Δήμος προειδοποίησε την ομάδα: «Προσοχή γιατί έχω υπογράψει nda» ([[2026-09-11-localift-app-misendou-proposal]]).
 
 ## Χρονολόγιο
+- **2026-11-24** — Απόρριψη πρότασης app· ο Δήμος κρατά επαφή ([[2026-09-11-localift-app-misendou-proposal-update-2026-11-25]]).
 - 2026-09-11 — Η Μαρία: εξετάζει την προσφορά με την ομάδα της ([[2026-09-11-localift-app-misendou-proposal]]).
 - 2026-09-09 — Follow-up του Δήμου ([[2026-09-11-localift-app-misendou-proposal]]).
 - 2026-08-08 — Αποστολή πρότασης «LocaLift_GROW_Development_Offer_Blueprint_GR.pdf» ([[2026-09-11-localift-app-misendou-proposal]]).

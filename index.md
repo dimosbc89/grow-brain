@@ -1,7 +1,7 @@
 ---
 type: index
 title: "Κατάλογος"
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 # Κατάλογος
 
@@ -197,7 +197,7 @@ updated: 2026-11-24
 - [[xenia-katsioula|Ξένια Κατσιούλα]] · _ενεργός_ — Καθημερινή, καταχωρίσεις Greenmart/Antemisaris.
 - [[panagiotis-kizeridis|Παναγιώτης Κυζερίδης]] · _ενεργός_ — Greenmart/Antemisaris, εγκρίνει social posts.
 
-## Συνεργάτες & πάροχοι (20)
+## Συνεργάτες & πάροχοι (22)
 - [[neon-arrow|Neon Arrow]] — Εκτυπώσεις/plexi/αυτοκόλλητα· plexi + αυτοκόλλητα τοίχου για το περίπτερο XENIA της greenmart-antemisaris (430 € + ΦΠΑ, τοποθέτηση 2026-11-19).
 - [[biz-courier|BIZ Courier & Logistics]] — Courier και 3PL (αποθήκη/WMS) που έχει επιλέξει η tandem-concept. Η GROW συνδέει το WooCommerce e-shop της Tandem με τη BIZ μέσω API / BIZ LiNK και ετ…
 - [[cretaforce|CretaForce]] — Registrar και πάροχος domains/hosting. Εκεί η GROW κρατά domains πελατών, όπως το pharmacypan.gr και το argyroplastics.gr.
@@ -205,6 +205,8 @@ updated: 2026-11-24
 - [[epilogin|Epilogin / Epilogi Digital]] — Προμηθευτής εκτυπώσεων/menuboards της GROW (επαφή iasonas-kolytos)· χρησιμοποιείται και για κοστολόγηση κατασκευαστικών σε εκθεσιακά περίπτερα.
 - [[epsilon-net|Epsilon Net]] — Πάροχος ERP/τιμολόγησης (Epsilon Smart Advanced) και παρόχου ηλεκτρονικής τιμολόγησης (Epsilon Digital, myDATA) της tandem-concept. Η GROW συνδέει το…
 - [[audio-tech|Audio-tech]] — LED οθόνες / video wall για περίπτερα (XENIA 2026).
+- [[socialstream|SocialStream]] — Agency Δημήτρη Μαυρίκου· brief χριστουγεννιάτικου campaign Κάβας Κηρέας (2026-11-24).
+- [[wrapp|Wrapp]] — myDATA παραστατικά μέσω API για τα studios του booking-app· πακέτα 109–1.999 €/έτος (2026-11-24).
 - [[led-vision|LED VISION]] — AV/LED walls για περίπτερα & events· prospect συνεργάτης (2026-11-23).
 - [[forum-sa|Forum SA]] — Διοργανωτής XENIA· θέση περιπτέρου Αντεμισάρη.
 - [[expopiece|Expopiece]] — Κατασκευαστής περιπτέρων με τον οποίο η GROW κοστολογεί κατασκευαστικά για τα εκθεσιακά της projects (ekthesiaka-periptera).

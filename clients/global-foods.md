@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -19,6 +19,7 @@ updated: 2026-11-24
 - **Ομάδα GROW:** ο Δήμος (app, Ads report, προτάσεις)· [[marina-papanastasiou]] (συντονισμός event)· [[despina-velissariou]] (event, φυλλάδιο, βιντεογράφος) ([[2026-10-02-globalfoods-live-projector-videographer]], [[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Νέο 2026-11-24:** η [[elpida-plavou]] έστειλε στον Δήμο το νέο site του Ιταλοελληνικού Επιμελητηρίου — «Για το πως θα προβληθούμε» ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]]). Η Εύη ζητά **stories από το Detroit masterclass Θεσσαλονίκη** ([[2026-11-24-globalfoods-detroit-masterclass-stories]]). Hospitality Jam: πλατό τυριών/αλλαντικών για το γύρισμα με τον Άρη Σκλαβενίτη 25/11 17:30 ([[2026-11-24-hospitality-jam-sklavenitis-plato]]). Δέσποινα: logos El Pastor & Alo Puglia ([[2026-11-24-despina-logos-el-pastor-alo-puglia]]). Asana ✓ 24/11: Website Updates, CSR section, New Products icon, Exclusive Brands, κατάλογος 2026, Tips Section.
 - **The Hospitality Jam:** η Μαρίνα έστειλε 2026-11-19 το συμφωνητικό 8+1 επεισοδίων (πρόταση 8.000€) «όπως το συνεννοηθήκαμε» — αναμένεται υπογραφή/σφραγίδα από την [[elpida-plavou]]· επόμενο γύρισμα 2026-11-25 (Σκλαβενίτης) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]).
 - **4σέλιδο Ατζέντας 2027:** η κατεύθυνση απορρίφθηκε 2026-11-18· στις 2026-11-19 η Ελπίδα έστειλε docx κειμένου — πρώτα συμφωνία στο κείμενο, μετά καθαρή εταιρική αισθητική, μεγάλες φωτό, λευκός χώρος ([[2026-11-18-globalfoods-4selido-atzenta-2027]], [[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]]).
 - **Social:** για έγκριση τα posting plans Δεκ. Global και Νοε–Δεκ Unique· νέο υλικό Coati TOPPING PIZZA (αποκλειστικότητα) και Gnocco Fritto 20-909 στις 2026-11-19 ([[2026-11-18-globalfoods-posting-plan-dekemvrios]], [[2026-11-18-unique-posting-plan-noe-dek]], [[2026-11-19-globalfoods-coati-topping-pizza]], [[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos]]).
@@ -26,6 +27,10 @@ updated: 2026-11-24
 - **Ανοιχτά από Δήμο:** CCTV policy 4.1 (από 2026-11-17), AI Agent στο app (το call 2026-11-16: ασαφές), Lorem Ipsum στη σελίδα Brands, αίτημα Global App από 2024-09-23 ([[2026-11-17-globalfoods-cctv-policy]], [[2026-11-15-globalfoods-ai-agent-app-update-2026-11-17]], [[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]], [[2024-07-11-globalfoods-global-app-pedia]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-25**
+- [ ] **Πρόταση προβολής μέσω Ιταλοελληνικού Επιμελητηρίου** (Ελπίδα 24/11 + Εύη 23/11) — Δήμος ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]])
+- [ ] Stories Detroit masterclass Θεσσαλονίκη — Δέσποινα — άμεσα ([[2026-11-24-globalfoods-detroit-masterclass-stories]])
+- [ ] Πλατό για Hospitality Jam πριν 17:30 της 2026-11-25 — Global Foods ([[2026-11-24-hospitality-jam-sklavenitis-plato]])
 - [ ] **Απάντηση στην Εύη για την πρόταση Ιταλοελληνικού Επιμελητηρίου** — Δήμος/Δέσποινα ([[2026-11-23-globalfoods-italoelliniko-epimelitirio]])
 - [ ] Καθαρισμός backdoor globalfoods.gr + αλλαγή κωδικών — Δήμος — άμεσα ([[2026-11-23-fastpath-malware-hosting]])
 - [ ] 4η εκδοχή 4σέλιδου με τα νέα κείμενα (17×24) — Δέσποινα ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-24]])
@@ -141,6 +146,7 @@ updated: 2026-11-24
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- **2026-11-24** — Ελπίδα: site Επιμελητηρίου «πως θα προβληθούμε»· Εύη: stories Detroit masterclass· Ιωάννα: πλατό για γύρισμα Σκλαβενίτη· ✓ site updates στο Asana ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]], [[2026-11-24-globalfoods-detroit-masterclass-stories]], [[2026-11-24-hospitality-jam-sklavenitis-plato]]).
 - **2026-11-23 16:14** — Εύη: «Έχουμε κάποια εξέλιξη για την πρόταση στο Ιταλοελληνικό επιμελητήριο;» ([[2026-11-23-globalfoods-italoelliniko-epimelitirio]]).
 - **2026-11-23 14:54–15:52** — Ελπίδα: διορθώσεις κειμένου 4σέλιδου (σελ. 1, 2, 4) + διάσταση 17×24 cm ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-24]]).
 - **2026-11-23 13:03** — Ιωάννα: ιδέες product placement για Hospitality Jam (Σκλαβενίτης 25/11, Μούτσος 1/12) — αναμένει σχόλια ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-24]]).

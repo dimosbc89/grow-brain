@@ -3,7 +3,7 @@ type: admin
 title: "Hosting, servers & domains"
 aliases: [hosting, servers, domains, cloud.growagency.online, Plesk, Fastpath, Cretaforce, Papaki, Enartia]
 status: ενεργός
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 # Hosting, servers & domains
 > Οι servers της GROW (Plesk στη [[fastpath]]) και οι registrars ([[papaki]]/[[enartia]], [[cretaforce]]) όπου η GROW κρατά τα domains των πελατών. Κάθε ανανέωση domain ξανατιμολογείται στον πελάτη.
@@ -76,6 +76,7 @@ updated: 2026-11-24
 - Κάθε ανανέωση domain πελάτη ξανατιμολογείται στον πελάτη (π.χ. «Τιμολόγιο Πανόπουλος», «25 + fpa to kathena») ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]], [[2026-09-10-invoice-nikas-barista-domains]]).
 
 ## Χρονολόγιο
+- **2026-11-25** — FORTH: επιβεβαίωση posidonioathens.gr (λήξη 2028-11-18) ([[2026-11-25-posidonioathens-domain-kataxorisi]])· lucaffe.gr έληξε ([[2026-11-25-lucaffe-domain-ligmeno]]).
 - **2026-11-23** — FASTPATH: malware σε chefmanousakis.gr & globalfoods.gr ([[2026-11-23-fastpath-malware-hosting]]). cPanel finders.com.cy: δίσκος 98,89% (39,56/40 GB) (email 2026-11-23 22:45, χωρίς digest).
 - 2026-11-19 — CretaForce/FORTH: posidonioathens.gr καταχωρήθηκε (2 έτη, λήξη 2028-11-18)· ΤΠΥ 24693 30,00 € ([[2026-11-19-posidonioathens-gr-kataxorisi]]).
 - 2026-11-19 — FORTH: lucaffe.gr λήγει 2026-11-24 23:59 UTC ([[2026-11-19-lucaffe-domain-lixi]]).

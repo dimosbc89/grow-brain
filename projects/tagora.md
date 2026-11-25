@@ -3,7 +3,7 @@ type: project
 title: "Tagora (Google CSS)"
 aliases: [Tagora, tagora.online, hello@tagora.online]
 status: ενεργός
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 # Tagora
 > Ελληνική υπηρεσία σύγκρισης τιμών της GROW (tagora.online) που μπαίνει στο πρόγραμμα CSS της Google, ώστε οι Shopping καμπάνιες των πελατών να τρέχουν με έως 20% φθηνότερα κλικ.
@@ -31,6 +31,7 @@ updated: 2026-11-24
 - —
 
 ## Χρονολόγιο
+- **2026-11-24 21:30** — Sync Danaos/LeatherBrands απέτυχε ξανά ([[2026-11-24-tagora-danaos-sync-apotyxia]]).
 - **2026-11-23 21:20** — Αποτυχία sync για Danaos Stores & LeatherBrands ([[2026-11-23-tagora-danaos-sync-apotyxia]]).
 - 2026-11-19 — Sync απέτυχε ξανά: Danaos Stores + LeatherBrands ([[2026-11-19-tagora-danaos-leatherbrands-sync]]).
 - 2026-11-16 — Sync απέτυχε: Danaos Stores + LeatherBrands ([[2026-11-16-danaos-pre-black-friday]]).

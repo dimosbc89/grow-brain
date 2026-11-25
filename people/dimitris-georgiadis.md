@@ -3,7 +3,7 @@ type: person
 title: "Δημήτρης Γεωργιάδης"
 aliases: [Dimitris Georgiadis, Georgiadis chef, Hilton σεφ, Dimitris.Georgiadis@hilton.com]
 status: ενεργός
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 # Δημήτρης Γεωργιάδης
 > Executive Chef στα Hilton Garden Inn Athens Syggrou / Chania City και ÉRA Hotel Heraklion· πελάτης της GROW για το προσωπικό του brand και το [[circle-of-dining]].
@@ -14,6 +14,7 @@ updated: 2026-11-24
 - **Επαφή GROW:** [[ioanna-chalkiadaki]] και ο Δήμος ([[2026-07-27-georgiadis-prosvaseis-dg]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-20)
+- **Νέο 2026-11-24:** έστειλε στον Δήμο την αρχική προσφορά Rodopou & Beyond («σε ισχύ το option 2») + benchmarks: σεζόν Καρδερίνος ~3.000 €, social όλων των venues 700–800 €, «προσθέσαμε και google ads» ([[2026-11-24-georgiadis-rodopou-prosfora-option2]]).
 - Dinner Circle of Dining **2026-11-22 19:30, Rodopou & Beyond**: σε cc στο αίτημα διακόσμησης (NEDA Decorations)· η Ιωάννα θα κλείσει μαζί του τον τελικό αριθμό τραπεζιών· τα έντυπα (μενού + καρτελάκια, Epilogi 95 €) **τιμολογούνται στο όνομά του** ([[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]], [[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]]).
 - 2026-11-19 17:48 ζήτησε **email signature** για το The Circle of Dining ([[2026-11-19-circle-of-dining-ypografi-email]]).
 
@@ -30,6 +31,7 @@ updated: 2026-11-24
 - Βλ. [[circle-of-dining]], [[2026-08-11-circle-of-dining-apodoxi-450]].
 
 ## Χρονολόγιο
+- **2026-11-24** — Προσφορά Rodopou & Beyond (option 2) + κόστη ([[2026-11-24-georgiadis-rodopou-prosfora-option2]]).
 - **2026-11-23** — Ιωάννα: απαντήσεις συνέντευξης Opinionleader.gr τις επόμενες μέρες ([[2026-11-23-georgiadis-opinionleader-synenteyxi]]) · ιδέες placement Global Foods για επεισόδια Σκλαβενίτη (25/11) & Μούτσου (1/12) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-24]]).
 - 2026-11-19 — Ζητά email signature Circle of Dining· σε cc στη διακόσμηση dinner· τιμολόγηση εντύπων dinner στο όνομά του ([[2026-11-19-circle-of-dining-ypografi-email]], [[2026-11-19-circle-of-dining-diakosmisi-dinner-rodopou]], [[2026-11-19-circle-of-dining-menu-kartelakia-epilogi]]).
 - 2026-11-16 — Σε cc στο τιμολόγιο #1333 (μοντάζ 3ου επεισοδίου) ([[2026-11-16-timologio-1333-montaz-3ou-epeisodiou]]).

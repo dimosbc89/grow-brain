@@ -1,7 +1,7 @@
 ---
 type: knowledge
 title: "Μνήμη τιμών"
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 # Μνήμη τιμών
 > Τι προσφέραμε, τι έγινε δεκτό, τι χρεώνουν οι vendors. Μόνο αριθμοί από πηγές. Γράφεται από την εβδομαδιαία σύνθεση.
@@ -30,6 +30,9 @@ updated: 2026-11-24
 ## Κόστη vendors
 | Ημ/νία | Vendor | Τι | Τιμή | Για | Πηγή |
 |---|---|---|---|---|---|
+| 2026-11-24 | [[wrapp]] | myDATA παραστατικά ανά studio/έτος (+ΦΠΑ), χωρίς προμήθεια | Lite 109 € · Core 169 € (POS) · Plus 239 € · Max 549 € · Ultra 1.999 € | [[booking-app]] | [[2026-11-24-wrapp-mydata-partners-api-studios]] |
+| 2026-11-24 | Rodopou & Beyond (κατά Γεωργιάδη) | Σεζόν Καρδερίνος · social όλων των venues | ~3.000 € · 700–800 € | [[dimitris-georgiadis]] | [[2026-11-24-georgiadis-rodopou-prosfora-option2]] |
+| 2026-11-24 | [[metalease]] | Ληξιπρόθεσμες δόσεις Σ2748 / Σ1495 / Σ2744 | 139,89 € / 71,85 € / 219,00 € | GROW | [[2026-11-24-metalease-enimerosi-ofeilis]] |
 | 2026-11-23 | Your Company Formations | Προώθηση επιστολής (π.χ. HMRC CT) μετά από αλλαγή διεύθυνσης | £10 + VAT (£12) ανά επιστολή | [[grow-360-ltd]] | [[2026-11-19-grow360-ycf-30-imeres-proeidopoiisi-update-2026-11-24]] |
 | 2026-11-23 | The Accountancy Partnership | Registered office (κατά τον Δήμο, fee schedule Mathew 2026-10-12) | £20 + VAT Οκτ–Νοε 2026 · £10 + VAT/μήνα από Δεκ. | [[grow-360-ltd]] | [[2026-11-23-grow360-tap-urgent-filing-verification]] |
 | 2026-11-23 | Καθημερινή | Δωρεάν εντολές advertorials (τυπικό ποσό) | 0,01 € | [[greenmart-antemisaris]] | [[2026-10-20-antemisaris-kathimerini-entoli-update-2026-11-24]] |

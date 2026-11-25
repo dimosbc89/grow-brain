@@ -3,7 +3,7 @@ type: client
 title: "HotelBrain"
 aliases: [HOTELBRAIN S.A., Hotelbrain, Hotel Brain, hotelbrain.com, hotelbraingroup.com]
 status: ενεργός
-updated: 2026-11-23
+updated: 2026-11-25
 ---
 # HotelBrain
 > Η HOTELBRAIN S.A. είναι η πλευρά πελάτη για τα hotel websites που φτιάχνει και υποστηρίζει τεχνικά η GROW ([[mr-mrs-white]], [[anayia]], September City Living, GHH) και τώρα για το νέο corporate site της ίδιας της HotelBrain.
@@ -17,6 +17,7 @@ updated: 2026-11-23
 - **Vendor:** [[webhotelier]], η πηγή των δεδομένων των ξενοδοχείων και το booking engine ([[2026-09-14-hotelbrain-webhotelier-api]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-20)
+- **Νέο 2026-11-24 12:12:** η [[niki-daleziou]] πήρε τηλέφωνο και έγραψε — ρωτά πότε έρχεται το **updated design hotelbrain.com**, ζητά **πρόταση για το site της Ακαδημίας** και περιμένει απαντήσεις στα **social media ερωτήματα** (από 2026-11-20) ([[2026-11-24-hotelbrain-updates-niki]]).
 - ✓ **HotelBrain Academy:** η [[niki-daleziou]] ενέκρινε 2026-11-20 την αναθεωρημένη προσφορά **1.150 € + ΦΠΑ** και ρωτά τι χρειάζεται η GROW· νέες φωτογραφίες αρχές του επόμενου μήνα ([[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-20]]).
 - **Social media HotelBrain Collection (4 brands):** η Νίκη ζητά διευκρινίσεις σε 6 σημεία (έγκριση AI content, tracking κρατήσεων/ROAS μέσω WebHotelier, στρατηγική ανά brand, stories, media budget ανά brand/funnel, audiences) πριν προχωρήσουν ([[2026-11-20-hotelbrain-collection-social-diefkriniseis]]).
 - ⚠️ **COPYTRACK Case 668D3B:** εικόνα στη σελίδα Tinos του [[mr-mrs-white]] — απόδειξη άδειας έως 2026-11-29 ή 481,50 € / 350 €· η Νίκη ζήτησε από τη [[vassia-kataki]] αντικατάσταση φωτογραφίας ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).
@@ -24,6 +25,8 @@ updated: 2026-11-23
 - Ανοιχτό από 2026-09-14: λίστα property codes GHH προς [[webhotelier]] για το Multi-Property API ([[2026-09-14-hotelbrain-webhotelier-api]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-25**
+- [ ] **Απάντηση στη Νίκη: (1) ημερομηνία updated design hotelbrain.com (2) πρόταση site Ακαδημίας (3) social media ερωτήματα** — Δήμος — άμεσα, η πελάτισσα κυνηγά από 2026-11-24 ([[2026-11-24-hotelbrain-updates-niki]])
 - [ ] ⚠️ Αντικατάσταση εικόνας στο mrandmrswhitehotels.com/destinations/tinos/ με τη φωτογραφία της HotelBrain (drz-tinos) — [[vassia-kataki]] / Δήμος — **άμεσα** (αίτημα 2026-11-19) ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]])
 - [ ] ⚠️ COPYTRACK Case 668D3B: απόδειξη άδειας ή απόφαση (άδεια 481,50 € / αποζημίωση 350 € / αμφισβήτηση) — HotelBrain, με τη GROW να ξεκαθαρίσει **προέλευση της εικόνας** (ποιος την ανέβασε, αν υπάρχει άδεια) — **απάντηση έως 2026-11-29, πληρωμή έως 2026-11-28** ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]])
 **Νέα στις 2026-11-19**
@@ -78,6 +81,7 @@ updated: 2026-11-23
 - 2026-10-27: το go-live του hotelbraingroup.com γίνεται με αλλαγή μόνο των DNS records του site (όχι name servers), από τον διαχειριστή domains της HotelBrain ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]]).
 
 ## Χρονολόγιο
+- **2026-11-24** — Η Νίκη ζητά updated design hotelbrain.com, πρόταση site Ακαδημίας και απαντήσεις social media· δεν βρήκε τον Δήμο στο τηλέφωνο ([[2026-11-24-hotelbrain-updates-niki]]).
 - **2026-11-20 10:40** — Η Νίκη ζητά δικό τους favicon και μικρότερο εικονίδιο B2B ίδιο με του footer ([[2026-11-18-hotelbraingroup-ssl-allages-update-2026-11-23]]).
 - 2026-11-20 — 09:29 Νίκη (cc Christos Rizos, hotelbrainacademy.com): ✓ ΟΚ HotelBrain Academy 1.150 € + ΦΠΑ, νέες φωτογραφίες αρχές επόμενου μήνα · 10:30 (cc Panos, Spyridis, Matsouris) 6 ερωτήσεις για την πρόταση social media των 4 brands (GHH, ANAYIA, MMW, September): AI έγκριση 1ο τρίμηνο, Meta Pixel στη confirmation WebHotelier/ROAS, στρατηγική ανά brand, 8 stories/μήνα/brand, media budget ανά brand/funnel, first-party audiences ([[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-20]], [[2026-11-20-hotelbrain-collection-social-diefkriniseis]]).
 - 2026-11-19 — COPYTRACK (Case 668D3B, RAWF8): ύποπτη μη αδειοδοτημένη εικόνα στη σελίδα Tinos του MMW (481,50 € άδεια / 350 € αποζημίωση)· η Νίκη ζητά αντικατάσταση φωτογραφίας από τη Βάσια ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).

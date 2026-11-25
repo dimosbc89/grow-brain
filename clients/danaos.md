@@ -3,7 +3,7 @@ type: client
 title: "Πολυκατάστημα ΔΑΝΑΟΣ"
 aliases: [DANAOS, Danaos, ΔΑΝΑΟΣ, Danaos Stores, danaos-stores.gr, ΔΑΝΑΟΣ ΑΦΟΙ ΓΕΩΡΓΙΟΠΟΥΛΟΙ ΑΕΒΕ]
 status: ενεργός
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 # Πολυκατάστημα ΔΑΝΑΟΣ
 > Πολυκατάστημα με eshop (danaos-stores.gr), εταιρεία ΔΑΝΑΟΣ ΑΦΟΙ ΓΕΩΡΓΙΟΠΟΥΛΟΙ ΑΕΒΕ. Η GROW τρέχει Google Ads (PMax) και Meta. Ο πελάτης ζητά περισσότερη επικοινωνία και καθυστερημένα τιμολόγια.
@@ -56,6 +56,7 @@ updated: 2026-11-24
 - 2026-09-09: η πελάτισσα αλλάζει τους κωδικούς μπαίνοντας η ίδια στο προφίλ της, όχι από το κουμπί του email ([[2026-09-09-danaos-google-password-alert]]).
 
 ## Χρονολόγιο
+- **2026-11-24 21:30** — Tagora: sync Danaos & LeatherBrands απέτυχε ξανά ([[2026-11-24-tagora-danaos-sync-apotyxia]]).
 - **2026-11-23 21:20** — Tagora: ο συγχρονισμός Danaos Stores & LeatherBrands απέτυχε ξανά ([[2026-11-23-tagora-danaos-sync-apotyxia]]).
 - **2026-11-20/21/22** — Tagora: το sync Danaos Stores + LeatherBrands αποτυγχάνει ακόμα καθημερινά (τελευταίο 22/11 21:10).
 - 2026-11-19 — Tagora: sync Danaos Stores απέτυχε ξανά (20:50), ενώ τρέχει το Pre Black Friday ([[2026-11-19-tagora-danaos-leatherbrands-sync]]).
