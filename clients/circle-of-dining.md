@@ -3,7 +3,7 @@ type: client
 title: "The Circle of Dining (Δημήτρης Γεωργιάδης)"
 aliases: [The Circle of Dining, The Dining Society, Circle of Dinning, cycle of dinning, thecircleofdining, Georgiadis chef, Hilton σεφ]
 status: ενεργός
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 # The Circle of Dining (Δημήτρης Γεωργιάδης)
 > Ο Executive Chef [[dimitris-georgiadis]] (Hilton) — η GROW δουλεύει το προσωπικό του brand (social, media kit, podcast/γυρίσματα) και το redesign + SEO του site The Circle of Dining.
@@ -67,6 +67,7 @@ updated: 2026-11-25
 - 2026-09/10: αν δεν υπάρχουν videos → AI videos· testimonials και γραπτά ([[2026-10-01-circle-of-dining-redesign]]).
 
 ## Χρονολόγιο
+- 2026-11-25 — Hospitality Jam: πακέτο 8+1 Signature Episodes «καλύφθηκε από άλλη εταιρεία» (ποια: ασαφές)· ❌ Domino's. Νέο στο ημερολόγιο: Γεωργιάδης Hilton 27/11 17:00 ([[2026-10-19-hospitality-jam-dominos-update-2026-11-26]], [[2026-11-26_2026-12-03]])
 - **2026-11-24** — Mediterranean College απαντά την επόμενη εβδομάδα· πλατό Global Foods για γύρισμα 25/11 ([[2026-10-20-hospitality-jam-mediterranean-college-update-2026-11-25]]).
 - **2026-11-21 08:00** — Η Ιωάννα έστειλε το τιμολόγιο εκτύπωσης menu/labels (Epilogi 95 €) στον Γεωργιάδη· έντυπο στο dinner 22/11 ([[2026-11-21-circle-of-dining-timologio-ektyposis-menu]]).
 - **2026-11-20** — Epilogi παρέδωσε 30 μενού (ιριδίζον) + 25 καρτελάκια με ονόματα ([[2026-11-19-circle-of-dining-menu-kartelakia-epilogi-update-2026-11-23]])· η Ιωάννα πρότεινε 1 general + ατομικές υπογραφές email ([[2026-11-19-circle-of-dining-ypografi-email-update-2026-11-23]]).

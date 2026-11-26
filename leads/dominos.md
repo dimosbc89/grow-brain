@@ -2,8 +2,8 @@
 type: lead
 title: "Domino's"
 aliases: [Dominos, Domino's Pizza, dominos.gr]
-status: prospect
-updated: 2026-11-06
+status: κλειστός
+updated: 2026-11-26
 ---
 # Domino's
 > Νέο lead από το outreach «The Hospitality Jam»: η Marketing Manager Katerina Masoura + 2 συνάδελφοι σε συνάντηση «Grow Agency x Dominos» 2026-10-23 με όλη την senior ομάδα της GROW.
@@ -36,6 +36,7 @@ updated: 2026-11-06
 - —
 
 ## Χρονολόγιο
+- 2026-11-25 — ❌ Domino's δεν προχωρά στο Hospitality Jam («δεν υπάρχει η απαραίτητη συνάφεια»)· η Ιωάννα είχε πει ότι το πακέτο 8+1 το πήρε άλλη εταιρεία ([[2026-10-19-hospitality-jam-dominos-update-2026-11-26]])
 - 2026-11-05 — Συνάντηση + follow-up ([[2026-10-19-hospitality-jam-dominos-update-2026-11-06]]).
 - 2026-10-29 — Νέο event «Grow Agency x Dominos» **5/11 12:00–13:00** (Ιωάννα, Μαρίνα, Κατερίνα Μασούρα· ο Δήμος δεν καλείται). 💭 Υπόθεση: μετάθεση της 29/10 ([[2026-10-30_2026-11-06]]).
 - 2026-10-27 — Η Domino's προτείνει Πέμπτη 2026-10-29 12:00· η Ιωάννα δέχεται και στέλνει invite (Meet, 12:00–13:00) ([[2026-10-19-hospitality-jam-dominos-update-2026-10-28]]).

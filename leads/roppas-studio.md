@@ -3,7 +3,7 @@ type: lead
 title: "Ρόππας — studio personal training & pilates"
 aliases: [Παναγιώτης Ρόππας, Roppas]
 status: prospect
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 # Ρόππας — studio personal training & pilates
 > Ελληνικό studio personal training & pilates reformer (7 άτομα, 2 χώροι) που απάντησε στο outreach του [[booking-app]].
@@ -16,5 +16,6 @@ updated: 2026-11-25
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Τηλέφωνο / demo — Δήμος — **κλείστηκε 2026-11-25 11:00** — ήταν για 20–21/11, δεν φαίνεται ([[2026-11-20-booking-app-roppas-studio-pilates]])
 ## Χρονολόγιο
+- 2026-11-25 — Μαρίνα έστειλε προσφορά (pdf) + demo, πρόταση συνάντησης για τροποποιήσεις ([[2026-11-20-booking-app-roppas-studio-pilates-update-2026-11-26]])
 - **2026-11-24** — Η Μαρίνα έκλεισε Meet 2026-11-25 11:00 ([[2026-11-25_2026-12-02]]).
 - **2026-11-20 08:38** — Η Μαρίνα προώθησε την απάντηση στον Δήμο ([[2026-11-20-booking-app-roppas-studio-pilates]]).

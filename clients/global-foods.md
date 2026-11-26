@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -27,6 +27,8 @@ updated: 2026-11-25
 - **Ανοιχτά από Δήμο:** CCTV policy 4.1 (από 2026-11-17), AI Agent στο app (το call 2026-11-16: ασαφές), Lorem Ipsum στη σελίδα Brands, αίτημα Global App από 2024-09-23 ([[2026-11-17-globalfoods-cctv-policy]], [[2026-11-15-globalfoods-ai-agent-app-update-2026-11-17]], [[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]], [[2024-07-11-globalfoods-global-app-pedia]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-26**
+- [ ] Αλλαγές 4σέλιδου μέσω WhatsApp στην Ελπίδα → Εύη για εκτύπωση — Δέσποινα — από 2026-11-25 ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-26]])
 **Νέα στις 2026-11-25**
 - [ ] **Πρόταση προβολής μέσω Ιταλοελληνικού Επιμελητηρίου** (Ελπίδα 24/11 + Εύη 23/11) — Δήμος ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]])
 - [ ] Stories Detroit masterclass Θεσσαλονίκη — Δέσποινα — άμεσα ([[2026-11-24-globalfoods-detroit-masterclass-stories]])
@@ -146,6 +148,7 @@ updated: 2026-11-25
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- 2026-11-25 — 4σέλιδο ατζέντας: νέο pdf (Δέσποινα)· η Ελπίδα περιμένει τις αλλαγές στο WhatsApp, μετά στην Εύη για εκτύπωση· επόμενο: Θεσσαλονίκη ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-26]])
 - **2026-11-24** — Ελπίδα: site Επιμελητηρίου «πως θα προβληθούμε»· Εύη: stories Detroit masterclass· Ιωάννα: πλατό για γύρισμα Σκλαβενίτη· ✓ site updates στο Asana ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]], [[2026-11-24-globalfoods-detroit-masterclass-stories]], [[2026-11-24-hospitality-jam-sklavenitis-plato]]).
 - **2026-11-23 16:14** — Εύη: «Έχουμε κάποια εξέλιξη για την πρόταση στο Ιταλοελληνικό επιμελητήριο;» ([[2026-11-23-globalfoods-italoelliniko-epimelitirio]]).
 - **2026-11-23 14:54–15:52** — Ελπίδα: διορθώσεις κειμένου 4σέλιδου (σελ. 1, 2, 4) + διάσταση 17×24 cm ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-24]]).

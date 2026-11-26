@@ -3,7 +3,7 @@ type: client
 title: "Υιάγια (Yiayia Meatballs)"
 aliases: [Υιάγια, Yiayia, Yiayia Meatballs, Υιάγια Home of Meatballs, Γιάγια, yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-11-24
+updated: 2026-11-26
 ---
 # Υιάγια (Yiayia Meatballs)
 > Εστιατόριο με κεφτεδάκια («Home of Meatballs») της [[maria-drouza]]· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influencers, μενού, packaging και γυρίσματα.
@@ -22,7 +22,10 @@ updated: 2026-11-24
 - **Ανοιχτά από Δήμο:** Meta ad account Yiayia Food Hugs disabled από 2026-11-10 (πληρωμή απορρίφθηκε)· login εταιρικών email (από 2026-10-31)· Asana «ΔΤ αποστολή» εκπρόθεσμο από 2026-10-23 ([[2026-11-10-meta-yiayia-ad-account-plirwmi]], [[2026-10-09-yiayiameatballs-etairika-emails-update-2026-11-02]], [[2026-11-02-asana-yiayia-dt-apostoli]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Ενσωμάτωση 3 διορθώσεων take away menu (πουρές 1,00 € στον μπακαλιάρο, «ξυλόφουρνος» εκτός, κεντράρισμα FUZE) + τελική έκδοση προς έγκριση — Βασιλική — από 2026-11-19 ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]])
+**Νέα στις 2026-11-26**
+- [ ] Έλεγχος αυτοκόλλητου «Υιάγια Umami» πριν την εκτύπωση — Υιάγια — από 2026-11-25 ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-26]])
+- [ ] Ενημέρωση online menu — Δήμος (Asana) — έως 2026-11-27
+- [x] ✓ 2026-11-25 (εγκρίθηκε, τυπώνει ο πελάτης) Ενσωμάτωση 3 διορθώσεων take away menu (πουρές 1,00 € στον μπακαλιάρο, «ξυλόφουρνος» εκτός, κεντράρισμα FUZE) + τελική έκδοση προς έγκριση — Βασιλική — από 2026-11-19 ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]])
 - [ ] Ημερομηνία παράδοσης: σακουλάκια 150 κιλά + χαρτοπετσέτες 24×24 ασπρόμαυρες 10 κιβώτια — NAK → Βασιλική — από 2026-11-18 ([[2026-11-09-yiayia-meta-nak-timologio-update-2026-11-19]], [[2026-11-18-yiayia-nak-xartopetseta-paraggelia]])
 - [ ] Ανοιχτό PDF μακέτας μπωλ 750/500 ml → έλεγχος/έγκριση — NAK → Βασιλική — από 2026-11-17 ([[2026-11-17-yiayia-ektypomena-mpol-nak]])
 - [ ] Σχόλια/έγκριση νέου μοντάζ Τέλος Πάγγων — Μαρία Δρούζα — από 2026-11-17 ([[2026-11-02-yiayia-creators-telospaggon-lagoudis-update-2026-11-18]])
@@ -39,7 +42,7 @@ updated: 2026-11-24
 - [ ] **Meta ad account Yiayia Food Hugs — πληρωμή απορρίφθηκε, ads σε παύση από 2026-11-09 09:00** — εξόφληση/αλλαγή κάρτας — Δήμος / Βασιλική ([[2026-11-09-yiayia-meta-nak-timologio]])
 - [x] ✓ 2026-11-13: ασπρόμαυρη, χωρίς Pantone ([[2026-11-04-yiayia-pantone-street-activation-update-2026-11-16]]) — Επιλογή Pantone U χαρτοπετσέτας — Δήμος / Βάσια — από 2026-11-02 ([[2026-10-29-yiayia-xartopetseta-maketa-update-2026-11-04]])
 - [ ] Έγκριση μακέτας τσάντας 28x17x29 (NAK) — GROW + πελάτης ([[2026-11-03-yiayia-xartini-tsanta]])
-- [ ] Έγκριση take away menus — Μαρία Δρούζα / Τζεβελέκος — 2026-11-13 ήρθαν αλλαγές τιμών/περιεχομένου, θέλει νέα μακέτα ([[2026-11-13-yiayia-take-away-menu-allages-timon]]) ([[2026-11-03-yiayia-take-away-menu]])
+- [x] ✓ 2026-11-25 ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-26]]) Έγκριση take away menus — Μαρία Δρούζα / Τζεβελέκος — 2026-11-13 ήρθαν αλλαγές τιμών/περιεχομένου, θέλει νέα μακέτα ([[2026-11-13-yiayia-take-away-menu-allages-timon]]) ([[2026-11-03-yiayia-take-away-menu]])
 - [ ] Νέα κατεύθυνση σε ΤέλοςΠάγγων (μανιφέστο, χωρίς μακαρονάδες) και Λαγούδη (απλό σενάριο, όχι kung fu) + προγραμματισμός γυρισμάτων — [[vassiliki-giannopoulou]] — από 2026-11-02 ([[2026-11-02-yiayia-creators-telospaggon-lagoudis]])
 - [ ] Follow-up για δημοσίευση της «επιστολής» (περιοδικό/άρθρο), όπως ζήτησε η Μαρία — GROW (💭 Δήμος, μαζί με το ΔΤ) — από 2026-11-02 ([[2026-11-02-yiayia-creators-telospaggon-lagoudis]])
 - [x] ✓ (ξεπεράστηκε: ασπρόμαυρη χαρτοπετσέτα 2026-11-13, [[2026-11-04-yiayia-pantone-street-activation-update-2026-11-16]]) Επιλογή Pantone U για τη ροζ χαρτοπετσέτα (κοντά στο #f69893) από τη λίστα της NAK + έγκριση μακέτας — [[vassia-kataki]] / Βασιλική — από 2026-11-02 ([[2026-10-29-yiayia-xartopetseta-maketa-update-2026-11-03]])
@@ -104,6 +107,7 @@ updated: 2026-11-24
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- 2026-11-25 — Take away menu εγκρίθηκε· τυπώνει ο πελάτης (παραλαβή 26/11)· αυτοκόλλητο «Υιάγια Umami» στάλθηκε για έλεγχο· monthly report Οκτ–Νοε στάλθηκε ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-26]], [[2026-11-25-yiayia-monthly-report-oct-nov]])
 - **2026-11-23 14:21** — Βασιλική στέλνει την πρόταση Christmas campaign 2026 (PDF)· συζήτηση στη συνάντηση **2026-11-24 14:30** ([[2026-11-20-yiayia-synantisi-christmas-campaign-update-2026-11-24]]).
 - **2026-11-20** — Τελικά PDF take away menu EN/GR· η Βασιλική ρωτά για προσφορές εκτύπωσης. Συνάντηση στο γραφείο **Τρ 24/11 14:30**· η Βασιλική υποσχέθηκε πρόταση Christmas Campaign έως 20/11 — δεν φαίνεται αποστολή ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-23]], [[2026-11-20-yiayia-synantisi-christmas-campaign]]).
 - 2026-11-19 — Take away menu: 3 μικρές διορθώσεις από Τζεβελέκο· πουρές παραμένει 1,00 € ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-20]]).

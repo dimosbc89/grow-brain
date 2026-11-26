@@ -3,7 +3,7 @@ type: client
 title: "SK Advisors"
 aliases: [SK Advisors, sk-advisors.gr, SK ADVISORS]
 status: ενεργός
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 # SK Advisors
 > Λογιστικό γραφείο της Σοφίας Κωνσταντοπούλου. Για τη GROW είναι δύο πράγματα: πελάτης (SEO content, Meta Ads, video για TikTok/Reels) και λογιστής της ίδιας της GROW.
@@ -46,6 +46,7 @@ updated: 2026-11-25
 - Τα άρθρα γράφονται πάντα κατά E-E-A-T 2026: byline, TL;DR, schema, FAQ, YMYL ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Χρονολόγιο
+- 2026-11-25 — Σοφία έστειλε ΑΠΔ/ΦΜΥ/ΤΕΚΑ Οκτωβρίου GROW και ειδοποιητήριο ΕΦΚΑ μη μισθωτού Οκτ.· ο Δήμος της έστειλε link iCloud «kikiras» ([[2026-11-25-sk-advisors-apd-teka-fmy-oktovrios]], [[2026-11-25-sk-advisors-efka-mi-misthotou-oktovrios]], [[2026-11-25-sofia-icloud-link-kikiras]])
 - **2026-11-24** — Ο Δήμος προώθησε στη Σοφία cold email της EasyStaff (τιμολόγηση freelancers χωρίς παρακράτηση 20%), χωρίς κείμενο ([[2026-11-24-easystaff-parakratisi-fwd-sk-advisors]]).
 - 2026-11-09 — Ο Δήμος: πληρώθηκαν άλλα 1.000 €, νέο υπόλοιπο 1.300 € ([[2026-10-23-sk-advisors-ika-teka-fmy-septembrios-update-2026-11-10]]).
 - 2026-11-03 — Ερωτήσεις Μαρίνας για κάρτες εργασίας (υπερωρίες, άδειες, καθυστερήσεις) — υποχρεωτικό από 2026-11-15 ([[2026-11-03-sk-advisors-karta-ergasias]]).

@@ -3,7 +3,7 @@ type: client
 title: "Kyknos (Κύκνος Κονσερβοποιία)"
 aliases: [Κύκνος, KYKNOS, Kyknos Canning, kyknoscanning.com, KYKNOS 2026]
 status: ενεργός
-updated: 2026-11-24
+updated: 2026-11-26
 ---
 # Kyknos (Κύκνος)
 > Εταιρεία τροφίμων (τομάτα/κονσέρβες, kyknoscanning.com) για την οποία η GROW παράγει βίντεο συνταγών και carousel posts, σε συνεργασία με τη διαφημιστική τους ATTP.
@@ -20,7 +20,7 @@ updated: 2026-11-24
 - Φόρμα προμηθευτή + βεβαίωση IBAN προς Κύκνο (προθεσμία 2026-11-06): συμπληρώθηκε από SK Advisors 2026-11-02 — αν στάλθηκε: ασαφές ([[2026-11-02-kyknos-stoixeia-synergaton]], [[2026-11-02-sk-advisors-epikairopoiisi-stoixeion]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] **Οικονομική προσφορά new content (14 + 8 reels & photos)** — Δήμος + Βασιλική — συζήτηση 2026-11-24 ([[2026-11-23-kyknos-new-content-prosfora]])
+- [x] ✓ στάλθηκε 2026-11-25 από Βασιλική ([[2026-11-23-kyknos-new-content-prosfora-update-2026-11-26]]) **Οικονομική προσφορά new content (14 + 8 reels & photos)** — Δήμος + Βασιλική — συζήτηση 2026-11-24 ([[2026-11-23-kyknos-new-content-prosfora]])
 - [ ] Σχόλια/έγκριση νέου edit chicken pasta — Κάτσαρη — από 2026-11-17 ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-18]])
 - [x] Απάντηση στην Κάτσαρη για τα 2 βίντεο — Βασιλική — ✓ 2026-11-02 09:32 (μένει 1 βίντεο· μπρουσκέτα = carousel) ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-03]])
 - [x] ✓ (νέο edit στάλθηκε στην Κάτσαρη 2026-11-17, [[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-18]]) Νέο μοντάζ chicken pasta (άνοιγμα με προϊόν 0:42, έντονος ήχος) — Angelos Michailaras → [[vassiliki-giannopoulou]] — ζητήθηκε 2026-11-11 ([[2026-11-02-kyknos-angelos-michailaras-video-update-2026-11-12]])
@@ -32,6 +32,7 @@ updated: 2026-11-24
 - 2026-09-10/11: εγκρίθηκαν τα 4 βίντεο από Κύκνο και ATTP ([[2026-08-26-kyknos-4-videos-sxolia]]).
 
 ## Χρονολόγιο
+- 2026-11-25 — Βασιλική έστειλε οικονομική προσφορά για 14 + 8 reels & photos (GrowAgency_Offer.pdf) ([[2026-11-23-kyknos-new-content-prosfora-update-2026-11-26]])
 - **2026-11-23 12:15** — Chrisa Pastrikou ζητά προσφορά για **14 reels & photos** (Content Kyknos, χέρια Γιώργου) + **8 reels & photos** (George & Kyknos)· η Βασιλική: «να δούμε κι αυτό αύριο» ([[2026-11-23-kyknos-new-content-prosfora]]).
 - **2026-11-20 13:43** — Η Ελένη Κατσαρή ενέκρινε το video chicken pasta (💭 το τελευταίο από τα 4) ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-23]]).
 - 2026-11-17 — Η Βασιλική στέλνει το ανανεωμένο video chicken pasta ([[2026-08-26-kyknos-4-videos-sxolia-update-2026-11-18]]).

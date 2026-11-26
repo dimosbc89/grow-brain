@@ -1,7 +1,7 @@
 ---
 type: knowledge
 title: "Μνήμη τιμών"
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 # Μνήμη τιμών
 > Τι προσφέραμε, τι έγινε δεκτό, τι χρεώνουν οι vendors. Μόνο αριθμοί από πηγές. Γράφεται από την εβδομαδιαία σύνθεση.
@@ -30,6 +30,8 @@ updated: 2026-11-25
 ## Κόστη vendors
 | Ημ/νία | Vendor | Τι | Τιμή | Για | Πηγή |
 |---|---|---|---|---|---|
+| 2026-11-25 | [[expopiece]] | Περίπτερο ΧΕΝΙΑ — τελικό (προκαταβολή 4.585 €, υπόλοιπο 6.785,80 € με ΦΠΑ) | 9.170 € + ΦΠΑ (11.370,80 €) | [[greenmart-antemisaris]] | [[2026-11-25-expopiece-xenia-ypoloipo]] |
+| 2026-11-25 | Print Kong | Παραγγελία 3 plexi stands · 30 κοπτικά αυτοκόλλητα (κατά Βάσια Κ.) | 45 €/τμχ · 50 € + ΦΠΑ | [[barbaggio]] | [[2026-11-25-barbaggio-plexi-stickers-print-kong]] |
 | 2026-11-24 | [[wrapp]] | myDATA παραστατικά ανά studio/έτος (+ΦΠΑ), χωρίς προμήθεια | Lite 109 € · Core 169 € (POS) · Plus 239 € · Max 549 € · Ultra 1.999 € | [[booking-app]] | [[2026-11-24-wrapp-mydata-partners-api-studios]] |
 | 2026-11-24 | Rodopou & Beyond (κατά Γεωργιάδη) | Σεζόν Καρδερίνος · social όλων των venues | ~3.000 € · 700–800 € | [[dimitris-georgiadis]] | [[2026-11-24-georgiadis-rodopou-prosfora-option2]] |
 | 2026-11-24 | [[metalease]] | Ληξιπρόθεσμες δόσεις Σ2748 / Σ1495 / Σ2744 | 139,89 € / 71,85 € / 219,00 € | GROW | [[2026-11-24-metalease-enimerosi-ofeilis]] |

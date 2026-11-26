@@ -3,7 +3,7 @@ type: vendor
 title: "Expopiece"
 aliases: [Expopiece, expopiece.gr]
 status: ενεργός
-updated: 2026-11-17
+updated: 2026-11-26
 ---
 # Expopiece
 > Κατασκευαστής περιπτέρων με τον οποίο η GROW κοστολογεί κατασκευαστικά για τα εκθεσιακά της projects ([[ekthesiaka-periptera]]).
@@ -49,6 +49,7 @@ updated: 2026-11-17
 - —
 
 ## Χρονολόγιο
+- 2026-11-25 — Τελική ανάλυση ΧΕΝΙΑ: 9.170 € + ΦΠΑ = 11.370,80 €, προκαταβολή 4.585 €, υπόλοιπο 6.785,80 €· Δήμος: «Είμαστε οκ προχωρήστε στο τιμολόγιο» ([[2026-11-25-expopiece-xenia-ypoloipo]])
 - 2026-11-16 — XENIA: η Δέσποινα πιέζει για ρεύμα «έως τις 11»· η παραγγελία ρεύματος πάει στην Expowork 12:08 ([[2026-11-13-expopiece-pros-symplirosi-reuma-xenia-update-2026-11-17]]).
 - 2026-11-13 — XENIA: νέα δελτία ανάρτησης + σχέδιο κρέμασης (2 σημεία)· η Δέσποινα ζητά σύνολο kW και σχέδιο πίνακα ([[2026-11-13-expopiece-pros-symplirosi-reuma-xenia]]).
 - 2026-11-12 — XENIA: σφραγισμένα έντυπα ανάρτησης· ζητήθηκε ηλεκτρολογικό σχέδιο· **νέα οικονομική προσφορά V2** προς Δήμο ([[2026-11-11-expopiece-kremasi-antemisaris-update-2026-11-13]], [[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]], [[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]]).

@@ -3,7 +3,7 @@ type: client
 title: "Hellenic Heritage Evolution (HHE) — Heritage Escape / Τσικλητήρεια"
 aliases: [HHE, ΗΗΕ, Hellenic Heritage Evolution, Heritage Escape, Τσικλητήρεια, Tsiklitiria, hellenicheritageevolution.com, Δ. Καραμπάτσος]
 status: ενεργός
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 # Hellenic Heritage Evolution (HHE): Heritage Escape / Τσικλητήρεια
 > Πελάτης της ομάδας της Δέσποινας με events. Το Heritage Escape ήταν τριήμερο στο Costa Navarino, 18–20/9/2026, και τα Τσικλητήρεια είναι αγώνας με εγγραφές. Η GROW κάνει Meta Ads, αναζήτηση sponsors και συναντήσεις follow-up κάθε 1–2 εβδομάδες. Βασική επαφή είναι ο Δημήτρης Καραμπάτσος.
@@ -30,6 +30,10 @@ updated: 2026-11-25
 - **Τσικλητήρεια:** εκκρεμεί αποδεικτικό πληρωμής του τιμολογίου Print Kong (από 2026-11-11) και η αποπληρωμή του ΕΟΤ (αρχεία υπογράφηκαν 2026-11-05) ([[2026-11-11-hhe-timologia-tsiklitiria-printkong]], [[2026-11-04-hhe-eot-tsiklitiria-arxeia]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-26**
+- [ ] Υπογεγραμμένο συμφωνητικό + κατεύθυνση activation — Avance — ζητήθηκε ξανά 2026-11-25 ([[2026-11-13-heritage-escape-2027-avance-update-2026-11-26]])
+- [ ] Επαφή από marketing Coffee Lab — Coffee Lab — από 2026-11-25 ([[2026-11-25-heritage-escape-coffee-lab]])
+- [ ] Αλλαγή ημερομηνίας womens-golf-experience σε 16–18/4/2027 + 4ο project Heritage Escape στο site — IN.DEV.IN / Δέσποινα ([[2026-11-25-hhe-indevin-allagi-imerominias]])
 - [ ] Νέα συμφωνητικά confirmed partners (νέες ημερομηνίες) · πακέτα στο booking site · ημερομηνίες στο site HHE — Δέσποινα ([[2026-11-23-heritage-escape-follow-up-call]])
 - [ ] Τελική επιβεβαίωση σχεδίων/τεμαχίων τσαντών-μαντηλιών (ή updated σχέδιο) — Access Fashion (Giannis Lekkas) — «το επόμενο διάστημα» ([[2026-11-13-heritage-escape-2027-access-fashion-update-2026-11-20]])
 - [ ] Αποστολή template χορηγών golf (Heritage Escape 2027) — Δέσποινα / ομάδα — από 2026-11-19 ([[2026-11-19-heritage-escape-costa-navarino-golf-mail]])
@@ -62,6 +66,7 @@ updated: 2026-11-25
 - Ο πελάτης δεν δέχτηκε την custom πλατφόρμα εγγραφών της GROW και χρησιμοποιεί Reventy ([[2026-08-09-tsikliteria-meta-campaigns-report]]).
 
 ## Χρονολόγιο
+- 2026-11-25 — Heritage Escape 2027 οριστικά **16–18/4/2027**· recap Avance (SUV + van με οδηγό, golf clinics, gala, wellness) και ξανά αποστολή συμφωνητικού· ❌ Vodafone · Optima ευχαριστήριο · Coffee Lab: το marketing θα επικοινωνήσει · IN.DEV.IN: αλλαγή ημερομηνίας στο site ([[2026-11-13-heritage-escape-2027-avance-update-2026-11-26]], [[2026-11-25-heritage-escape-vodafone-arnisi]], [[2026-11-25-heritage-escape-coffee-lab]], [[2026-11-25-hhe-indevin-allagi-imerominias]], [[2026-11-24-optima-heritage-escape-arnisi-update-2026-11-26]])
 - **2026-11-24** — Optima Bank: όχι χορηγία ([[2026-11-24-optima-heritage-escape-arnisi]]).
 - **2026-11-23 13:01–13:03** — Δέσποινα: recap call (αποκλειστικότητες νερό/μ, Βίκος/Blu, Access, Tesla/Avance· νέα συμφωνητικά με νέες ημερομηνίες· heritageescape.online live με Viva Wallet) + παρουσιάσεις θεσμικών και brands (event **2027-04-16→18**, Costa Navarino) ([[2026-11-23-heritage-escape-follow-up-call]], [[2026-11-23-heritage-escape-presentations-thesmikon]], [[2026-11-23-heritage-escape-mail-body-presentations]]). HE follow up call 2026-11-24 13:00 ([[2026-11-24_2026-12-01]]).
 - **2026-11-20** — Η [[marina-papanastasiou]] έστειλε cold outreach χορηγίας Heritage Escape 2027 (Costa Navarino 16–18/04/2027) σε 16 παραλήπτες εταιρειών ενέργειας/ναυτιλίας (ΔΕΗ, Protergia, ΕΛΠΕ, Motor Oil, Zenith, [[metlen]], Volton, ELIN, Aegean Oil, Molgas, Diana Shipping) με '27HeritageEscape.pdf· καμία απάντηση ακόμα ([[2026-11-20-heritage-escape-outreach-energy-corporates]]).

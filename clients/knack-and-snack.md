@@ -3,7 +3,7 @@ type: client
 title: "Knack & Snack"
 aliases: [Knack, Knack and Snack, Knack & Snack, @knackandsnack, knackandsnack@gmail.com]
 status: ενεργός
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 # Knack & Snack
 > Πελάτης εστίασης της GROW για σχεδόν έναν χρόνο (στις 2026-08): Google Ads, social media management και γυρίσματα· από εδώ βγήκε ο κανόνας του Δήμου για τα κείμενα διαφημίσεων.
@@ -22,6 +22,8 @@ updated: 2026-11-25
 - **Οικονομικά:** υπόλοιπο καρτέλας **1.436,00 €** (2026-11-11) ([[2026-11-11-knack-snack-kartela]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-26**
+- [ ] Κλείσιμο συνεργασίας με @badtimemanager, @flseats, @randefood + πρόταση επιπλέον lifestyle creators — Βασιλική — από 2026-11-25 ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-26]])
 **Νέα στις 2026-11-25**
 - [ ] Feedback Knack σε Year in Review / Growth Plan 2027 / draft site — Knack — αρχές εβδομάδας 2026-11-30 ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-25]])
 - [ ] Newsletter Δεκ. με reference Okupa — Βασιλική — έως 2026-11-30 ([[2026-11-24-knack-newsletter-reference-okupa]])
@@ -33,7 +35,7 @@ updated: 2026-11-25
 - [ ] Εφαρμογή σχολίων Βασιλικής στο demo site (λογότυπα, scroll, pizza, studio, «more») πριν το live demo — Δήμος — **έως 2026-11-24** ([[2026-11-18-knack-review-site]])
 - [ ] (μερικώς ✓ 2026-11-18: pizza catering → προωθήθηκε στο knackandsnack@gmail.com, [[2026-11-17-knack-fwd-ekthesi-catering-update-2026-11-19]]) Τι κάνουμε με τα forwards (ζωγράφος / pizza catering) — Δήμος — ζωγράφος: ασαφές ([[2026-11-17-knack-fwd-ekthesi-catering]])
 - [x] ✓ (απάντηση Βασιλικής 2026-11-17) Πρακτικά συνάντησης 10/11 (PDF Βίκυ) — ανάγνωση και απευθείας επικοινωνία με Vicky Fili & Vasiliki Niassou — GROW — από 2026-11-16 ([[2026-11-16-knack-snack-praktika-synantisis]])
-- [ ] Επιλογή ανταποδοτικών creators Νοεμβρίου (comments στο Sheet) — Knack and Snack (Σπήλιος) — από 2026-11-02 ([[2026-11-02-knack-snack-creators-noemvriou]])
+- [x] ✓ 2026-11-25 (@badtimemanager, @flseats, @randefood) Επιλογή ανταποδοτικών creators Νοεμβρίου (comments στο Sheet) — Knack and Snack (Σπήλιος) — από 2026-11-02 ([[2026-11-02-knack-snack-creators-noemvriou]])
 - [x] ✓ έγινε 2026-11-10 (μετακινήθηκε 15:00–16:00· πρακτικά [[2026-11-16-knack-snack-praktika-synantisis]]) Συνάντηση «Knack εδώ» — 2026-11-10 13:00 ([[2026-11-03_2026-11-10]], [[2026-11-10-asana-omada-mikra]])
 - [x] ✓ (ανανεωμένη αφίσα στάλθηκε από Βασιλική 2026-10-29 12:08, [[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-30]]· link κρατήσεων: βλ. παρακάτω) Διορθωμένη αφίσα 11/11 («Stand up στο μπαλκόνι» πάνω, «Unpopular Opinion» κεντρικό από κάτω, χωρίς «stand up comedy show», Μαίρη σε ίδια κλίμακα, οι δύο Γιώργοι όχι δίπλα) + link κρατήσεων — Μαρίνα — **έως 2026-10-29** ([[2026-10-22-knack-and-snack-standups-noemvriou-update-2026-10-29]])
 - [ ] Εξόφληση υπολοίπου **1.436,00 €** (καρτέλα 2026-11-11· πριν 1.215,20 € από 2026-10-27) — Knack & Snack ([[2026-11-11-knack-snack-kartela]], [[2026-10-27-accounting-timologia-kartelles]])
@@ -59,6 +61,7 @@ updated: 2026-11-25
 - Προτεινόμενη δομή παραδοτέων (2026-08-06, αναμένει αποδοχή): Meta 3–4 posts/εβδ. + 7 Stories/εβδ.· TikTok 3–4 posts/εβδ.· 1–2 επαγγελματικά γυρίσματα/μήνα με τη Σήλια (14–16 προϊοντικά βίντεο + 20–25 φωτογραφίες ανά γύρισμα)· 1–2 γυρίσματα Reels/TikTok/μήνα από GROW ([[2026-08-06-knack-snack-organosi-synergasias]]).
 
 ## Χρονολόγιο
+- 2026-11-25 — Knack προχωρά με 3 ανταποδοτικούς creators (@badtimemanager, @flseats, @randefood)· ανοιχτοί σε περισσότερους lifestyle/«τι παίζει στην πόλη» ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-26]])
 - **2026-11-24** — Knack θα απαντήσει αρχές επόμενης εβδομάδας· reference newsletter Okupa ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-25]]).
 - **2026-11-23 11:11 / 18:22** — Vicky: minimal look, newsletter μηνιαίο, **παρουσίαση + newsletter Δεκεμβρίου έως 2026-11-30**, website meeting 24/11. Βασιλική: Year in Review + Strategic Growth Plan 2027 + draft site (knack-athens.pages.dev)· προτείνει **meeting 2026-11-25**· ρωτά για barter creators ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-24]]).
 - 2026-11-19 — Νέο event στο GROW Calendar: **Knack press event** 2026-11-23 15:30 (Βασιλική) ([[2026-11-20_2026-11-27]]).

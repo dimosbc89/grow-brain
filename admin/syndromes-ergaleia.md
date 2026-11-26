@@ -3,7 +3,7 @@ type: admin
 title: "Συνδρομές & εργαλεία λογισμικού"
 aliases: [subscriptions, SaaS, εργαλεία, Anthropic, Claude, Apify, Asana, HubSpot, DataForSEO, Scrape Creators, Google Workspace, ActiveCampaign]
 status: ενεργός
-updated: 2026-11-19
+updated: 2026-11-26
 ---
 # Συνδρομές & εργαλεία λογισμικού
 > Τα SaaS που πληρώνει η GROW (AI, scraping, SEO data, project management, CRM, email). Οι αποδείξεις και τα τιμολόγια πάνε στη Βασιλική ή στη Δέσποινα για το λογιστήριο.
@@ -62,6 +62,7 @@ updated: 2026-11-19
 - —
 
 ## Χρονολόγιο
+- 2026-11-25 — ChatGPT Business: εγκρίθηκε η ένταξη του Δήμου στο workspace «GROW Agency GPT» ([[2026-11-25-chatgpt-business-grow-workspace]]) · Πλαίσιο: πληρώθηκε παραγγελία 461449528 ([[2026-11-25-plaisio-paraggelia-461449528]])
 - 2026-11-18/19 — 3CX: απόδειξη 368487 → Βασιλική· AWS Budgets: GrowCRM-Monthly-Cost $25,20 > όριο $25 (budget $100) ([[2026-11-18-3cx-apodeiksi-368487]], [[2026-11-19-aws-budget-growcrm]]).
 - 2026-11-16 — Google Workspace στο 92% του pooled storage · Meta: ξανά «ad account disabled» (💭 adele) ([[2026-11-17-admin-eidopoiiseis]]).
 - 2026-11-14/15 — Meta: «adele» ξανά disabled (×2)· Calendly: νέο call 2026-11-17 με Bayse reformer pilates ([[2026-11-16-admin-eidopoiiseis]]).
