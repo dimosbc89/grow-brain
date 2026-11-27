@@ -197,7 +197,7 @@ updated: 2026-11-25
 - [[xenia-katsioula|Ξένια Κατσιούλα]] · _ενεργός_ — Καθημερινή, καταχωρίσεις Greenmart/Antemisaris.
 - [[panagiotis-kizeridis|Παναγιώτης Κυζερίδης]] · _ενεργός_ — Greenmart/Antemisaris, εγκρίνει social posts.
 
-## Συνεργάτες & πάροχοι (22)
+## Συνεργάτες & πάροχοι (23)
 - [[neon-arrow|Neon Arrow]] — Εκτυπώσεις/plexi/αυτοκόλλητα· plexi + αυτοκόλλητα τοίχου για το περίπτερο XENIA της greenmart-antemisaris (430 € + ΦΠΑ, τοποθέτηση 2026-11-19).
 - [[biz-courier|BIZ Courier & Logistics]] — Courier και 3PL (αποθήκη/WMS) που έχει επιλέξει η tandem-concept. Η GROW συνδέει το WooCommerce e-shop της Tandem με τη BIZ μέσω API / BIZ LiNK και ετ…
 - [[cretaforce|CretaForce]] — Registrar και πάροχος domains/hosting. Εκεί η GROW κρατά domains πελατών, όπως το pharmacypan.gr και το argyroplastics.gr.
@@ -221,6 +221,7 @@ updated: 2026-11-25
 - [[the-accountancy-partnership|The Accountancy Partnership (TAP)]] — Online λογιστικό γραφείο στο UK. Επιλέχθηκε στις 2026-10-14 ως λογιστής της grow-360-ltd. Το onboarding είναι σε εξέλιξη αλλά μπλοκαρισμένο από ένα απ…
 - [[webhotelier|WebHotelier]] — Booking engine και πηγή δεδομένων για τα ξενοδοχεία της hotelbrain. Η GROW χρειάζεται το API της για να συγχρονίζει τα στατικά δεδομένα στα hotel webs…
 - [[neda-decorations|NEDA Decorations]] — Διακόσμηση τραπεζιών· ζητήθηκε πρόταση για το dinner της circle-of-dining 22/11.
+- [[escape-game-over|Escape Game Over / CUBE Challenges]] — Escape rooms & CUBE Arena για ξενοδοχεία· 27/11 ζητά σύνδεση/κοινό call με τη hotelbrain.
 
 ## Διοίκηση GROW (7)
 - [[dypa-programma|ΔΥΠΑ: Πρόγραμμα Απόκτησης Εργασιακής Εμπειρίας 30+]] — Η GROW AGENCY Ε.Ε. ήταν πάροχος θέσης στο πρόγραμμα της ΔΥΠΑ για ανέργους 30+, μέσω του ΚΠΑ2 Δάφνης, με μία ωφελούμενη. Το πρόγραμμα, μαζί με την επιμ…

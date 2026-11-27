@@ -80,3 +80,6 @@ updated: 2026-11-26
 | 16–20/11 | Booking Reels UK | 92,24 € | 8 | 11,53 | [[2026-11-20-weekly-report-data]] |
 | 16–20/11 | Expo Stands GR | 84,02 € | 4 | 21,01 | [[2026-11-20-weekly-report-data]] |
 | 16–20/11 | Booking Apps GR (paused) | 45,49 € | 5 | 9,10 | [[2026-11-20-weekly-report-data]] |
+| 23–27/11 | Booking Reels GR | 95,85 € | 5 | 19,17 | [[2026-11-27-weekly-report-data]] |
+| 23–27/11 | Booking Reels UK (paused 27/11) | 91,38 € | 6 | 15,23 | [[2026-11-27-weekly-report-data]] |
+| 23–27/11 | Expo Stands GR | 88,90 € | 6 | 14,82 | [[2026-11-27-weekly-report-data]] |

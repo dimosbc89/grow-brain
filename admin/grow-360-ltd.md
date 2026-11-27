@@ -3,7 +3,7 @@ type: admin
 title: "GROW 360 LTD (UK εταιρεία)"
 aliases: [GROW 360, GROW 360 LTD, UK εταιρεία, UK company, βρετανική εταιρεία]
 status: ενεργός
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 # GROW 360 LTD
 > Η βρετανική εταιρεία του Δήμου (μοναδικός director/shareholder, κάτοικος Ελλάδας). Τον Οκτώβριο 2026 πέρασε σε νέο λογιστή, την [[the-accountancy-partnership]], και τον Νοέμβριο 2026 έχει τις πρώτες προθεσμίες της στην Companies House.
@@ -61,6 +61,8 @@ updated: 2026-11-26
 - Η YCF θα ανανεώσει αυτόματα τις υπηρεσίες της στις 2026-11-10, αν δεν ακυρωθούν ([[2026-10-13-yourcompanyformations-renewal]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-27**
+- [ ] Initial call με Jamie — no-show 27/11 13:30· νέο **2026-12-01 12:00** (Μαρίνα) ([[2026-11-27-grow360-jamie-call-no-show]])
 **Νέα στις 2026-11-25**
 - [ ] Κλείσιμο initial call με Jamie (TAP) — Δήμος — μετά το AML ✓ ([[2026-11-23-grow360-tap-urgent-filing-verification-update-2026-11-25]])
 - [ ] Επιβεβαίωση ότι το confirmation statement & το νέο registered office φαίνονται στην Companies House — TAP — έως ~2026-11-26 ([[2026-11-24-grow360-tap-registered-office-confirmation-statement]])
@@ -104,6 +106,7 @@ updated: 2026-11-26
 - 2026-10-02 — Η Μαρίνα αναλαμβάνει να επιλέξει λογιστή και να ρωτήσει αν ακυρώνονται οι υπηρεσίες YCF ([[2026-10-02-grow360-ycf-renewal-accounting]]).
 
 ## Χρονολόγιο
+- 2026-11-27 — Κανείς από την TAP δεν μπήκε στο initial call 13:30· η Μαρίνα ρώτησε Jamie/Natalie/Jennifer· νέο event «Call Jamie Marina» 1/12 12:00 ([[2026-11-27-grow360-jamie-call-no-show]])
 - 2026-11-25 — TAP: τιμολόγιο registered office 12 μηνών (P-401260, πληρωμή σε 14 ημ.)· Δήμος «Ready»· TAP ενημερώνει το file μόλις φανεί η πληρωμή. Νέο ημερολόγιο: «Call Jamie - Marina» 27/11 13:30 ([[2026-11-25-grow360-tap-registered-office-invoice]], [[2026-11-26_2026-12-03]])
 - **2026-11-24 11:32–14:36** — Ο Δήμος έστειλε proof of address → **AML passed** (12:03)· επέλεξε registered office **TAP London** (13:12)· «no changes» σε directors/shareholders → η TAP **κατέθεσε το confirmation statement** (14:36) ([[2026-11-23-grow360-tap-urgent-filing-verification-update-2026-11-25]], [[2026-11-24-grow360-tap-registered-office-confirmation-statement]]).
 - **2026-11-23 16:02–18:46** — Ημέρα προθεσμίας: ο Δήμος έστειλε «URGENT TODAY» στην TAP· ολοκλήρωσε **TrustID** → η TAP επαλήθευσε την ταυτότητα στην Companies House και **PSC verified ✓**· έστειλε Auth Code και personal code· η TAP ζήτησε την κατάθεση, αλλά στις 18:18: **πρώτα να περάσει το AML** ([[2026-11-23-grow360-tap-urgent-filing-verification]]). YCF: δεν κρατά επιστολές· προώθηση HMRC £12/επιστολή ([[2026-11-19-grow360-ycf-30-imeres-proeidopoiisi-update-2026-11-24]]). Ερώτημα φορολογικής κατοικίας UK–Ελλάδα στον Jamie με αίτημα προσφοράς ([[2026-11-23-grow360-tap-tax-residence-scope]]).

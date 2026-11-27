@@ -25,6 +25,7 @@ updated: 2026-11-27
 
 ## Ανοιχτά & επόμενα βήματα
 **Νέα στις 2026-11-27**
+- [ ] Έγκριση θέματος advertorial Γαστρονόμου — Ζάχος — παράδοση υλικού έως 2026-11-30, δημοσίευση ~10/12 ([[2026-11-27-antemisaris-advertorial-gastronomos-protaseis]])
 - [ ] Call Antemisaris follow-up (Harmony Κορωπί, κατάλογος, leads XENIA, σήμανση) — Ιωάννα — 2026-11-27 12:00 ([[2026-11-26-antemisaris-koropi-harmony]])
 - [ ] Αφαίρεση κάρτας Τσάπαλου από τα leads XENIA (δεν είναι lead — Δήμος) — Ιωάννα ([[2026-11-26-antemisaris-koropi-harmony]])
 
@@ -132,6 +133,7 @@ updated: 2026-11-27
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- **2026-11-27** — Ιωάννα: προτάσεις θεμάτων για το advertorial του Γαστρονόμου (παράδοση 30/11, δημοσίευση ~10/12) ([[2026-11-27-antemisaris-advertorial-gastronomos-protaseis]]).
 - **2026-11-26** — Ζάχος: νέα θέματα (Harmony Κορωπί κ.λπ.)· Ιωάννα: αρχείο leads XENIA· Δήμος: ο Τσάπαλος δεν είναι lead ([[2026-11-26-antemisaris-koropi-harmony]]). Asana ✓ xmas product posts, karyothrafstis, dentro.
 - 2026-11-25 — ✓ post δέντρου (BF 299 → 239 €)· καρυοθραύστες ξανά ως collage «Όλοι οι Καρυοθραύστες έως -30%»· ΤΠΥ #1338 φυλλάδιο A5 Συνεδρίου Πράσινου + καρτέλα· Expopiece: υπόλοιπο περιπτέρου ΧΕΝΙΑ 6.785,80 € εγκρίθηκε από Δήμο ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa-update-2026-11-26]], [[2026-11-25-antemisaris-timologio-1338]], [[2026-11-25-expopiece-xenia-ypoloipo]])
 - **2026-11-24** — ✓ Xmas posts εγκρίθηκαν· καρτέλα πελάτη στο λογιστήριο ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa-update-2026-11-25]], [[2026-11-24-antemisaris-kartela-pelati]]).

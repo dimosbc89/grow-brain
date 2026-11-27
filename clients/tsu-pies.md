@@ -48,6 +48,7 @@ updated: 2026-11-27
 - 2026-08: briefing call μέσω Google Meet στις 16:00 ώρα Ελλάδας (15:00 Λουξεμβούργου), invite από τη Βασιλική ([[2026-08-10-tsu-pies-briefing-call]]).
 
 ## Χρονολόγιο
+- **2026-11-27** — Μαρίνα: προτάσεις (σχέδια) για τη χαρτοσακούλα Tsu στον Κώστα· ξανάστειλε τα δώρα «Spin the Wheel» στη Looxi ([[2026-11-27-tsu-paper-bag-proposals]]).
 - **2026-11-26** — Μαρίνα: Logo Reveal video στη Vicky· ζήτησε διαθεσιμότητα για video call με Rahma (Leiden/Amstelveen) ([[2026-11-26-team-misc-timologia-logo-kartela]]).
 - **2026-11-20** — Η Βίκη έστειλε προδιαγραφές ετικέτας private label καφέ (Scarlet's Coffee: 1 ετικέτα/κωδικό, max 90×200mm, offset, ρολό φ76, πρόταση εργοστάσιο Ερμής)· η Μαρίνα «ξεκινάμε». ⚠️ Νέα δουλειά ενώ το marketing ήταν σε αναμονή λόγω απλήρωτου τιμολογίου (10/11) ([[2026-11-20-tsu-private-label-kafe-etiketa]]).
 - 2026-11-19 — Φωτογραφίες «παππού Κώστα» από τη Βίκη (βλ. [[grandpas]]) ([[2026-11-19-tsupies-fotografies-pappou]]).

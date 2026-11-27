@@ -27,6 +27,7 @@ updated: 2026-11-27
 
 ## Ανοιχτά & επόμενα βήματα
 **Νέα στις 2026-11-27**
+- [ ] CUBE Challenges Arena: προώθηση στη HotelBrain / κοινό call με [[escape-game-over]] — Δήμος — από 2026-11-27 ([[2026-11-27-cube-challenge-hotels-escapegameover]])
 - [ ] **Αποστολή updated design hotelbrain.com — Δήμος — 2026-11-27 (υπόσχεση «αύριο, Παρασκευή»)** ([[2026-11-24-hotelbrain-updates-niki-update-2026-11-27]])
 - [ ] Πρόταση site HotelBrain Academy — Δήμος — αρχές εβδομάδας 2026-11-30 ([[2026-11-24-hotelbrain-updates-niki-update-2026-11-27]])
 - [ ] Δεδομένα WebHotelier (αγορές προέλευσης) + διαθεσιμότητα για workshop audiences — HotelBrain ([[2026-11-24-hotelbrain-updates-niki-update-2026-11-27]])
@@ -88,6 +89,7 @@ updated: 2026-11-27
 - 2026-10-27: το go-live του hotelbraingroup.com γίνεται με αλλαγή μόνο των DNS records του site (όχι name servers), από τον διαχειριστή domains της HotelBrain ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]]).
 
 ## Χρονολόγιο
+- **2026-11-27** — Ο Π. Σπυρόπουλος ([[escape-game-over]]) έστειλε video + παρουσίαση CUBE Challenges Arena για τα ξενοδοχεία της HotelBrain και ζητά κοινό call. Ως τις 16:00 δεν φαίνεται αποστολή του updated design hotelbrain.com που υποσχέθηκε ο Δήμος για σήμερα ([[2026-11-27-cube-challenge-hotels-escapegameover]]).
 - **2026-11-26** — Δήμος: απάντηση σε όλα τα ανοιχτά της Νίκης (design Παρασκευή 27/11, Academy αρχές εβδομάδας, 6 social σημεία με πλαίσιο awareness) ([[2026-11-24-hotelbrain-updates-niki-update-2026-11-27]])· αφαίρεση 3 ξενοδοχείων από ghh.gr/hotels «έτοιμο» ([[2026-11-26-hotelbrain-hotels-removal-ghh]]).
 - **2026-11-24** — Η Νίκη ζητά updated design hotelbrain.com, πρόταση site Ακαδημίας και απαντήσεις social media· δεν βρήκε τον Δήμο στο τηλέφωνο ([[2026-11-24-hotelbrain-updates-niki]]).
 - **2026-11-20 10:40** — Η Νίκη ζητά δικό τους favicon και μικρότερο εικονίδιο B2B ίδιο με του footer ([[2026-11-18-hotelbraingroup-ssl-allages-update-2026-11-23]]).
