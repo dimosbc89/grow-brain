@@ -78,3 +78,4 @@ title: "Ημερολόγιο ενεργειών"
 2026-11-27 15:15 — demo — Pilates by Anastasia: online αγορά πακέτων με Stripe (test mode) — booking-app
 2026-11-27 15:55 — demo — Pilates by Anastasia: Viva Smart Checkout δίπλα στο Stripe (επιλογή ανά studio) — booking-app
 2026-11-27 15:58 — job:report — αναφορά εβδομάδας 23–27/11 (17 Meta leads / 276,13 €, 10 προτάσεις, 0 συμφωνίες, 19 συναντήσεις, Asana 93 ✓ / 90 εκπρόθεσμα· Google Ads μη συνδεδεμένο, Asana(κύριο) αποτυχία 410 — χρησιμοποιήθηκε Asana-05ac16d3, hello@ δεν ελέγχθηκε) — jobs/reports/2026-11-27.md/.pdf · ingest: booking-app, hotelbrain, grow-360-ltd, tsu-pies, krimatoglou, greenmart-antemisaris, prices, escape-game-over (νέο), index, raw/email (6), raw/notes/2026-11-27-weekly-report-data
+2026-11-27 16:20 — demo — Stripe test + Viva demo συνδεδεμένα στο live demo Pilates by Anastasia — booking-app
