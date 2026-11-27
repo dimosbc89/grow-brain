@@ -3,7 +3,7 @@ type: person
 title: "Niki Daleziou (Νίκη Δαλέζιου)"
 aliases: [Niki Daleziou, Νίκη, ndaleziou@hotelbrain.com]
 status: ενεργός
-updated: 2026-11-25
+updated: 2026-11-27
 ---
 # Niki Daleziou
 > Digital Marketing Manager στη HOTELBRAIN S.A. Είναι η καθημερινή επαφή της GROW για τα hotel websites και για το νέο corporate site της [[hotelbrain]].
@@ -44,6 +44,7 @@ updated: 2026-11-25
 - [x] ✓ οι DNS εγγραφές έγιναν 2026-11-17, SSL λύθηκε 2026-11-18 ([[2026-11-18-hotelbraingroup-ssl-allages]]) — DNS records για το site → HotelBrain (διαχειριστής domains) — Δήμος — από 2026-10-27 08:18 ([[2026-10-12-hotelbrain-corporate-website-update-2026-10-28]])
 
 ## Χρονολόγιο
+- **2026-11-26** — Ζήτησε αφαίρεση OXYGEN/FAVIE/FAVIE SUZANNE από ghh.gr (έγινε)· πήρε συγκεντρωτική απάντηση του Δήμου — design hotelbrain.com 27/11 ([[2026-11-24-hotelbrain-updates-niki-update-2026-11-27]], [[2026-11-26-hotelbrain-hotels-removal-ghh]]).
 - **2026-11-24** — Κυνηγά: design hotelbrain.com, πρόταση Ακαδημίας, social media ερωτήματα ([[2026-11-24-hotelbrain-updates-niki]]).
 - 2026-11-19 — Προωθεί αξίωση COPYTRACK (εικόνα Tinos, MMW)· ζητά αντικατάσταση φωτογραφίας ([[2026-11-19-hotelbrain-copytrack-tinos-eikona]]).
 - 2026-11-18 — SSL hotelbraingroup.com λύθηκε, 5 αλλαγές «Ready»· Academy → 1.150 € + ΦΠΑ ([[2026-11-18-hotelbraingroup-ssl-allages]], [[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-19]]).

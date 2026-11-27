@@ -3,7 +3,7 @@ type: client
 title: "Koala"
 aliases: [koala, Koala, koala ads, koalacoffee.gr]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-27
 ---
 # Koala
 > Πελάτης (💭 Υπόθεση: καφέ, από τα tasks «coffee day», «coffee AI») για τον οποίο η GROW κάνει social, giveaways, Google Ads και promoters· όλα τα τρέχει η Ιωάννα.
@@ -15,11 +15,16 @@ updated: 2026-11-21
 - **Ομάδα GROW:** [[ioanna-chalkiadaki]] (όλα τα tasks) ([[2026-10-21-asana-snapshot]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-17)
+- **Νέο 2026-11-26:** ο Δήμος έγραψε draft email για το **Koala Club** (δώρα, πόντοι, επίπεδα Regular/Local/Legend, εξουσιοδότηση δημοσίευσης στα stores από λογαριασμούς GROW) και το έδωσε στην Ιωάννα για check πριν φύγει ([[2026-11-26-koala-club-draft-dora-epipeda]]).
 - **koalacoffee.gr:** καταχωρήθηκε 2026-11-12 (CretaForce, 2 έτη, λήξη 2028-11-10), ενεργό στο Cloudflare· επιβεβαίωση FORTH 2026-11-17 ([[2026-11-12-koala-domain-security-mikra]], [[2026-11-17-admin-eidopoiiseis]]).
 - **Koala Club:** 2026-11-09 ο Δήμος έστειλε σε Βασιλική & Ιωάννα PDF «πώς δουλεύει η εφαρμογή» (💭 loyalty app) ([[2026-11-09-koala-app-pdf]]).
 - **Asana (2026-10-21):** ανοιχτό μόνο το «tik tok strategy» (εκπρόθεσμο) + 2 tasks πληρωμής promoters στο ΛΟΓΙΣΤΗΡΙΟ ([[2026-10-21-asana-snapshot]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-27**
+- [ ] Έλεγχος + αποστολή email Koala Club στον πελάτη — [[ioanna-chalkiadaki]] — 2026-11-27 (Asana «koala club δώρα») ([[2026-11-26-koala-club-draft-dora-epipeda]])
+- [ ] Επιβεβαιώσεις πελάτη: δώρα/τιμές/επίπεδα, λογότυπο με γράμματα, υπογεγραμμένη εξουσιοδότηση App Store/Google Play — Koala ([[2026-11-26-koala-club-draft-dora-epipeda]])
+
 - [ ] «tik tok strategy» — [[ioanna-chalkiadaki]] — due 2026-09-14 ⚠️ εκπρόθεσμο ([[2026-10-21-asana-snapshot]])
 - [ ] Πληρωμή promoters: στο project «ΛΟΓΙΣΤΗΡΙΟ» μένουν ανοιχτά «Πληρωμή - Promoters (Tesla & Koala)» (due 2026-09-30 ⚠️) και «πληρωμή promoters - Koala»· ✓ «πληρωμή koala promoters» 2026-10-02 ([[2026-10-21-asana-snapshot]])
 
@@ -27,6 +32,7 @@ updated: 2026-11-21
 - —
 
 ## Χρονολόγιο
+- **2026-11-26** — Draft Koala Club (Δήμος → Ιωάννα) ([[2026-11-26-koala-club-draft-dora-epipeda]]). Asana: ✓ posting plan (Laurine).
 - 2026-11-17 — FORTH: επιβεβαίωση καταχώρησης koalacoffee.gr ([[2026-11-17-admin-eidopoiiseis]]).
 - 2026-11-12 — Καταχώρηση **koalacoffee.gr** (CretaForce, 2 έτη, 13,28 credits, λήξη 2028-11-10)· Cloudflare: domain active (Free plan). 💭 Υπόθεση: για την εφαρμογή/site Koala Club ([[2026-11-12-koala-domain-security-mikra]]).
 - 2026-11-09 — Ο Δήμος έστειλε σε Βασιλική & Ιωάννα PDF «Koala Club — πώς δουλεύει η εφαρμογή» (💭 εφαρμογή loyalty) ([[2026-11-09-koala-app-pdf]]).

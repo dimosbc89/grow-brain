@@ -3,7 +3,7 @@ type: admin
 title: "Hosting, servers & domains"
 aliases: [hosting, servers, domains, cloud.growagency.online, Plesk, Fastpath, Cretaforce, Papaki, Enartia]
 status: ενεργός
-updated: 2026-11-25
+updated: 2026-11-27
 ---
 # Hosting, servers & domains
 > Οι servers της GROW (Plesk στη [[fastpath]]) και οι registrars ([[papaki]]/[[enartia]], [[cretaforce]]) όπου η GROW κρατά τα domains των πελατών. Κάθε ανανέωση domain ξανατιμολογείται στον πελάτη.
@@ -49,6 +49,9 @@ updated: 2026-11-25
 - Το ticket 004632 για SSH στα mailboxes του academicals.gr περιμένει ακόμη απάντηση ([[2026-09-28-fastpath-ticket-ssh-academicals]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-27**
+- [ ] **jerryvasiliki.online λήγει 2026-12-01 (Papaki)** — ανανέωση ή όχι — Δήμος ([[2026-11-26-admin-eidopoiiseis]])
+
 - [ ] posidonioathens.gr (νέο, CretaForce, λήξη 2028-11-18) — για ποιον πελάτη/project; + ανατιμολόγηση — Δήμος/Μαρίνα ([[2026-11-19-posidonioathens-gr-kataxorisi]])
 - [ ] Ανανέωση Semi Dedicated Platinum finders.com.cy (pointer.gr) — λήξη **2026-12-16**, απενεργοποίηση ≈ 2026-12-26 — Δήμος· ποιος πελάτης; ([[2026-11-16-admin-eidopoiiseis]])
 - [ ] Ανανέωση eventsgreece.online (Papaki) — λήξη **2026-12-13** — Δήμος ([[2026-11-16-admin-eidopoiiseis]])
@@ -76,6 +79,7 @@ updated: 2026-11-25
 - Κάθε ανανέωση domain πελάτη ξανατιμολογείται στον πελάτη (π.χ. «Τιμολόγιο Πανόπουλος», «25 + fpa to kathena») ([[2026-09-07-cretaforce-pharmacypan-domain-renewal]], [[2026-09-10-invoice-nikas-barista-domains]]).
 
 ## Χρονολόγιο
+- **2026-11-27** — Papaki: jerryvasiliki.online λήγει 2026-12-01 ([[2026-11-26-admin-eidopoiiseis]])· 2026-11-26 τιμολόγιο ανανέωσης eu-turbo.com προς Turbomed ([[2026-11-26-team-misc-timologia-logo-kartela]]).
 - **2026-11-25** — FORTH: επιβεβαίωση posidonioathens.gr (λήξη 2028-11-18) ([[2026-11-25-posidonioathens-domain-kataxorisi]])· lucaffe.gr έληξε ([[2026-11-25-lucaffe-domain-ligmeno]]).
 - **2026-11-23** — FASTPATH: malware σε chefmanousakis.gr & globalfoods.gr ([[2026-11-23-fastpath-malware-hosting]]). cPanel finders.com.cy: δίσκος 98,89% (39,56/40 GB) (email 2026-11-23 22:45, χωρίς digest).
 - 2026-11-19 — CretaForce/FORTH: posidonioathens.gr καταχωρήθηκε (2 έτη, λήξη 2028-11-18)· ΤΠΥ 24693 30,00 € ([[2026-11-19-posidonioathens-gr-kataxorisi]]).

@@ -3,7 +3,7 @@ type: client
 title: "Tandem Concept"
 aliases: [TANDEM, Tandem, TANDEM CONCEPT Ι.Κ.Ε., Tandem Boutique, tandemconcept.gr]
 status: ενεργός
-updated: 2026-11-25
+updated: 2026-11-27
 ---
 # Tandem Concept
 > Μπουτίκ στο Κολωνάκι (Vanessa Wu, Christian Villa, SU κ.ά.) των [[caroline-hafouri]] και [[george-chalhoub]]. Η GROW στήνει το WooCommerce e-shop tandemconcept.gr με όλες τις διασυνδέσεις (Viva, Epsilon, BIZ Courier, BOX NOW) και ετοιμάζει video content με τους ιδρυτές.
@@ -20,6 +20,7 @@ updated: 2026-11-25
 - **Ομάδα GROW:** ο Δήμος (integrations, Epsilon, προϊόντα, κύρια επικοινωνία)· [[despina-velissariou]] και [[vassia-kataki]] (review design/περιεχομένου με τον developer) ([[2026-10-08-tandem-review-eshop-developer]])· η [[despina-velissariou]] έχει και τον οδηγό της συνέντευξης ([[2026-10-19-tandem-interview-questions]])· [[vassiliki-giannopoulou]] σε cc ([[2026-10-08-tandem-review-eshop-developer]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Νέο 2026-11-26:** George «Kind reminder» για Vanessa Wu W26 → ο Δήμος: η BIZ έπρεπε να απαντήσει χθες, έστειλε υπενθύμιση· **«by the end of the day I will have finished epsilon stock new list and woocommerce»** ([[2026-11-20-tandem-vanessa-wu-winter-2026-update-2026-11-27]], [[2026-11-16-tandem-biz-packing-list-update-2026-11-27]]). Η Δέσποινα έστειλε προσφορές opening: catering [[barbaggio]] 280–500 €, photo/video 260 €, μπαλόνια 50–60 €/stand (+ΦΠΑ) ([[2026-11-26-tandem-opening-quotations]]).
 - **Νέο 2026-11-24:** ✓ Δήμος έκλεισε στο Asana social media links, photo change e-shop και Linktree. Η Δέσποινα έστειλε τις **2 προσκλήσεις opening**· το **opening μπήκε 2026-12-01 19:00** στο GROW Agency Calendar ([[2026-11-24-tandem-opening-invitation]]). Πρόσκληση σε pop-up «The Rooftop Edit» στο Rodopou & Beyond κάθε Σάββατο Δεκεμβρίου (δωρεάν) ([[2026-11-24-tandem-rooftop-edit-popup-hilton]]).
 - **Inbound Christian Villa:** η BIZ βρήκε το **booking 810027890** (accepted, ολοκλήρωση **έως 2026-11-25**) αλλά **δεν μπορεί να ξαναβγάλει το packing list** (βγαίνει μόνο από το WooCommerce τη στιγμή του booking)· ζητά τα είδη στο **EasyBiz** ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]], [[2026-11-19-tandem-easybiz-booking]]). Η Caroline ζήτησε 21:30 από τον Δήμο **να πάρει τηλέφωνο τη BIZ** ([[2026-11-19-tandem-cv-bags-biz-product]]).
 - **Τελευταίες διορθώσεις e-shop** (4 σημεία) για την εβδομάδα 2026-11-23 ([[2026-11-19-tandem-last-corrections-website]]).
@@ -27,6 +28,11 @@ updated: 2026-11-25
 - Bag hangers/τσάντες Fun Promotion: παραγγελία 813,44 € σε εξέλιξη, παράδοση ασαφής ([[2026-11-04-tandem-posts-hangers-bizlink-update-2026-11-11]]). Ads (Google + META 150 €/μήνα) εγκρίθηκαν 2026-10-26 ([[2026-10-14-tandem-social-ads-strategy]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-27**
+- [ ] **Epsilon stock νέα λίστα + WooCommerce import Vanessa Wu W26 — Δήμος — υπόσχεση «by the end of the day» 2026-11-26** ([[2026-11-20-tandem-vanessa-wu-winter-2026-update-2026-11-27]])
+- [ ] Επιβεβαίωση BIZ: Christian Villa FW 2026 στο stock / διαθέσιμα (υπενθύμιση 2026-11-26) — BIZ ([[2026-11-16-tandem-biz-packing-list-update-2026-11-27]])
+- [ ] Επιλογή catering/photo/μπαλονιών για το opening 2026-12-01 — Tandem ([[2026-11-26-tandem-opening-quotations]])
+
 **Νέα στις 2026-11-25**
 - [ ] Έγκριση προσκλήσεων opening 1/12 — Caroline/George ([[2026-11-24-tandem-opening-invitation]])
 - [ ] Ημερομηνίες για το Rooftop Edit (5/12, 12/12, 19/12, 26/12) — Tandem ([[2026-11-24-tandem-rooftop-edit-popup-hilton]])
@@ -114,6 +120,7 @@ updated: 2026-11-25
 - Ο Δήμος διαφώνησε με την προσθήκη «KLK» σε διπλά SKU (διαφορετικοί κωδικοί για το ίδιο προϊόν μπορεί να φέρουν προβλήματα)· η Caroline το είχε ήδη κάνει ([[2026-10-16-tandem-eshop-bags-epsilon]]).
 
 ## Χρονολόγιο
+- **2026-11-26** — Reminder George (Vanessa Wu)· Δήμος: υπενθύμιση BIZ + δέσμευση Epsilon/WooCommerce αυθημερόν ([[2026-11-20-tandem-vanessa-wu-winter-2026-update-2026-11-27]], [[2026-11-16-tandem-biz-packing-list-update-2026-11-27]])· Δέσποινα: προσφορές opening ([[2026-11-26-tandem-opening-quotations]]).
 - **2026-11-24** — ✓ social links/photo change/Linktree (Asana)· προσκλήσεις opening στάλθηκαν· opening 2026-12-01 19:00· πρόσκληση Rooftop Edit ([[2026-11-24-tandem-opening-invitation]], [[2026-11-24-tandem-rooftop-edit-popup-hilton]]).
 - **2026-11-23 16:58** — Caroline: excel Vanessa Wu W26 για φόρτωση στο **Epsilon** (Κολωνάκι) ([[2026-11-23-tandem-epsilon-kolonaki-excel]]).
 - **2026-11-23 09:49** — George: **επίσημο opening 2026-12-01 ή 12-02** — προσκλήσεις ASAP· catering προσφορές από Δέσποινα· πελάτες λένε ότι **τα social icons του site δεν ανοίγουν** ([[2026-11-23-tandem-official-opening-event]]).

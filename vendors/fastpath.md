@@ -3,7 +3,7 @@ type: vendor
 title: "FASTPATH ΙΚΕ"
 aliases: [Fastpath, fastpath.gr, FASTPATH IKE]
 status: ενεργός
-updated: 2026-11-24
+updated: 2026-11-27
 ---
 # FASTPATH ΙΚΕ
 > Ο hosting provider της GROW. Φιλοξενεί τον managed server cloud.growagency.online (Plesk), όπου τρέχουν sites και email πελατών. Στις 2026-10-20 απειλεί διακοπή για ανεξόφλητο τιμολόγιο.
@@ -28,6 +28,9 @@ updated: 2026-11-24
 - Ο Δήμος απάντησε: «Καλησπέρα σας θα ταχτοποιηθεί μέχρι Παρασκευή» ([[2026-10-20-fastpath-diakopi-ypiresion-ofeiles]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-27**
+- [ ] **Πληρωμή χρέωσης #62689 · 507,78 € — λήξη 2026-12-01** — Βασιλική/Δήμος ([[2026-11-26-admin-eidopoiiseis]])
+
 - [ ] Πληρωμή προτιμολογίου #62689 (Δεκέμβριος: managed cloud.growagency.online + Plesk) 507,78 € — GROW — έως **2026-12-01** ([[2026-11-17-admin-eidopoiiseis]])
 - [ ] **Εξόφληση #61293 (507,78 €) — ΕΠΕΙΓΟΝ, προθεσμία 24ω από 2026-11-08 07:01** — Δήμος/[[vassiliki-giannopoulou]] ([[2026-11-09-admin-eidopoiiseis]])
 - [ ] Πληρωμή **507,78 €** (προτιμολόγιο #61293, Νοέμβριος) — Δήμος/λογιστήριο — **έως 2026-11-01** ⚠️ ληξιπρόθεσμο· νέα προθεσμία ≈ 2026-11-08 (υπενθύμιση 2026-11-03, [[2026-11-03-admin-eidopoiiseis]]) ([[2026-10-27-admin-eidopoiiseis-a]])
@@ -39,6 +42,7 @@ updated: 2026-11-24
 - —
 
 ## Χρονολόγιο
+- **2026-11-27** — Υπενθύμιση πληρωμής #62689 507,78 €, λήξη 2026-12-01 ([[2026-11-26-admin-eidopoiiseis]]).
 - **2026-11-23 09:02** — Malware scan cloud.growagency.online: web shell στο chefmanousakis.gr, backdoor στο wordpress-backups/ του globalfoods.gr ([[2026-11-23-fastpath-malware-hosting]]).
 - 2026-11-17 — Προτιμολόγιο #62689, 507,78 € (387,50 € managed services + 22,00 € Plesk + ΦΠΑ), λήξη 2026-12-01 ([[2026-11-17-admin-eidopoiiseis]]).
 - 2026-11-09 — Παραστατικό 35135 για #59965 (08/11, 507,78 €), προωθήθηκε σε Μαρίνα & Βασιλική. ⚠️ ασαφές αν εξοφλήθηκε και το #61293 ([[2026-11-10-admin-omada-mikra]]).

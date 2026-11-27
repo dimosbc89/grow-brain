@@ -3,7 +3,7 @@ type: client
 title: "Barbaggio"
 aliases: [Barbagio, Barbaggio site 2026]
 status: ενεργός
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 # Barbaggio
 > Πελάτης για τον οποίο η GROW ετοιμάζει νέο site το 2026 (κείμενα έτοιμα από 2026-10-08).
@@ -48,6 +48,7 @@ updated: 2026-11-26
 - —
 
 ## Χρονολόγιο
+- **2026-11-26** — Προσφορά catering για το opening [[tandem-concept]] 2026-12-01 (70–80 άτομα): 280 / 360 / 420 / 500 € + ΦΠΑ ([[2026-11-26-tandem-opening-quotations]]).
 - 2026-11-25 — Παραγγελία στην Print Kong: 3 plexi stands (2 Τμώλου, 1 Ιθώμης) + 30 κοπτικά αυτοκόλλητα, παράδοση/τιμολόγιο στο Barbaggio· ✓ Review QR (Asana). 26/11 10:00 «Barbaggio εκεί - Δέσποινα» ([[2026-11-25-barbaggio-plexi-stickers-print-kong]])
 - 2026-11-11 — «Προς έγκριση»: η Δέσποινα στέλνει στον Μπαρμπαγιώργη σχεδιαστικά Τμώλου/Ιθώμης, Α5 legal, van, QR review με τιμές, menu/price tags ([[2026-11-11-barbaggio-pros-egkrisi]]).
 - 2026-11-02 — 11:50 η Δέσποινα ζητά νέα· 12:48 ο προμηθευτής: τα βέλη δεν τυπώνονται, σχεδιάζετε κανονικά· 12:49 ζητά μακέτες μέσα σε μία ώρα· 12:56 η Δέσποινα στέλνει τις μακέτες (WeTransfer) ([[2026-10-30-barbaggio-koutia-velh-update-2026-11-03]]).

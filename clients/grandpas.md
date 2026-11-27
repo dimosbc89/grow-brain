@@ -3,7 +3,7 @@ type: client
 title: "Grandpa's"
 aliases: [Grandpa's, Grandpas]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-27
 ---
 # Grandpa's
 > Νέος πελάτης στο Asana (project από 2026-10-09): reels και redesign λογοτύπου.
@@ -34,6 +34,7 @@ updated: 2026-11-21
 - —
 
 ## Χρονολόγιο
+- **2026-11-26** — Logo reveal video στάλθηκε στη Vicky (Μαρίνα) ([[2026-11-26-team-misc-timologia-logo-kartela]]).
 - 2026-11-19 — Η Βίκη στέλνει 10 φωτογραφίες του «παππού Κώστα» ([[2026-11-19-tsupies-fotografies-pappou]]).
 - 2026-11-10 — Η Μαρίνα έστειλε moodboards και ζήτησε videos πιάτων· ο Κώστας βάζει το marketing σε αναμονή μέχρι την εξόφληση του 1ου τιμολογίου ([[2026-11-10-tsu-grandpas-moodboards]]). Η Μαριάννα ξανάστειλε το reel (Walker.mp4) με mention σε Δήμο/Μαρίνα ([[2026-11-10-asana-omada-mikra]]).
 - 2026-11-09 — Asana: η Μαριάννα σε mention για το reel «δρομέας που τρώει σουβλάκι» ([[2026-11-10-admin-omada-mikra]]).

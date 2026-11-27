@@ -3,7 +3,7 @@ type: client
 title: "Knack & Snack"
 aliases: [Knack, Knack and Snack, Knack & Snack, @knackandsnack, knackandsnack@gmail.com]
 status: ενεργός
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 # Knack & Snack
 > Πελάτης εστίασης της GROW για σχεδόν έναν χρόνο (στις 2026-08): Google Ads, social media management και γυρίσματα· από εδώ βγήκε ο κανόνας του Δήμου για τα κείμενα διαφημίσεων.
@@ -15,6 +15,7 @@ updated: 2026-11-26
 - **IG:** @knackandsnack ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Νέο 2026-11-26 20:28:** η Βίκυ έστειλε λίστα προτεραιοτήτων με προθεσμίες· παράπονο ότι το **posting calendar Δεκεμβρίου** ζητήθηκε από 9/11 και δεν ήταν στην παρουσίαση· website «σε πολύ καλό δρόμο, μπράβο!» ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-27]]).
 - **Νέο 2026-11-24:** η Βίκυ Φίλη θα επανέλθει «μέχρι τις αρχές της επόμενης εβδομάδας» για Year in Review/Growth Plan/draft site· έστειλε το newsletter της Okupa ως reference ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-25]], [[2026-11-24-knack-newsletter-reference-okupa]]).
 - **Deadlines σε ένταση:** στις 2026-11-17 η [[vassiliki-giannopoulou]] έδωσε γραπτά: website update χωρίς επιπλέον κόστος με **live demo 2026-11-24**, **performance report + ενιαίο πλάνο Social/Content Δεκ–Μάρ έως 2026-11-23**, media monitoring δεν ανανεώνεται· ο Σπήλιος: «είπατε μέχρι Παρασκευή (13/11)»· ο Δήμος πρότεινε συζήτηση 2026-11-18 μετά το γύρισμα — αν έγινε: ασαφές ([[2026-11-17-knack-follow-up-next-steps]]).
 - **Site demo:** εσωτερικό review Βασιλικής 2026-11-18 + σωστά λογότυπα → μένουν διορθώσεις πριν το live demo ([[2026-11-18-knack-review-site]]).
@@ -22,6 +23,17 @@ updated: 2026-11-26
 - **Οικονομικά:** υπόλοιπο καρτέλας **1.436,00 €** (2026-11-11) ([[2026-11-11-knack-snack-kartela]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-27**
+- [ ] **Καταχώρηση χώρου στο myvenue.gr + link — [[vassiliki-giannopoulou]] — 2026-11-27** ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-27]])
+- [ ] **Short-list top 20 × 3 κατηγορίες (παραγωγής, wedding planners, catering) + ποιους παίρνει η GROW / ο Σπήλιος — GROW — Δευτέρα 2026-11-30 νωρίς** ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-27]])
+- [ ] **Posting calendar Δεκεμβρίου (excel, visual + copy, IG/TikTok) — GROW — 2026-11-30** ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-27]])
+- [ ] Εταιρική παρουσίαση + Newsletter Δεκεμβρίου — GROW — 2026-11-30 ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-27]])
+- [ ] Action plan one brand identity KNACK Athens + μετάβαση social σε μία σελίδα — GROW — εβδομάδα 2026-11-30 ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-27]])
+- [ ] Κείμενα website σε Word — GROW — Τετάρτη 2026-12-02 ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-27]])
+- [ ] Επικοινωνία με εταιρείες (email + τηλέφωνο), status ανά 2 μέρες — GROW — έως 2026-12-04 ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-27]])
+- [ ] Deliverables ανά creator (1 reel/carousel + 3 IG stories, 1 TikTok + 3 stories) — GROW — 2026-12-04· creator pool — 2026-12-14 ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-27]])
+- [ ] Xmas dinner στη γκαλερί 2026-12-22 — σχεδιασμός ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-27]])
+
 **Νέα στις 2026-11-26**
 - [ ] Κλείσιμο συνεργασίας με @badtimemanager, @flseats, @randefood + πρόταση επιπλέον lifestyle creators — Βασιλική — από 2026-11-25 ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-26]])
 **Νέα στις 2026-11-25**
@@ -61,6 +73,7 @@ updated: 2026-11-26
 - Προτεινόμενη δομή παραδοτέων (2026-08-06, αναμένει αποδοχή): Meta 3–4 posts/εβδ. + 7 Stories/εβδ.· TikTok 3–4 posts/εβδ.· 1–2 επαγγελματικά γυρίσματα/μήνα με τη Σήλια (14–16 προϊοντικά βίντεο + 20–25 φωτογραφίες ανά γύρισμα)· 1–2 γυρίσματα Reels/TikTok/μήνα από GROW ([[2026-08-06-knack-snack-organosi-synergasias]]).
 
 ## Χρονολόγιο
+- **2026-11-26** — Βίκυ: προτεραιότητες με προθεσμίες 27/11–14/12, παράπονο για posting calendar Δεκ. ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-27]]). KNACK Studio: τιμολόγια Yiayia & Αντεμισάρη ([[2026-11-26-knack-timologia-yiayia-antemisaris]]).
 - 2026-11-25 — Knack προχωρά με 3 ανταποδοτικούς creators (@badtimemanager, @flseats, @randefood)· ανοιχτοί σε περισσότερους lifestyle/«τι παίζει στην πόλη» ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-26]])
 - **2026-11-24** — Knack θα απαντήσει αρχές επόμενης εβδομάδας· reference newsletter Okupa ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-25]]).
 - **2026-11-23 11:11 / 18:22** — Vicky: minimal look, newsletter μηνιαίο, **παρουσίαση + newsletter Δεκεμβρίου έως 2026-11-30**, website meeting 24/11. Βασιλική: Year in Review + Strategic Growth Plan 2027 + draft site (knack-athens.pages.dev)· προτείνει **meeting 2026-11-25**· ρωτά για barter creators ([[2026-11-17-knack-follow-up-next-steps-update-2026-11-24]]).

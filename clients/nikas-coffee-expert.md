@@ -3,7 +3,7 @@ type: client
 title: "Panagiotis Nikas / CoffeeXpert / Barista Academy"
 aliases: [Panagiotis Nikas, Νίκας, P. Nikas, Coffee Expert, CoffeeXpert, ΚΟΦΙ ΕΞΠΕΡΤ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ, Barista Academy, baristacademy.gr, barista-academy.gr, baristaexpert.gr, coffeexpert.gr, panagiotisnikas.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 # Panagiotis Nikas / CoffeeXpert / Barista Academy
 > Ο [[panagiotis-nikas]] και οι επιχειρήσεις του (CoffeeXpert, Barista Academy, προσωπικό brand): η GROW τρέχει Meta Ads, κρατά τα sites/domains και λειτουργεί στην πράξη ως το IT/security help desk του — πολλά «copyright» phishing.
@@ -59,6 +59,7 @@ updated: 2026-11-26
 - Όλα τα «copyright/DMCA» και «Microsoft 365» emails χαρακτηρίστηκαν spam/phishing — καμία ενέργεια ([[2026-08-21-ninja-tune-copyright-spam-nikas]], [[2026-08-31-nikas-copyright-phishing-scam]], [[2026-09-01-coffeexpert-m365-phishing-check]], [[2026-09-15-barista-academy-copyright-spam]], [[2026-10-19-panagiotisnikas-copyright-spam]]).
 
 ## Χρονολόγιο
+- **2026-11-26** — Nikas Podcast: η Βασιλική ρωτά διαδικασία/στοιχεία καλεσμένου· Δήμος «γράψτα»· γύρισμα 2026-12-07 ([[2026-10-31-nikas-podcast-update-2026-11-27]]).
 - 2026-11-25 — ✓ lucaffe.gr ανανεώθηκε από τον Δήμο («κολλάει το παπάκι… έχει αλλάξει πλατφόρμα») ([[2026-11-25-lucaffe-domain-ligmeno-update-2026-11-26]])
 - **2026-11-25** — lucaffe.gr έληξε· περιθώριο 15 ημερών ([[2026-11-25-lucaffe-domain-ligmeno]]).
 - **2026-11-24 07:21** — ICS-FORTH: lucaffe.gr λήγει **σήμερα** ([[2026-11-24-lucaffe-domain-lixi]]). Asana: «follow up mail» [NIKAS] στον Δήμο, λήξη 24/11 (ανάθεση Βασιλικής 23/11).

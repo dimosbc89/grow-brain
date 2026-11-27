@@ -3,7 +3,7 @@ type: client
 title: "Greenmart / Antemisaris"
 aliases: [Antemisaris, Αντεμισάρης, Greenmart, greenmart.gr, antemisaris.gr]
 status: ενεργός
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 # Greenmart / Antemisaris
 > Η εταιρεία Antemisaris με το e-shop Greenmart (κήπος/φυτά/εργαλεία, π.χ. βολβοί, Stihl)· η GROW κάνει social posts, γυρίσματα, υποστήριξη σε εκθέσεις (XENIA 2026, Olympic Yacht Show) και τοποθέτηση προϊόντων στο Κορωπί.
@@ -15,6 +15,7 @@ updated: 2026-11-26
 - **Τρίτοι:** [[expopiece]] (κατασκευή XENIA)· [[neon-arrow]] (plexi + αυτοκόλλητα τοίχου XENIA)· Audio-tech (LED wall XENIA, [[2026-10-16-audiotech-led-xenia]])· [[expowork]] (αρχική πρόταση περιπτέρου XENIA)· tsougrana.gr (συνάντηση συνεργασίας 2026-10-02)· Kathimerini (συνάντηση 2026-09-23) ([[2026-07-20_2026-11-03]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Νέο 2026-11-26:** μετά τη XENIA ο Ζάχος ανοίγει: **Έκθεση Κορωπί (Harmony)**, κατάλογος προϊόντων, leads από Xenia, σήμανση κεντρικών & καταστημάτων — call **2026-11-27 12:00** (Ιωάννα) ([[2026-11-26-antemisaris-koropi-harmony]]). KNACK Studio έστειλε τιμολόγιο Αντεμισάρη ([[2026-11-26-knack-timologia-yiayia-antemisaris]]).
 - **Νέο 2026-11-24:** ✓ Ζάχος ενέκρινε τα Christmas posts («ΟΚ, προχωράμε!») ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa-update-2026-11-25]]). Η Σοφία (accounting) έστειλε **καρτέλα πελάτη** στο λογιστήριο ([[2026-11-24-antemisaris-kartela-pelati]]).
 - **XENIA 2026-11-21 → 23 (Metropolitan, Hall 2 A23-B25, νησίδα 8,5 × 11):** στήσιμο 2026-11-19 με καθυστερήσεις υλικών — η [[neon-arrow]] **δεν τοποθέτησε τίποτα** (η GROW παρέλαβε τα προϊόντα, πιστωτικό 100 € + ΦΠΑ)· ρεύμα, ανάρτηση, tablets, app πωλητών, post συμμετοχής και προσκλήσεις ✓ ([[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]], [[2026-11-16-xenia-reuma-paraggelia-exoflisi]], [[2026-11-17-antemisaris-app-politon-stoixeia-update-2026-11-19]], [[2026-11-12-antemisaris-sos-enimerosi-xenia-update-2026-11-19]]).
 - **Video περιπτέρου:** 2026-11-19 η Ιωάννα έστειλε πλάνα για πρώτη διαλογή με στόχο **35″–1′**· ο Ζάχος **διαφωνεί** (θα παίζει σε loop 8 ώρες, θέλει μεγαλύτερο) — ανοιχτό· διορθώσεις video wall video από τα σχόλια της Ιωάννας (2026-11-18) ([[2026-11-19-antemisaris-video-dialogi-planon]], [[2026-11-18-asana-video-wall-sxolia]]).
@@ -23,6 +24,10 @@ updated: 2026-11-26
 - **Εκκρεμεί:** υπογραφή Expopiece V2 από τον Δήμο δεν φαίνεται (από 2026-11-12)· ρητή γραπτή έγκριση της προσφοράς 19.000 € από Lefteris/Theo δεν υπάρχει ([[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]], [[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-27**
+- [ ] Call Antemisaris follow-up (Harmony Κορωπί, κατάλογος, leads XENIA, σήμανση) — Ιωάννα — 2026-11-27 12:00 ([[2026-11-26-antemisaris-koropi-harmony]])
+- [ ] Αφαίρεση κάρτας Τσάπαλου από τα leads XENIA (δεν είναι lead — Δήμος) — Ιωάννα ([[2026-11-26-antemisaris-koropi-harmony]])
+
 **Νέα στις 2026-11-26**
 - [ ] Post καρυοθραυστών ως collage «έως -30%» — Ιωάννα — από 2026-11-25 ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa-update-2026-11-26]])
 - [ ] Advertorial 1 στην Καθημερινή — Ιωάννα — **2026-11-30** · advertorial 2 — 2026-12-10 · ολοσέλιδη — 2026-12-11 ([[2026-10-20-antemisaris-kathimerini-entoli-update-2026-11-24]])
@@ -127,6 +132,7 @@ updated: 2026-11-26
 - 2026-09-18: εγκρίθηκε το carousel post για τους φθινοπωρινούς βολβούς ([[2026-09-18-greenmart-posts-volvoi-stihl]]).
 
 ## Χρονολόγιο
+- **2026-11-26** — Ζάχος: νέα θέματα (Harmony Κορωπί κ.λπ.)· Ιωάννα: αρχείο leads XENIA· Δήμος: ο Τσάπαλος δεν είναι lead ([[2026-11-26-antemisaris-koropi-harmony]]). Asana ✓ xmas product posts, karyothrafstis, dentro.
 - 2026-11-25 — ✓ post δέντρου (BF 299 → 239 €)· καρυοθραύστες ξανά ως collage «Όλοι οι Καρυοθραύστες έως -30%»· ΤΠΥ #1338 φυλλάδιο A5 Συνεδρίου Πράσινου + καρτέλα· Expopiece: υπόλοιπο περιπτέρου ΧΕΝΙΑ 6.785,80 € εγκρίθηκε από Δήμο ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa-update-2026-11-26]], [[2026-11-25-antemisaris-timologio-1338]], [[2026-11-25-expopiece-xenia-ypoloipo]])
 - **2026-11-24** — ✓ Xmas posts εγκρίθηκαν· καρτέλα πελάτη στο λογιστήριο ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa-update-2026-11-25]], [[2026-11-24-antemisaris-kartela-pelati]]).
 - **2026-11-23** — Καθημερινή: advertorials **30/11 και 10/12** επιβεβαιώθηκαν (Ζάχος ΟΚ), ολοσέλιδη υλικό 11/12, εντολές 0,01 € για υπογραφή ([[2026-10-20-antemisaris-kathimerini-entoli-update-2026-11-24]]). XMAS posts: Ζάχος → μόνο λαμπάκια τώρα, 1000 LED 29,90→19,90 €· Ιωάννα έστειλε νέο αρχείο ([[2026-11-04-antemisaris-xmas-hiring-tryptyxa-update-2026-11-24]]). Τιμολόγια εξόφλησης XENIA #1335 (περίπτερο) & #1336 (τρίπτυχο) ([[2026-11-23-xenia-timologia-exoflisis]]). Τιμολόγιο dp Audiovisual για LED οθόνη Metropolitan Expo ([[2026-11-23-dp-audiovisual-timologio-led]]).

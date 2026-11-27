@@ -26,6 +26,8 @@ updated: 2026-11-26
 | 2026-11-17 | [[booking-app]] | Τιμή καταλόγου (GR cold email) | από 49 €/μήνα + ΦΠΑ, setup από 180 €, χωρίς προμήθεια | campaign· 1 αίτημα αφαίρεσης (DaFit) | [[2026-11-17-booking-app-outreach-dafit-unsubscribe]] |
 | 2026-11-18 | [[abi-browne]] ([[booking-app]]) | Setup fee = τιμή «από», ανεβαίνει με features/locations/imports | ποσά σε £ μόνο στο PDF | αναμονή στοιχείων | [[2026-11-18-booking-app-abi-browne-call]] |
 | 2026-11-17 | [[knack-and-snack]] | Ενημέρωση website στη δομή του site αναφοράς | 0 € («χωρίς επιπλέον κόστος») | demo 2026-11-24 | [[2026-11-17-knack-follow-up-next-steps]] |
+| 2026-11-26 | [[tandem-concept]] opening (μέσω [[barbaggio]] + συνεργάτη) | Catering 70–80 ατ.: 280 / 360 / 420 / 500 € · photo+video 3ω 260 € · balloon stand 50–60 €/τεμ. (όλα + ΦΠΑ) | αναμονή Tandem | [[2026-11-26-tandem-opening-quotations]] |
+
 
 ## Κόστη vendors
 | Ημ/νία | Vendor | Τι | Τιμή | Για | Πηγή |
@@ -67,6 +69,9 @@ updated: 2026-11-26
 | 2026-10-22 | [[epilogin]] | Φυλλάδια A5 1000+1000, 200 gr | 190 € + ΦΠΑ | [[nomud]] | [[2026-10-20-nomud-a5-fylladia-update-2026-10-23]] |
 | 2026-11-19 | AWS | Budget «GrowCRM-Monthly-Cost» (πραγματικό $25,20, alert στα $25) | $100/μήνα | 💭 [[estia-crm]] | [[2026-11-19-aws-budget-growcrm]] |
 | 2026-11-19 | COPYTRACK (αξίωση) | Φωτό Tinos σε [[mr-mrs-white]]: άδεια ή αποζημίωση | 481,50 € ή 350,00 € | [[hotelbrain]] | [[2026-11-19-hotelbrain-copytrack-tinos-eikona]] |
+| 2026-11-26 | Print Kong | 3 plexiglass Α6 με γυριστή βάση | 105,00 € + ΦΠΑ | Elena (πελάτης ασαφής) | [[2026-11-26-team-misc-timologia-logo-kartela]] |
+| 2026-11-27 | [[fastpath]] | Χρέωση #62689 (λήξη 2026-12-01) | 507,78 € | GROW | [[2026-11-26-admin-eidopoiiseis]] |
+
 
 ## Ad spend GROW (Meta)
 | Εβδομάδα | Καμπάνια | Δαπάνη | Leads | €/lead | Πηγή |

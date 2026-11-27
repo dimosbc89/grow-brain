@@ -3,7 +3,7 @@ type: project
 title: "Εκθεσιακά περίπτερα (booth design & build)"
 aliases: [εκθεσιακά περίπτερα, περίπτερα, booths, expo design & build, expo booths]
 status: ενεργός
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 # Εκθεσιακά περίπτερα
 > Γραμμή υπηρεσιών της GROW για σχεδιασμό και κατασκευή custom εκθεσιακών περιπτέρων, μαζί με περιφερειακές υπηρεσίες. Εδώ συγκεντρώνονται όλοι οι πελάτες και τα leads περιπτέρων.
@@ -76,6 +76,7 @@ updated: 2026-11-26
 - Πρώτα στέλνουμε δημιουργικό πλαίσιο (κάτοψη, φωτορεαλιστικό, activations) και αναλυτική κοστολόγηση μετά το feedback (GameStuff, 2026-09-07) ([[2026-09-07-gamestuff-fantasy-festival-booth]]).
 
 ## Χρονολόγιο
+- **2026-11-26** — Νέο: **Expo Booth Meeting | Tsimentodomi 2026-11-30 14:00** (petros.r@tsimentodomi.gr αποδέχτηκε) ([[2026-11-27_2026-12-04]])· Δήμος forward τιμολογίου Expopiece στη Βασιλική ([[2026-11-26-admin-eidopoiiseis]]). Asana Βάσια Κ.: προσχέδιο περιπτέρου HoReCa (26/11), κάτοψη (27/11).
 - 2026-11-25 — ΧΕΝΙΑ/Αντεμισάρης: Expopiece κλείνει στα 9.170 € + ΦΠΑ, υπόλοιπο 6.785,80 € προς πληρωμή ([[2026-11-25-expopiece-xenia-ypoloipo]])
 - **2026-11-23** — Νέος υποψήφιος AV προμηθευτής [[led-vision]] ([[2026-11-23-ledvision-av-exoplismos]]).
 - 2026-11-20 — Divino: rejection fee 1.000 € + ΦΠΑ για πλήρη σχεδιαστική πρόταση HORECA 2027 (Βασιλική, μετά από τηλέφωνο με Λετκα) ([[2026-11-11-divino-horeca-2027-prosfora-periptero-update-2026-11-20]]).

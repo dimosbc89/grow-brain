@@ -3,7 +3,7 @@ type: client
 title: "Marketing Coach (Κύπρος)"
 aliases: [Marketing Coach, PG Group of Companies, PG Group, marketingcoach.com.cy, Petros Goulas]
 status: ενεργός
-updated: 2026-11-21
+updated: 2026-11-27
 ---
 # Marketing Coach (Κύπρος)
 > Κυπριακό marketing γραφείο του Petros Goulas (PG Group of Companies). Λειτουργεί ως μεσάζων: φέρνει στη GROW πελάτες στην Κύπρο ([[karmiotissa]], [[poullaides-foundation]]) και έχει δικές του Google Ads καμπάνιες.
@@ -46,6 +46,7 @@ updated: 2026-11-21
 - 2026-08-21: ο Petros ζητά ο Δήμος να είναι πάντα σε cc στα θέματα του site της Poullaides ([[2026-08-21-poullaides-website-not-working]]).
 
 ## Χρονολόγιο
+- **2026-11-26** — Μαρίνα → Petros Goulas: ανανεωμένη καρτέλα πελάτη ([[2026-11-26-team-misc-timologia-logo-kartela]]).
 - 2026-11-18 — Reminder Petros προς Παναγιώτη για πρόσβαση Buildia ([[2026-11-13-buildia-website-admin-prosvasi-update-2026-11-19]]).
 - 2026-11-13 — Ο Petros ζητά admin πρόσβαση στο site Buildia για δομικές αλλαγές από τον Δήμο ([[2026-11-13-buildia-website-admin-prosvasi]]).
 - 2026-11-11 — Μαρίνα: καρτέλα + «πότε η 2η κατάθεση;» → Petros: «Μέχρι Παρ.» (2026-11-13) ([[2026-11-11-marketing-coach-kartela]]).

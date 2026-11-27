@@ -3,7 +3,7 @@ type: client
 title: "Υιάγια (Yiayia Meatballs)"
 aliases: [Υιάγια, Yiayia, Yiayia Meatballs, Υιάγια Home of Meatballs, Γιάγια, yiayiameatballs.gr]
 status: ενεργός
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 # Υιάγια (Yiayia Meatballs)
 > Εστιατόριο με κεφτεδάκια («Home of Meatballs») της [[maria-drouza]]· πελάτης full-service της GROW: site, web game, εταιρικά email, social/TikTok & influencers, μενού, packaging και γυρίσματα.
@@ -107,6 +107,7 @@ updated: 2026-11-26
 - 2026-10-20: κατηγορία μενού «Meatballs on Pasta»· το μενού διανομής δεν τυπώνεται· μουσική game «videogames music 8bit sick robot» (2η επιλογή «8-bit arcade»)· τα βίντεο των creators μένουν ως repost/UGC στο TikTok ([[2026-10-20-yiayia-website-new-version]]).
 
 ## Χρονολόγιο
+- **2026-11-26** — KNACK Studio: τιμολόγιο Yiayia ([[2026-11-26-knack-timologia-yiayia-antemisaris]]). Asana (Δήμος): «ενημέρωση online menu» λήγει 27/11.
 - 2026-11-25 — Take away menu εγκρίθηκε· τυπώνει ο πελάτης (παραλαβή 26/11)· αυτοκόλλητο «Υιάγια Umami» στάλθηκε για έλεγχο· monthly report Οκτ–Νοε στάλθηκε ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-26]], [[2026-11-25-yiayia-monthly-report-oct-nov]])
 - **2026-11-23 14:21** — Βασιλική στέλνει την πρόταση Christmas campaign 2026 (PDF)· συζήτηση στη συνάντηση **2026-11-24 14:30** ([[2026-11-20-yiayia-synantisi-christmas-campaign-update-2026-11-24]]).
 - **2026-11-20** — Τελικά PDF take away menu EN/GR· η Βασιλική ρωτά για προσφορές εκτύπωσης. Συνάντηση στο γραφείο **Τρ 24/11 14:30**· η Βασιλική υποσχέθηκε πρόταση Christmas Campaign έως 20/11 — δεν φαίνεται αποστολή ([[2026-11-13-yiayia-take-away-menu-allages-timon-update-2026-11-23]], [[2026-11-20-yiayia-synantisi-christmas-campaign]]).

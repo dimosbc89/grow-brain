@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -19,6 +19,7 @@ updated: 2026-11-26
 - **Ομάδα GROW:** ο Δήμος (app, Ads report, προτάσεις)· [[marina-papanastasiou]] (συντονισμός event)· [[despina-velissariou]] (event, φυλλάδιο, βιντεογράφος) ([[2026-10-02-globalfoods-live-projector-videographer]], [[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-19)
+- **Νέο 2026-11-26:** ✓ τελικό 4σέλιδο ατζέντας (με Meatmarkt) στάλθηκε από τη Μαρίνα στην Εύη για εκτύπωση ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-27]]). Η Εύη ρωτά τον Δήμο τι είναι η ειδοποίηση «[UniqueApp] Ο Ιστότοπος σας Αντιμετωπίζει ένα Τεχνικό Ζήτημα» ([[2026-11-26-globalfoods-uniqueapp-techniko-zitima]]).
 - **Νέο 2026-11-24:** η [[elpida-plavou]] έστειλε στον Δήμο το νέο site του Ιταλοελληνικού Επιμελητηρίου — «Για το πως θα προβληθούμε» ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]]). Η Εύη ζητά **stories από το Detroit masterclass Θεσσαλονίκη** ([[2026-11-24-globalfoods-detroit-masterclass-stories]]). Hospitality Jam: πλατό τυριών/αλλαντικών για το γύρισμα με τον Άρη Σκλαβενίτη 25/11 17:30 ([[2026-11-24-hospitality-jam-sklavenitis-plato]]). Δέσποινα: logos El Pastor & Alo Puglia ([[2026-11-24-despina-logos-el-pastor-alo-puglia]]). Asana ✓ 24/11: Website Updates, CSR section, New Products icon, Exclusive Brands, κατάλογος 2026, Tips Section.
 - **The Hospitality Jam:** η Μαρίνα έστειλε 2026-11-19 το συμφωνητικό 8+1 επεισοδίων (πρόταση 8.000€) «όπως το συνεννοηθήκαμε» — αναμένεται υπογραφή/σφραγίδα από την [[elpida-plavou]]· επόμενο γύρισμα 2026-11-25 (Σκλαβενίτης) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]).
 - **4σέλιδο Ατζέντας 2027:** η κατεύθυνση απορρίφθηκε 2026-11-18· στις 2026-11-19 η Ελπίδα έστειλε docx κειμένου — πρώτα συμφωνία στο κείμενο, μετά καθαρή εταιρική αισθητική, μεγάλες φωτό, λευκός χώρος ([[2026-11-18-globalfoods-4selido-atzenta-2027]], [[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]]).
@@ -27,8 +28,12 @@ updated: 2026-11-26
 - **Ανοιχτά από Δήμο:** CCTV policy 4.1 (από 2026-11-17), AI Agent στο app (το call 2026-11-16: ασαφές), Lorem Ipsum στη σελίδα Brands, αίτημα Global App από 2024-09-23 ([[2026-11-17-globalfoods-cctv-policy]], [[2026-11-15-globalfoods-ai-agent-app-update-2026-11-17]], [[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]], [[2024-07-11-globalfoods-global-app-pedia]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-27**
+- [ ] **Απάντηση στην Εύη για «[UniqueApp] τεχνικό ζήτημα» — Δήμος — από 2026-11-26** ([[2026-11-26-globalfoods-uniqueapp-techniko-zitima]])
+- [ ] Επιπλέον φωτογραφίες Masterclass Detroit στο posting plan — Δέσποινα ([[2026-11-24-globalfoods-detroit-masterclass-stories-update-2026-11-27]])
+
 **Νέα στις 2026-11-26**
-- [ ] Αλλαγές 4σέλιδου μέσω WhatsApp στην Ελπίδα → Εύη για εκτύπωση — Δέσποινα — από 2026-11-25 ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-26]])
+- [x] ✓ 2026-11-26 (τελικό στην Εύη για εκτύπωση — [[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-27]]) Αλλαγές 4σέλιδου μέσω WhatsApp στην Ελπίδα → Εύη για εκτύπωση — Δέσποινα — από 2026-11-25 ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-26]])
 **Νέα στις 2026-11-25**
 - [ ] **Πρόταση προβολής μέσω Ιταλοελληνικού Επιμελητηρίου** (Ελπίδα 24/11 + Εύη 23/11) — Δήμος ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]])
 - [ ] Stories Detroit masterclass Θεσσαλονίκη — Δέσποινα — άμεσα ([[2026-11-24-globalfoods-detroit-masterclass-stories]])
@@ -148,6 +153,7 @@ updated: 2026-11-26
 - Φυλλάδιο χωρίς φωτογραφίες συνταγών, με φωτογραφίες αλεύρων, μαγιάς και Lemady ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
 ## Χρονολόγιο
+- **2026-11-26** — ✓ 4σέλιδο για εκτύπωση (Μαρίνα)· UniqueApp ειδοποίηση (Εύη → Δήμος)· φωτογραφίες Masterclass Detroit ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-27]], [[2026-11-26-globalfoods-uniqueapp-techniko-zitima]], [[2026-11-24-globalfoods-detroit-masterclass-stories-update-2026-11-27]]).
 - 2026-11-25 — 4σέλιδο ατζέντας: νέο pdf (Δέσποινα)· η Ελπίδα περιμένει τις αλλαγές στο WhatsApp, μετά στην Εύη για εκτύπωση· επόμενο: Θεσσαλονίκη ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-26]])
 - **2026-11-24** — Ελπίδα: site Επιμελητηρίου «πως θα προβληθούμε»· Εύη: stories Detroit masterclass· Ιωάννα: πλατό για γύρισμα Σκλαβενίτη· ✓ site updates στο Asana ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]], [[2026-11-24-globalfoods-detroit-masterclass-stories]], [[2026-11-24-hospitality-jam-sklavenitis-plato]]).
 - **2026-11-23 16:14** — Εύη: «Έχουμε κάποια εξέλιξη για την πρόταση στο Ιταλοελληνικό επιμελητήριο;» ([[2026-11-23-globalfoods-italoelliniko-epimelitirio]]).

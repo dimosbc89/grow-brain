@@ -3,7 +3,7 @@ type: project
 title: "Booking App (UK)"
 aliases: [Booking App, APP UK, growagency.online/services/booking-app]
 status: ενεργός
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 # Booking App (UK)
 > Γραμμή υπηρεσίας της GROW: εφαρμογή online κρατήσεων για studios (κυρίως pilates/wellness), με landing στο growagency.online/services/booking-app/ και leads από φόρμα και Meta Ads (Calendly «meta-ads-embed»), κυρίως από UK.
@@ -14,12 +14,17 @@ updated: 2026-11-26
 - Κράτηση calls μέσω Calendly («New call SOS», τύπος meta-ads-embed) ([[syndromes-ergaleia]]).
 
 ## Τρέχουσα κατάσταση (στις 2026-11-20)
+- **Νέο 2026-11-26:** η Μαρίνα έστειλε προσφορές σε **Αθανασία** (basic, χωρίς online πληρωμή) και **Bosoultherapy** ([[2026-11-26-booking-app-prosfores-marina]]). Calls σήμερα 27/11: Μελικίδης 10:00, **Maria Pavlova Hair Extensions 11:00 (νέο)**, Γκότσης 12:00, Καϊάφα 13:00, Μίχου 15:00· νέα: Κοντομάρη 30/11 14:00, Λαζόπουλος (Misi Beaute) 2/12 17:00 ([[2026-11-27_2026-12-04]]).
 - **Νέο 2026-11-24/25:** Wrapp (myDATA) απάντησε στις ερωτήσεις: λογαριασμός ανά studio με δικό του ΑΦΜ, Partners API, Stripe flow, πακέτα 109–1.999 €/έτος, χωρίς προμήθειες· ζητά call (25/11 15:30, 26/11 12:00 ή 27/11 15:30) ([[2026-11-24-wrapp-mydata-partners-api-studios]]). Η Μαρίνα έστειλε πρόταση στο **Breathe Studio** (v2 FINAL) ([[2026-11-24-booking-app-breathe-studio-prosfora]]). Νέα calls: Ρόππας 25/11 11:00, A. Mavrou 25/11 12:00, Καραγιάννη 26/11 10:00, Κουντούρης 26/11 17:00, Μελικίδης 27/11 10:00, Γκότσης 27/11 12:00, Καϊάφα 27/11 13:00, Μίχου 27/11 15:00 ([[2026-11-25_2026-12-02]]). Η Μαρίνα ζήτησε πρόσβαση στο sheet «GROW BOOKING APPS LEADS» (2026-11-24 09:19).
 - **Meta Ads 2026-11-16→20:** Booking Reels GR 89,50 € / 12 leads (7,46 €/lead) · Booking Reels UK 92,24 € / 8 leads (11,53 €) · Booking Apps GR (paused) 45,49 € / 5 leads (9,10 €) ([[2026-11-20-weekly-report-data]]).
 - **Calls:** έγιναν (ή ήταν προγραμματισμένα) Bayse 17/11, Ore 18/11, [[abi-browne]] 18/11 (Δήμος — Service Guide + αίτημα 8 στοιχείων για ακριβή πρόταση)· έρχονται Christina Vassiliadou 20/11 18:30, Εμμανουέλα MUA 24/11 13:00, Θοδωρής Γκότσης 27/11 12:00 ([[2026-11-18-booking-app-abi-browne-call]], [[2026-11-20_2026-11-27]], [[2026-11-18_2026-11-25]]).
 - **Ελληνικό outreach (2026-11-17, ActiveCampaign):** «από €49/μήνα + ΦΠΑ, εγκατάσταση από €180» → η DaFit ζήτησε αφαίρεση + «re-indexing» («SOS SOS» προς Δήμο)· ενέργεια: δεν φαίνεται ([[2026-11-17-booking-app-outreach-dafit-unsubscribe]]).
 
 ## Ανοιχτά & επόμενα βήματα
+**Νέα στις 2026-11-27**
+- [ ] Follow-up προσφορών Αθανασία + Bosoultherapy — Μαρίνα ([[2026-11-26-booking-app-prosfores-marina]])
+- [ ] ⚠️ 30/11 14:00 σύγκρουση: Κοντομάρη (booking) με Tsimentodomi (περίπτερο) — Μαρίνα/Δήμος ([[2026-11-27_2026-12-04]])
+
 **Νέα στις 2026-11-26**
 - [ ] Απάντηση Ρόππα & Α. Μαύρου μετά το demo — leads — από 2026-11-25
 - [ ] Wrapp: επιλογή slot (25/11 15:30 πέρασε· επόμενα 26/11 12:00 · 27/11 15:30) — Δήμος — δεν φαίνεται απάντηση ([[2026-11-24-wrapp-mydata-partners-api-studios]])
@@ -41,6 +46,7 @@ updated: 2026-11-26
 —
 
 ## Χρονολόγιο
+- **2026-11-26** — Προσφορές Αθανασία, Bosoultherapy ([[2026-11-26-booking-app-prosfores-marina]])· νέα calls Pavlova, Κοντομάρη, Λαζόπουλος ([[2026-11-27_2026-12-04]]).
 - 2026-11-25 — Προσφορές από Μαρίνα: Ρόππας (pdf) και AM Pilates / Α. Μαύρου (basic, χωρίς online πληρωμή, pptx) — demo Pilates by Anastasia· η Μαρίνα ζήτησε «CHECK MAIL» από Δήμο 3΄ πριν στείλει ([[2026-11-20-booking-app-roppas-studio-pilates-update-2026-11-26]], [[2026-11-25-booking-app-am-pilates-prosfora]])
 - **2026-11-25** — Live demo για την A. Mavrou (Pilates by Anastasia, @am_pilates_): δικός του server + βάση δεδομένων στο Cloudflare (worker `pilates-by-anastasia-demo`, Durable Object SQLite, ξεχωριστό από τη Vanessa)· γεμίζει μόνο του με δείγμα δεδομένων· logins πελάτισσα maria@example.com και διαχείριση anastasia@example.com (κωδικός demo2026)· νέες εγγραφές επιβεβαιώνονται αμέσως, χωρίς email/push· noindex. Βγήκε από το growagency.online (commit 6124f42). Deploy: «Deploy Pilates by Anastasia demo.command» στα Downloads· live: https://pilates-by-anastasia-demo.dimos-5f9.workers.dev (deploy 2026-11-25). Στις 2026-11-25 ο Δήμος ζήτησε δύο υπηρεσίες: **Pilates** και **Pilates Cardio** (50′ η καθεμία, ξεχωριστά πακέτα· στον κώδικα reformer/massage, το μεγάλο μασάζ κρυφό)· το demo ξαναγεμίζει με νέο δείγμα όταν αλλάζει το DEMO_VERSION.
 - **2026-11-24** — Wrapp: απαντήσεις για myDATA ανά studio + πρόταση call ([[2026-11-24-wrapp-mydata-partners-api-studios]])· πρόταση Breathe Studio ([[2026-11-24-booking-app-breathe-studio-prosfora]])· Μαρίνα έκλεισε 6 νέα calls 25–27/11 ([[2026-11-25_2026-12-02]]).

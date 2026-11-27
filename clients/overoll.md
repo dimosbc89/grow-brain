@@ -3,7 +3,7 @@ type: client
 title: "Overoll Croissanterie"
 aliases: [Overoll, Overoll Croissanterie A.E., overoll.gr, overoll.us, overoll.shop]
 status: ενεργός
-updated: 2026-11-25
+updated: 2026-11-27
 ---
 # Overoll Croissanterie
 > Αλυσίδα croissanterie με franchise· η GROW φτιάχνει τρία νέα websites (B2C, Global, B2B χονδρικής), κάνει γυρίσματα και Google Ads.
@@ -86,6 +86,7 @@ updated: 2026-11-25
 - Η πρόταση ακινήτου στην Ξάνθη προωθήθηκε στην Overoll χωρίς σύσταση από τον Δήμο (2026-07-23) ([[2026-07-23-overoll-akinito-xanthi]]).
 
 ## Χρονολόγιο
+- **2026-11-26** — Κριτικές 16–22/11: καμία αρνητική ([[2026-11-26-team-misc-timologia-logo-kartela]]). 2026-11-27 09:00 xmas shooting.
 - **2026-11-24** — Shooting 27/11 09:00 Γλυφάδα· ερώτηση για μοντέλα ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-25]]).
 - **2026-11-20 08:57** — Η Βασιλική πρότεινε call για το moodboard στις 10:00 ([[2026-11-17-overoll-christmas-teasers-plan-update-2026-11-23]]). Shooting 27/11.
 - 2026-11-19 — Λογιστήριο GROW: ανανεωμένη καρτέλα μετά από κατάθεση, υπόλοιπο 2.312,80 € ([[2026-11-19-overoll-kartela-pelati]]).

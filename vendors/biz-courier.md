@@ -3,7 +3,7 @@ type: vendor
 title: "BIZ Courier & Logistics"
 aliases: [BIZ Courier, Biz, ebiz, BIZ Courier & Logistics S.A., bizcourier.eu, BIZ LiNK]
 status: ενεργός
-updated: 2026-11-20
+updated: 2026-11-27
 ---
 # BIZ Courier & Logistics
 > Courier και 3PL (αποθήκη/WMS) που έχει επιλέξει η [[tandem-concept]]. Η GROW συνδέει το WooCommerce e-shop της Tandem με τη BIZ μέσω API / BIZ LiNK και ετοιμάζει το BOX NOW.
@@ -56,6 +56,7 @@ updated: 2026-11-20
 - Τα χαμένα δέματα αποζημιώνονται με βάση το τιμολόγιο αγοράς του προϊόντος (θέση BIZ) ([[2026-08-26-online-appointment-bizcourier-tandem]]).
 
 ## Χρονολόγιο
+- **2026-11-26** — Δήμος: υπενθύμιση για παραλαβή Christian Villa FW 2026 στο stock ([[2026-11-16-tandem-biz-packing-list-update-2026-11-27]]).
 - 2026-11-19 — 10:34 BIZ → Δήμος: booking 810027890, packing list δεν παράγεται από τη BIZ· 16:47 → Caroline: accepted, ολοκλήρωση έως 25/11, ζητά EasyBiz ([[2026-11-16-tandem-biz-packing-list-update-2026-11-20]], [[2026-11-19-tandem-easybiz-booking]]).
 - 2026-11-18 — Packing list Tandem: follow-up BIZ 11:54 · απάντηση Δήμου 23:53 ([[2026-11-16-tandem-biz-packing-list-update-2026-11-19]]).
 - 2026-11-12 — Follow-up BIZ IT (Markos Lesko) για status + test παραγγελία· 2026-11-05 το αρχικό αίτημα ([[2026-10-12-bizcourier-bizlink-fix-boxnow-update-2026-11-13]]).
