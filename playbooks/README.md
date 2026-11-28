@@ -4,3 +4,4 @@
 ## Σελίδες
 - [[ekthesi-periptero]] — εκθεσιακό περίπτερο (από XENIA 2026, [[greenmart-antemisaris]]).
 - [[website-launch]] — από demo σε live (από hotelbraingroup.com, [[hotelbrain]]).
+- [[booking-app-demo]] — demo Booking App για studio + κύκλος call → προσφορά (από Pilates by Anastasia, [[booking-app]]).

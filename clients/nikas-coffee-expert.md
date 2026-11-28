@@ -3,7 +3,7 @@ type: client
 title: "Panagiotis Nikas / CoffeeXpert / Barista Academy"
 aliases: [Panagiotis Nikas, Νίκας, P. Nikas, Coffee Expert, CoffeeXpert, ΚΟΦΙ ΕΞΠΕΡΤ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ, Barista Academy, baristacademy.gr, barista-academy.gr, baristaexpert.gr, coffeexpert.gr, panagiotisnikas.com, panagiotis.nikas.official]
 status: ενεργός
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 # Panagiotis Nikas / CoffeeXpert / Barista Academy
 > Ο [[panagiotis-nikas]] και οι επιχειρήσεις του (CoffeeXpert, Barista Academy, προσωπικό brand): η GROW τρέχει Meta Ads, κρατά τα sites/domains και λειτουργεί στην πράξη ως το IT/security help desk του — πολλά «copyright» phishing.
@@ -16,22 +16,22 @@ updated: 2026-11-27
 - **Registrar baristacademy.gr:** ENARTIA (papaki.com) → [[papaki]], [[enartia]] ([[2026-08-27-baristacademy-domain-expiration]]).
 - **Σχετικά:** lead [[avek]] (συνάντηση «P. Nikas X AVEK» 2026-10-19)· 2box (kimon@2box.gr, «P. Nikas X 2box» 2026-08-05) ([[2026-07-20_2026-11-03]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
-- ⚠️ **Νέο 2026-11-25:** το **lucaffe.gr έληξε** 2026-11-24 23:59 UTC· ανανέωση μέσα σε 15 ημέρες (~έως 2026-12-09) ([[2026-11-25-lucaffe-domain-ligmeno]]).
-- **lucaffe.gr λήγει 2026-11-24 23:59 UTC** (FORTH, 2026-11-19)· ανανέωση μέσω papaki/ENARTIA — ποιος: ασαφές ([[2026-11-19-lucaffe-domain-lixi]]).
-- **YouTube:** το freddo video εγκρίθηκε 2026-11-13 («Πολύ καλό», tag Kalko)· το Java Jives ανεβαίνει 2026-11-16 — αν ανέβηκαν: ασαφές ([[2026-11-13-nikas-review-yt-video-freddo]]).
-- **Καρτέλα:** ο [[panagiotis-nikas]] περιμένει διορθωμένη καρτέλα από 2026-11-02 (λέει ότι πλήρωσε 961,00 € στις 2026-10-15 έναντι υπολοίπου 1.829,00 €) ([[2026-11-02-nikas-kartela-pliromi-15-10]]).
-- **Podcast:** γύρισμα The Hospitality Jam με τον Νίκα 2026-12-05 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]])· «Nikas Podcast» γύρισμα 7/12 ([[2026-11-04-dianoma-pelates-mikra]]) — βλ. ⚠️ στις Σημειώσεις.
-- **baristacademy.gr:** κενά ασφαλείας/spam φόρμας ανοιχτά από 2026-10-09· Wordfence (Super Forms) ξανά 2026-11-03 ([[2026-10-09-baristacademy-spam-forma-hacking]], [[2026-11-03-admin-eidopoiiseis]]).
+## Τρέχουσα κατάσταση
+- Στις 2026-11-27: ✓ το lucaffe.gr έληξε 2026-11-24 23:59 UTC και ανανεώθηκε από τον Δήμο 2026-11-25 15:18, αφού ο πελάτης ρώτησε «Αυτό δεν το ανανεώσαμε;» (papaki «έχει αλλάξει πλατφόρμα και υπάρχει ένα χάος») ([[2026-11-25-lucaffe-domain-ligmeno]], [[2026-11-25-lucaffe-domain-ligmeno-update-2026-11-26]]).
+- Nikas Podcast: γύρισμα 2026-12-07· η Βασιλική ζήτησε 2026-11-26 διαδικασία/στοιχεία καλεσμένου, ο Δήμος: «γράψτα» ([[2026-10-31-nikas-podcast-update-2026-11-27]]) — ⚠️ βλ. αντίφαση 7/12 vs 5/12 στις Σημειώσεις.
+- Asana «follow up mail» [NIKAS] (Δήμος, λήξη 2026-11-24) εκπρόθεσμο στα briefs 2026-11-25 → 27 ([[2026-11-24]], [[2026-11-27]]).
+- Ανοιχτά από πριν: διορθωμένη καρτέλα (ο Νίκας περιμένει από 2026-11-02, 961,00 € vs 1.829,00 €)· κενά ασφαλείας baristacademy.gr (από 2026-10-09)· αν ανέβηκαν τα YT videos freddo / Java Jives: ασαφές ([[2026-11-02-nikas-kartela-pliromi-15-10]], [[2026-10-09-baristacademy-spam-forma-hacking]], [[2026-11-13-nikas-review-yt-video-freddo]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [x] ✓ 2026-11-25 ανανεώθηκε από Δήμο ([[2026-11-25-lucaffe-domain-ligmeno-update-2026-11-26]]) Ανανέωση lucaffe.gr (papaki) — **έληξε 2026-11-24, περιθώριο ~έως 2026-12-09** ([[2026-11-25-lucaffe-domain-ligmeno]]) — Δήμος / Νίκας (ποιος: ασαφές) ([[2026-11-19-lucaffe-domain-lixi]])
+- [ ] **Asana «follow up mail» [NIKAS]** — Δήμος (ανάθεση Βασιλικής 2026-11-23) — ⚠️ εκπρόθεσμο από 2026-11-24 ([[2026-11-24]], [[2026-11-27]])
+- [ ] Στοιχεία/διαδικασία καλεσμένου για το Nikas Podcast — Βασιλική («γράψτα» Δήμου 2026-11-26) — πριν το γύρισμα 2026-12-07 ([[2026-10-31-nikas-podcast-update-2026-11-27]])
+- [x] ✓ 2026-11-25 Ανανέωση lucaffe.gr (papaki) — Δήμος (έληξε 2026-11-24) ([[2026-11-25-lucaffe-domain-ligmeno-update-2026-11-26]], [[2026-11-25-lucaffe-domain-ligmeno]])
 - [ ] Ανέβασμα freddo YT video με tag Kalko (+ πιθανό colab) — [[vassiliki-giannopoulou]] — εγκρίθηκε 2026-11-13 ([[2026-11-13-nikas-review-yt-video-freddo]])
 - [ ] Βίντεο Java Jives — ανεβαίνει **2026-11-16** — επιβεβαίωση ότι ανέβηκε — Βασιλική ([[2026-11-13-nikas-review-yt-video-freddo]])
-- [ ] Απάντηση στην Ιωάννα: πότε βλέπουμε το Nikas Podcast (γύρισμα 7/12) — Δήμος ([[2026-11-04-dianoma-pelates-mikra]])
+- [ ] Απάντηση στην Ιωάννα: πότε βλέπουμε το Nikas Podcast (γύρισμα 7/12) — Δήμος — μερικώς: 2026-11-26 «γράψτα» στη Βασιλική ([[2026-11-04-dianoma-pelates-mikra]], [[2026-10-31-nikas-podcast-update-2026-11-27]])
 - [ ] **Έλεγχος πίστωσης 961,00 € (2026-10-15) και επαναποστολή διορθωμένης καρτέλας** — [[sofia-konstantopoulou]] / Δήμος — ο Νίκας περιμένει από 2026-11-02 13:09 ([[2026-11-02-nikas-kartela-pliromi-15-10]])
 - [ ] Ανέβασμα video LattoGo S (μετά 2026-11-02 16:00, hashtags #OutInLattoGoS κ.ά.) — [[vassiliki-giannopoulou]] — ασαφές αν έγινε ([[2026-11-02-nikas-outin-lattogo-s]])
-- [ ] «Nikas Podcast» — ανάγνωση σήμερα από Βασιλική + Ιωάννα (+ Δήμο, «και οι τρεις μαζί») — 2026-11-02 ([[2026-11-02-admin-eidopoiiseis]])
+- [x] Ξεπεράστηκε: «Nikas Podcast» — ανάγνωση Βασιλική + Ιωάννα + Δήμος 2026-11-02 (αν έγινε: ασαφές· η δουλειά συνεχίζεται 2026-11-26) ([[2026-11-02-admin-eidopoiiseis]])
 **Υποσχέσεις του Δήμου**
 - [ ] Διόρθωση/εξήγηση συνόλου σεμιναρίου (500€ αντί 600€) — Δήμος/GROW — υπόσχεση έως 2026-10-11, **εκπρόθεσμο αν δεν έγινε** ([[2026-10-10-seminario-timi-600-500]])
 - [ ] Κλείσιμο κενών ασφαλείας στη φόρμα/site baristacademy.gr και επιβεβαίωση ότι σταμάτησαν τα spam — Δήμος — σε εξέλιξη από 2026-10-09· νέο Wordfence alert 2026-10-27 (update «Super Forms» 6.3.322 → 6.3.323 + 4 παλιά issues) ([[2026-10-09-baristacademy-spam-forma-hacking]], [[2026-10-26-admin-eidopoiiseis]])
@@ -80,18 +80,9 @@ updated: 2026-11-27
 - 2026-10-19 — Phishing «Jackson Walker LLP» → «spam» ([[2026-10-19-panagiotisnikas-copyright-spam]])· «P. Nikas X AVEK» 12:00 ([[2026-07-20_2026-11-03]]).
 - 2026-10-10 — Λάθος σύνολο σεμιναρίου (500€ αντί 600€)· «σκέφτομαι μήπως έσπασε κάτι από χθες» ([[2026-10-10-seminario-timi-600-500]]).
 - 2026-10-09 — Spam στη φόρμα baristacademy.gr = απόπειρα hacking ([[2026-10-09-baristacademy-spam-forma-hacking]]).
-- 2026-09-15 — Phishing «SKP, Πολωνία» στη Barista Academy → «spam» ([[2026-09-15-barista-academy-copyright-spam]]).
-- 2026-09-11 — Link πληρωμής Kenya eTA· ο Δήμος συμβουλεύει έλεγχο των προηγούμενων βημάτων της αίτησης (πλαίσιο ασαφές) ([[2026-09-11-kenya-eta-panagiotisnikas]]).
-- 2026-09-10 — Εσωτερικό σημείωμα τιμολόγησης domains προς Μαρίνα ([[2026-09-10-invoice-nikas-barista-domains]]).
-- 2026-09-01 — Ψεύτικο «Microsoft 365» → «scam» ([[2026-09-01-coffeexpert-m365-phishing-check]]).
-- 2026-08-31 — Phishing «Cravath, Swaine & Moore» → «Scam» ([[2026-08-31-nikas-copyright-phishing-scam]]).
-- 2026-08-27 — Ειδοποίηση λήξης baristacademy.gr ([[2026-08-27-baristacademy-domain-expiration]]).
-- 2026-08-21 — Phishing «Ninja Tune» → «spam» ([[2026-08-21-ninja-tune-copyright-spam-nikas]]).
-- 2026-08-19 — «Νίκας εκεί» 10:00 ([[2026-07-20_2026-11-03]]).
-- 2026-08-17 — Phishing «Concord Music Group»· ο πελάτης: «Γιατί έχουμε τόσα θέματα με την μουσική;» ([[2026-08-19-concord-copyright-spam-nikas]]).
-- 2026-08-16 — Η Viva κλειδώνει την κάρτα για χρεώσεις FACEBK ([[2026-08-16-coffeexpert-viva-card-meta-charges]]).
-- 2026-08-05 — «P. Nikas X 2box» 12:00 (Βασιλική, kimon@2box.gr) ([[2026-07-20_2026-11-03]]).
-- 2026-07-31 — «Νίκας εκεί» 10:00 ([[2026-07-20_2026-11-03]]).
+- 2026-09 — 15/09: Phishing «SKP, Πολωνία» στη Barista Academy → «spam» ([[2026-09-15-barista-academy-copyright-spam]]) · 11/09: Link πληρωμής Kenya eTA· ο Δήμος συμβουλεύει έλεγχο των προηγούμενων βημάτων της αίτησης (πλαίσιο ασαφές) ([[2026-09-11-kenya-eta-panagiotisnikas]]) · 10/09: Εσωτερικό σημείωμα τιμολόγησης domains προς Μαρίνα ([[2026-09-10-invoice-nikas-barista-domains]]) · 01/09: Ψεύτικο «Microsoft 365» → «scam» ([[2026-09-01-coffeexpert-m365-phishing-check]]).
+- 2026-08 — 31/08: Phishing «Cravath, Swaine & Moore» → «Scam» ([[2026-08-31-nikas-copyright-phishing-scam]]) · 27/08: Ειδοποίηση λήξης baristacademy.gr ([[2026-08-27-baristacademy-domain-expiration]]) · 21/08: Phishing «Ninja Tune» → «spam» ([[2026-08-21-ninja-tune-copyright-spam-nikas]]) · 19/08: «Νίκας εκεί» 10:00 ([[2026-07-20_2026-11-03]]) · 17/08: Phishing «Concord Music Group»· ο πελάτης: «Γιατί έχουμε τόσα θέματα με την μουσική;» ([[2026-08-19-concord-copyright-spam-nikas]]) · 16/08: Η Viva κλειδώνει την κάρτα για χρεώσεις FACEBK ([[2026-08-16-coffeexpert-viva-card-meta-charges]]) · 05/08: «P. Nikas X 2box» 12:00 (Βασιλική, kimon@2box.gr) ([[2026-07-20_2026-11-03]]).
+- 2026-07 — 31/07: «Νίκας εκεί» 10:00 ([[2026-07-20_2026-11-03]]).
 
 ## Οικονομικά
 - Καρτέλα 2026-11-02: υπόλοιπο 1.829,00 € κατά GROW· ο πελάτης λέει ότι πλήρωσε 961,00 € 2026-10-15 για δύο τιμολόγια. ⚠️ Ασαφές: το ίδιο ποσό 1.829,00 € είχε η καρτέλα του [[pharmacypan]] 2026-10-27 — 💭 Υπόθεση: λάθος καρτέλα/ποσό ([[2026-11-02-nikas-kartela-pliromi-15-10]]).
@@ -101,6 +92,7 @@ updated: 2026-11-27
 - Fee GROW: ασαφές.
 
 ## Σημειώσεις
+- **Domains:** ο πελάτης θεωρεί ότι τις ανανεώσεις τις κάνει η GROW («Αυτό δεν το ανανεώσαμε;», 2026-11-25) — οι ειδοποιήσεις FORTH για lucaffe.gr έρχονταν από 2026-10-25 και η ανανέωση έγινε μετά τη λήξη ([[2026-11-25-lucaffe-domain-ligmeno-update-2026-11-26]], [[2026-10-24-admin-eidopoiiseis]]).
 - Μοτίβο: ο πελάτης προωθεί κάθε ύποπτο email· ο Δήμος απαντά μονολεκτικά μέσα σε λεπτά («spam», «Scam», «scam»). Τα phishing έχουν κοινά: αποστολέας gmail, link σε sites.google.com, προθεσμία 48 ωρών–7 ημερών ([[2026-08-21-ninja-tune-copyright-spam-nikas]], [[2026-09-15-barista-academy-copyright-spam]], [[2026-10-19-panagiotisnikas-copyright-spam]]).
 - 💭 Υπόθεση: αξίζει μια σύντομη οδηγία προς τον πελάτη για αναγνώριση phishing ώστε να μειωθούν τα forwards.
 - 💭 Υπόθεση: το λάθος τιμής του σεμιναρίου (10/10) σχετίζεται με το περιστατικό της 9/10 — ο Δήμος το υποψιάζεται, δεν επιβεβαιώθηκε ([[2026-10-10-seminario-timi-600-500]]).

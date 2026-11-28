@@ -1,7 +1,7 @@
 ---
 type: knowledge
 title: "Μνήμη τιμών"
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 # Μνήμη τιμών
 > Τι προσφέραμε, τι έγινε δεκτό, τι χρεώνουν οι vendors. Μόνο αριθμοί από πηγές. Γράφεται από την εβδομαδιαία σύνθεση.
@@ -12,6 +12,12 @@ updated: 2026-11-26
 ## Προσφορές GROW
 | Ημ/νία | Πελάτης | Υπηρεσία | Τιμή | Αποτέλεσμα | Πηγή |
 |---|---|---|---|---|---|
+| 2026-11-24/27 | [[booking-app]] | 6 προσφορές studios (Breathe 24/11 · AM Pilates/Μαύρου basic χωρίς online πληρωμή 25/11 · [[roppas-studio]] 25/11 · Αθανασία basic + Bosoultherapy 26/11 · Εμμανουέλα MUA με/χωρίς online πληρωμή 27/11) | ασαφές (μόνο PDF/pptx) | αναμονή — 0 απαντήσεις έως 27/11 | [[2026-11-24-booking-app-breathe-studio-prosfora]], [[2026-11-25-booking-app-am-pilates-prosfora]], [[2026-11-26-booking-app-prosfores-marina]], [[2026-11-27-booking-app-emmanouela-prosfora-melikidis]] |
+| 2026-11-25 | [[kyknos]] | 14 reels & photos «Content Kyknos» + 8 «George & Kyknos» (χώρος, crew, σκηνοθεσία, post, food styling· χωρίς υλικά) | ασαφές (PDF) | αναμονή | [[2026-11-23-kyknos-new-content-prosfora-update-2026-11-26]] |
+| 2026-11-26 | [[tandem-concept]] opening | Catering [[barbaggio]] πακέτα C/D με έκπτωση | 420 € (από 455) · 500 € (από 535) + ΦΠΑ — περιθώριο GROW ασαφές | αναμονή Tandem | [[2026-11-26-tandem-opening-quotations]] |
+| 2026-11-25 | [[dominos]] | Hospitality Jam (8+1 είχαν πάρει άλλοι· εναλλακτικά The Chef's Choice / Signature Episode) | ασαφές | ❌ 2026-11-25 | [[2026-10-19-hospitality-jam-dominos-update-2026-11-26]] |
+| 2026-08-08 | [[localift]] | Mobile app iOS/Android | ασαφές (PDF) | ❌ 2026-11-24 (άλλος πάροχος, ~3,5 μήνες μετά) | [[2026-09-11-localift-app-misendou-proposal-update-2026-11-25]] |
+| 2026-09-11 | [[interoptics]] | Εταιρικό video | 250 € | ✓ 2026-09-14 · τιμολογήθηκε 2026-11-09 | [[2026-10-19-interoptics-etairiko-video-synedria]], [[2026-10-19-interoptics-etairiko-video-synedria-update-2026-11-10]] |
 | 2026-11-18 | [[hotelbrain]] | HotelBrain Academy website (νέο site) | **1.150 € + ΦΠΑ** (αναθεώρηση μετά από τηλέφωνο· αρχική 2026-11-11 μόνο σε PDF) | ✓ αποδοχή 2026-11-20 ([[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-20]]) | [[2026-11-11-hotelbrain-academy-prosfora-update-2026-11-19]] |
 | 2026-11-20 | [[divino]] | Rejection fee για πλήρη σχεδιαστική πρόταση περιπτέρου HORECA 2027 πριν την ανάθεση (αφαιρείται από το agency fee αν προχωρήσει) | **1.000 € + ΦΠΑ** | αναμονή | [[2026-11-11-divino-horeca-2027-prosfora-periptero-update-2026-11-20]] |
 | 2026-11-18 | [[hotelbrain]] | Social media HotelBrain Collection | ασαφές (μόνο PDF) | αναμονή | [[2026-11-18-hotelbrain-social-media-prosfora]] |
@@ -32,6 +38,9 @@ updated: 2026-11-26
 ## Κόστη vendors
 | Ημ/νία | Vendor | Τι | Τιμή | Για | Πηγή |
 |---|---|---|---|---|---|
+| 2026-11-24 | Rodopou & Beyond | «The Rooftop Edit» pop-up (Σάββατα Δεκ.) | 0 € (δωρεάν συμμετοχή) | [[tandem-concept]] | [[2026-11-24-tandem-rooftop-edit-popup-hilton]] |
+| 2026-11-24 | [[wrapp]] | Ενεργοποίηση λογαριασμού ανά studio (πληρώνει το studio με κάρτα)· όρια παραστατικών Lite 6.000 / Core 18.000 / Plus 200.000 | 0 € | [[booking-app]] | [[2026-11-24-wrapp-mydata-partners-api-studios]] |
+| 2026-10-16 (ξανά 25/11) | Print Kong | Stand κοπτικό / απλό · 25–30 αυτοκόλλητα | 30 € / 25 € + ΦΠΑ/τμχ · 45 € + ΦΠΑ — ⚠️ η παραγγελία 25/11 γράφει 50 € και κοπτικά | [[barbaggio]] | [[2026-11-25-barbaggio-plexi-stickers-print-kong]] |
 | 2026-11-25 | [[expopiece]] | Περίπτερο ΧΕΝΙΑ — τελικό (προκαταβολή 4.585 €, υπόλοιπο 6.785,80 € με ΦΠΑ) | 9.170 € + ΦΠΑ (11.370,80 €) | [[greenmart-antemisaris]] | [[2026-11-25-expopiece-xenia-ypoloipo]] |
 | 2026-11-25 | Print Kong | Παραγγελία 3 plexi stands · 30 κοπτικά αυτοκόλλητα (κατά Βάσια Κ.) | 45 €/τμχ · 50 € + ΦΠΑ | [[barbaggio]] | [[2026-11-25-barbaggio-plexi-stickers-print-kong]] |
 | 2026-11-24 | [[wrapp]] | myDATA παραστατικά ανά studio/έτος (+ΦΠΑ), χωρίς προμήθεια | Lite 109 € · Core 169 € (POS) · Plus 239 € · Max 549 € · Ultra 1.999 € | [[booking-app]] | [[2026-11-24-wrapp-mydata-partners-api-studios]] |

@@ -3,7 +3,7 @@ type: client
 title: "SK Advisors"
 aliases: [SK Advisors, sk-advisors.gr, SK ADVISORS]
 status: ενεργός
-updated: 2026-11-26
+updated: 2026-11-28
 ---
 # SK Advisors
 > Λογιστικό γραφείο της Σοφίας Κωνσταντοπούλου. Για τη GROW είναι δύο πράγματα: πελάτης (SEO content, Meta Ads, video για TikTok/Reels) και λογιστής της ίδιας της GROW.
@@ -24,15 +24,16 @@ updated: 2026-11-26
 
   ([[2026-09-02-sk-video-2-edit-feedback]], [[2026-08-27-sk-advisors-toll-pass-documents]])
 
-## Τρέχουσα κατάσταση (στις 2026-11-03)
-- Στις 2026-11-02 συμπλήρωσε και επέστρεψε (13:01) τη φόρμα προμηθευτή του [[kyknos]] που της έστειλε η Μαρίνα (myDATA αριθμός εγκατάστασης, accounting details) ([[2026-11-02-sk-advisors-epikairopoiisi-stoixeion]]).
-
-*Από 2026-10-20:*
-- **YouTube outreach:** στις 2026-09-30 ο Δήμος έστειλε cold outreach στο κανάλι YouTube TruePathFX. Πρότεινε επεισόδιο για τα οικονομικά των ταξί, γυρισμένο μέσα σε ταξί, με καλεσμένη τη Σοφία. Απάντηση δεν υπάρχει ([[2026-09-30-truepathfx-taxi-episode-proposal]]).
-- **«Sofia Video 2»:** οι τελευταίες εκδοχές στάλθηκαν στις 2026-09-02 και ο Δήμος προώθησε την τελευταία στη Βάσια. Δεν είναι σαφές αν παραδόθηκε στην πελάτισσα ([[2026-09-02-sk-video-2-edit-feedback]]).
-- **ΓΕΜΗ και pass διοδίων:** οι οφειλές για το πιστοποιητικό ΓΕΜΗ πληρώθηκαν στις 2026-08-26 ([[2026-08-26-gemi-payments-sk-advisors]]). Τα έγγραφα για το Pass διοδίων της «κυρίας Γιαννοπούλου» τα έχει η Βασιλική από 2026-08-27 ([[2026-08-27-sk-advisors-toll-pass-documents]]).
+## Τρέχουσα κατάσταση
+Στις 2026-11-25:
+- **Ως λογιστής της GROW:** η [[sofia-konstantopoulou]] έστειλε ΑΠΔ Κατασκηνώσεων, ΑΠΔ/ΦΜΥ/ΤΕΚΑ Οκτωβρίου και ειδοποιητήριο ΕΦΚΑ μη μισθωτού Οκτ. 2026 (ποσά/προθεσμίες μόνο στα PDF) ([[2026-11-25-sk-advisors-apd-teka-fmy-oktovrios]], [[2026-11-25-sk-advisors-efka-mi-misthotou-oktovrios]]). Ο Δήμος της προώθησε (χωρίς κείμενο) το cold email της EasyStaff για freelancers χωρίς παρακράτηση 20% (💭 για γνώμη) και link iCloud «kikiras» (περιεχόμενο ασαφές) ([[2026-11-24-easystaff-parakratisi-fwd-sk-advisors]], [[2026-11-25-sofia-icloud-link-kikiras]]).
+- Εισφορές Σεπτεμβρίου (ΙΚΑ/ΤΕΚΑ/ΦΜΥ): υπόλοιπο 1.300 € μετά την πληρωμή 1.000 € (2026-11-09· εκκρεμούσαν 2.300 € στις 2026-10-27) ([[2026-10-23-sk-advisors-ika-teka-fmy-septembrios-update-2026-11-10]]).
+- **Ως πελάτης:** καμία κίνηση από 2026-09-30 — TruePathFX χωρίς απάντηση, «Sofia Video 2» χωρίς επιβεβαίωση παράδοσης (από 2026-09-02) ([[2026-09-30-truepathfx-taxi-episode-proposal]], [[2026-09-02-sk-video-2-edit-feedback]]).
 
 ## Ανοιχτά & επόμενα βήματα
+- [ ] Πληρωμή εισφορών Οκτωβρίου (ΑΠΔ/ΦΜΥ/ΤΕΚΑ, ΕΦΚΑ μη μισθωτού) — Δήμος / [[marina-papanastasiou]] — προθεσμία: ασαφής (στα PDF) ([[2026-11-25-sk-advisors-apd-teka-fmy-oktovrios]], [[2026-11-25-sk-advisors-efka-mi-misthotou-oktovrios]])
+- [ ] 💭 Γνώμη Σοφίας για το μοντέλο EasyStaff (freelancers χωρίς παρακράτηση 20%) — Σοφία — από 2026-11-24 ([[2026-11-24-easystaff-parakratisi-fwd-sk-advisors]])
+- [ ] Υπόλοιπο 1.300 € εισφορών Σεπτεμβρίου (ΙΚΑ/ΤΕΚΑ/ΦΜΥ) — Δήμος — από 2026-11-09 ([[2026-10-23-sk-advisors-ika-teka-fmy-septembrios-update-2026-11-10]])
 - [ ] Απάντηση και οικονομική πρόταση από το TruePathFX: διάρκεια, τι περιλαμβάνει, διαθεσιμότητα — TruePathFX — από 2026-09-30 ([[2026-09-30-truepathfx-taxi-episode-proposal]])
 - [ ] Αν προχωρήσει το TruePathFX: σύντομη κλήση, προετοιμασία και μοντάζ Reels από το υλικό — Δήμος / GROW — χωρίς ημερομηνία ([[2026-09-30-truepathfx-taxi-episode-proposal]])
 - [ ] Τελική έγκριση και παράδοση του «Sofia Video 2» στην πελάτισσα. Η Marianna ρώτησε αν είναι οκ τα εφέ και απάντηση δεν φαίνεται — Δήμος / [[vassia-kataki]] — από 2026-09-02 ([[2026-09-02-sk-video-2-edit-feedback]])
@@ -46,12 +47,12 @@ updated: 2026-11-26
 - Τα άρθρα γράφονται πάντα κατά E-E-A-T 2026: byline, TL;DR, schema, FAQ, YMYL ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
 ## Χρονολόγιο
-- 2026-11-25 — Σοφία έστειλε ΑΠΔ/ΦΜΥ/ΤΕΚΑ Οκτωβρίου GROW και ειδοποιητήριο ΕΦΚΑ μη μισθωτού Οκτ.· ο Δήμος της έστειλε link iCloud «kikiras» ([[2026-11-25-sk-advisors-apd-teka-fmy-oktovrios]], [[2026-11-25-sk-advisors-efka-mi-misthotou-oktovrios]], [[2026-11-25-sofia-icloud-link-kikiras]])
-- **2026-11-24** — Ο Δήμος προώθησε στη Σοφία cold email της EasyStaff (τιμολόγηση freelancers χωρίς παρακράτηση 20%), χωρίς κείμενο ([[2026-11-24-easystaff-parakratisi-fwd-sk-advisors]]).
+- 2026-11-25 — 17:16 Σοφία: ειδοποιητήριο ΕΦΚΑ μη μισθωτού Οκτ. 2026 (μόνο συνημμένο) · 17:18 ΑΠΔ Κατασκηνώσεων, ΑΠΔ/ΦΜΥ/ΤΕΚΑ Οκτωβρίου σε Δήμο & Μαρίνα · 22:10 ο Δήμος της στέλνει link iCloud «kikiras» χωρίς κείμενο ([[2026-11-25-sk-advisors-apd-teka-fmy-oktovrios]], [[2026-11-25-sk-advisors-efka-mi-misthotou-oktovrios]], [[2026-11-25-sofia-icloud-link-kikiras]]).
+- 2026-11-24 22:43 — Ο Δήμος προώθησε στη Σοφία cold email της EasyStaff (τιμολόγηση freelancers χωρίς παρακράτηση 20%), χωρίς κείμενο ([[2026-11-24-easystaff-parakratisi-fwd-sk-advisors]]).
 - 2026-11-09 — Ο Δήμος: πληρώθηκαν άλλα 1.000 €, νέο υπόλοιπο 1.300 € ([[2026-10-23-sk-advisors-ika-teka-fmy-septembrios-update-2026-11-10]]).
 - 2026-11-03 — Ερωτήσεις Μαρίνας για κάρτες εργασίας (υπερωρίες, άδειες, καθυστερήσεις) — υποχρεωτικό από 2026-11-15 ([[2026-11-03-sk-advisors-karta-ergasias]]).
 - 2026-11-03 — Ξαναστάλθηκαν παλιά έγγραφα (Pass διοδίων, UP Hellas) χωρίς κείμενο ([[2026-08-27-sk-advisors-toll-pass-documents-update-2026-11-04]]).
-- 2026-11-02 — Συμπληρώνει τη φόρμα προμηθευτή Κύκνου για τη GROW (Μαρίνα 11:32 → επιστροφή 13:01) ([[2026-11-02-sk-advisors-epikairopoiisi-stoixeion]]).
+- 2026-11-02 — Συμπληρώνει τη φόρμα προμηθευτή [[kyknos]] για τη GROW (Μαρίνα 11:32 → επιστροφή 13:01: myDATA αριθμός εγκατάστασης, accounting details) ([[2026-11-02-sk-advisors-epikairopoiisi-stoixeion]]).
 - 2026-09-30 — Cold outreach του Δήμου στο TruePathFX, με τη Σοφία σε bcc ([[2026-09-30-truepathfx-taxi-episode-proposal]]).
 - 2026-09-02 — Η Marianna στέλνει νέες εκδοχές και ο Δήμος προωθεί την τελευταία στη Βάσια ([[2026-09-02-sk-video-2-edit-feedback]]).
 - 2026-08-31 — Η Marianna στέλνει το «Sofia Video 2» για έγκριση. Ο Δήμος ζητά ([[2026-09-02-sk-video-2-edit-feedback]]):
@@ -76,3 +77,5 @@ updated: 2026-11-26
 - Τα στοιχεία ταυτότητας των εγγράφων του pass δεν καταγράφονται: [στοιχείο παραλείφθηκε].
 - Στο video η Σοφία θέλει φυσικό αποτέλεσμα, χωρίς φίλτρα και βαριά γραφικά ([[2026-08-28-sk-advisors-tiktok-video-brief]]).
 - Το outreach στο TruePathFX γράφτηκε στο επίσημο ύφος του Δήμου: δομημένο, με bold, κλείνει με «Με εκτίμηση,» ([[2026-09-30-truepathfx-taxi-episode-proposal]]).
+- Η επικοινωνία Δήμου–Σοφίας γίνεται συχνά με σκέτα συνημμένα/links χωρίς κείμενο και από τις δύο πλευρές (2026-11-03 έγγραφα, 2026-11-24 forward EasyStaff, 2026-11-25 ΕΦΚΑ και iCloud link) — το «τι ζητείται» μένει ασαφές ([[2026-08-27-sk-advisors-toll-pass-documents-update-2026-11-04]], [[2026-11-24-easystaff-parakratisi-fwd-sk-advisors]], [[2026-11-25-sk-advisors-efka-mi-misthotou-oktovrios]], [[2026-11-25-sofia-icloud-link-kikiras]]).
+- Οι εισφορές της GROW έρχονται μηνιαία από τη Σοφία σε Δήμο + Μαρίνα (Σεπτέμβριος 2026-10-23, Οκτώβριος 2026-11-25) ([[2026-11-25-sk-advisors-apd-teka-fmy-oktovrios]]).

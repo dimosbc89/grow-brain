@@ -3,7 +3,7 @@ type: client
 title: "Marketing Coach (Κύπρος)"
 aliases: [Marketing Coach, PG Group of Companies, PG Group, marketingcoach.com.cy, Petros Goulas]
 status: ενεργός
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 # Marketing Coach (Κύπρος)
 > Κυπριακό marketing γραφείο του Petros Goulas (PG Group of Companies). Λειτουργεί ως μεσάζων: φέρνει στη GROW πελάτες στην Κύπρο ([[karmiotissa]], [[poullaides-foundation]]) και έχει δικές του Google Ads καμπάνιες.
@@ -22,15 +22,18 @@ updated: 2026-11-27
 - **Asana:** project «PG Graphics» (δημιουργήθηκε 2026-09-18) με γραφιστικά για social/εταιρικά: Kiss FM, Sfera, Bake & Pack, Recital, Alarm/Brew, γάμοι, nameday posts, products of the week, hiring. Ομάδα: [[vassia-kataki]], [[marianna-vourna]], [[fotini]] ([[2026-10-21-asana-snapshot]]).
 - **Freelancer Google Ads:** [[nikos-moulinos]] ([[2026-10-05-google-ads-freelancer-moulinos]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-18)
-- **Buildia Constructions website:** ο [[petros-goulas]] ζήτησε 2026-11-13 από τον «Παναγιώτη» (panos_ar@) admin πρόσβαση για δομικές αλλαγές από τον Δήμο· «Friendly Reminder» 2026-11-18 — η πρόσβαση δεν έχει έρθει ([[2026-11-13-buildia-website-admin-prosvasi]], [[2026-11-13-buildia-website-admin-prosvasi-update-2026-11-19]]).
-- **Πληρωμές:** 1η πληρωμή ~2026-11-09· 2η κατάθεση υποσχέθηκε «Μέχρι Παρ.» (2026-11-13) — αν έγινε: ασαφές ([[2026-11-11-marketing-coach-kartela]], [[2026-11-10-admin-omada-mikra]]).
-- Google Ads: μόνο η Odysseia (κατεύθυνση εκκρεμεί από 2026-07-27)· Hercules/Sakura/CTL σταματημένες με εντολή 2026-10-01 ([[2026-09-01-marketing-coach-pause-google]], [[2026-10-05-google-ads-freelancer-moulinos]]). PG Graphics: 5 εκπρόθεσμα tasks στο Asana (στις 2026-10-21) ([[2026-10-21-asana-snapshot]]).
+## Τρέχουσα κατάσταση
+Στις 2026-11-26:
+- **Πληρωμές:** η Μαρίνα έστειλε 2026-11-26 ανανεωμένη καρτέλα πελάτη στον [[petros-goulas]] (ποσό δεν φαίνεται)· αν έγινε η 2η κατάθεση που υποσχέθηκε «Μέχρι Παρ.» (2026-11-13): ασαφές ([[2026-11-26-team-misc-timologia-logo-kartela]], [[2026-11-11-marketing-coach-kartela]]).
+- **Buildia Constructions:** admin πρόσβαση δεν φαίνεται να ήρθε (τελευταίο reminder Petros 2026-11-18) ([[2026-11-13-buildia-website-admin-prosvasi-update-2026-11-19]]).
+- **PG Graphics:** στο Asana εκπρόθεσμα «PG Graphics posts» της [[vassia-kataki]] από 2026-11-04 ([[2026-11-24]]).
+- Google Ads: μόνο η Odysseia (κατεύθυνση εκκρεμεί από 2026-07-27)· Hercules/Sakura/CTL σταματημένες με εντολή 2026-10-01 ([[2026-09-01-marketing-coach-pause-google]], [[2026-10-05-google-ads-freelancer-moulinos]]).
 
 ## Ανοιχτά & επόμενα βήματα
 - [ ] Πρόσβαση admin site Buildia — Παναγιώτης (panos_ar@) → Δήμος — από 2026-11-13· reminder Petros 2026-11-18 ([[2026-11-13-buildia-website-admin-prosvasi-update-2026-11-19]]) ([[2026-11-13-buildia-website-admin-prosvasi]])
 - [ ] Δομικές αλλαγές site Buildia Constructions — Δήμος — μετά την πρόσβαση, χωρίς ημερομηνία ([[2026-11-13-buildia-website-admin-prosvasi]])
-- [ ] 2η κατάθεση (καρτέλα PETROS GOULAS LTD) — [[petros-goulas]] — **έως 2026-11-13** — ⚠️ επιβεβαίωση είσπραξης δεν φαίνεται στις 2026-11-21 ([[2026-11-11-marketing-coach-kartela]])
+- [ ] 2η κατάθεση (καρτέλα PETROS GOULAS LTD) — [[petros-goulas]] — **έως 2026-11-13** — ⚠️ επιβεβαίωση είσπραξης δεν φαίνεται· νέα καρτέλα στάλθηκε 2026-11-26 ([[2026-11-11-marketing-coach-kartela]], [[2026-11-26-team-misc-timologia-logo-kartela]])
+- [ ] «PG Graphics posts» — [[vassia-kataki]] — ⚠️ εκπρόθεσμο από 2026-11-04 (Asana, στις 2026-11-24) ([[2026-11-24]])
 - [ ] Κατεύθυνση για την καμπάνια Odysseia — Petros Goulas — από 2026-07-27 ([[2026-09-01-marketing-coach-pause-google]])
 - [ ] Επιβεβαίωση ότι οι Hercules, Sakura και CTL είναι σταματημένες και ότι το «campaign a» έκλεισε — [[nikos-moulinos]] — μετά την εντολή της 2026-10-01 ([[2026-10-05-google-ads-freelancer-moulinos]])
 **PG Graphics (Asana, όλα εκπρόθεσμα στις 2026-10-21)**

@@ -3,7 +3,7 @@ type: project
 title: "Εκθεσιακά περίπτερα (booth design & build)"
 aliases: [εκθεσιακά περίπτερα, περίπτερα, booths, expo design & build, expo booths]
 status: ενεργός
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 # Εκθεσιακά περίπτερα
 > Γραμμή υπηρεσιών της GROW για σχεδιασμό και κατασκευή custom εκθεσιακών περιπτέρων, μαζί με περιφερειακές υπηρεσίες. Εδώ συγκεντρώνονται όλοι οι πελάτες και τα leads περιπτέρων.
@@ -16,7 +16,7 @@ updated: 2026-11-27
 - **Υπεργολάβοι κατασκευής:** [[expopiece]]· Epilogi Digital ([[epilogin]]) ([[2026-09-07-cocomat-xenia-booth-offer]])· [[expowork]] εμφανίζεται ως ανταγωνιστική πρόταση στην [[greenmart-antemisaris]] ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
 - **Ομάδα GROW:** ο Δήμος (πωλήσεις, προτάσεις)· [[marina-papanastasiou]] (lead στην [[argyroplastics]], cc παντού)· [[vassiliki-giannopoulou]] (Account Director)· γραφιστικά/κατόψεις/φωτορεαλιστικά: [[vassia-kataki]], [[marianna-vourna]], [[fotini]]· [[despina-velissariou]] στα meetings ([[2026-09-01-gamestuff-expo-brief]], [[2026-10-20-argyroplastics-plastica-2026]], [[2026-07-20_2026-11-03]]).
 
-## Pipeline (στις 2026-11-20)
+## Pipeline (στις 2026-11-27)
 
 | Οργανισμός | Έκθεση | Μέγεθος | Κατάσταση | Πηγή |
 |---|---|---|---|---|
@@ -30,8 +30,9 @@ updated: 2026-11-27
 | [[tsianakas-packaging]] | Global Pack 2027 (από όνομα PDF) | έως 50 τ.μ. | Προσφορά Agency Fee 2026-11-11 (Μαρίνα)· αναμονή | [[2026-11-11-tsianakas-prosfora-periptero]] |
 | [[cryo]] | CosmoEstetica (από όνομα PDF) | ασαφές | Συνάντηση 2026-11-10· προσφορά Agency Fee 2026-11-11· αναμονή | [[2026-11-11-cryo-prosfora-periptero]] |
 | [[enersys]] | Agrothessaly 2027 (από όνομα PDF) | ασαφές | Meeting με Δήμο 2026-11-06· προσφορά κατασκευής 2026-11-11· αναμονή | [[2026-11-11-enersys-prosfora-periptero]] |
-| [[greenmart-antemisaris]] | Xenia 2026-11-21 → 23, Hall 2 A23-B25/A26-B27 | νησίδα 8,5 × 11 = 93,5 τ.μ. (από 2026-10-26) | **Σε εκτέλεση:** προσφορά GROW 19.000 € (2026-10-30)· Expopiece υπογράφηκε + προκαταβολή 2026-11-03· στήσιμο 2026-11-19, μάζεμα 2026-11-24 | [[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]], [[2026-10-23-antemisaris-xenia-expopiece-update-2026-11-04]], [[2026-11-19-xenia-paraggelia-klark-expowork]] |
-| [[krimatoglou]] | HORECA 2027, Hall 3 C22 + C24/D27 | 92,75 τ.μ. | Agency Fee 2026-11-17· προσχέδιο 23–27/11, συνάντηση 2026-12-01 15:00 | [[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-20]] |
+| [[greenmart-antemisaris]] | Xenia 2026-11-21 → 23, Hall 2 A23-B25/A26-B27 | νησίδα 8,5 × 11 = 93,5 τ.μ. (από 2026-10-26) | **Ολοκληρώθηκε:** προσφορά GROW 19.000 € (2026-10-30)· μάζεμα 2026-11-24· τιμολόγιο εξόφλησης #1335 2026-11-23· Expopiece τελικό 9.170 € + ΦΠΑ, υπόλοιπο 6.785,80 € προς πληρωμή | [[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]], [[2026-11-23-xenia-timologia-exoflisis]], [[2026-11-25-expopiece-xenia-ypoloipo]] |
+| [[krimatoglou]] | HORECA 2027, Hall 3 C22 + C24/D27 | 92,75 τ.μ. | Agency Fee 2026-11-17· προσχέδιο ζητήθηκε «εντός» 2026-11-27 — αποστολή δεν φαίνεται· συνάντηση 2026-12-01 15:00 | [[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-27]] |
+| Tsimentodomi | ασαφές | ασαφές | Expo Booth Meeting 2026-11-30 14:00 (νέο, Μαρίνα 26/11) | [[2026-11-27_2026-12-04]] |
 | [[elmon]] | DEFEA 2027 | ασαφές | Προσφορά 2026-11-10 (Μαρίνα)· αναμονή | [[2026-11-10-elmon-defea-2027-prosfora-periptero]] |
 | Σγουρομάλλης | Souvenir Expo Greece 2027 | ασαφές | Agency Fee 2026-11-17 (Μαρίνα)· αναμονή | [[2026-11-17-periptero-prosfora-sgouromallis]] |
 | [[afrokoptiki]] | ασαφές | ασαφές | Παρουσίαση 2026-11-17· 2026-11-18 ζητά λεπτομέρειες κατασκευής/πατώματος | [[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]] |
@@ -40,18 +41,23 @@ updated: 2026-11-27
 
 Από παλαιότερες συνομιλίες: ιδέες περιπτέρου για την Kouvelas S.A. ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-20)
-- **XENIA ([[greenmart-antemisaris]], 2026-11-21 → 23):** στήσιμο 2026-11-19 με καθυστερήσεις υλικών — η [[neon-arrow]] δεν τοποθέτησε τίποτα (πιστωτικό 100 € + ΦΠΑ)· κλαρκ μαζέματος 2026-11-24 (193,95 €)· ο Ζάχος διαφωνεί με διάρκεια 35″–1′ για το video ([[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]], [[2026-11-19-xenia-paraggelia-klark-expowork]], [[2026-11-19-antemisaris-video-dialogi-planon]]).
-- **[[divino]] (2026-11-20):** μετά από τηλέφωνο, πρόταση για πλήρη σχεδιαστική μελέτη HORECA 2027 με **rejection fee 1.000 € + ΦΠΑ** (αφαιρείται από το agency fee αν προχωρήσουν) ([[2026-11-11-divino-horeca-2027-prosfora-periptero-update-2026-11-20]]).
-- **[[krimatoglou]]:** προσχέδιο υποσχέθηκε η Μαρίνα για 23–27/11, συνάντηση **2026-12-01 15:00** online ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-20]]).
-- **Αναμονή:** [[enersys]], [[cryo]], [[tsianakas-packaging]] (2026-11-11), [[elmon]] (2026-11-10), Σγουρομάλλης (2026-11-17)· [[afrokoptiki]] θέλει απάντηση για κατασκευή/πάτωμα (από 2026-11-18)· [[tria-delta]] νέο ραντεβού· [[papavergos]]: το πρώτο σχέδιο της εβδομάδας 2026-11-16 δεν φαίνεται να στάλθηκε ([[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]], [[2026-11-18-periptero-tria-delta-aivaliotis]], [[2026-11-13-periptero-papavergos]]).
+## Τρέχουσα κατάσταση
+- **Στις 2026-11-27:** η XENIA ([[greenmart-antemisaris]]) ολοκληρώθηκε (21–23/11, μάζεμα 24/11)· στάλθηκε τιμολόγιο εξόφλησης #1335· ο Δήμος ενέκρινε 2026-11-25 το τελικό κόστος [[expopiece]] 9.170 € + ΦΠΑ (υπόλοιπο 6.785,80 €) ([[2026-11-23-xenia-timologia-exoflisis]], [[2026-11-25-expopiece-xenia-ypoloipo]]).
+- **[[krimatoglou]]:** περίμεναν το προσχέδιο «εντός της ημέρας» 2026-11-27 — ως τις ~15:50 δεν φαίνεται αποστολή· η Βάσια Κ. ζήτησε από [[audio-tech]] προσφορά LED/επένδυσης κολώνας· συνάντηση **2026-12-01 15:00** ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-27]]).
+- **Νέα:** Expo Booth Meeting με Tsimentodomi **2026-11-30 14:00** (⚠️ ίδια ώρα με booking call Κοντομάρη) ([[2026-11-27_2026-12-04]])· ο [[led-vision]] προσφέρθηκε ως AV προμηθευτής (2026-11-23) ([[2026-11-23-ledvision-av-exoplismos]]).
+- **Αναμονή χωρίς νέα την εβδομάδα 23–27/11:** [[divino]] (rejection fee 1.000 € + ΦΠΑ, 2026-11-20), [[enersys]], [[cryo]], [[tsianakas-packaging]] (2026-11-11), [[elmon]] (2026-11-10), Σγουρομάλλης (2026-11-17), [[afrokoptiki]], [[tria-delta]], [[papavergos]] ([[2026-11-11-divino-horeca-2027-prosfora-periptero-update-2026-11-20]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] [[krimatoglou]]: προσχέδιο περιπτέρου (92,75 τ.μ.) — Μαρίνα/Δήμος — εβδομάδα 2026-11-23…27 · συνάντηση 2026-12-01 15:00 ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-20]])
+- [ ] ⚠️ [[krimatoglou]]: προσχέδιο περιπτέρου (92,75 τ.μ.) — Μαρίνα/Βάσια Κ./Δήμος — ζητήθηκε «εντός» 2026-11-27, αποστολή δεν φαίνεται · συνάντηση 2026-12-01 15:00 ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-27]])
+- [ ] [[krimatoglou]]: προσφορά [[audio-tech]] για LED + επένδυση κολώνας — audio-tech — από 2026-11-27 ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-27]])
+- [ ] Expo Booth Meeting Tsimentodomi — **2026-11-30 14:00** — Μαρίνα· ⚠️ σύγκρουση με booking call Κοντομάρη ([[2026-11-27_2026-12-04]])
+- [ ] XENIA: πληρωμή υπολοίπου [[expopiece]] 6.785,80 € — λογιστήριο (forward Δήμου στη Βασιλική 2026-11-26) ([[2026-11-25-expopiece-xenia-ypoloipo]], [[2026-11-26-admin-eidopoiiseis]])
+- [ ] XENIA: εξόφληση τιμολογίου #1335 — Antemisaris — από 2026-11-23 ([[2026-11-23-xenia-timologia-exoflisis]])
+- [ ] [[led-vision]]: απάντηση/συνάντηση (προαιρετικό) — Δήμος — από 2026-11-23 ([[2026-11-23-ledvision-av-exoplismos]])
 - [ ] [[afrokoptiki]]: απάντηση για κατασκευή / υλικά / πάτωμα — Μαρίνα (cc Δήμος) — από 2026-11-18 ([[2026-11-17-periptero-afrokoptiki-xaris-update-2026-11-19]])
 - [ ] [[tria-delta]]: επαναπρογραμματισμός συνάντησης — Μαρίνα / κ. Αϊβαλιώτης — από 2026-11-18 ([[2026-11-18-periptero-tria-delta-aivaliotis]])
 - [ ] [[papavergos]]: κάτοψη σημείου (πελάτης) → πρώτο σχέδιο περιπτέρου — Μαρίνα — εβδομάδα 2026-11-16 ([[2026-11-13-periptero-papavergos]])
-- [ ] XENIA: υπογραφή Expopiece V2 + νέα προκαταβολή — **Δήμος** — άμεσα, από 2026-11-12 ([[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]])
+- [x] ✓ 2026-11-25 (προκαταβολή 4.585 € 2026-11-05· τελικό 9.170 € + ΦΠΑ εγκρίθηκε — [[2026-11-25-expopiece-xenia-ypoloipo]]) XENIA: υπογραφή Expopiece V2 + νέα προκαταβολή — Δήμος ([[2026-11-12-expopiece-nea-prosfora-v2-antemisaris]])
 - [x] ✓ 2026-11-20 τηλέφωνο Βασιλικής–Λετκα → νέα πρόταση με rejection fee ([[2026-11-11-divino-horeca-2027-prosfora-periptero-update-2026-11-20]]) — Απάντηση Divino στην προσφορά HORECA 2027 — Λετκας — **έως 2026-11-19** + call για τις υπόλοιπες προτάσεις — Βασιλική ([[2026-11-11-divino-horeca-2027-prosfora-periptero]])
 - [ ] Απάντηση Divino στο rejection fee 1.000 € + ΦΠΑ — Λετκας — από 2026-11-20 ([[2026-11-11-divino-horeca-2027-prosfora-periptero-update-2026-11-20]])
 - [ ] Follow-up προσφορών ELMON (2026-11-10) και Σγουρομάλλη (2026-11-17) — Μαρίνα — χωρίς προθεσμία ([[2026-11-10-elmon-defea-2027-prosfora-periptero]], [[2026-11-17-periptero-prosfora-sgouromallis]])
@@ -60,7 +66,7 @@ updated: 2026-11-27
 - [x] Argyroplastics: ρεύμα, ανάρτηση, εξόφληση Expowork — ✓ 2026-11-02 ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]])
 - [ ] (μερικώς ✓: εκθέτη/κατασκευαστή 2026-11-03· ηλεκτρολόγου έλειπε — [[2026-11-02-expowork-d17-ypeuthynes-diloseis-update-2026-11-04]]) Argyroplastics: Υπ. Δηλώσεις ηλεκτρολόγου/κατασκευαστή/μηχανικού (σφραγίδα + υπογραφή) — Μαρίνα — πριν το στήσιμο 2026-11-05 ([[2026-11-02-expowork-d17-ypeuthynes-diloseis]])
 - [ ] ⚠️ Argyroplastics: ρητή επιβεβαίωση κατασκευαστή (💭 Epilogi) — Δήμος ([[2026-11-02-argyroplastics-ektypotika-arxeia]])
-- [ ] (Expopiece υπογράφηκε + προκαταβολή 2026-11-03 — [[2026-10-23-antemisaris-xenia-expopiece-update-2026-11-04]]· ρητή έγκριση δεν υπάρχει γραπτώς) XENIA: ρητή έγκριση προσφοράς 19.000 € από Antemisaris → μετά υπογραφή/προκαταβολή Expopiece — Antemisaris / GROW ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]])
+- [x] — (η έκθεση έγινε 21–23/11 και στάλθηκε τιμολόγιο εξόφλησης #1335 2026-11-23· ρητή γραπτή έγκριση του ποσού δεν φάνηκε ποτέ — [[2026-11-23-xenia-timologia-exoflisis]]) (Expopiece υπογράφηκε + προκαταβολή 2026-11-03 — [[2026-10-23-antemisaris-xenia-expopiece-update-2026-11-04]]) XENIA: ρητή έγκριση προσφοράς 19.000 € από Antemisaris → μετά υπογραφή/προκαταβολή Expopiece — Antemisaris / GROW ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]])
 - [x] ✓ κάτοψη 2026-10-29, προσφορά Expopiece 2026-10-29, kW video wall 2026-11-12 ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-30]], [[2026-11-03-expopiece-ypeuthyni-dilosi-antemisaris-update-2026-11-13]]) — XENIA/Antemisaris: προσαρμογή Option 2 + νέα κάτοψη στην Expopiece — Δέσποινα — **2026-10-29**· kW video wall (Audio-tech, ζητήθηκαν 2026-10-27)· κοστολόγηση (+ κατασκευή πίσω από video wall) — Expopiece ([[2026-10-23-antemisaris-xenia-expopiece-update-2026-10-28]], [[2026-10-16-audiotech-led-xenia-update-2026-10-28]])
 - [ ] DETURBO: budget → δύο προτάσεις — DETURBO, μετά GROW — από 2026-09-18 ([[2026-09-22-deturbo-defea-2027-periptero]])
 - [ ] Primowear: προσφορά για το D16 — GROW — ασαφές αν στάλθηκε ([[2026-09-24-primowear-periptero-ekthesi-d16]])
@@ -76,6 +82,8 @@ updated: 2026-11-27
 - Πρώτα στέλνουμε δημιουργικό πλαίσιο (κάτοψη, φωτορεαλιστικό, activations) και αναλυτική κοστολόγηση μετά το feedback (GameStuff, 2026-09-07) ([[2026-09-07-gamestuff-fantasy-festival-booth]]).
 
 ## Χρονολόγιο
+- **2026-11-27** — [[krimatoglou]]: η γραμματεία περιμένει το προσχέδιο «εντός της ημέρας»· Βάσια Κ. → audio-tech: προσφορά LED/πάνελ κολώνας· Μαρίνα στο Asana: ιδέα lounge ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-27]]).
+- 2026-11-23 — XENIA: τιμολόγια εξόφλησης #1335 (σχεδιασμός & κατασκευή περιπτέρου) και #1336 (τρίπτυχο) προς Antemisaris (Ιωάννα) ([[2026-11-23-xenia-timologia-exoflisis]]).
 - **2026-11-26** — Νέο: **Expo Booth Meeting | Tsimentodomi 2026-11-30 14:00** (petros.r@tsimentodomi.gr αποδέχτηκε) ([[2026-11-27_2026-12-04]])· Δήμος forward τιμολογίου Expopiece στη Βασιλική ([[2026-11-26-admin-eidopoiiseis]]). Asana Βάσια Κ.: προσχέδιο περιπτέρου HoReCa (26/11), κάτοψη (27/11).
 - 2026-11-25 — ΧΕΝΙΑ/Αντεμισάρης: Expopiece κλείνει στα 9.170 € + ΦΠΑ, υπόλοιπο 6.785,80 € προς πληρωμή ([[2026-11-25-expopiece-xenia-ypoloipo]])
 - **2026-11-23** — Νέος υποψήφιος AV προμηθευτής [[led-vision]] ([[2026-11-23-ledvision-av-exoplismos]]).
@@ -102,18 +110,9 @@ updated: 2026-11-27
 - 2026-10-16 — Argyroplastics video call ([[2026-10-20-argyroplastics-plastica-2026]]).
 - 2026-10-07 — Argyroplastics: υπογραφή συμφωνητικού ([[2026-10-20-argyroplastics-plastica-2026]]).
 - 2026-09-30 — Primowear meeting ([[2026-07-20_2026-11-03]]).
-- 2026-09-24 — Primowear: forward στη Μαρίνα και τη Βασιλική ([[2026-09-24-primowear-periptero-ekthesi-d16]]).
-- 2026-09-19 — Primowear ζητά προσφορά ([[2026-09-24-primowear-periptero-ekthesi-d16]]).
-- 2026-09-18 — METLEN Teams meeting· DETURBO RFQ ([[2026-07-20_2026-11-03]], [[2026-09-22-deturbo-defea-2027-periptero]]).
-- 2026-09-17 — Argyroplastics: η προσφορά στέλνεται ([[2026-10-20-argyroplastics-plastica-2026]]).
-- 2026-09-16 — Argyroplastics: πρώτο meeting για την Plastica '26 ([[2026-07-20_2026-11-03]]).
-- 2026-09-07 — GameStuff: πρόταση· COCO-MAT: απόρριψη ([[2026-09-07-gamestuff-fantasy-festival-booth]], [[2026-09-07-cocomat-xenia-booth-offer]]).
-- 2026-09-01 — Εσωτερικό brief για τη GameStuff ([[2026-09-01-gamestuff-expo-brief]]).
-- 2026-08-27 — GameStuff: πρώτο meeting ([[2026-08-27-gamestuff-booth-next-steps]]).
-- 2026-07-31 — COCO-MAT: προσφορά· METLEN: ακύρωση του call ([[2026-09-07-cocomat-xenia-booth-offer]], [[2026-09-09-metlen-booth-teams-meeting]]).
-- 2026-07-21 — Antemisaris: FYI για την πρόταση Expowork για τη Xenia 2026 ([[2026-07-21-antemisaris-expowork-xenia-2026]]).
-- 2026-07-16 — COCO-MAT: αίτημα προσφοράς ([[2026-09-07-cocomat-xenia-booth-offer]]).
-- 2026-07-15 — Αρχή του thread με τη METLEN ([[2026-09-09-metlen-booth-teams-meeting]]).
+- **2026-09 (σύνοψη)** — 09-01 εσωτερικό brief GameStuff · 09-07 GameStuff πρόταση, COCO-MAT απόρριψη · 09-16 Argyroplastics πρώτο meeting Plastica '26 · 09-17 Argyroplastics προσφορά · 09-18 METLEN Teams meeting, DETURBO RFQ · 09-19 Primowear ζητά προσφορά · 09-24 Primowear forward σε Μαρίνα/Βασιλική ([[2026-09-01-gamestuff-expo-brief]], [[2026-09-07-gamestuff-fantasy-festival-booth]], [[2026-09-07-cocomat-xenia-booth-offer]], [[2026-10-20-argyroplastics-plastica-2026]], [[2026-07-20_2026-11-03]], [[2026-09-22-deturbo-defea-2027-periptero]], [[2026-09-24-primowear-periptero-ekthesi-d16]]).
+- **2026-08 (σύνοψη)** — 08-27 GameStuff πρώτο meeting ([[2026-08-27-gamestuff-booth-next-steps]]).
+- **2026-07 (σύνοψη)** — 07-15 αρχή thread METLEN · 07-16 COCO-MAT αίτημα προσφοράς · 07-21 Antemisaris FYI για πρόταση Expowork Xenia 2026 · 07-31 COCO-MAT προσφορά, METLEN ακύρωση call ([[2026-09-09-metlen-booth-teams-meeting]], [[2026-09-07-cocomat-xenia-booth-offer]], [[2026-07-21-antemisaris-expowork-xenia-2026]]).
 
 ## Οικονομικά
 - Αναφορά τιμής: «περίπτερο με δομή PLUS» 180€/τ.μ. — ασαφές αν είναι τιμή διοργανωτή ή GROW ([[2026-09-01-gamestuff-expo-brief]]).
@@ -125,6 +124,8 @@ updated: 2026-11-27
 - 💭 Υπόθεση/μάθημα XENIA 2026: οι υπεργολάβοι αυτοκόλλητων (τοποθέτηση) να κλείνονται με περιθώριο **μετά** την ολοκλήρωση της κατασκευής· στις 2026-11-19 το περίπτερο δεν ήταν έτοιμο και η τοποθέτηση χάθηκε ([[2026-11-17-neonarrow-prosfora-koptika-lefka-update-2026-11-20]]). Το κλαρκ μαζέματος κλείνεται ξεχωριστά από το κλαρκ στησίματος ([[2026-11-19-xenia-paraggelia-klark-expowork]]).
 - Μοτίβο (2026-11-19/20): οι prospects ζητούν **σχέδιο πριν αναθέσουν** — η Κριματόγλου προσχέδιο πριν τη συνάντηση, η Divino πλήρη πρόταση· απάντηση GROW: rejection fee 1.000 € + ΦΠΑ που συμψηφίζεται με το agency fee ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-20]], [[2026-11-11-divino-horeca-2027-prosfora-periptero-update-2026-11-20]]).
 - Η XENIA «τρώει» το capacity: η Μαρίνα μετέθεσε το προσχέδιο Κριματόγλου λόγω της έκθεσης ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-20]]).
+- Μοτίβο (ξανά 2026-11-27): η [[krimatoglou]] θέλει το σχέδιο πριν τη συνάντηση και κυνηγά την προθεσμία μέσω γραμματείας την ίδια μέρα ([[2026-11-12-krimatoglou-horeca-2027-fotografies-update-2026-11-27]]).
+- XENIA 2026 κόστος έναντι τιμής: προσφορά GROW 19.000 € · κατασκευή [[expopiece]] τελικά 9.170 € + ΦΠΑ ([[2026-10-23-antemisaris-xenia-periptero-protaseis-update-2026-11-03]], [[2026-11-25-expopiece-xenia-ypoloipo]]). 💭 Υπόθεση: μένουν και τα κόστη Expowork/Neon Arrow/AV — το καθαρό περιθώριο είναι ασαφές.
 - Μοτίβο: τα RFQ έρχονται με πολλές απαιτήσεις και χωρίς budget («pali ta idia») ([[2026-09-22-deturbo-defea-2027-periptero]]).
 - Οι μεγάλες εταιρείες (COCO-MAT) δίνουν έτοιμα σχέδια και ζητούν μόνο κατασκευή μέσω Procurement ([[2026-09-07-cocomat-xenia-booth-offer]]).
 - 💭 Υπόθεση: το ✓ «Primowear | Syskevasia 2026» (2026-10-07) σημαίνει ότι η πρόταση/σχέδιο για το D16 της [[primowear]] ολοκληρώθηκε. Αν στάλθηκε, παραμένει ασαφές ([[2026-10-21-asana-snapshot]]).

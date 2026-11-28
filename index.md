@@ -277,6 +277,6 @@ updated: 2026-11-25
 - [[patterns|Μοτίβα]] — Τι επαναλαμβάνεται: υποσχέσεις, αναμονές, ομάδα, τι φέρνει πελάτες.
 - [[prices|Μνήμη τιμών]] — Προσφορές GROW, αποδοχές, κόστη vendors, εύρη ανά υπηρεσία.
 - [[lessons|Μαθήματα]] — Διορθώσεις του Δήμου και λάθη του εγκεφάλου.
-- [[ekthesi-periptero|Playbook: εκθεσιακό περίπτερο]] · [[website-launch|Playbook: launch website]]
+- [[ekthesi-periptero|Playbook: εκθεσιακό περίπτερο]] · [[website-launch|Playbook: launch website]] · [[booking-app-demo|Playbook: demo Booking App]]
 - [[weekly-synthesis|Εβδομαδιαία σύνθεση]] (Σάββατο) · [[monthly-review|Μηνιαία ανασκόπηση]] (1η του μήνα)
 - `playbooks/` — Πώς τρέχει κάθε είδος project. · `reviews/` — Μηνιαίες ανασκοπήσεις.

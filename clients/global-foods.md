@@ -3,7 +3,7 @@ type: client
 title: "Global Foods"
 aliases: [Global Foods, globalfoods.gr, app.globalfoods.gr, Globalapp]
 status: ενεργός
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 # Global Foods
 > Εταιρεία τροφίμων/πρώτων υλών (άλευρα, μαγιά κ.ά.) με B2B εφαρμογή παραγγελιών app.globalfoods.gr («Globalapp, Built by GROW Agency»)· η GROW κάνει app, Google Ads, event content και γραφιστικά.
@@ -18,134 +18,66 @@ updated: 2026-11-27
 - **Επαφές:** [[elpida-plavou]] (ρόλος ασαφής· παραλήπτρια report και πρότασης videography) ([[2026-10-08-globalfoods-videography-proposal]])· [[evi-psycha]] (Marketing, marketing@globalfoods.gr) ([[2026-10-02-globalfoods-live-projector-videographer]])· commercial@globalfoods.gr σε cc ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 - **Ομάδα GROW:** ο Δήμος (app, Ads report, προτάσεις)· [[marina-papanastasiou]] (συντονισμός event)· [[despina-velissariou]] (event, φυλλάδιο, βιντεογράφος) ([[2026-10-02-globalfoods-live-projector-videographer]], [[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
-- **Νέο 2026-11-26:** ✓ τελικό 4σέλιδο ατζέντας (με Meatmarkt) στάλθηκε από τη Μαρίνα στην Εύη για εκτύπωση ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-27]]). Η Εύη ρωτά τον Δήμο τι είναι η ειδοποίηση «[UniqueApp] Ο Ιστότοπος σας Αντιμετωπίζει ένα Τεχνικό Ζήτημα» ([[2026-11-26-globalfoods-uniqueapp-techniko-zitima]]).
-- **Νέο 2026-11-24:** η [[elpida-plavou]] έστειλε στον Δήμο το νέο site του Ιταλοελληνικού Επιμελητηρίου — «Για το πως θα προβληθούμε» ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]]). Η Εύη ζητά **stories από το Detroit masterclass Θεσσαλονίκη** ([[2026-11-24-globalfoods-detroit-masterclass-stories]]). Hospitality Jam: πλατό τυριών/αλλαντικών για το γύρισμα με τον Άρη Σκλαβενίτη 25/11 17:30 ([[2026-11-24-hospitality-jam-sklavenitis-plato]]). Δέσποινα: logos El Pastor & Alo Puglia ([[2026-11-24-despina-logos-el-pastor-alo-puglia]]). Asana ✓ 24/11: Website Updates, CSR section, New Products icon, Exclusive Brands, κατάλογος 2026, Tips Section.
-- **The Hospitality Jam:** η Μαρίνα έστειλε 2026-11-19 το συμφωνητικό 8+1 επεισοδίων (πρόταση 8.000€) «όπως το συνεννοηθήκαμε» — αναμένεται υπογραφή/σφραγίδα από την [[elpida-plavou]]· επόμενο γύρισμα 2026-11-25 (Σκλαβενίτης) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]).
-- **4σέλιδο Ατζέντας 2027:** η κατεύθυνση απορρίφθηκε 2026-11-18· στις 2026-11-19 η Ελπίδα έστειλε docx κειμένου — πρώτα συμφωνία στο κείμενο, μετά καθαρή εταιρική αισθητική, μεγάλες φωτό, λευκός χώρος ([[2026-11-18-globalfoods-4selido-atzenta-2027]], [[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]]).
-- **Social:** για έγκριση τα posting plans Δεκ. Global και Νοε–Δεκ Unique· νέο υλικό Coati TOPPING PIZZA (αποκλειστικότητα) και Gnocco Fritto 20-909 στις 2026-11-19 ([[2026-11-18-globalfoods-posting-plan-dekemvrios]], [[2026-11-18-unique-posting-plan-noe-dek]], [[2026-11-19-globalfoods-coati-topping-pizza]], [[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos]]).
-- **Κλείσανε:** reel Πρεσβείας («Είμαστε οκ» 2026-11-17), παρουσίαση FISAN GR + QR (2026-11-17)· ήρθαν τα 8 τελικά Tips (2026-11-18) — μένει ανέβασμα στο site ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-18]], [[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-18]], [[2026-10-09-globalfoods-tips-site-update-2026-11-19]]).
-- **Ανοιχτά από Δήμο:** CCTV policy 4.1 (από 2026-11-17), AI Agent στο app (το call 2026-11-16: ασαφές), Lorem Ipsum στη σελίδα Brands, αίτημα Global App από 2024-09-23 ([[2026-11-17-globalfoods-cctv-policy]], [[2026-11-15-globalfoods-ai-agent-app-update-2026-11-17]], [[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]], [[2024-07-11-globalfoods-global-app-pedia]]).
+## Τρέχουσα κατάσταση
+- Στις 2026-11-27: ✓ το τελικό 4σέλιδο Ατζέντας 2027 (17×24, με Meatmarkt) στάλθηκε 2026-11-26 από τη Μαρίνα στην Εύη για εκτύπωση, μετά από 4 εκδοχές και τηλέφωνο με την Ελπίδα ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-27]]).
+- Αναπάντητα από GROW: πρόταση προβολής μέσω Ιταλοελληνικού Επιμελητηρίου (Εύη 2026-11-23, Ελπίδα 2026-11-24) και «[UniqueApp] τεχνικό ζήτημα» (Εύη 2026-11-26) — και τα δύο στον Δήμο ([[2026-11-23-globalfoods-italoelliniko-epimelitirio]], [[2026-11-24-globalfoods-italia-gr-epimelitirio-site]], [[2026-11-26-globalfoods-uniqueapp-techniko-zitima]]).
+- The Hospitality Jam: συμφωνητικό 8+1 επεισοδίων (8.000 €) περιμένει υπογραφή από 2026-11-19· product placement GF σε γύρισμα Σκλαβενίτη 2026-11-25 και Μούτσου 2026-12-01 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-24]], [[2026-11-24-hospitality-jam-sklavenitis-plato]]).
+- Social: υλικό από Εύη (Gnocco Fritto video, Coati + «Christmas Selection», φωτό Detroit masterclass Θεσσαλονίκης για stories/plan) και 11 νέα tips (Georgia Tsatsi) — καμία απάντηση GROW στα threads ([[2026-11-19-globalfoods-coati-topping-pizza-update-2026-11-23]], [[2026-11-24-globalfoods-detroit-masterclass-stories-update-2026-11-27]], [[2026-10-09-globalfoods-tips-site-update-2026-11-23]]).
+- Security: FASTPATH βρήκε backdoor στο wordpress-backups/ του globalfoods.gr (2026-11-23) — καθαρισμός «άμεσα», ολοκλήρωση δεν φαίνεται ([[2026-11-23-fastpath-malware-hosting]]).
 
 ## Ανοιχτά & επόμενα βήματα
-**Νέα στις 2026-11-27**
-- [ ] **Απάντηση στην Εύη για «[UniqueApp] τεχνικό ζήτημα» — Δήμος — από 2026-11-26** ([[2026-11-26-globalfoods-uniqueapp-techniko-zitima]])
-- [ ] Επιπλέον φωτογραφίες Masterclass Detroit στο posting plan — Δέσποινα ([[2026-11-24-globalfoods-detroit-masterclass-stories-update-2026-11-27]])
+**Τρέχοντα (στις 2026-11-27)**
+- [ ] **Απάντηση στην Εύη για «[UniqueApp] τεχνικό ζήτημα»** — Δήμος — από 2026-11-26 16:09 ([[2026-11-26-globalfoods-uniqueapp-techniko-zitima]])
+- [ ] **Πρόταση προβολής μέσω Ιταλοελληνικού Επιμελητηρίου** (Εύη 2026-11-23 «Έχουμε κάποια εξέλιξη;», Ελπίδα 2026-11-24 «πως θα προβληθούμε») — Δήμος/Δέσποινα — αναπάντητο ([[2026-11-23-globalfoods-italoelliniko-epimelitirio]], [[2026-11-24-globalfoods-italia-gr-epimelitirio-site]])· σχετικό: «SOS» πιο έντονη παρουσίαση στο italia.gr (από 2026-11-09) ([[2026-11-09-globalfoods-sos-italiko-epimelitirio]])
+- [ ] Καθαρισμός backdoor globalfoods.gr (wordpress-backups/) + αλλαγή κωδικών admin/FTP/DB — Δήμος — άμεσα, από 2026-11-23 ([[2026-11-23-fastpath-malware-hosting]])
+- [ ] Υπογραφή/σφραγίδα συμφωνητικού Hospitality Jam (8+1) — [[elpida-plavou]] — από 2026-11-19 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]])
+- [ ] Σχόλια/προϊόντα ανά επεισόδιο για product placement — Global Foods → Ιωάννα — επόμενο γύρισμα Μούτσος **2026-12-01** ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-24]])
+- [ ] Stories Detroit masterclass Θεσσαλονίκη (2026-11-24) + επιπλέον φωτό στο posting plan Global (2026-11-26) — Δέσποινα ([[2026-11-24-globalfoods-detroit-masterclass-stories]], [[2026-11-24-globalfoods-detroit-masterclass-stories-update-2026-11-27]])
+- [ ] Επόμενο 4σέλιδο — Δέσποινα· ⚠️ Αντίφαση: 2026-11-18/20 γίνεται λόγος για **Σαντορίνη** (αναμονή κειμένων), 2026-11-25 η Δέσποινα γράφει «να προχωρήσουμε και στης **Θεσσαλονίκης**» — ίδιο ή άλλο έντυπο; Ρώτα Δήμο ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-23]], [[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-26]])
+- [ ] Posts Coati TOPPING PIZZA (υλικό WeTransfer 2026-11-20) + χριστουγεννιάτικα posts με βάση τον κατάλογο «Christmas Selection – New Proposals» — Δέσποινα ([[2026-11-19-globalfoods-coati-topping-pizza-update-2026-11-23]])
+- [ ] Posts Gnocco Fritto 20-909 — κατέβασμα βίντεο WeTransfer (2026-11-20) πριν λήξει — Δέσποινα ([[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos-update-2026-11-23]])
+- [ ] Ανέβασμα των 8 τελικών Tips (+ Spianata, 2026-11-18) και των 11 νέων tips (2026-11-20) στο site — Μαρίνα ([[2026-10-09-globalfoods-tips-site-update-2026-11-19]], [[2026-10-09-globalfoods-tips-site-update-2026-11-23]])
+- [ ] Έγκριση posting plan Δεκεμβρίου Global (+ slide 15+ Ιανουάριος) — Ελπίδα — από 2026-11-18· έγκριση plan Νοε–Δεκ Unique — Ελπίδα/Μιράντα — από 2026-11-18 ([[2026-11-18-globalfoods-posting-plan-dekemvrios]], [[2026-11-18-unique-posting-plan-noe-dek]])
+- [ ] Διόρθωση σημείου 4.1 (κάμερες) στη σελίδα CCTV policy — Δήμος/Μαρίνα — από 2026-11-17 ([[2026-11-17-globalfoods-cctv-policy]])
+- [ ] Lorem Ipsum στη σελίδα Brands — Δήμος ([[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]])
+- [ ] AI Agent παραγγελιολήπτη στο app: αν έγινε το τηλέφωνο 2026-11-16 ασαφές· μετά πρόταση Δήμου ([[2026-11-15-globalfoods-ai-agent-app-update-2026-11-17]])
 
-**Νέα στις 2026-11-26**
-- [x] ✓ 2026-11-26 (τελικό στην Εύη για εκτύπωση — [[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-27]]) Αλλαγές 4σέλιδου μέσω WhatsApp στην Ελπίδα → Εύη για εκτύπωση — Δέσποινα — από 2026-11-25 ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-26]])
-**Νέα στις 2026-11-25**
-- [ ] **Πρόταση προβολής μέσω Ιταλοελληνικού Επιμελητηρίου** (Ελπίδα 24/11 + Εύη 23/11) — Δήμος ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]])
-- [ ] Stories Detroit masterclass Θεσσαλονίκη — Δέσποινα — άμεσα ([[2026-11-24-globalfoods-detroit-masterclass-stories]])
-- [ ] Πλατό για Hospitality Jam πριν 17:30 της 2026-11-25 — Global Foods ([[2026-11-24-hospitality-jam-sklavenitis-plato]])
-- [ ] **Απάντηση στην Εύη για την πρόταση Ιταλοελληνικού Επιμελητηρίου** — Δήμος/Δέσποινα ([[2026-11-23-globalfoods-italoelliniko-epimelitirio]])
-- [ ] Καθαρισμός backdoor globalfoods.gr + αλλαγή κωδικών — Δήμος — άμεσα ([[2026-11-23-fastpath-malware-hosting]])
-- [ ] 4η εκδοχή 4σέλιδου με τα νέα κείμενα (17×24) — Δέσποινα ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-24]])
-**Νέα στις 2026-11-20**
-- [ ] Υπογραφή/σφραγίδα + συμπλήρωση στοιχείων στο συμφωνητικό Hospitality Jam (8+1 επεισόδια) — [[elpida-plavou]] — από 2026-11-19 13:11 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]])
-- [ ] Συμφωνία στο κείμενο 4σέλιδου («GLOBAL FOODS GROUP.docx») → νέα εκδοχή με καθαρή εταιρική αισθητική, μεγάλες φωτό, λευκό χώρο — [[despina-velissariou]] — από 2026-11-19 17:26 ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-20]])
-- [ ] Social posts σειράς Coati TOPPING PIZZA (βραβείο Ρίμινι, αποκλειστικότητα) — Δέσποινα — από 2026-11-19 ([[2026-11-19-globalfoods-coati-topping-pizza]])
-- [ ] Social post(s) Gnocco Fritto 20-909 με φωτό προμηθευτή (περισσότερο υλικό θα έρθει) — Δέσποινα — από 2026-11-19 ([[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos]])
-
-**Νέα στις 2026-11-19**
-- [ ] Τηλέφωνο στην Ελπίδα για το 4σέλιδο Ατζέντας 2027 + νέα κατεύθυνση (χωρίς φωτό παραγωγής, χωρίς bold τεράστια γράμματα, όχι «η δύναμη του ομίλου», όμιλος = Global Foods, λιγότερο busy) — [[despina-velissariou]] — **2026-11-19 πρωί** ([[2026-11-18-globalfoods-4selido-atzenta-2027]])
-- [ ] 4σέλιδο Σαντορίνης (μετά την έγκριση κατεύθυνσης Αθήνας) — Δέσποινα ([[2026-11-18-globalfoods-4selido-atzenta-2027]])
-- [ ] Έγκριση posting plan Δεκεμβρίου Global (+ posts slide 15+ για Ιανουάριο) — [[elpida-plavou]] — από 2026-11-18 12:56 ([[2026-11-18-globalfoods-posting-plan-dekemvrios]])
-- [ ] Έγκριση plan Νοε–Δεκ Unique (posts έως 2026-12-20, έναρξη 2026-11-19 με όσα εγκριθούν) — Ελπίδα / Μιράντα — από 2026-11-18 15:24 ([[2026-11-18-unique-posting-plan-noe-dek]])
-- [ ] Ανέβασμα των 8 τελικών Tips (μαζί με Spianata) στο site — GROW (Μαρίνα) — από 2026-11-18 ([[2026-10-09-globalfoods-tips-site-update-2026-11-19]])
-
-**Νέα στις 2026-11-18**
-- [ ] Διόρθωση σημείου 4.1 (κάμερες) στη σελίδα CCTV policy, χωρίς διαφορετική μορφοποίηση — Δήμος / Μαρίνα — από 2026-11-17 ([[2026-11-17-globalfoods-cctv-policy]])
-- [x] ✓ Reel Πρεσβείας εγκρίθηκε («Είμαστε οκ») — 2026-11-17 ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-18]])
-- [x] ✓ Παρουσίαση FISAN GR + QR + A5 — Δέσποινα — 2026-11-17 ([[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-18]])
-
-**Νέα στις 2026-11-17**
-- [x] ✓ (εγκρίθηκε 2026-11-17) Νέα εκδοχή reel Πρεσβείας (v2_2: πιο αργή αρχή, ομαλό τέλος, σαφής «εβδομάδα ιταλικής κουζίνας») → Ελπίδα — Δέσποινα — από 2026-11-16 ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-17]])
-- [ ] Lorem Ipsum στη σελίδα Brands — έλεγχος/διόρθωση μαζί με τις αλλαγές site — Δήμος — χωρίς ημερομηνία ([[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]])
-
-**Νέα στις 2026-11-16**
-- [ ] Εξήγηση ιδέας / demo AI Agent παραγγελιολήπτη — τηλέφωνο Δήμου 2026-11-16 μετά τις 16:00 (αν έγινε: ασαφές)· μετά πρόταση/λύση από Δήμο ([[2026-11-15-globalfoods-ai-agent-app-update-2026-11-17]])
-- [x] ✓ Διευκρίνιση «τι να δούμε» για το email Τσάλιου — Ελπίδα — 2026-11-16 ([[2026-11-16-globalfoods-protasi-istoselidas-tsalios-update-2026-11-17]])
-- [x] ✓ (ξεπεράστηκε: συμφωνητικό στάλθηκε 2026-11-19, [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]) Call Ιωάννας–Ελπίδας για διαδικαστικά/συμφωνητικά Hospitality Jam — Global Foods — από 2026-11-13 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-16]])
-- [x] ✓ υλικό ήρθε 2026-11-19 16:35 ([[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos]]) — Υλικό Gnoccho fritto (Εύη) → posts social — GROW — «SOS» 2026-11-13 ([[2026-11-13-globalfoods-gnoccho-fritto]])
-
-**Νέα στις 2026-11-13**
-- [x] ✓ (παραδόθηκε 2026-11-17) **Μετάφραση παρουσίασης FISAN EN→EL** — [[despina-velissariou]] — **στόχος 2026-11-16 βράδυ** (με επιφύλαξη· η Global Foods τη θέλει για 2026-11-18) ([[2026-11-12-globalfoods-fisan-metafrasi]], [[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-16]])
-- [ ] Αλλαγές στα υπόλοιπα posts του πλάνου Unique + απάντηση στην Εύη («θα γίνουν μετά?») — [[despina-velissariou]] — από 2026-11-12 ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-13]])
-- [x] ✓ 2026-11-18 08:57 η Γεωργία Τσάτση έστειλε τα 8 τροποποιημένα (και Spianata) ([[2026-10-09-globalfoods-tips-site-update-2026-11-19]]) — Spianata σε μορφή FAQ + έγκριση των 7 τροποποιημένων Tips — Global Foods — από 2026-11-12 ([[2026-10-09-globalfoods-tips-site-update-2026-11-13]])
-- [ ] Rummo: υλικό από Rummo (Εύη) → φυλλάδιο deli + video social — Δέσποινα — επαναφορά 2026-11-12 ([[2026-10-08-globalfoods-rummo-saltses-update-2026-11-13]])
-
-**Νέα στις 2026-11-12**
-- [x] ✓ (εγκρίθηκε «Είμαστε οκ» 2026-11-17, [[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-18]]) **Reel Πρεσβείας ~30''** (πιο αργές εναλλαγές, λιγότερος κόσμος) — Δήμος — ζητήθηκε 2026-11-04, **kind reminder 2026-11-11** ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-12]])
-- [x] ✓ «όπως το συνεννοηθήκαμε» — συμφωνητικό 2026-11-19 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]]) — Σχόλια Ελπίδας στην πρόταση Hospitality Jam 8.000€ — Global Foods — από 2026-11-11 ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]])
-- [ ] Δημιουργικές ιδέες προβολής/product placement στα επεισόδια — [[ioanna-chalkiadaki]] — χωρίς ημερομηνία ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-12]])
-- [x] Link raw υλικού (ZEO) ξανά στην Ελπίδα — [[despina-velissariou]] — ✓ 2026-11-12 10:52 (Dropbox, λήγει 2027-01-31) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]])
-- [ ] Απάντηση «παγκόσμιες ημέρες?» Global + Unique — Δέσποινα — από 2026-11-11 ([[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-unique-pagkosmies-imeres]])
-- [ ] Επιστολή Πρέσβη Ιταλίας προς κ. Θανάση Τσάτση — τι ζητείται από τη GROW: ασαφές — Δέσποινα — από 2026-11-11 ([[2026-11-11-globalfoods-epistoli-presvi-italias]])
-- [x] «SOS ΠΑΡΑΓΓΕΛΙΕΣ»: exports παραγγελιών — Δήμος — ✓ 2026-11-11 15:14–18:38 (επιβεβαίωση παραλαβής ασαφής) ([[2026-11-11-globalfoods-sos-paraggelies]])
-
-- [ ] **Απάντηση στην Ελπίδα: γύρισμα ταρτάκια Τετάρτη 2026-11-11 10:00;** — Δήμος — έως 2026-11-10 ([[2026-11-09-globalfoods-tartakia-tetarti]])
-- [ ] SOS: πιο έντονη παρουσίαση στο italia.gr — GROW (Δήμος/Δέσποινα/Μαρίνα) — από 2026-11-09 ([[2026-11-09-globalfoods-sos-italiko-epimelitirio]])
-- [x] Feedback στο ύφος κειμένων Tips — [[marina-papanastasiou]] — ✓ 2026-11-12 13:50 (μορφή FAQ, 7 κείμενα διορθωμένα) ([[2026-10-09-globalfoods-tips-site-update-2026-11-13]])
-- [ ] **Τηλέφωνο στην Ελπίδα** για το reel Πρεσβείας (λιγότερα πρόσωπα, πιάτα/προϊόντα, όνομα event) — Δήμος — από 2026-11-03 18:20 ([[2026-11-03-globalfoods-italiki-presveia-reel]])
-- [ ] Κλείσιμο «παλιών εκκρεμοτήτων» που ζητά η Ελπίδα — Δήμος / Δέσποινα — από 2026-11-03 ([[2026-11-03-globalfoods-custom-folder]])
+**Παλαιότερα ανοιχτά (από 2026-10/11)**
+- [ ] Αλλαγές στα υπόλοιπα posts του πλάνου Unique + απάντηση στην Εύη — Δέσποινα — από 2026-11-12 ([[2026-11-02-globalfoods-unique-social-posts-update-2026-11-13]])
+- [ ] Rummo σάλτσες: υλικό Rummo → φυλλάδιο deli + video — Δέσποινα — από 2026-10-08, επαναφορά 2026-11-12 ([[2026-10-08-globalfoods-rummo-saltses]], [[2026-10-08-globalfoods-rummo-saltses-update-2026-11-13]])
+- [ ] Δημιουργικές ιδέες product placement — [[ioanna-chalkiadaki]] — μερικώς ✓ 2026-11-23 (ιδέες για Σκλαβενίτη/Μούτσο) ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-24]])
+- [ ] «Παγκόσμιες ημέρες?» Global + Unique — Δέσποινα — από 2026-11-11 ([[2026-11-11-globalfoods-pagkosmies-imeres]], [[2026-11-11-globalfoods-unique-pagkosmies-imeres]])
+- [ ] Επιστολή Πρέσβη Ιταλίας προς κ. Θανάση Τσάτση — τι ζητείται από GROW: ασαφές — Δέσποινα — από 2026-11-11 ([[2026-11-11-globalfoods-epistoli-presvi-italias]])
+- [ ] Κλείσιμο «παλιών εκκρεμοτήτων» που ζητά η Ελπίδα — Δήμος/Δέσποινα — από 2026-11-03 ([[2026-11-03-globalfoods-custom-folder]])· λίστα εκκρεμοτήτων Εύης (site, συνταγές, apps, Oktoberfest) — από 2026-10-08 ([[2026-10-08-globalfoods-ekkremotites]])
 - [ ] Πρόταση content για μεριδοποιημένα toppings — Δέσποινα ([[2026-11-03-globalfoods-toppings]])
-- [ ] Έγκριση posts εβδομάδας (Canva Global/Unique) — Global Foods — από 2026-11-02 ([[2026-11-02-globalfoods-unique-social-posts]])
-- [ ] «Landing Offer» — προσφορά για εισαγωγική σελίδα στο site τους «όπως Overoll» — Δήμος (Asana, ανάθεση Μαρίνας 2026-10-26, χωρίς προθεσμία) ([[2026-10-29-admin-eidopoiiseis]])
-**Νέα στις 2026-10-28**
-- [x] ✓ (updated video στάλθηκε 2026-10-29 11:14 — ακολούθησαν νέα σχόλια, [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-30]]) Reel Unique x Zeo με τις αλλαγές της Ελπίδας (λογότυπα αρχή/τέλος, χωρίς άτομα 0:15/0:18, ΖΕΩ logo περισσότερο) — [[marina-papanastasiou]] / Δέσποινα — **Πέμπτη 2026-10-29** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]])
-- [ ] Τελικό δισέλιδο Οικονομικού Οδηγού (μικρή αλλαγή κειμένου) προς έγκριση, μετά αρχείο με προδιαγραφές — Δέσποινα — **Πέμπτη 2026-10-29** (στάλθηκε preview/PDF 2026-10-29· η Ελπίδα ζήτησε αλλαγή κατανομής παραγράφων — τελική έγκριση ασαφής, [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-30]]) ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]])
-- [ ] Ανάρτηση ΔΤ Detroit στο site Global + στήσιμο με φωτό για το site Unique («Πέτρος») — GROW (Μαρίνα) — από 2026-10-27 ([[2026-10-09-global-unique-nea-mas-update-2026-10-28]])
-- [ ] Brief για «το άλλο event» (💭 Ιταλικό Σχολείο) — [[evi-psycha]] — από 2026-10-27 ([[2026-10-09-global-unique-nea-mas-update-2026-10-28]])
+- [ ] «Landing Offer» (εισαγωγική σελίδα «όπως Overoll») — Δήμος/Μαρίνα (Asana 2026-10-26) ([[2026-10-29-admin-eidopoiiseis]])
+- [ ] Τελικό δισέλιδο Οικονομικού Οδηγού — τελική έγκριση ασαφής (από 2026-10-29) ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-30]])
+- [ ] Ανάρτηση ΔΤ Detroit στο site Global + site Unique — Μαρίνα — από 2026-10-27 ([[2026-10-09-global-unique-nea-mas-update-2026-10-28]])· brief «άλλου event» (💭 Ιταλικό Σχολείο) — [[evi-psycha]] ([[2026-10-09-global-unique-nea-mas-update-2026-10-28]])
 - [ ] Λήψη raw πλάνων Πρεσβείας — Global Foods — έως 2026-12-27 ([[2026-10-27-globalfoods-arxeia-italiki-presveia]])
-
-**Νέα στις 2026-10-27**
-- [ ] Post + story 28ης Οκτωβρίου: βίντεο Global χωρίς το κρασί, δημοσίευση 2026-10-28 — [[marina-papanastasiou]] / [[despina-velissariou]] — έως 2026-10-28 ([[2026-10-26-globalfoods-28i-oktovriou-posts]])
-- [x] Reel ZEO (social) με τις διορθώσεις — Δέσποινα — ✓ στάλθηκε 2026-10-27 13:54 / 17:18 (νέος γύρος αλλαγών, βλ. παραπάνω) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-28]])
-- [x] 2 οριζόντια εταιρικά βίντεο: Masterclass Detroit Pizza – Global και ZEO Bakers – Unique — Δέσποινα — **έως 2026-10-30** ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]]) — ✓ στάλθηκαν 2026-10-30 ([[2026-10-30-globalfoods-etairika-videos]])
-- [x] ✓ παραδόθηκαν 2026-11-03 ([[2026-11-03-globalfoods-detroit-pizza-video]]) — Επόμενα βίντεο Detroit Pizza – Unique και Ιταλική Πρεσβεία – Global (+ reels) — Δέσποινα — ενημέρωση από την εβδομάδα 2026-11-02 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]])
 - [ ] Εξόφληση τιμολογίου #1296 (βιντεογράφηση Πρεσβείας) — Global Foods — από 2026-10-26 ([[2026-10-26-globalfoods-timologio-presveia]])
+- [ ] Πλάνο καμπανιών + στρατηγική (posts, κανάλια, budget) — Δήμος/[[marina-papanastasiou]] — από 2026-10-21, reminder 2026-10-24 ([[2026-10-21-globalfoods-campaigns]], [[2026-10-21-globalfoods-campaigns-update-2026-10-26]])
+- [ ] Αίτημα Global App της 2024-09-23 (πεδία παραγγελιών, it-support.gr) — Δήμος/developer — ~14 μήνες ([[2024-07-11-globalfoods-global-app-pedia]])
+- [ ] Carozzi: περιεχόμενο τυριών/κρασιών — Δήμος — από 2026-10-08 ([[2026-10-08-globalfoods-carozzi]])
+- [ ] 3 posts/εβδομάδα Global & Unique + επόμενες προτάσεις — Δέσποινα ([[2026-10-21-globalfoods-social-diorthotiki-update-2026-10-26]], [[2026-10-24-unique-goods-social]])· έγκριση posts εβδομάδας Canva — Global Foods ([[2026-11-02-globalfoods-unique-social-posts]])· post SIAL / panettone / feedback νέου στυλ ([[2026-10-21-globalfoods-social]])· αναθεώρηση videos Zeo/Detroit + στρατηγική aftermovies ([[2026-10-20-globalfoods-video-unique-zeo]])
+- [ ] Call 30' για Google Reviews — Ελπίδα προτείνει ώρα· 6 σημεία από Global Foods (Softone export, πρόσβαση GBP) ([[2026-10-21-globalfoods-google-kritikes-update-2026-10-26]])
+- [ ] Αφαίρεση Zappala από site και app — GROW — από 2026-10-22 ([[2026-10-21-globalfoods-fakeloi-yliko-update-2026-10-23]])
+- [ ] GIGLIO ATHENS: νέο email από Global Foods → αλλαγή στο app από Δήμο (από 2026-10-20) ([[2026-10-20-globalfoods-email-pelati-paikopoulos]])
+- [ ] Απάντηση στην πρόταση videography — Global Foods — «αρχές Νοεμβρίου» ([[2026-10-08-globalfoods-videography-proposal-update-2026-10-26]])· feedback στο Google Ads report Μαρ–Σεπ — από 2026-09-11 ([[2026-09-11-globalfoods-google-ads-report]])
+- [ ] Διορθώσεις κειμένου φυλλαδίου Detroit (5 Stagioni, «υλικά», «2ο στάδιο») — υλοποίηση ασαφής· φυλλάδιο με QR ([[2026-10-05-globalfoods-fylladio-seminario-detroit]])
+- [ ] Asana (snapshot 2026-10-21 / board): «Upload υλικό Unique/Global» (Δήμος, ⚠️ από 2026-10-16)· «Global reminder» απάντηση Δήμου προς Δέσποινα (από 2026-10-08)· «Ελληνικός Οικονομικός Οδηγός» ([[fotini]])· «Video Detroit Pizza Masterclass» ([[marianna-vourna]])· χαρτί περιτυλίγματος, φυλλάδιο Canuti· Italfoods Banner (9/11), Λινκ παρουσίασης Global (17/11) εκπρόθεσμα ([[2026-10-21-asana-snapshot]], [[asana-board]])
 
-**Νέα στις 2026-10-26**
-- [ ] Πλάνο καμπανιών + στρατηγική (υποσχέθηκε «σου απαντάω και στα υπόλοιπα» 2026-10-24) — Δήμος — reminder 2026-10-24 ([[2026-10-21-globalfoods-campaigns-update-2026-10-26]])
-- [ ] Αίτημα Global App της 2024-09-23 (πεδία παραγγελιών, it-support.gr) — Δήμος/developer — εκκρεμεί ~13 μήνες, reminder 2026-10-24 ([[2024-07-11-globalfoods-global-app-pedia]])
-- [ ] Carozzi: περιεχόμενο για τυριά/κρασιά (υφή, γεύση) που ζήτησε ο κ. Θανάσης — Δήμος — από 2026-10-08 ([[2026-10-08-globalfoods-carozzi]])
-- [ ] Λίστα εκκρεμοτήτων Εύης (site, συνταγές, apps, October fest) — GROW — από 2026-10-08, reminder 2026-10-24 ([[2026-10-08-globalfoods-ekkremotites]])
-- [ ] 3 posts/εβδομάδα Global Foods και Unique Goods + επόμενες προτάσεις — [[despina-velissariou]] — «άμεσα» (2026-10-24) ([[2026-10-21-globalfoods-social-diorthotiki-update-2026-10-26]], [[2026-10-24-unique-goods-social]])
-- [x] Απάντηση στο reminder για τα videos Zeo/Detroit — Δέσποινα — ✓ 2026-10-26 με χρονοδιάγραμμα (βλ. παραπάνω) ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-27]]) — reminder 2026-10-24 ([[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-26]])
-- [ ] Call 30' για Google Reviews — η Ελπίδα προτείνει ώρα· από Global Foods 6 σημεία (Softone export, πρόσβαση GBP) ([[2026-10-21-globalfoods-google-kritikes-update-2026-10-26]])
-- [ ] Rummo σάλτσες: φυλλάδιο + video — υλικό από Rummo (Global Foods) ([[2026-10-08-globalfoods-rummo-saltses]])
+**Έκλεισαν αυτή την εβδομάδα**
+- [x] ✓ 2026-11-26 Τελικό 4σέλιδο (με Meatmarkt) → Εύη για εκτύπωση (Μαρίνα, μετά από τηλέφωνο με Ελπίδα)· Asana ✓ «4σέλιδο ατζέντας» ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-27]])
+- [x] ✓ 2026-11-25 4η εκδοχή 17×24 με τα νέα κείμενα (Δέσποινα) ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-26]])
+- [x] ✓ 2026-11-23 Συμφωνία στο κείμενο 4σέλιδου — η Ελπίδα έστειλε διορθώσεις σελ. 1/2/4 ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-24]])
+- [x] ✓ 2026-11-20 3η εκδοχή «με όσα είπαμε» (💭 Υπόθεση: έγινε το τηλέφωνο με την Ελπίδα) ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-23]])
+- [x] ✓ 2026-11-24 Πλατό τυριών/αλλαντικών για το γύρισμα Σκλαβενίτη 2026-11-25 συμφωνήθηκε τηλεφωνικά (αν παραδόθηκε: ασαφές) ([[2026-11-24-hospitality-jam-sklavenitis-plato]])
+- [x] ✓ 2026-11-23/24 Asana: Συνταγές — Updates Global & Unique apps (Δήμος, 10 υποεργασίες)· «Global Foods site updates» ([[2026-11-24]], [[2026-11-25]])
+- [x] ✓ 2026-11-20 Υλικό Gnocco Fritto (βίντεο) και Coati ήρθε από Εύη ([[2026-11-19-globalfoods-gnocco-fritto-neos-kodikos-update-2026-11-23]], [[2026-11-19-globalfoods-coati-topping-pizza-update-2026-11-23]])
 
-- [ ] Αφαίρεση Zappala από site και app (αν υπάρχει) — GROW — από 2026-10-22 ([[2026-10-21-globalfoods-fakeloi-yliko-update-2026-10-23]])
-- [x] Έγκριση δισέλιδου Οικονομικού Οδηγού — Global Foods — ✓ «Μας αρέσει» 2026-10-27, μένει μικρή αλλαγή κειμένου ([[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]])
-- [x] Πρόταση για κριτικές Google (Global/Unique) — Δήμος — ✓ 2026-10-24 ([[2026-10-21-globalfoods-google-kritikes-update-2026-10-26]]) — από 2026-10-21 ([[2026-10-21-globalfoods-google-kritikes]])
-- [x] Απάντηση στην Ελπίδα για το report που πήγε και στο [[overoll]] + νέο Google Ads report 11/09–11/10 (✓ report στάλθηκε 2026-10-24· για το Overoll δεν απάντησε) — Δήμος — από 2026-10-20 ([[2026-10-20-globalfoods-google-ads-report-update-2026-10-21]])
-- [ ] Πλάνο καμπανιών (posts, κανάλια, budget, στρατηγική) — Δήμος / [[marina-papanastasiou]] — από 2026-10-21 ([[2026-10-21-globalfoods-campaigns]])
-- [ ] Post SIAL + απάντηση panettone + feedback στο νέο στυλ — [[despina-velissariou]] — άμεσα ([[2026-10-21-globalfoods-social]])
-- [ ] Αναθεώρηση videos Zeo / Detroit + στρατηγική aftermovies — [[despina-velissariou]] — από 2026-10-20 ([[2026-10-20-globalfoods-video-unique-zeo]])
-**Υποσχέσεις του Δήμου**
-- [ ] Αλλαγή email στο account του GIGLIO ATHENS στο app — Δήμος — μόλις η Global Foods επιβεβαιώσει και δώσει το νέο email (από 2026-10-20) ([[2026-10-20-globalfoods-email-pelati-paikopoulos]])
-- [ ] Φυλλάδιο με QR μόλις είναι έτοιμο το QR (ή χωρίς QR) — Δήμος/GROW — κατάσταση ασαφής ([[2026-10-05-globalfoods-fylladio-seminario-detroit]])· στο Asana «Φυλλάδιο» ([[fotini]]) ✓ 2026-10-05 ([[2026-10-21-asana-snapshot]])
-- [ ] «Upload υλικό Unique/Global» — Δήμος (ανάθεση από Δέσποινα 2026-10-14) — ⚠️ εκπρόθεσμο από 2026-10-16 ([[2026-10-21-asana-snapshot]])
-- [ ] Απάντηση στη Δέσποινα στο «Global reminder»: να στείλει reminder στη Global Foods για όσα εκκρεμούν από εκείνους ή είπατε κάτι; — Δήμος / [[marina-papanastasiou]] — ρώτησε 2026-10-08 και ξανά 2026-10-13 χωρίς απάντηση· task ⚠️ εκπρόθεσμο από 2026-10-20 ([[2026-10-21-asana-snapshot]])
-
-**Από Asana (στις 2026-10-21)**
-- [ ] «Ελληνικός Οικονομικός Οδηγός» — [[fotini]] — ⚠️ εκπρόθεσμο από 2026-10-19· η Φωτεινή περίμενε κείμενα, η Δέσποινα τα έστειλε 2026-10-20 (subtask «Κείμενο ICAP», ⚠️ από 2026-10-20) ([[2026-10-21-asana-snapshot]])
-- [ ] «Video Detroit Pizza Masterclass» — [[marianna-vourna]] — ⚠️ εκπρόθεσμο από 2026-10-15 ([[2026-10-21-asana-snapshot]])
-- [ ] Προτάσεις για χαρτί περιτυλίγματος τροφίμων· φυλλάδιο Canuti — Marianna — χωρίς due ([[2026-10-21-asana-snapshot]])
-
-**Από τον πελάτη / GROW**
-- [ ] Επιβεβαίωση αλλαγής και νέο email για τον GIGLIO ATHENS — Global Foods — από 2026-10-20 ([[2026-10-20-globalfoods-email-pelati-paikopoulos]])
-- [ ] Απάντηση στην πρόταση videography — Global Foods — «αρχές Νοεμβρίου» (2026-10-24) ([[2026-10-08-globalfoods-videography-proposal-update-2026-10-26]]) ([[2026-10-08-globalfoods-videography-proposal]])
-- [ ] Feedback στο Google Ads report Μαρτίου–Σεπτεμβρίου — Global Foods — από 2026-09-11 ([[2026-09-11-globalfoods-google-ads-report]])
-- [ ] Διορθώσεις κειμένου στο φυλλάδιο (ονομασίες αλεύρων 5 Stagioni, «υλικά» σε πληθυντικό, χωρίς αγγλικά στη μεριδοποίηση, «2ο στάδιο») — GROW (Despina) — υλοποίηση ασαφής ([[2026-10-05-globalfoods-fylladio-seminario-detroit]])
-
-**Ολοκληρωμένα**
-- [x] Google Ads report Μαρτίου–Σεπτεμβρίου 2026 — Δήμος — 2026-09-11 ([[2026-09-11-globalfoods-google-ads-report]])
-- [x] Αρχεία εκτύπωσης φυλλαδίου A4 & A5 (με/χωρίς ξακρίσματα) — Despina — 2026-10-05 ([[2026-10-05-globalfoods-fylladio-seminario-detroit]])
-- [x] Πρόταση videography (PDF) — Δήμος — 2026-10-08 ([[2026-10-08-globalfoods-videography-proposal]])· Asana «Προσφορά βιντεογράφηση Global» (Δέσποινα) ✓ 2026-10-15 ([[2026-10-21-asana-snapshot]])
-- [x] «Διαφήμιση Global Pizza» — Δήμος — ✓ 2026-10-15 ([[2026-10-21-asana-snapshot]])
-- [x] Detroit pizza: πρόσκληση ✓ 2026-09-24, ad video ✓ 10-02, post & video projector ✓ 10-05, newsletter Detroit ✓ 10-06 — Marianna ([[2026-10-21-asana-snapshot]])
+**Παλαιότερα κλεισμένα**
+- [x] ✓ Reel Πρεσβείας «Είμαστε οκ» (2026-11-17)· παρουσίαση FISAN GR + QR + A5 (2026-11-17)· 8 τελικά Tips ήρθαν (2026-11-18)· σχόλια/συμφωνητικό Hospitality Jam «όπως το συνεννοηθήκαμε» (2026-11-19)· raw ZEO link (2026-11-12)· «SOS ΠΑΡΑΓΓΕΛΙΕΣ» exports (2026-11-11)· feedback ύφους Tips (2026-11-12)· απάντηση στο reminder videos Zeo/Detroit (2026-10-26, [[2026-10-20-globalfoods-video-unique-zeo-update-2026-10-26]])· 2 εταιρικά βίντεο (2026-10-30) + Detroit Pizza/Πρεσβεία (2026-11-03)· δισέλιδο Οικονομικού Οδηγού «Μας αρέσει» (2026-10-27)· πρόταση κριτικών Google (2026-10-24)· Google Ads report 11/09–11/10 (2026-10-24)· Google Ads report Μαρ–Σεπ (2026-09-11)· αρχεία φυλλαδίου Detroit (2026-10-05)· πρόταση videography (2026-10-08)· «Διαφήμιση Global Pizza» (2026-10-15)· Detroit pizza πρόσκληση/ad/posts/newsletter (09-24 → 10-06) ([[2026-11-03-globalfoods-italiki-presveia-reel-update-2026-11-18]], [[2026-11-12-globalfoods-fisan-metafrasi-update-2026-11-18]], [[2026-10-09-globalfoods-tips-site-update-2026-11-19]], [[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-20]], [[2026-10-20-globalfoods-video-unique-zeo-update-2026-11-13]], [[2026-11-11-globalfoods-sos-paraggelies]], [[2026-10-09-globalfoods-tips-site-update-2026-11-13]], [[2026-10-30-globalfoods-etairika-videos]], [[2026-11-03-globalfoods-detroit-pizza-video]], [[2026-10-14-globalfoods-oikonomikos-odigos-update-2026-10-28]], [[2026-10-21-globalfoods-google-kritikes-update-2026-10-26]], [[2026-10-20-globalfoods-google-ads-report-update-2026-10-21]], [[2026-09-11-globalfoods-google-ads-report]], [[2026-10-05-globalfoods-fylladio-seminario-detroit]], [[2026-10-08-globalfoods-videography-proposal]], [[2026-10-21-asana-snapshot]])
+- [x] Ξεπεράστηκαν: γύρισμα ταρτάκια 2026-11-11 (απάντηση Δήμου έως 2026-11-10 — ασαφές αν δόθηκε)· τηλέφωνο Δήμου για reel Πρεσβείας (το reel εγκρίθηκε 2026-11-17)· post 28ης Οκτωβρίου ([[2026-11-09-globalfoods-tartakia-tetarti]], [[2026-11-03-globalfoods-italiki-presveia-reel]], [[2026-10-26-globalfoods-28i-oktovriou-posts]])
 
 ## Αποφάσεις
 - Βιντεογράφος 4 ωρών, 10:30–14:30 στις 2026-10-06, στα 300€ + ΦΠΑ: αντιπρόταση του πελάτη· ρητή αποδοχή από τη GROW δεν φαίνεται ([[2026-10-02-globalfoods-live-projector-videographer]]).
@@ -155,7 +87,8 @@ updated: 2026-11-27
 ## Χρονολόγιο
 - **2026-11-26** — ✓ 4σέλιδο για εκτύπωση (Μαρίνα)· UniqueApp ειδοποίηση (Εύη → Δήμος)· φωτογραφίες Masterclass Detroit ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-27]], [[2026-11-26-globalfoods-uniqueapp-techniko-zitima]], [[2026-11-24-globalfoods-detroit-masterclass-stories-update-2026-11-27]]).
 - 2026-11-25 — 4σέλιδο ατζέντας: νέο pdf (Δέσποινα)· η Ελπίδα περιμένει τις αλλαγές στο WhatsApp, μετά στην Εύη για εκτύπωση· επόμενο: Θεσσαλονίκη ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-26]])
-- **2026-11-24** — Ελπίδα: site Επιμελητηρίου «πως θα προβληθούμε»· Εύη: stories Detroit masterclass· Ιωάννα: πλατό για γύρισμα Σκλαβενίτη· ✓ site updates στο Asana ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]], [[2026-11-24-globalfoods-detroit-masterclass-stories]], [[2026-11-24-hospitality-jam-sklavenitis-plato]]).
+- **2026-11-24** — Ελπίδα: site Επιμελητηρίου «πως θα προβληθούμε»· Εύη: stories Detroit masterclass· Ιωάννα: πλατό για γύρισμα Σκλαβενίτη· Δέσποινα → Δήμος: logos El Pastor & Alo Puglia· ✓ site updates στο Asana (Website Updates, CSR section, New Products icon, Exclusive Brands, κατάλογος 2026, Tips Section) ([[2026-11-24-globalfoods-italia-gr-epimelitirio-site]], [[2026-11-24-globalfoods-detroit-masterclass-stories]], [[2026-11-24-hospitality-jam-sklavenitis-plato]], [[2026-11-24-despina-logos-el-pastor-alo-puglia]], [[2026-11-25]]).
+- **2026-11-25** — 17:30 γύρισμα The Hospitality Jam με Άρη Σκλαβενίτη (Rodopou & Beyond) με product placement Global Foods — αν έγινε όπως σχεδιάστηκε: ασαφές ([[2026-11-25]], [[2026-11-24-hospitality-jam-sklavenitis-plato]]).
 - **2026-11-23 16:14** — Εύη: «Έχουμε κάποια εξέλιξη για την πρόταση στο Ιταλοελληνικό επιμελητήριο;» ([[2026-11-23-globalfoods-italoelliniko-epimelitirio]]).
 - **2026-11-23 14:54–15:52** — Ελπίδα: διορθώσεις κειμένου 4σέλιδου (σελ. 1, 2, 4) + διάσταση 17×24 cm ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-24]]).
 - **2026-11-23 13:03** — Ιωάννα: ιδέες product placement για Hospitality Jam (Σκλαβενίτης 25/11, Μούτσος 1/12) — αναμένει σχόλια ([[2026-11-10-globalfoods-podcast-georgiadis-protasi-update-2026-11-24]]).
@@ -198,8 +131,8 @@ updated: 2026-11-27
 - 2026-10-08 — «Ελπίδα meeting» 12:30 ([[2026-07-20_2026-11-03]])· ο Δήμος στέλνει στην Elpida το «GROW_Agency_Videography_Proposal.pdf» ([[2026-10-08-globalfoods-videography-proposal]]).
 - 2026-10-06 — Event Pizza Detroit σε ξενοδοχείο, 120 προσκεκλημένοι ([[2026-10-02-globalfoods-live-projector-videographer]])· στο ημερολόγιο «Δέσποινα Global - Divani εκεί» 10:00 — 💭 Υπόθεση: το ξενοδοχείο είναι Divani ([[2026-07-20_2026-11-03]]).
 - 2026-10-02 → 2026-10-05 — Αίτημα για φυλλάδιο σεμιναρίου (15 ροτόντες, ένα σταντάκι με φυλλάδιο στην καθεμία, δύο συνταγές Detroit pizza με άμεση/έμμεση μέθοδο ζύμης)· «SOS» για εκτύπωση στις 2026-10-05· ο Δήμος: περιμένουμε το QR ή στέλνουμε χωρίς· η Despina στέλνει A4/A5· η Global Foods στέλνει διορθώσεις ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]).
-- 2026-09-24 → 2026-10-02 — Ζητούν κάμερα πάνω από τον πάγκο με live προβολή στον προτζέκτορα του ξενοδοχείου· ο Δήμος ζητά μοντέλο και δυνατότητες διασύνδεσης του προτζέκτορα· η Despina ρωτά 25/9 και 29/9 χωρίς απάντηση· η GROW δίνει προσφορά βιντεογράφου, ο πελάτης αντιπροτείνει ([[2026-10-02-globalfoods-live-projector-videographer]]).
-- 2026-09-11 — Ο Δήμος στέλνει το Google Ads report Μαρ–Σεπ 2026 στη Global Foods και στο marketing@overoll.gr ([[2026-09-11-globalfoods-google-ads-report]]).
+- 2026-09 (24/09 → 02/10) — Ζητούν κάμερα πάνω από τον πάγκο με live προβολή στον προτζέκτορα του ξενοδοχείου· ο Δήμος ζητά μοντέλο και δυνατότητες διασύνδεσης του προτζέκτορα· η Despina ρωτά 25/9 και 29/9 χωρίς απάντηση· η GROW δίνει προσφορά βιντεογράφου, ο πελάτης αντιπροτείνει ([[2026-10-02-globalfoods-live-projector-videographer]]).
+- 2026-09 (11/09) — Ο Δήμος στέλνει το Google Ads report Μαρ–Σεπ 2026 στη Global Foods και στο marketing@overoll.gr ([[2026-09-11-globalfoods-google-ads-report]]).
 - 2026-08-06 — Η Ελπίδα (info@) ζητά το email επιβεβαίωσης της παραγγελίας #39897 (2026-08-04)· ο Δήμος απαντά με screenshot ([[2026-08-06-globalfoods-paraggelia-39897]]).
 
 ## Οικονομικά
@@ -210,6 +143,8 @@ updated: 2026-11-27
 - Αμοιβές για app/Ads: ασαφές.
 
 ## Σημειώσεις
+- **Δύο κανάλια από την πλευρά τους (2026-11-23 → 26):** η [[evi-psycha]] στέλνει υλικό (WeTransfer, φωτό) και ρωτά για εξελίξεις· η [[elpida-plavou]] δίνει την τελική κατεύθυνση, συχνά τηλεφωνικά ή μέσω WhatsApp («περιμένω να μου στείλεις τις αλλαγές στο whatsapp»)· η εκτύπωση πάει μέσω Εύης στο «γράφημα» ([[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-26]], [[2026-11-18-globalfoods-4selido-atzenta-2027-update-2026-11-27]]).
+- **Ξαναρωτούν αν δεν πάρουν απάντηση σε λίγες μέρες** — Επιμελητήριο: Εύη 2026-11-23 και Ελπίδα 2026-11-24 για το ίδιο θέμα· τα threads με υλικό της 2026-11-20 έμειναν χωρίς απάντηση GROW ([[2026-11-23-globalfoods-italoelliniko-epimelitirio]], [[2026-11-24-globalfoods-italia-gr-epimelitirio-site]], [[2026-11-23]]).
 - Το Google Ads report πήγε και στο marketing@overoll.gr ([[2026-09-11-globalfoods-google-ads-report]]) — 💭 Υπόθεση: υπάρχει σχέση Global Foods και [[overoll]] (κοινή ομάδα marketing ή όμιλος), ασαφές.
 - Τεχνικά: ο Δήμος προτιμά Plesk / File Manager από SSH για τον server του app ([[2026-10-20-prohgoumenes-synomilies-claude]]).
 - Ο πελάτης πιέζει με προθεσμίες της τελευταίας στιγμής («SOS») ([[2026-10-05-globalfoods-fylladio-seminario-detroit]]). Ο Δήμος απαντά σύντομα και πρακτικά ([[2026-10-20-globalfoods-email-pelati-paikopoulos]]).

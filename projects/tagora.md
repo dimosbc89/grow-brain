@@ -3,7 +3,7 @@ type: project
 title: "Tagora (Google CSS)"
 aliases: [Tagora, tagora.online, hello@tagora.online]
 status: ενεργός
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 # Tagora
 > Ελληνική υπηρεσία σύγκρισης τιμών της GROW (tagora.online) που μπαίνει στο πρόγραμμα CSS της Google, ώστε οι Shopping καμπάνιες των πελατών να τρέχουν με έως 20% φθηνότερα κλικ.
@@ -15,15 +15,14 @@ updated: 2026-11-27
 - **Κώδικας:** repo dimosbc89/pazari, branch claude/tagora-rebrand (WooCommerce plugin) ([[2026-11-03-tagora-launch]]).
 - Σχετικό: [[pricespot]] (💭 Υπόθεση: η ίδια ιδέα).
 
-## Τρέχουσα κατάσταση (στις 2026-11-19)
-- 2026-11-19 20:50: ξανά «2 καταστήματα δεν συγχρονίζονται» — **Danaos Stores και LeatherBrands** (τα προϊόντα μένουν online, τα καταστήματα ενημερώθηκαν). Η Danaos αποτυγχάνει από 2026-11-04 (**16 ημέρες**), ενώ τρέχει το Pre Black Friday της από 2026-11-19 ([[2026-11-19-tagora-danaos-leatherbrands-sync]]).
+## Τρέχουσα κατάσταση
+- **Στις 2026-11-26:** ο sync απέτυχε ξανά για **Danaos Stores και LeatherBrands** (21:40)· ίδια ειδοποίηση και 23/11, 24/11 — τα προϊόντα μένουν online. Η Danaos αποτυγχάνει από 2026-11-04 (**~23 ημέρες**), και μέσα στο Pre Black Friday της· διόρθωση δεν φαίνεται ([[2026-11-26-admin-eidopoiiseis]], [[2026-11-24-tagora-danaos-sync-apotyxia]], [[2026-11-23-tagora-danaos-sync-apotyxia]]).
 - Καταστήματα στις πηγές: [[danaos]] (feed 6.280 προϊόντα), LeatherBrands, [[nomud]] και [[tandem-concept]] (plugin, 0 προϊόντα) ([[2026-11-03-tagora-launch-update-2026-11-06]], [[2026-11-03-tagora-launch]]).
 - Η έγκριση ως CSS από τη Google θέλει καταστήματα με πραγματικά προϊόντα· ανοιχτά Merchant Center store ratings και Shopping API (project tagora-css-2026) ([[2026-11-03-tagora-launch]], [[2026-11-10-admin-omada-mikra]]).
 
 ## Ανοιχτά & επόμενα βήματα
-- [ ] Sync αποτυγχάνει και για LeatherBrands (νέο, 2026-11-16· ξανά 2026-11-19) — Δήμος ([[2026-11-16-danaos-pre-black-friday]], [[2026-11-19-tagora-danaos-leatherbrands-sync]])
-- [ ] Διόρθωση sync Danaos + plugin (NOMUD/Tandem 0 προϊόντα) — Δήμος ([[2026-11-03-tagora-launch-update-2026-11-06]])
-- [ ] Tandem: η αίτηση μέσω plugin βρήκε 0 προϊόντα — Δήμος ([[2026-11-03-tagora-launch]])
+- [ ] ⚠️ Διόρθωση sync **Danaos Stores** (από 2026-11-04) και **LeatherBrands** (από 2026-11-16) — τελευταία αποτυχία 2026-11-26 — Δήμος ([[2026-11-26-admin-eidopoiiseis]], [[2026-11-16-danaos-pre-black-friday]], [[2026-11-03-tagora-launch-update-2026-11-06]])
+- [ ] Plugin: NOMUD/Tandem βρίσκει 0 προϊόντα — Δήμος ([[2026-11-03-tagora-launch-update-2026-11-06]], [[2026-11-03-tagora-launch]])
 - [ ] CI «WooCommerce plugin» απέτυχε (pazari, claude/tagora-rebrand) — Δήμος ([[2026-11-03-tagora-launch]])
 - [x] ✓ Εγγραφή/feed από Danaos — Φιόλα Σκράκι — μπήκε 2026-11-04 με skroutz.xml (6.280 προϊόντα) ([[2026-11-03-tagora-launch]], [[2026-11-03-tagora-launch-update-2026-11-06]])
 
@@ -49,4 +48,5 @@ updated: 2026-11-27
 
 ## Σημειώσεις
 - LeatherBrands: κατάστημα στο Tagora — αν είναι πελάτης GROW ή ποιος είναι: ασαφές (καμία σελίδα στο repo) ([[2026-11-16-danaos-pre-black-friday]]).
+- Την εβδομάδα 23–27/11 ήρθαν 3 ειδοποιήσεις αποτυχίας (23, 24, 26/11), πάντα για τα ίδια δύο καταστήματα, χωρίς καμία ενέργεια διόρθωσης στις πηγές ([[2026-11-23-tagora-danaos-sync-apotyxia]], [[2026-11-24-tagora-danaos-sync-apotyxia]], [[2026-11-26-admin-eidopoiiseis]]).
 - Η ειδοποίηση αποτυχίας sync στέλνεται το πολύ μία φορά τη μέρα και τα καταστήματα παίρνουν email αυτόματα — άρα η Danaos βλέπει την αποτυχία κάθε μέρα από 2026-11-04 ([[2026-11-19-tagora-danaos-leatherbrands-sync]]).
